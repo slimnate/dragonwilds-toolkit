@@ -1,0 +1,4337 @@
+[
+  {
+    "persistenceId": "P3_Aq0nAXu5dlFuBNGgyaw",
+    "name": "Abyssal Whip",
+    "rowName": "vestige_weap_abyssal_whip",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Club"
+    ],
+    "icon": "T_Icon_Abyssal_Whip_Vestige.png",
+    "weight": 4.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Club_AbyssalWhip.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/UniqueWeapons/Club/AbyssalWhip/ITEM_Club_AbyssalWhip.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_AbyssalWhip",
+      "primary": "PA_Spell_Whip_JumpAttack",
+      "specialName": "Abyssal Snare"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "AbyssalWhip",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "fzqXJ0aY6rVfJX6zEdhpxg",
+    "name": "Adamant Dagger",
+    "rowName": "weap_dagger_adamant",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Icon_Dagger_Adamant_1H_01.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Dagger_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Dagger/ITEM_Dagger_Adamant.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_Dagger",
+      "special": "PA_Attack_Dagger_Special",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 66.0
+  },
+  {
+    "persistenceId": "jFor4kB4H4xQJESU5gMZ1w",
+    "name": "Adamant Greataxe",
+    "rowName": "weap_greataxe_adamant",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Axe"
+    ],
+    "icon": "T_Icon_Greataxe_Adamant_2H_01.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_GreatAxe_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/GreatAxe/ITEM_GreatAxe_Adamant.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_GreatAxe",
+      "primary": "PA_Attack_GreatAxe",
+      "special": "PA_Attack_Greataxe_Special"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greataxe",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 66.0
+  },
+  {
+    "persistenceId": "dQfD9EOTByYoKXubTJsZaA",
+    "name": "Adamant Greatsword",
+    "rowName": "weap_greatsword_adamant",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Sword"
+    ],
+    "icon": "T_Icon_GreatSword_Adamant_2h_01.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_GreatSword_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/GreatSword/ITEM_GreatSword_Adamant.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_2H_Greatsword",
+      "primary": "PA_Attack_2H_Greatsword",
+      "special": "PA_Attack_2H_Greatsword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greatsword",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 66.0
+  },
+  {
+    "persistenceId": "fmUR909hSDbvEJexket9OA",
+    "name": "Adamant Mace",
+    "rowName": "weap_mace_adamant",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Mace"
+    ],
+    "icon": "T_Icon_Mace_Adamant_1H_01.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Mace_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Mace/ITEM_Mace_Adamant.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Club",
+      "primary": "PA_Attack_Club",
+      "special": "PA_Attack_Club_Special",
+      "specialName": "Block Breaker"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Club",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 66.0
+  },
+  {
+    "persistenceId": "GN_Evkc0MecDYHS6NQuUOA",
+    "name": "Adamant Scimitar",
+    "rowName": "weap_scimitar_adamant",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_Icon_Scimitar_Adamant_1H_01.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Scimitar_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Scimitar/ITEM_Scimitar_Adamant.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Scimitar",
+      "primary": "PA_Attack_Scimitar",
+      "special": "PA_Attack_Scimitar_Special",
+      "specialName": "Leaping Slash"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Scimitar",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 66.0
+  },
+  {
+    "persistenceId": "rOKN1kAO8tetBN6dnB63Fg",
+    "name": "Adamant Shield",
+    "rowName": "shield_kite_adamant",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_Icon_Shield_Adamant_1H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Shield_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Shield_Adamant.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Kite_Adamant"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 66.0
+  },
+  {
+    "persistenceId": "uj_KU0ZSF9zOuAeKD3MmDQ",
+    "name": "Adamant Sword",
+    "rowName": "weap_sword_adamant",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_Icon_Sword_Adamant_1H_01.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Sword_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Sword/ITEM_Sword_Adamant.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Sword",
+      "primary": "PA_Attack_Sword",
+      "special": "PA_Attack_Sword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Sword",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 66.0
+  },
+  {
+    "persistenceId": "VVq58NyN8EKOk3WUg2130Q",
+    "name": "Adventurer's Longbow",
+    "rowName": "weap_longbow_adventurers",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Longbow"
+    ],
+    "icon": "T_Icon_Longbow_OakWood_2H_01.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 850,
+    "sourceAsset": "ITEM_Longbow_Wood.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Longbow_Wood.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Aim_Bow",
+      "specialName": "Power Shot"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 0.95
+  },
+  {
+    "persistenceId": "mKIxNUr0C8E6YXOL8OSRkQ",
+    "name": "Ancestral Staff",
+    "rowName": "weap_staff_magicwood",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_Icon_BattleStaff_Ancestral.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Staff_Ancestral.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Staff/ITEM_Staff_Ancestral.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 9.8,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "AVE0Wk9-BtfvjIOHwncf1g",
+    "name": "Ancestral Wand",
+    "rowName": "weap_wand_ancestral",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.Wand"
+    ],
+    "icon": "T_Icon_SM_Wand_Ancestral_1H_01.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Wand_Ancestral.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Wand/ITEM_Wand_Ancestral.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "block": "PA_Block_Wand"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 9.8,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "odfOvk6NqNf4lb2AiMsD5Q",
+    "name": "Anima Orb",
+    "rowName": "held_animaorb",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Tool.AnimaOrb"
+    ],
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_AnimaOrb.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/AnimaOrb/ITEM_AnimaOrb.uasset",
+    "equipmentKind": "held",
+    "powerCurve": "Weapons"
+  },
+  {
+    "persistenceId": "BNb1F0xxIE_NlYq3ypX6LA",
+    "name": "Anti-dragon Shield",
+    "rowName": "masterworks_shield_anti_dragon",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_Icon_Shield_AntiDragon.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Masterworks_Shield_Anti_Dragon.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Masterworks_Shield_Anti_Dragon.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Masterwork_Anti_Dragon"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 39.0
+  },
+  {
+    "persistenceId": "924KFU8kvGNESi-zN0doDw",
+    "name": "Ash Battlestaff",
+    "rowName": "weap_staff_ash",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_Icon_Battlestaff_Ash_2H_01.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 900,
+    "sourceAsset": "ITEM_Staff_Ash.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Staff/ITEM_Staff_Ash.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "ilFiZ9GcsUC5EOSxOrE74w",
+    "name": "Ash Shortbow",
+    "rowName": "weap_shortbow_wood",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Shortbow"
+    ],
+    "icon": "T_Icon_Shortbow_AshWood_2H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 850,
+    "sourceAsset": "ITEM_Shortbow_Wood.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Shortbow_Wood.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Spell_Shortbow_JumpAttack",
+      "specialName": "Rapid Fire"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 0.95
+  },
+  {
+    "persistenceId": "qx9k7EkC8zMR1EKDoLi2DA",
+    "name": "Ash Wand",
+    "rowName": "weap_wand_ash",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.Wand"
+    ],
+    "icon": "T_Icon_SM_Wand_Ash_01.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 900,
+    "sourceAsset": "ITEM_Wand_Ash.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Wand/ITEM_Wand_Ash.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "block": "PA_Block_Wand"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "W7PDB08-GCsvRcCkJBJM9w",
+    "name": "Black Greataxe",
+    "rowName": "weap_greataxe_black",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Axe"
+    ],
+    "icon": "T_Icon_Black_Greataxe.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_GreatAxe_Black.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/GreatAxe/ITEM_GreatAxe_Black.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_GreatAxe",
+      "primary": "PA_Attack_GreatAxe",
+      "special": "PA_Attack_Greataxe_Special"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greataxe",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 59.0
+  },
+  {
+    "persistenceId": "3B_L6E3AevxvOce0OOAxTg",
+    "name": "Black Shield",
+    "rowName": "shield_kite_black",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_Icon_Black_Shield.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Shield_Black.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Shield_Black.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Kite_Mithril"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 59.0
+  },
+  {
+    "persistenceId": "_mTHz0WtLkARIJOwX01_Dw",
+    "name": "Black Sword",
+    "rowName": "weap_sword_blackknight",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_Icon_Black_Sword.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Sword_Black.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Sword/ITEM_Sword_Black.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Sword",
+      "primary": "PA_Attack_Sword",
+      "special": "PA_Attack_Sword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Sword",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 59.0
+  },
+  {
+    "persistenceId": "yvkI8EKmmaD8zT-a7IVqOA",
+    "name": "Blightwood Battlestaff",
+    "rowName": "weap_staff_blightwoodstaff",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_Icon_BattleStaff_MindspikeStaff_2H_01.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Staff_Battlestaff.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Staff/ITEM_Staff_Battlestaff.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "uKPqYU1A71NI-XK-ZqStTg",
+    "name": "Blightwood Longbow",
+    "rowName": "weap_longbow_blightwood",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Longbow"
+    ],
+    "icon": "T_Icon_Blightwood_Longbow.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Longbow_Hunter.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Longbow_Hunter.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Aim_Bow",
+      "specialName": "Power Shot"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 2.05
+  },
+  {
+    "persistenceId": "_oShik-jE3kWgsG82AEuNQ",
+    "name": "Blightwood Shortbow",
+    "rowName": "weap_shortbow_blightwood",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Shortbow"
+    ],
+    "icon": "T_Icon_HuntersShortbow_OakWood_2H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Shortbow_Hunter.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Shortbow_Hunter.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Spell_Shortbow_JumpAttack",
+      "specialName": "Rapid Fire"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 2.05
+  },
+  {
+    "persistenceId": "Z-hENEig30yVaXWh-OCYRg",
+    "name": "Blightwood Wand",
+    "rowName": "weap_wand_blightwood",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.Wand"
+    ],
+    "icon": "T_Icon_SM_Wand_Blightwood_1H_01.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Wand_Blightwood.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Wand/ITEM_Wand_Blightwood.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "block": "PA_Block_Wand"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "djtTEkaTg3ARdre_xsNXCg",
+    "name": "Bone Club",
+    "rowName": "weap_club_bone",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Club"
+    ],
+    "icon": "T_Icon_Club_Bone_1H.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 850,
+    "sourceAsset": "ITEM_Club_Bone.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Mace/ITEM_Club_Bone.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Club",
+      "primary": "PA_Attack_Club",
+      "special": "PA_Attack_Club_Special",
+      "specialName": "Block Breaker"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Club",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9,
+    "damageNegation": 33.0
+  },
+  {
+    "persistenceId": "Euv3-bBtDUmx110jaD1g1Q",
+    "name": "Bone Dagger",
+    "rowName": "weap_dagger_bone",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Icon_Dagger_Bone_1H_01.png",
+    "weight": 3,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 850,
+    "sourceAsset": "ITEM_Dagger_Bone.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Dagger/ITEM_Dagger_Bone.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_Dagger",
+      "special": "PA_Attack_Dagger_Special",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9,
+    "damageNegation": 33.0
+  },
+  {
+    "persistenceId": "G4zoMkig_jVt9RSGpbYarg",
+    "name": "Bronze Dagger",
+    "rowName": "weap_dagger_bronze",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Icon_Dagger_Bronze_1H_01.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Dagger_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Dagger/ITEM_Dagger_Bronze.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_Dagger",
+      "special": "PA_Attack_Dagger_Special",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 39.0
+  },
+  {
+    "persistenceId": "PSWEV0JzVwxsalWCFqPbOw",
+    "name": "Bronze Greatsword",
+    "rowName": "weap_greatsword_bronze",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Sword"
+    ],
+    "icon": "T_Icon_GreatSword_Bronze_2H_01.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_GreatSword_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/GreatSword/ITEM_GreatSword_Bronze.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_2H_Greatsword",
+      "primary": "PA_Attack_2H_Greatsword",
+      "special": "PA_Attack_2H_Greatsword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greatsword",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 39.0
+  },
+  {
+    "persistenceId": "lJqTrE_r-nkdhwyoPhfsAA",
+    "name": "Bronze Mace",
+    "rowName": "weap_mace_bronze",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Mace"
+    ],
+    "icon": "T_Icon_Mace_Bronze_1H.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Mace_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Mace/ITEM_Mace_Bronze.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Club",
+      "primary": "PA_Attack_Club",
+      "special": "PA_Attack_Club_Special",
+      "specialName": "Block Breaker"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Club",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 39.0
+  },
+  {
+    "persistenceId": "z1aZS0oEXuZ69Xe2iJ1A0A",
+    "name": "Bronze Shield",
+    "rowName": "shield_bronze",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_Icon_Kite_Bronze_1H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Shield_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Shield_Bronze.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Kite_Iron"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 39.0
+  },
+  {
+    "persistenceId": "eqrPvUI8qhvjnbGRoIxNug",
+    "name": "Bronze Sword",
+    "rowName": "weap_sword_bronze",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_Icon_Sword_Bronze_1H_01.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Sword_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Sword/ITEM_Sword_Bronze.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Sword",
+      "primary": "PA_Attack_Sword",
+      "special": "PA_Attack_Sword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Sword",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 39.0
+  },
+  {
+    "persistenceId": "lHKVrkMlSsZx5lKVZRH63Q",
+    "name": "Chieftan's Blade",
+    "rowName": "weap_sword_chieftan",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_Icon_Sword_Chieftain_s_Blade.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Sword_Chieftans.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Sword/ITEM_Sword_Chieftans.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Sword",
+      "primary": "PA_Attack_Sword",
+      "special": "PA_Attack_Sword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Sword",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 39.0
+  },
+  {
+    "persistenceId": "LsJfUkl4lIGj042N1265pQ",
+    "name": "Club Abyssalwhip Masterwork",
+    "rowName": "masterworks_weap_abyssal_whip",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Club"
+    ],
+    "icon": "T_Icon_Abyssal_Whip.png",
+    "weight": 4.5,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Club_AbyssalWhip_Masterwork.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/UniqueWeapons/Club/AbyssalWhip/ITEM_Club_AbyssalWhip_Masterwork.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_AbyssalWhip",
+      "primary": "PA_Attack_AbyssalWhip",
+      "special": "PA_AbyssalWhip_Special",
+      "specialName": "Abyssal Snare"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "AbyssalWhip",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "aNR2BUvdBFibOMGlrhZQ3Q",
+    "name": "Crossbow Test",
+    "rowName": "weap_crossbow_test",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Shortbow",
+      "Item.Equipment.Weapon.Crossbow"
+    ],
+    "icon": "T_Food_Carrot.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 850,
+    "sourceAsset": "ITEM_Crossbow_Test.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Crossbow/ITEM_Crossbow_Test.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "block": "PA_Block_Crossbow",
+      "primary": "PA_RangedAttack_Crossbow",
+      "specialName": "Heavy Bolt"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "weaponFamily": "Crossbow",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "FK7SwEPmPfVFztSXScvKQA",
+    "name": "Crystal Bow",
+    "rowName": "weap_shortbow_crystal",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Shortbow"
+    ],
+    "icon": "T_Icon_Shortbow_Crystal_2H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Shortbow_CrystalBow.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/UniqueWeapons/Shortbow/CrystalBow/ITEM_Shortbow_CrystalBow.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Spell_Shortbow_JumpAttack",
+      "special": "PA_CrystalBow_Special",
+      "specialName": "Shattershot"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 1.4
+  },
+  {
+    "persistenceId": "ALn1jUyxkFwgIHmHAGkoxg",
+    "name": "Draconic Staff",
+    "rowName": "weap_staff_draconic",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_Icon_Staff_Draconic.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1100,
+    "sourceAsset": "ITEM_Staff_Draconic.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Staff/ITEM_Staff_Draconic.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "QlvVq0AHBS7URw2a3nlFcw",
+    "name": "Dragon Kiteshield",
+    "rowName": "shield_kite_dragon",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_Icon_SM_Kite_Dragon_1H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 9,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Shield_Dragon.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Shield_Dragon.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Kite_Dragon"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 11.3,
+    "damageNegation": 79.0
+  },
+  {
+    "persistenceId": "PMrhcEKEQJlJR-WE16jbQA",
+    "name": "Dragon Scimitar",
+    "rowName": "weap_scimitar_dragon",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_Icon_SM_Scimitar_Dragon_1H_01.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 9,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Scimitar_Dragon.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Scimitar/ITEM_Scimitar_Dragon.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Scimitar",
+      "primary": "PA_Attack_Scimitar",
+      "special": "PA_Attack_Scimitar_Special",
+      "specialName": "Leaping Slash"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Scimitar",
+    "powerCurve": "Weapons",
+    "weaponPower": 11.3,
+    "damageNegation": 79.0
+  },
+  {
+    "persistenceId": "RyuOEkWEWdGcvQqo2dPOgA",
+    "name": "Dragonblight Shield",
+    "rowName": "shield_poison_dragonfire",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_Icon_Shield_Poison_Dragonfire.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Masterworks_Shield_Dragonfire.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Masterworks_Shield_Dragonfire.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Dragonfire_Poison"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "4bMdm0gvxNqxKSaQjGtFmQ",
+    "name": "Dragonbone Dagger",
+    "rowName": "weap_dagger_dragonbone",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Icon_Dagger_Dragonbone.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Dagger_DragonboneBone.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Dagger/ITEM_Dagger_DragonboneBone.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_Dagger",
+      "special": "PA_Attack_Dagger_Special",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "qFp5MUMthbeEIx6vWCRNJA",
+    "name": "Dragoncurse Shield",
+    "rowName": "shield_dragonfire_imaru",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_icon_Imaru_Dragon_Shield.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Masterworks_Shield_Dragonfire_Imaru.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Masterworks_Shield_Dragonfire_Imaru.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Dragonfire_Imaru"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  },
+  {
+    "persistenceId": "syP9PEGY4yRZ902vJya10w",
+    "name": "Dragonfire Shield",
+    "rowName": "shield_kite_FuzanDragonfireShield",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_icon_Fuzan_kite.png",
+    "weight": 10,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Shield_FuzanDragonfireShield.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Shield_FuzanDragonfireShield.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Dragonfire_Fuzan"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 66.0
+  },
+  {
+    "persistenceId": "CzzuQ0UmzK3-A5WiBJlCHw",
+    "name": "Fallen Hoplite's Aspis",
+    "rowName": "shield_kite_Skeleton",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_icon_Hopelite_Shield.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Shield_Skeleton.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Shield_Skeleton.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Kite_Steel"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  },
+  {
+    "persistenceId": "6Z9gGkjXwODcqvCBFRmlEA",
+    "name": "Fire Oil",
+    "rowName": "weap_throwable_fireoil",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Shortbow"
+    ],
+    "icon": "T_Icon_Wrapped_Liquid_Container_01.png",
+    "weight": 0.5,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 525,
+    "sourceAsset": "ITEM_Throwable_FireOil.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/FutureMajorVersion/Content/Gameplay/Character/Player/Equipment/Held/Thrown/FireOil/ITEM_Throwable_FireOil.uasset",
+    "damageTypes": [
+      "DamageType.Magical.Fire"
+    ],
+    "abilities": {
+      "primary": "PA_RangedAttack_Throwable"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1
+  },
+  {
+    "persistenceId": "OJSTGEEY6uNu4beRiM4Qvw",
+    "name": "Goblin \"Swingslash\"",
+    "rowName": "weap_club_swingslash",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Club"
+    ],
+    "icon": "T_Icon_Swingslash.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 850,
+    "sourceAsset": "ITEM_Club_SwingSlash.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Mace/ITEM_Club_SwingSlash.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Club",
+      "primary": "PA_Attack_Club",
+      "special": "PA_Attack_Club_Special",
+      "specialName": "Block Breaker"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Club",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9,
+    "damageNegation": 33.0
+  },
+  {
+    "persistenceId": "FzZcg0K5osblXSuuSNACQA",
+    "name": "Granite Maul Blueprints",
+    "rowName": "res_granite_maul_blueprints",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.BossSoul"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Artifact_Granite_Maul_Blueprints.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Artifact_Granite_Maul_Blueprints.uasset",
+    "powerCurve": "Weapons",
+    "abilities": {
+      "specialName": "Battering Ram"
+    }
+  },
+  {
+    "persistenceId": "hS_GuEyi70Xf932m1rq7PA",
+    "name": "Grieving Moon Staff",
+    "rowName": "weap_staff_garou",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_Icon_Staff_Grieving_Moon.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Staff_Garou.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Staff/ITEM_Staff_Garou.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "s7HI6EmvRXRq7T69epFpxg",
+    "name": "Hunter Stagbow",
+    "rowName": "weap_longbow_garou",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Longbow"
+    ],
+    "icon": "T_Icon_Longbor_Hunter_Stag.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Longbow_Garou.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Longbow_Garou.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Aim_Bow",
+      "specialName": "Power Shot"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 2.05
+  },
+  {
+    "persistenceId": "X_OJeEp1PR4l08yW6_vpUQ",
+    "name": "Imaru's Talon",
+    "rowName": "weap_scimitar_imaru",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_Icon_Imaru_Scimitarr.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Scimitar_Imaru.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Scimitar/ITEM_Scimitar_Imaru.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Scimitar",
+      "primary": "PA_Attack_Scimitar",
+      "special": "PA_Attack_Scimitar_Special",
+      "specialName": "Leaping Slash"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Scimitar",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  },
+  {
+    "persistenceId": "NmzyVLMIY0SYZfOAPICeKg",
+    "name": "Iron Dagger",
+    "rowName": "weap_dagger_iron",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Icon_Dagger_Iron_1H_01.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Dagger_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Dagger/ITEM_Dagger_Iron.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_Dagger",
+      "special": "PA_Attack_Dagger_Special",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "d-s3s5ciWkSi_Q4p-XaMoA",
+    "name": "Iron Greataxe",
+    "rowName": "weap_greataxe_iron",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Axe"
+    ],
+    "icon": "T_Icon_Greataxe_Iron_2H_01.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_GreatAxe_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/GreatAxe/ITEM_GreatAxe_Iron.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_GreatAxe",
+      "primary": "PA_Attack_GreatAxe",
+      "special": "PA_Attack_Greataxe_Special"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greataxe",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "kpJmEG1D10ylMOFHGfJQrA",
+    "name": "Iron Greatsword",
+    "rowName": "weap_greatsword_iron",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Sword"
+    ],
+    "icon": "T_Icon_GreatSword_Iron_2H_01.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_GreatSword_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/GreatSword/ITEM_GreatSword_Iron.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_2H_Greatsword",
+      "primary": "PA_Attack_2H_Greatsword",
+      "special": "PA_Attack_2H_Greatsword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greatsword",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "hThLR2Lk6kODfRRmAs4YBQ",
+    "name": "Iron Mace",
+    "rowName": "weap_mace_iron",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Mace"
+    ],
+    "icon": "T_Icon_Mace_Iron_1H_01.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Mace_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Mace/ITEM_Mace_Iron.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Club",
+      "primary": "PA_Attack_Club",
+      "special": "PA_Attack_Club_Special",
+      "specialName": "Block Breaker"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Club",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "tkzekFdbDkCd-7MwOjfbnQ",
+    "name": "Iron Shield",
+    "rowName": "shield_kite_iron",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_Icon_Kite_Iron_1H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Shield_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Shield_Iron.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Kite_Iron"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "gFA3V8-Y5UGLPAtJKYNnTw",
+    "name": "Iron Sword",
+    "rowName": "weap_sword_iron",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_Icon_Sword_Iron_1H_01.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Sword_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Sword/ITEM_Sword_Iron.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Sword",
+      "primary": "PA_Attack_Sword",
+      "special": "PA_Attack_Sword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Sword",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "dlbAmUmGfOj2t0OCjNfs9w",
+    "name": "Keris",
+    "rowName": "weap_dagger_keris",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Icon_Keris_Dagger.png",
+    "weight": 5,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Dagger_Keris.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Dagger/ITEM_Dagger_Keris.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_Dagger",
+      "special": "PA_Attack_Dagger_Special",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 66.0
+  },
+  {
+    "persistenceId": "XBAZB07ngrxSMm2o-Le-qw",
+    "name": "Kuldra's Wrath",
+    "rowName": "weap_wand_kuldraswrath",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.Wand"
+    ],
+    "icon": "T_Icon_SM_Wand_Kuldras_Wrath_01.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 9,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Wand_KuldrasWrath.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Wand/ITEM_Wand_KuldrasWrath.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "block": "PA_Block_Wand"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 11.3,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "xPzvUUSCo45hlMKe0e53vw",
+    "name": "Leather Shield",
+    "rowName": "shield_leather",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_Icon_Kite_Leather_1H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 900,
+    "sourceAsset": "ITEM_Shield_Leather.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Shield_Leather.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Kite_Iron"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9,
+    "damageNegation": 33.0
+  },
+  {
+    "persistenceId": "Sbta-kLxhUrj_MCfDNQbwg",
+    "name": "Magic Longbow",
+    "rowName": "weap_longbow_magicwood",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Longbow"
+    ],
+    "icon": "T_Icon_SM_Longbow_Runite_2H_01_01.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Longbow_MagicWood.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Longbow_MagicWood.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Aim_Bow",
+      "specialName": "Power Shot"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 4.9
+  },
+  {
+    "persistenceId": "-Hxoukgg-5vtDG-Y1AxKKg",
+    "name": "Magic Shortbow",
+    "rowName": "weap_shortbow_magicwood",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Shortbow"
+    ],
+    "icon": "T_Icon_SM_Shortbow_Runite_2H_01.png",
+    "weight": 10,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Shortbow_MagicWood.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Shortbow_MagicWood.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Spell_Shortbow_JumpAttack",
+      "specialName": "Rapid Fire"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 4.9
+  },
+  {
+    "persistenceId": "RTzyGUFEMKua2nOYgqEqng",
+    "name": "Maple Battlestaff",
+    "rowName": "weap_staff_maple",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_Icon_Maple_Staff.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Staff_Maple.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Staff/ITEM_Staff_Maple.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "3sXwkkC6DYV0KQCK0VIG7Q",
+    "name": "Maple Longbow",
+    "rowName": "weap_longbow_maple",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Longbow"
+    ],
+    "icon": "T_Icon_Maple_Longbow.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Longbow_Maple.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Longbow_Maple.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Aim_Bow",
+      "specialName": "Power Shot"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 3.4
+  },
+  {
+    "persistenceId": "eqO3EET2-sZUr8KIeWRVBw",
+    "name": "Maple Shortbow",
+    "rowName": "weap_shortbow_maple",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Shortbow"
+    ],
+    "icon": "T_Icon_Maple_Shortbow.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Shortbow_Maple.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Shortbow_Maple.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Spell_Shortbow_JumpAttack",
+      "specialName": "Rapid Fire"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 3.4
+  },
+  {
+    "persistenceId": "DVqm50GF6VP6EQGs7NelPg",
+    "name": "Maple Wand",
+    "rowName": "weap_wand_maple",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.Wand"
+    ],
+    "icon": "T_Icon_SM_Wand_Maple_1H_01.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Wand_Maple.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Wand/ITEM_Wand_Maple.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "block": "PA_Block_Wand"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "gAp9Lk3ymi-J98GYZgXGkA",
+    "name": "Master Wand",
+    "rowName": "weap_wand_master",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.Wand"
+    ],
+    "icon": "T_Icon_SM_Wand_Master_1H_01.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Wand_Master.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Wand/ITEM_Wand_Master.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "block": "PA_Block_Wand"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "OmLSskx_Xh8bi96KN9gZ0g",
+    "name": "Master's Staff",
+    "rowName": "weap_staff_yew",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_Icon_Master_Staff.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Staff_Master.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Staff/ITEM_Staff_Master.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "cadgU0Sueb4ES9ucGlgbdA",
+    "name": "Mithril Dagger",
+    "rowName": "weap_dagger_mithril",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Icon_Mithril_Dagger.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Dagger_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Dagger/ITEM_Dagger_Mithril.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_Dagger",
+      "special": "PA_Attack_Dagger_Special",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 59.0
+  },
+  {
+    "persistenceId": "12xn5kR5tqqCCMCFAxTwfQ",
+    "name": "Mithril Greataxe",
+    "rowName": "weap_greataxe_mithril",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Axe"
+    ],
+    "icon": "T_Icon_Mithril_Great_Axe.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_GreatAxe_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/GreatAxe/ITEM_GreatAxe_Mithril.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_GreatAxe",
+      "primary": "PA_Attack_GreatAxe",
+      "special": "PA_Attack_Greataxe_Special"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greataxe",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 59.0
+  },
+  {
+    "persistenceId": "pQc5DE2EQITw_c2lRJxZ9A",
+    "name": "Mithril Greatsword",
+    "rowName": "weap_greatsword_mithril",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Sword"
+    ],
+    "icon": "T_Icon_Mithril_Great_Sword.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_GreatSword_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/GreatSword/ITEM_GreatSword_Mithril.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_2H_Greatsword",
+      "primary": "PA_Attack_2H_Greatsword",
+      "special": "PA_Attack_2H_Greatsword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greatsword",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 59.0
+  },
+  {
+    "persistenceId": "RCKyPkdEetFS7VWY7wIShw",
+    "name": "Mithril Mace",
+    "rowName": "weap_mace_mithril",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Mace"
+    ],
+    "icon": "T_Icon_Mithril_Mace.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Mace_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Mace/ITEM_Mace_Mithril.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Club",
+      "primary": "PA_Attack_Club",
+      "special": "PA_Attack_Club_Special",
+      "specialName": "Block Breaker"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Club",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 59.0
+  },
+  {
+    "persistenceId": "R_xU504s0-u5Vh2MT5-ckg",
+    "name": "Mithril Scimitar",
+    "rowName": "weap_scimitar_mithril",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_Icon_Mithril_Scimitar.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Scimitar_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Scimitar/ITEM_Scimitar_Mithril.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Scimitar",
+      "primary": "PA_Attack_Scimitar",
+      "special": "PA_Attack_Scimitar_Special",
+      "specialName": "Leaping Slash"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Scimitar",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 59.0
+  },
+  {
+    "persistenceId": "gVZae0_5Q5EQfh-M02h3qA",
+    "name": "Mithril Shield",
+    "rowName": "shield_kite_mithril",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_Icon_Mithril_Shield.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Shield_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Shield_Mithril.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Kite_Mithril"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 59.0
+  },
+  {
+    "persistenceId": "6W0QYE-dwt11yzu0iAGrlA",
+    "name": "Mithril Sword",
+    "rowName": "weap_sword_mithril",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_Icon_Mithril_Sword.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Sword_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Sword/ITEM_Sword_Mithril.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Sword",
+      "primary": "PA_Attack_Sword",
+      "special": "PA_Attack_Sword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Sword",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 59.0
+  },
+  {
+    "persistenceId": "6khNUkAOBBavR761Jxbj3g",
+    "name": "Necromancer's Staff",
+    "rowName": "weap_staff_necromancer",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_icon_Necromancer_Staff.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Staff_Necromancer.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Staff/ITEM_Staff_Necromancer.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "8ivfA0axvgaP1smick68pw",
+    "name": "Oak Battlestaff",
+    "rowName": "weap_staff_oak",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_Icon_Battlestaff_Oak_2H_01.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Staff_Oak.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Staff/ITEM_Staff_Oak.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "UBB8W0_AMoWP5yKf7M9KRw",
+    "name": "Oak Longbow",
+    "rowName": "weap_longbow_oak",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Longbow"
+    ],
+    "icon": "T_Icon_HuntersLongbow_OakWood_2H_01.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Longbow_Oak.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Longbow_Oak.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Aim_Bow",
+      "specialName": "Power Shot"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 1.4
+  },
+  {
+    "persistenceId": "g7aQPfflM0q63qyJZyWI8w",
+    "name": "Oak Shortbow",
+    "rowName": "weap_shortbow_oak",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Shortbow"
+    ],
+    "icon": "T_Icon_Shortbow_OakWood_2H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Shortbow_Oak.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Shortbow_Oak.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Spell_Shortbow_JumpAttack",
+      "specialName": "Rapid Fire"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 1.4
+  },
+  {
+    "persistenceId": "ENR9RUjpFh6xxeCfza7-2Q",
+    "name": "Oak Wand",
+    "rowName": "weap_wand_oak",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.Wand"
+    ],
+    "icon": "T_Icon_SM_Wand_Oak_01.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Wand_Oak.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Wand/ITEM_Wand_Oak.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "block": "PA_Block_Wand"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "bX9UBEoiAtt5nqa6myg-YA",
+    "name": "Pharaoh's Sceptre",
+    "rowName": "weap_staff_Pharaohssceptre",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_IconIcthlarin_Staff_01.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Staff_PharaohsSceptre.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Staff/ITEM_Staff_PharaohsSceptre.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "-Sdko0QrIv__us2tyG1-4Q",
+    "name": "Rune Dagger",
+    "rowName": "weap_dagger_rune",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Icon_Dagger_Rune_1H_01.png",
+    "weight": 5,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Dagger_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Dagger/ITEM_Dagger_Rune.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_Dagger",
+      "special": "PA_Attack_Dagger_Special",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 9.8,
+    "damageNegation": 72.0
+  },
+  {
+    "persistenceId": "uK4Zskj3RorN4g234QEG1A",
+    "name": "Rune Greataxe",
+    "rowName": "weap_greataxe_rune",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Axe"
+    ],
+    "icon": "T_Icon_Greataxe_Rune_2H_01.png",
+    "weight": 25,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Greataxe_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/GreatAxe/ITEM_Greataxe_Rune.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_GreatAxe",
+      "primary": "PA_Attack_GreatAxe",
+      "special": "PA_Attack_Greataxe_Special"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greataxe",
+    "powerCurve": "Weapons",
+    "weaponPower": 9.8,
+    "damageNegation": 72.0
+  },
+  {
+    "persistenceId": "9bKt00nJBj-_uIima_mzBA",
+    "name": "Rune Greatsword",
+    "rowName": "weap_greatsword_rune",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Sword"
+    ],
+    "icon": "T_Icon_Greatsword_Rune_1H_01.png",
+    "weight": 25,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Greatsword_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/GreatSword/ITEM_Greatsword_Rune.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_2H_Greatsword",
+      "primary": "PA_Attack_2H_Greatsword",
+      "special": "PA_Attack_2H_Greatsword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greatsword",
+    "powerCurve": "Weapons",
+    "weaponPower": 9.8,
+    "damageNegation": 72.0
+  },
+  {
+    "persistenceId": "qVNYr0wbO2A7j7CatbehEQ",
+    "name": "Rune Mace",
+    "rowName": "weap_mace_rune",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Mace"
+    ],
+    "icon": "T_Icon_Mace_Rune_1H_01.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Mace_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Mace/ITEM_Mace_Rune.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Club",
+      "primary": "PA_Attack_Club",
+      "special": "PA_Attack_Club_Special",
+      "specialName": "Block Breaker"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Club",
+    "powerCurve": "Weapons",
+    "weaponPower": 9.8,
+    "damageNegation": 72.0
+  },
+  {
+    "persistenceId": "f0WmZkAeAqUwrQ-jrJrXjQ",
+    "name": "Rune Scimitar",
+    "rowName": "weap_scimitar_rune",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_Icon_Scimitar_Rune_1H_01.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Scimitar_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Scimitar/ITEM_Scimitar_Rune.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Scimitar",
+      "primary": "PA_Attack_Scimitar",
+      "special": "PA_Attack_Scimitar_Special",
+      "specialName": "Leaping Slash"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Scimitar",
+    "powerCurve": "Weapons",
+    "weaponPower": 9.8,
+    "damageNegation": 72.0
+  },
+  {
+    "persistenceId": "2SZzH0msQ4AdI3qhtXyrCQ",
+    "name": "Rune Shield",
+    "rowName": "shield_kite_rune",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_Icon_Kite_Rune_1H_01.png",
+    "weight": 10,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Shield_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Shield_Rune.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Kite_Rune"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 9.8,
+    "damageNegation": 72.0
+  },
+  {
+    "persistenceId": "4ZtbF03DMcbNIciFr8S5Qg",
+    "name": "Rune Sword",
+    "rowName": "weap_sword_rune",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_Icon_Sword_Rune_1H_01.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Sword_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Sword/ITEM_Sword_Rune.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Sword",
+      "primary": "PA_Attack_Sword",
+      "special": "PA_Attack_Sword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Sword",
+    "powerCurve": "Weapons",
+    "weaponPower": 9.8,
+    "damageNegation": 72.0
+  },
+  {
+    "persistenceId": "2RjA2k8zJCMRRoeUnzucJA",
+    "name": "Scarabstaff",
+    "rowName": "weap_staff_ScarabStaffBugs",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Tool"
+    ],
+    "icon": "T_icon_Splitbark_Staff.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_ScarabStaff.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/ScarabStaff/ITEM_ScarabStaff.uasset",
+    "abilities": {
+      "primary": "PA_Spell_Staff_JumpAttack"
+    },
+    "equipmentKind": "held",
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "2txCYEr6sNYw7X6bMshJRg",
+    "name": "Scimitar Imaru Deprecated",
+    "rowName": "deleted_weap_scimitar_imaru",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H"
+    ],
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Scimitar_Imaru_Deprecated.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Scimitar_Imaru_Deprecated.uasset",
+    "equipmentKind": "held",
+    "weaponFamily": "Scimitar",
+    "powerCurve": "Weapons",
+    "abilities": {
+      "specialName": "Leaping Slash"
+    }
+  },
+  {
+    "persistenceId": "Ewe_yEPwqy4Bx0ajfHlwvw",
+    "name": "Shadow Sword",
+    "rowName": "weap_greatsword_shadow",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Sword"
+    ],
+    "icon": "T_icon_Shadow_2H_Greatsword.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_GreatSword_Shadow.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/GreatSword/ITEM_GreatSword_Shadow.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_2H_Greatsword",
+      "primary": "PA_Attack_2H_Greatsword",
+      "special": "PA_Attack_2H_Greatsword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greatsword",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  },
+  {
+    "persistenceId": "XWOefkcc3bliVpWrsPMokg",
+    "name": "Skullsplitter",
+    "rowName": "weap_mace_skullsplitter",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Mace"
+    ],
+    "icon": "T_Icon_Club_Skull_Splitter.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Mace_Skullsplitter.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Mace/ITEM_Mace_Skullsplitter.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Club",
+      "primary": "PA_Attack_Club",
+      "special": "PA_Attack_Club_Special",
+      "specialName": "Block Breaker"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Club",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 39.0
+  },
+  {
+    "persistenceId": "P456RETd4H4vi_2X5C8XTA",
+    "name": "Splitbark Staff",
+    "rowName": "weap_staff_splitbark",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_icon_Splitbark_Staff.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Staff_Splitbark.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Staff/ITEM_Staff_Splitbark.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "etwDxUcPgn6ohCuNgyEB0g",
+    "name": "Splitbark Wand",
+    "rowName": "weap_wand_splitbark",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.Wand"
+    ],
+    "icon": "T_Icon_SM_Wand_Splitbark_1H_01.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Wand_Splitbark.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Wand/ITEM_Wand_Splitbark.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "block": "PA_Block_Wand"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "Hcq0C0UjvN3n8q-X2uqa7w",
+    "name": "Staff of Light",
+    "rowName": "weap_staff_staffoflight",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_Icon_Staff_of_Light.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Staff_StaffOfLight.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/UniqueWeapons/Staff/StaffOfLight/ITEM_Staff_StaffOfLight.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary",
+      "specialName": "Sacred Ground"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "X7WHfk6N0b3zFdmwn2Vacg",
+    "name": "Steel Dagger",
+    "rowName": "weap_dagger_steel",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_icon_Steel_1H_Dagger.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Dagger_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Dagger/ITEM_Dagger_Steel.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_Dagger",
+      "special": "PA_Attack_Dagger_Special",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  },
+  {
+    "persistenceId": "ij6dREu-BJWgGwGB01XLdA",
+    "name": "Steel Greataxe",
+    "rowName": "weap_greataxe_steel",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Axe"
+    ],
+    "icon": "T_icon_Steel_Greataxe.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_GreatAxe_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/GreatAxe/ITEM_GreatAxe_Steel.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_GreatAxe",
+      "primary": "PA_Attack_GreatAxe",
+      "special": "PA_Attack_Greataxe_Special"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greataxe",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  },
+  {
+    "persistenceId": "vI0ix0WJSchv2dysqMjcaw",
+    "name": "Steel Greatsword",
+    "rowName": "weap_greatsword_steel",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Sword"
+    ],
+    "icon": "T_icon_Steel_2H_Greatsword.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_GreatSword_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/GreatSword/ITEM_GreatSword_Steel.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_2H_Greatsword",
+      "primary": "PA_Attack_2H_Greatsword",
+      "special": "PA_Attack_2H_Greatsword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greatsword",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  },
+  {
+    "persistenceId": "-OI9N0GCWiJtKNqmlBmAfw",
+    "name": "Steel Mace",
+    "rowName": "weap_mace_steel",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Mace"
+    ],
+    "icon": "T_icon_Steel_1H_Mace.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Mace_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Mace/ITEM_Mace_Steel.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Club",
+      "primary": "PA_Attack_Club",
+      "special": "PA_Attack_Club_Special",
+      "specialName": "Block Breaker"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Club",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  },
+  {
+    "persistenceId": "-AMBe0n3DyCGhIWsqB8r-Q",
+    "name": "Steel Scimitar",
+    "rowName": "weap_scimitar_steel",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_icon_Steel_1H_Scimitar.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Scimitar_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Scimitar/ITEM_Scimitar_Steel.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Scimitar",
+      "primary": "PA_Attack_Scimitar",
+      "special": "PA_Attack_Scimitar_Special",
+      "specialName": "Leaping Slash"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Scimitar",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  },
+  {
+    "persistenceId": "X2mSMUNh2YKRnuS037ghVA",
+    "name": "Steel Shield",
+    "rowName": "shield_kite_steel",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_icon_Steel_Shield.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Shield_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Shield_Steel.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Kite_Steel"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  },
+  {
+    "persistenceId": "q_AyO0EBaOKF0su-tl7Gsg",
+    "name": "Steel Sword",
+    "rowName": "weap_sword_steel",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_icon_Steel_1H_Sword.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Sword_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Sword/ITEM_Sword_Steel.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Sword",
+      "primary": "PA_Attack_Sword",
+      "special": "PA_Attack_Sword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Sword",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  },
+  {
+    "persistenceId": "IJILMByu-kCq_0feZkzKBw",
+    "name": "Stone Club",
+    "rowName": "weap_club_stone",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Club"
+    ],
+    "icon": "T_Icon_Club_Stone_1H_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 700,
+    "sourceAsset": "ITEM_Club_Stone.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Mace/ITEM_Club_Stone.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Club",
+      "primary": "PA_Attack_Club",
+      "special": "PA_Attack_Club_Special",
+      "specialName": "Block Breaker"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Club",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0,
+    "damageNegation": 26.0
+  },
+  {
+    "persistenceId": "f5pdM9IkUU2dZp0okjecuA",
+    "name": "Stone Dagger",
+    "rowName": "weap_dagger_stone",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Icon_Dagger_Stone_1H_01.png",
+    "weight": 3,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 700,
+    "sourceAsset": "ITEM_Dagger_Stone.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Dagger/ITEM_Dagger_Stone.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_Dagger",
+      "special": "PA_Attack_Dagger_Special",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0,
+    "damageNegation": 26.0
+  },
+  {
+    "persistenceId": "v7vIfkOdeCdyHqa8oMhdDQ",
+    "name": "Subjugation Staff",
+    "rowName": "weap_staff_subjugation",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_Icon_Subjugation_Staff.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Staff_Subjugation.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Staff/ITEM_Staff_Subjugation.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "mXFVTke_27MjRnGxbcyATw",
+    "name": "T1 Bleeding Dagger",
+    "rowName": "test_bleed_t1",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Stone.png",
+    "weight": 3,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 300,
+    "sourceAsset": "ITEM_TEST_T1_Bleeding.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Bleeding/ITEM_TEST_T1_Bleeding.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Bleeding",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0,
+    "damageNegation": 26.0
+  },
+  {
+    "persistenceId": "P4DqJ03JPXW9Uf-z9vf9cA",
+    "name": "T1 Burning Dagger",
+    "rowName": "test_burning_t1",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Stone.png",
+    "weight": 3,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 300,
+    "sourceAsset": "ITEM_TEST_T1_Burning.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Burning/ITEM_TEST_T1_Burning.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Burning",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0,
+    "damageNegation": 26.0
+  },
+  {
+    "persistenceId": "wKLbQE45kY_FG3CqMpInFw",
+    "name": "T1 Poison Dagger",
+    "rowName": "test_poison_t1",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Stone.png",
+    "weight": 3,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 300,
+    "sourceAsset": "ITEM_TEST_T1_Poison.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Poison/ITEM_TEST_T1_Poison.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Poison",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0,
+    "damageNegation": 26.0
+  },
+  {
+    "persistenceId": "pmx4j0E3SP9r4gmY38QrYA",
+    "name": "T1 Shock Dagger",
+    "rowName": "test_shock_t1",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Stone.png",
+    "weight": 3,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 300,
+    "sourceAsset": "ITEM_TEST_T1_Shock.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Shock/ITEM_TEST_T1_Shock.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Shocked",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0,
+    "damageNegation": 26.0
+  },
+  {
+    "persistenceId": "AQ-JQEAJEyOWJKuGTq7KCQ",
+    "name": "T2 Bleeding Dagger",
+    "rowName": "test_bleed_t2",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Bone.png",
+    "weight": 2.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 375,
+    "sourceAsset": "ITEM_TEST_T2_Bleeding.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Bleeding/ITEM_TEST_T2_Bleeding.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Bleeding",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9,
+    "damageNegation": 33.0
+  },
+  {
+    "persistenceId": "GO-fJEIf4N7Y0EeG5D0YSw",
+    "name": "T2 Burning Dagger",
+    "rowName": "test_burning_t2",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Bone.png",
+    "weight": 2.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 375,
+    "sourceAsset": "ITEM_TEST_T2_Burning.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Burning/ITEM_TEST_T2_Burning.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Burning",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9,
+    "damageNegation": 33.0
+  },
+  {
+    "persistenceId": "UW6yfU2tUde27I2aZB9JHA",
+    "name": "T2 Poison Dagger",
+    "rowName": "test_poison_t2",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Bone.png",
+    "weight": 2.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 375,
+    "sourceAsset": "ITEM_TEST_T2_Poison.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Poison/ITEM_TEST_T2_Poison.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Poison",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9,
+    "damageNegation": 33.0
+  },
+  {
+    "persistenceId": "dKeIN0KKjY2p7NqOFSISdg",
+    "name": "T2 Shock Dagger",
+    "rowName": "test_shock_t2",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Bone.png",
+    "weight": 2.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 375,
+    "sourceAsset": "ITEM_TEST_T2_Shock.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Shock/ITEM_TEST_T2_Shock.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Shocked",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9,
+    "damageNegation": 33.0
+  },
+  {
+    "persistenceId": "jWfoPkWonpdDzBWYUQ1qPg",
+    "name": "T3 Bleeding Dagger",
+    "rowName": "test_bleed_t3",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Bronze.png",
+    "weight": 3.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 450,
+    "sourceAsset": "ITEM_TEST_T3_Bleeding.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Bleeding/ITEM_TEST_T3_Bleeding.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Bleeding",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 39.0
+  },
+  {
+    "persistenceId": "Z4zEt0wViBus7gSH4qejYg",
+    "name": "T3 Burning Dagger",
+    "rowName": "test_burning_t3",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Bronze.png",
+    "weight": 3.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 450,
+    "sourceAsset": "ITEM_TEST_T3_Burning.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Burning/ITEM_TEST_T3_Burning.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Burning",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 39.0
+  },
+  {
+    "persistenceId": "NA76rEFl7Di8f5aFj_L3SA",
+    "name": "T3 Poison Dagger",
+    "rowName": "test_poison_t3",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Bronze.png",
+    "weight": 3.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 450,
+    "sourceAsset": "ITEM_TEST_T3_Poison.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Poison/ITEM_TEST_T3_Poison.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Poison",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 39.0
+  },
+  {
+    "persistenceId": "PPvgBkmqKmyUwki-TAtqig",
+    "name": "T3 Shock Dagger",
+    "rowName": "test_shock_t3",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Bronze.png",
+    "weight": 3.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 450,
+    "sourceAsset": "ITEM_TEST_T3_Shock.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Shock/ITEM_TEST_T3_Shock.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Shocked",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 39.0
+  },
+  {
+    "persistenceId": "-ahw20RwuJqFDsKcOrryNQ",
+    "name": "T4 Bleeding Dagger",
+    "rowName": "test_bleed_t4",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Iron.png",
+    "weight": 3.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 525,
+    "sourceAsset": "ITEM_TEST_T4_Bleeding.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Bleeding/ITEM_TEST_T4_Bleeding.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Bleeding",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "CN1GVEgi8t_uRs-yFmH_FQ",
+    "name": "T4 Burning Dagger",
+    "rowName": "test_burning_t4",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Iron.png",
+    "weight": 3.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 525,
+    "sourceAsset": "ITEM_TEST_T4_Burning.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Burning/ITEM_TEST_T4_Burning.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Burning",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "3LufGUl5SzS2zV2Vj7QCPg",
+    "name": "T4 Poison Dagger",
+    "rowName": "test_poison_t4",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Iron.png",
+    "weight": 3.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 525,
+    "sourceAsset": "ITEM_TEST_T4_Poison.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Poison/ITEM_TEST_T4_Poison.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Poison",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "5JCljkf2DRoxnQCI94gFJQ",
+    "name": "T4 Shock Dagger",
+    "rowName": "test_shock_t4",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_Dagger_Iron.png",
+    "weight": 3.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 525,
+    "sourceAsset": "ITEM_TEST_T4_Shock.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/StatusEffect_Test/Shock/ITEM_TEST_T4_Shock.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_TEST_Shocked",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "ARf7DUYPa_AlyLOOsnTIYw",
+    "name": "Thane's Authority",
+    "rowName": "weap_greataxe_thane",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Axe"
+    ],
+    "icon": "T_Icon_Greataxe_Thane_s_Authority.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_GreatAxe_Thane.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/GreatAxe/ITEM_GreatAxe_Thane.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_GreatAxe",
+      "primary": "PA_Attack_GreatAxe",
+      "special": "PA_Attack_Greataxe_Special"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greataxe",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "YMXvUEKL-S_EPFm7a5xvHA",
+    "name": "Titan's Wrath",
+    "rowName": "masterwork_weap_greatsword_titanswrath",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Sword"
+    ],
+    "icon": "T_Icon_Titans_Wrath.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Masterworks_GreatSword_TitansWrath.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/GreatSword/ITEM_Masterworks_GreatSword_TitansWrath.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_2H_Greatsword",
+      "primary": "PA_Attack_2H_Greatsword",
+      "special": "PA_Attack_TitansWrath_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greatsword",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 59.0
+  },
+  {
+    "persistenceId": "5Gj97EpZPVCWuuGJxUOkdw",
+    "name": "TokTz-Ket-Xil",
+    "rowName": "shield_kite_Toktzketxil",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_Icon_Kohtar_Shield.png",
+    "weight": 10,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Shield_ToktzKetXil.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Shield_ToktzKetXil.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Kite_ToktzKetXil"
+    },
+    "weaponFamily": "Toktz-ket-xil",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 60.0
+  },
+  {
+    "persistenceId": "NJGxVE396yZ6dO6yOYJCbw",
+    "name": "TokTz-Mej-Tal",
+    "rowName": "weap_staff_Toktzmejtal",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_Icon_Kohtar_Staff.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Staff_ToktzMejTal.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Staff/ITEM_Staff_ToktzMejTal.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Toktz-ket-xil",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 60.0
+  },
+  {
+    "persistenceId": "x-D6O0P6Iip5zwae70fOiw",
+    "name": "TokTz-Xil-Ak",
+    "rowName": "weap_sword_toktzxilak",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_Icon_Kothaar_Sword.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1200,
+    "sourceAsset": "ITEM_Sword_ToktzXilAk.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Sword/ITEM_Sword_ToktzXilAk.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Sword",
+      "primary": "PA_Attack_Sword",
+      "special": "PA_Attack_Sword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Toktz-ket-xil",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 60.0
+  },
+  {
+    "persistenceId": "5Y972kmdvcs4vSqWaXZltw",
+    "name": "Ulv's Longbow",
+    "rowName": "weap_longbow_ulvs",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Longbow"
+    ],
+    "icon": "T_Icon_Ulvs_Bow.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Longbow_Ulvs.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Longbow_Ulvs.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Aim_Bow",
+      "specialName": "Power Shot"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 2.7
+  },
+  {
+    "persistenceId": "cEEQVE9__6Ch0naJHHXmvQ",
+    "name": "Undead Ranger's Bow",
+    "rowName": "weap_shortbow_skeleton",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Shortbow"
+    ],
+    "icon": "T_icon_Undead_Shortbow.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Shortbow_Skeleton.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Shortbow_Skeleton.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Spell_Shortbow_JumpAttack",
+      "specialName": "Rapid Fire"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 2.7
+  },
+  {
+    "persistenceId": "NqTlRkd7Zw4BE9GM_mDbtw",
+    "name": "Wild Scout's Shortbow",
+    "rowName": "weap_shortbow_wildscout",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Shortbow"
+    ],
+    "icon": "T_Icon_Shortbow_Wild_Scout.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Shortbow_WildScout.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Shortbow_WildScout.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Spell_Shortbow_JumpAttack",
+      "specialName": "Rapid Fire"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 1.4
+  },
+  {
+    "persistenceId": "h9TzWU4BA7oNtFC_5A8DLg",
+    "name": "Willow Longbow",
+    "rowName": "weap_longbow_willow",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Longbow"
+    ],
+    "icon": "T_icon_Willow_Longbow4.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Longbow_Willow.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Longbow_Willow.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Aim_Bow",
+      "specialName": "Power Shot"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 2.7
+  },
+  {
+    "persistenceId": "djB3Z0qsYhwDyyS0xxKMuQ",
+    "name": "Willow Shortbow",
+    "rowName": "weap_shortbow_willow",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Shortbow"
+    ],
+    "icon": "T_icon_Willow_Shortbow.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Shortbow_Willow.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Shortbow_Willow.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Spell_Shortbow_JumpAttack",
+      "specialName": "Rapid Fire"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 2.7
+  },
+  {
+    "persistenceId": "sJPSNEYJF6H5AqaDdl0pQQ",
+    "name": "Wolfbane Dagger",
+    "rowName": "weap_dagger_wolfbane",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Dagger"
+    ],
+    "icon": "T_icon_Wolfsbane_1H_Dagger.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Dagger_Wolfbane.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Dagger/ITEM_Dagger_Wolfbane.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Stab"
+    ],
+    "abilities": {
+      "block": "PA_Block_Dagger",
+      "primary": "PA_Attack_Dagger",
+      "special": "PA_Attack_Dagger_Special",
+      "specialName": "Lacerate"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Dagger",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  },
+  {
+    "persistenceId": "vcTl56joPka7MwbZ3Mvxbg",
+    "name": "Wooden Club",
+    "rowName": "weap_club_wood",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Club"
+    ],
+    "icon": "T_Icon_Club_Wood_1H_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 275,
+    "sourceAsset": "ITEM_Club_Wood.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Mace/ITEM_Club_Wood.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Club",
+      "primary": "PA_Attack_Club",
+      "special": "PA_Attack_Club_Special",
+      "specialName": "Block Breaker"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Club",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0,
+    "damageNegation": 26.0
+  },
+  {
+    "persistenceId": "XiatxUToDUaswQb3Xrz6NQ",
+    "name": "Wooden Shield",
+    "rowName": "shield_wood",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Shield"
+    ],
+    "icon": "T_Icon_Kite_Wood_1H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 500,
+    "sourceAsset": "ITEM_Shield_Wood.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Shield/ITEM_Shield_Wood.uasset",
+    "abilities": {
+      "block": "PA_Block_Shield_Kite_Iron"
+    },
+    "weaponFamily": "Shield",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0,
+    "damageNegation": 26.0
+  },
+  {
+    "persistenceId": "fLnzAkbRMzh0TW-4zuBoLQ",
+    "name": "Wooden Training Sword",
+    "rowName": "weap_sword_training",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Sword"
+    ],
+    "icon": "T_Icon_Sword_Wooden_Training.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 850,
+    "sourceAsset": "ITEM_Sword_Training.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Sword/ITEM_Sword_Training.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Sword",
+      "primary": "PA_Attack_Sword",
+      "special": "PA_Attack_Sword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Sword",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9,
+    "damageNegation": 33.0
+  },
+  {
+    "persistenceId": "hXM_DUvPtpMcVQSybK2eEw",
+    "name": "Yew Longbow",
+    "rowName": "weap_longbow_yew",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Longbow"
+    ],
+    "icon": "T_Icon_Longbow_Yew_2H_01_v2.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Longbow_Yew.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Longbow_Yew.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Aim_Bow",
+      "specialName": "Power Shot"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 4.15
+  },
+  {
+    "persistenceId": "x5esxEkIeEzMuEWWg0V-jg",
+    "name": "Yew Shortbow",
+    "rowName": "weap_shortbow_yew",
+    "category": "Weapons",
+    "subcategory": "Ranged",
+    "tags": [
+      "Item.Equipment.Weapon.Bow.Shortbow"
+    ],
+    "icon": "T_Icon_Shortbow_Yew_2H_01_v2.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Shortbow_Yew.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Shortbow_Yew.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_Spell_Shortbow_JumpAttack",
+      "specialName": "Rapid Fire"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ],
+    "powerCurve": "Bows",
+    "weaponPower": 4.15
+  },
+  {
+    "persistenceId": "IpM2CEjR22G7q_eELH0Iow",
+    "name": "Zamorak Staff",
+    "rowName": "masterwork_weap_staff_zamorak",
+    "category": "Weapons",
+    "subcategory": "Magic",
+    "tags": [
+      "Item.Equipment.Weapon.Staff"
+    ],
+    "icon": "T_Icon_Zamorak_Staff.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Masterwork_Staff_Zamorak.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Staff/ITEM_Masterwork_Staff_Zamorak.uasset",
+    "abilities": {
+      "primary": "PA_MagicAttack_Primary",
+      "special": "PA_MagicAttack_Secondary",
+      "specialName": "Flames of Zamorak"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Magic"
+    ],
+    "weaponFamily": "Wands",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 5.0
+  },
+  {
+    "persistenceId": "ZUMRukFLXvSUBtSY_HzEPA",
+    "name": "Zombie Arm",
+    "rowName": "weap_mace_1hzombiemace",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Mace"
+    ],
+    "icon": "T_Icon_Club_Zombie.png",
+    "weight": 15,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Mace_ZombieClub.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Mace/ITEM_Mace_ZombieClub.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Club",
+      "primary": "PA_Attack_Club_Visceral",
+      "special": "PA_Attack_Club_Special_ZombieArm",
+      "specialName": "Block Breaker"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Club",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "z0Cq8kyZGceXi3KE508GDg",
+    "name": "Zombie Axe",
+    "rowName": "weap_club_zombieaxe",
+    "category": "Weapons",
+    "subcategory": "Melee",
+    "tags": [
+      "Item.Equipment.Weapon.1H.Mace"
+    ],
+    "icon": "T_Icon_Undead_Axe.png",
+    "weight": 15,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Club_ZombieAxe.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Mace/ITEM_Club_ZombieAxe.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush",
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_Club",
+      "primary": "PA_Attack_Club",
+      "special": "PA_Attack_Club_Special",
+      "specialName": "Block Breaker"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Club",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  }
+]

@@ -1,0 +1,1052 @@
+{
+  "meta": {
+    "usmap": "RSDragonwilds-5.6.1-251392+++dominion+live-0196ef29.usmap",
+    "count": 174
+  },
+  "ais": [
+    {
+      "persistenceId": "KfVOlUmt4m-jcsKSryqxDA",
+      "name": "Abyssal Demon",
+      "rowName": "BP_AI_AbyssalDemon_Data",
+      "sourceAsset": "BP_AI_AbyssalDemon_Data.json"
+    },
+    {
+      "persistenceId": "lQOgAU7Zmdll0Cya6A5L5w",
+      "name": "Bird King Druid",
+      "rowName": "BP_AI_MagicBeast_BirdKing_Data",
+      "sourceAsset": "BP_AI_MagicBeast_BirdKing_Data.json"
+    },
+    {
+      "persistenceId": "QxxoQUErqpHVfQGsVJheOQ",
+      "name": "Black Knight 1Hmelee",
+      "rowName": "BP_AI_1HBlackKnightMelee_Data",
+      "sourceAsset": "BP_AI_1HBlackKnightMelee_Data.json"
+    },
+    {
+      "persistenceId": "GP9IEkKizzt3OZ2xo1fsig",
+      "name": "Black Knight 2Hmelee",
+      "rowName": "BP_AI_BlackKnight2HMelee_Data",
+      "sourceAsset": "BP_AI_BlackKnight2HMelee_Data.json"
+    },
+    {
+      "persistenceId": "v9YoKEer6MAGotaebdXY7g",
+      "name": "Black Knight Crossbow",
+      "rowName": "BP_AI_BlackKnightRanged_Data",
+      "sourceAsset": "BP_AI_BlackKnightRanged_Data.json"
+    },
+    {
+      "persistenceId": "F1TXR0JSpPqmgn6B2cmKNA",
+      "name": "Black Knight Crusader",
+      "rowName": "BP_AI_BlackKnight2HMelee_Flaming_Data",
+      "sourceAsset": "BP_AI_BlackKnight2HMelee_Flaming_Data.json"
+    },
+    {
+      "persistenceId": "EYP6IUKSsD2zclW4LMic_g",
+      "name": "Black Knight Melee",
+      "rowName": "BP_AI_BlackKnightMelee_Data",
+      "sourceAsset": "BP_AI_BlackKnightMelee_Data.json"
+    },
+    {
+      "persistenceId": "Jz3vbkUUKThjJ8qg_j2YpQ",
+      "name": "Blue Dragon Hatchling",
+      "rowName": "BP_AI_DragonHatchlingBlue_Data",
+      "sourceAsset": "BP_AI_DragonHatchlingBlue_Data.json"
+    },
+    {
+      "persistenceId": "ksM0UkpmnLCfzTuW8U2fCg",
+      "name": "Boggs",
+      "rowName": "BP_AI_Hellrat_Boggs_Data",
+      "sourceAsset": "BP_AI_Hellrat_Boggs_Data.json"
+    },
+    {
+      "persistenceId": "IPEXl0IJxts-XsWFhHlkSA",
+      "name": "Carnivorous Chinchompa",
+      "rowName": "BP_AI_CarnivorousChinchompa_Data",
+      "sourceAsset": "BP_AI_CarnivorousChinchompa_Data.json"
+    },
+    {
+      "persistenceId": "pgwQyURKCvAE9lWiuPg2Rw",
+      "name": "Chicken",
+      "rowName": "BP_AI_Chicken_Data",
+      "sourceAsset": "BP_AI_Chicken_Data.json"
+    },
+    {
+      "persistenceId": "qEDf9k2aaQx_YSOFP99U4w",
+      "name": "Chinchompa",
+      "rowName": "BP_AI_Chinchompa_Data",
+      "sourceAsset": "BP_AI_Chinchompa_Data.json"
+    },
+    {
+      "persistenceId": "aFfff00gfjvz5mGwyjKmaQ",
+      "name": "Colossal Fungal Rat",
+      "rowName": "BP_AI_ColossalFungalRat_Data",
+      "sourceAsset": "BP_AI_ColossalFungalRat_Data.json"
+    },
+    {
+      "persistenceId": "eVURMkRT22g5TY2-EVXfFA",
+      "name": "Colossal Rat",
+      "rowName": "BP_AI_ColossalRat_Data",
+      "sourceAsset": "BP_AI_ColossalRat_Data.json"
+    },
+    {
+      "persistenceId": "uLO--kBec3plrP2Ta9WExg",
+      "name": "Colossal Vault Guardian Melee",
+      "rowName": "BP_AI_ColossalMeleeVaultGuardian_Data",
+      "sourceAsset": "BP_AI_ColossalMeleeVaultGuardian_Data.json"
+    },
+    {
+      "persistenceId": "WCNLOEKKh4NaghSS0eHymw",
+      "name": "Colossal Vault Guardian Ranged",
+      "rowName": "BP_AI_ColossalRangedVaultGuardian_Data",
+      "sourceAsset": "BP_AI_ColossalRangedVaultGuardian_Data.json"
+    },
+    {
+      "persistenceId": "QijgCURrPENiQkCii0G-tw",
+      "name": "Cow",
+      "rowName": "BP_AI_Cow_Data",
+      "sourceAsset": "BP_AI_Cow_Data.json"
+    },
+    {
+      "persistenceId": "qV6sSksNjBia5--6-8qFGg",
+      "name": "Cow Withered",
+      "rowName": "BP_AI_CowWithered_Data",
+      "sourceAsset": "BP_AI_CowWithered_Data.json"
+    },
+    {
+      "persistenceId": "RwQyMUvxIJifmh65PYd9cA",
+      "name": "Cow Zombie",
+      "rowName": "BP_AI_CowZombie_Data",
+      "sourceAsset": "BP_AI_CowZombie_Data.json"
+    },
+    {
+      "persistenceId": "S5tZlElzIx7-7fyWy3B-nQ",
+      "name": "Curly",
+      "rowName": "BP_AI_Hellrat_Curly_Data",
+      "sourceAsset": "BP_AI_Hellrat_Curly_Data.json"
+    },
+    {
+      "persistenceId": "_c6b4kuF6kWga7eKu8sahg",
+      "name": "Cursed Raven",
+      "rowName": "BP_AI_MagicalRaven_Data",
+      "sourceAsset": "BP_AI_MagicalRaven_Data.json"
+    },
+    {
+      "persistenceId": "qo9ak0TNfnPsfLOc2IJVVQ",
+      "name": "Dark Kebbit",
+      "rowName": "BP_AI_DarkKebbit_Data",
+      "sourceAsset": "BP_AI_DarkKebbit_Data.json"
+    },
+    {
+      "persistenceId": "AhpLbUoUgm6V94OwSk9P8w",
+      "name": "Deer",
+      "rowName": "BP_AI_Deer_Data",
+      "sourceAsset": "BP_AI_Deer_Data.json"
+    },
+    {
+      "persistenceId": "MHR2MU6Ys1GRauipToYr-g",
+      "name": "Demon Master",
+      "rowName": "BP_AI_DemonMaster_Data",
+      "sourceAsset": "BP_AI_DemonMaster_Data.json"
+    },
+    {
+      "persistenceId": "0Uf2pEyobZQAEOykWoC_pQ",
+      "name": "Dire Wolf",
+      "rowName": "BP_AI_WolfElite_Data",
+      "sourceAsset": "BP_AI_WolfElite_Data.json"
+    },
+    {
+      "persistenceId": "ksUAp0rUBqiXaNOmXpCf1Q",
+      "name": "Diseased Kebbit",
+      "rowName": "BP_AI_DiseasedKebbit_Data",
+      "sourceAsset": "BP_AI_DiseasedKebbit_Data.json"
+    },
+    {
+      "persistenceId": "NheSB0u2sX9cQgaXsd_KwA",
+      "name": "Dragon Fuzan",
+      "rowName": "BP_AI_DragonFuzan_Data",
+      "sourceAsset": "BP_AI_DragonFuzan_Data.json"
+    },
+    {
+      "persistenceId": "HzkqRk3wMRXKHzOKPhLuHg",
+      "name": "Dragon Fuzan Night Patrol",
+      "rowName": "BP_AI_DragonFuzan_NightPatrol_Data",
+      "sourceAsset": "BP_AI_DragonFuzan_NightPatrol_Data.json"
+    },
+    {
+      "persistenceId": "YYnrHku9RxWWg6K8PstgLQ",
+      "name": "Dragon Green",
+      "rowName": "BP_AI_DragonLesserBlack_Data",
+      "sourceAsset": "BP_AI_DragonLesserBlack_Data.json"
+    },
+    {
+      "persistenceId": "KD51j0QEG83kpo6rGMm15g",
+      "name": "Dragon Green",
+      "rowName": "BP_AI_DragonLesserGreen_Data",
+      "sourceAsset": "BP_AI_DragonLesserGreen_Data.json"
+    },
+    {
+      "persistenceId": "83Jrwk-0BKb76xSD_39_ng",
+      "name": "Dragon Hatchling Black",
+      "rowName": "BP_AI_DragonHatchlingBlack_Data",
+      "sourceAsset": "BP_AI_DragonHatchlingBlack_Data.json"
+    },
+    {
+      "persistenceId": "AQTW_EPCQGdVN4ytwbVJTA",
+      "name": "Dragon Hatchling Green",
+      "rowName": "BP_AI_DragonHatchlingGreen_Data",
+      "sourceAsset": "BP_AI_DragonHatchlingGreen_Data.json"
+    },
+    {
+      "persistenceId": "ylPHd0lJWHie4A2GD60VYw",
+      "name": "Dragon Lesser Black Tier 9",
+      "rowName": "BP_AI_DragonLesserBlack_Tier9_Data",
+      "sourceAsset": "BP_AI_DragonLesserBlack_Tier9_Data.json"
+    },
+    {
+      "persistenceId": "qev5fEZ6O1lfdMWQvK4-Ng",
+      "name": "Dragon Lesser Red",
+      "rowName": "BP_AI_DragonLesserRed_Data",
+      "sourceAsset": "BP_AI_DragonLesserRed_Data.json"
+    },
+    {
+      "persistenceId": "OOOVeUmuiweX4Vqz57vQIw",
+      "name": "Dragon Lesser Red Mq",
+      "rowName": "BP_AI_UmS_MQ_DragonLesserRed_Data",
+      "sourceAsset": "BP_AI_UmS_MQ_DragonLesserRed_Data.json"
+    },
+    {
+      "persistenceId": "JZgzr0a84M0wLz6hdOk8Zw",
+      "name": "Dragon Lesser Red Night Patrol",
+      "rowName": "BP_AI_DragonLesserRed_NightPatrol_Data",
+      "sourceAsset": "BP_AI_DragonLesserRed_NightPatrol_Data.json"
+    },
+    {
+      "persistenceId": "my0Ac0-4zYHqzBOIflkEIg",
+      "name": "Dragonwolf",
+      "rowName": "BP_AI_DragonWolf_Data",
+      "sourceAsset": "BP_AI_DragonWolf_Data.json"
+    },
+    {
+      "persistenceId": "MM75EUS4BqJVE0-qDdE1FA",
+      "name": "Female Black Knight Melee",
+      "rowName": "BP_AI_FemaleBlackKnightMelee_Data",
+      "sourceAsset": "BP_AI_FemaleBlackKnightMelee_Data.json"
+    },
+    {
+      "persistenceId": "duUswEIe3ZOZ6p2yIt-i4w",
+      "name": "Female Black Knight Ranged",
+      "rowName": "BP_AI_FemaleBlackKnightRanged_Data",
+      "sourceAsset": "BP_AI_FemaleBlackKnightRanged_Data.json"
+    },
+    {
+      "persistenceId": "idPFKkMC__lPyA2CYrRc2w",
+      "name": "Fido",
+      "rowName": "BP_AI_Hellhound_Fido_Data",
+      "sourceAsset": "BP_AI_Hellhound_Fido_Data.json"
+    },
+    {
+      "persistenceId": "Ns1CS02S1weyh8C0UDMP3w",
+      "name": "Flame Guardian",
+      "rowName": "BP_AI_BlackKnightMelee_Flaming_Data",
+      "sourceAsset": "BP_AI_BlackKnightMelee_Flaming_Data.json"
+    },
+    {
+      "persistenceId": "IMr7oE4y0k9ZtQCfyPZaGQ",
+      "name": "Fuzan Minion",
+      "rowName": "BP_AI_FuzanMinion_KotHaar_Hur_Data",
+      "sourceAsset": "BP_AI_FuzanMinion_KotHaar_Hur_Data.json"
+    },
+    {
+      "persistenceId": "Cwj5ek3TtMWzeCmOE7pmQw",
+      "name": "Fuzan Minion",
+      "rowName": "BP_AI_FuzanMinion_KotHaar_Ket_Data",
+      "sourceAsset": "BP_AI_FuzanMinion_KotHaar_Ket_Data.json"
+    },
+    {
+      "persistenceId": "FK3UKUWjZER1PE6VcV3RuQ",
+      "name": "Fuzan Minion",
+      "rowName": "BP_AI_FuzanMinion_KotHaar_Xil_Data",
+      "sourceAsset": "BP_AI_FuzanMinion_KotHaar_Xil_Data.json"
+    },
+    {
+      "persistenceId": "9DyICke7I59f7h-vWuVAug",
+      "name": "Garou Berserker",
+      "rowName": "BP_AI_MediumBeast_Data",
+      "sourceAsset": "BP_AI_MediumBeast_Data.json"
+    },
+    {
+      "persistenceId": "_wQo7EG_760BZBK6qYOrOw",
+      "name": "Garou Druid",
+      "rowName": "BP_AI_MagicBeast_Data",
+      "sourceAsset": "BP_AI_MagicBeast_Data.json"
+    },
+    {
+      "persistenceId": "WpfgxUvQhGrvgoGXrPZnkw",
+      "name": "Garou Hunter",
+      "rowName": "BP_AI_RangedBeast_Data",
+      "sourceAsset": "BP_AI_RangedBeast_Data.json"
+    },
+    {
+      "persistenceId": "bsBrREWuAOHineGptp22tQ",
+      "name": "Garou King",
+      "rowName": "BP_AI_ThaneBeast_MiniBoss_Data",
+      "sourceAsset": "BP_AI_ThaneBeast_MiniBoss_Data.json"
+    },
+    {
+      "persistenceId": "pdIvu0AzwbldMsmICTXhVg",
+      "name": "Garou Runt",
+      "rowName": "BP_AI_MediumBeast_Runt_Data",
+      "sourceAsset": "BP_AI_MediumBeast_Runt_Data.json"
+    },
+    {
+      "persistenceId": "SMOsv04Q-EEFU2GSdrF64A",
+      "name": "Garou Spinner",
+      "rowName": "BP_AI_MediumBeast_Spinning_Data",
+      "sourceAsset": "BP_AI_MediumBeast_Spinning_Data.json"
+    },
+    {
+      "persistenceId": "ggplyUP73XqSsMO3XhjXxw",
+      "name": "Garou Thane",
+      "rowName": "BP_AI_ThaneBeast_Data",
+      "sourceAsset": "BP_AI_ThaneBeast_Data.json"
+    },
+    {
+      "persistenceId": "Bq5VfUjfPLiuOq-b9KY1-w",
+      "name": "Ghostwolf",
+      "rowName": "BP_AI_SpectralDragonWolf_Data",
+      "sourceAsset": "BP_AI_SpectralDragonWolf_Data.json"
+    },
+    {
+      "persistenceId": "ACUxb0L_-xQy3Y6UfWuKHw",
+      "name": "Giant Rat",
+      "rowName": "BP_AI_GiantRat_Data",
+      "sourceAsset": "BP_AI_GiantRat_Data.json"
+    },
+    {
+      "persistenceId": "KVo-Y0D5tHQNzECIGUwABg",
+      "name": "Giant Rat Withered",
+      "rowName": "BP_AI_GiantRatWithered_Data",
+      "sourceAsset": "BP_AI_GiantRatWithered_Data.json"
+    },
+    {
+      "persistenceId": "szK7_0KJq3_IcQCRqRxLUw",
+      "name": "Giant Rat Zombie",
+      "rowName": "BP_AI_GiantRatZombie_Data",
+      "sourceAsset": "BP_AI_GiantRatZombie_Data.json"
+    },
+    {
+      "persistenceId": "fjFZaUlrbGyek_6yxt3oJg",
+      "name": "Gnasher",
+      "rowName": "BP_AI_Hellhound_Gnasher_Data",
+      "sourceAsset": "BP_AI_Hellhound_Gnasher_Data.json"
+    },
+    {
+      "persistenceId": "K9zIqUAbwnCCtTadotIJeA",
+      "name": "Goat",
+      "rowName": "BP_AI_Goat_Data",
+      "sourceAsset": "BP_AI_Goat_Data.json"
+    },
+    {
+      "persistenceId": "fMiRUkosQBYSz0WkD79Clw",
+      "name": "Goblin Archer",
+      "rowName": "BP_AI_RangedGoblin_Data",
+      "sourceAsset": "BP_AI_RangedGoblin_Data.json"
+    },
+    {
+      "persistenceId": "rALoukz-lpWxCbucA_py_w",
+      "name": "Goblin Runt",
+      "rowName": "BP_AI_RuntGoblin_Data",
+      "sourceAsset": "BP_AI_RuntGoblin_Data.json"
+    },
+    {
+      "persistenceId": "Hy15Y0G-qp_kOS6ZSsuo2w",
+      "name": "Goblin Shield",
+      "rowName": "BP_AI_ShieldGoblin_Data",
+      "sourceAsset": "BP_AI_ShieldGoblin_Data.json"
+    },
+    {
+      "persistenceId": "kRQzIUYSgymLKQuKVEmOMg",
+      "name": "Goblin Warrior",
+      "rowName": "BP_AI_MeleeGoblin_Data",
+      "sourceAsset": "BP_AI_MeleeGoblin_Data.json"
+    },
+    {
+      "persistenceId": "XQRjH0ZjiOQWP4qKzR3rqQ",
+      "name": "Gyrfalcon",
+      "rowName": "BP_AI_GyrFalcon_Data",
+      "sourceAsset": "BP_AI_GyrFalcon_Data.json"
+    },
+    {
+      "persistenceId": "S2vImEiMzLN_8aWCewi2Sw",
+      "name": "Hellhound",
+      "rowName": "BP_AI_Hellhound_Data",
+      "sourceAsset": "BP_AI_Hellhound_Data.json"
+    },
+    {
+      "persistenceId": "vjlMMk_OeYdsq6-QFfqbYw",
+      "name": "Hellrat",
+      "rowName": "BP_AI_Hellrat_Data",
+      "sourceAsset": "BP_AI_Hellrat_Data.json"
+    },
+    {
+      "persistenceId": "d2R-C0TpN-sUufy9oOYRyg",
+      "name": "Hookworm",
+      "rowName": "BP_AI_Hookworm_Data",
+      "sourceAsset": "BP_AI_Hookworm_Data.json"
+    },
+    {
+      "persistenceId": "yhF9iUtjtEr4eaOvv6s2Sg",
+      "name": "Houndmaster",
+      "rowName": "BP_AI_Houndmaster_Data",
+      "sourceAsset": "BP_AI_Houndmaster_Data.json"
+    },
+    {
+      "persistenceId": "m-XQ-02XemFtY-isjM0PGg",
+      "name": "Imaru",
+      "rowName": "BP_AI_DragonImaru_Data",
+      "sourceAsset": "BP_AI_DragonImaru_Data.json"
+    },
+    {
+      "persistenceId": "1Cc9IUcbLrO3i7aMrFio5A",
+      "name": "Imaru Minion",
+      "rowName": "BP_AI_RotswornMarauderImaru_Data",
+      "sourceAsset": "BP_AI_RotswornMarauderImaru_Data.json"
+    },
+    {
+      "persistenceId": "hAZDwEsHp3q0uv277URscg",
+      "name": "Imaru Minion",
+      "rowName": "BP_AI_RotswornNecromancerImaru_Data",
+      "sourceAsset": "BP_AI_RotswornNecromancerImaru_Data.json"
+    },
+    {
+      "persistenceId": "P_XjkkBL5sszl4uEXNdqmg",
+      "name": "Imaru Minion",
+      "rowName": "BP_AI_RotswornWarriorImaru_Data",
+      "sourceAsset": "BP_AI_RotswornWarriorImaru_Data.json"
+    },
+    {
+      "persistenceId": "rUWCREW-2Elj3BeoigUBHg",
+      "name": "Jade Vine",
+      "rowName": "BP_AI_WildJadeVine_Data",
+      "sourceAsset": "BP_AI_WildJadeVine_Data.json"
+    },
+    {
+      "persistenceId": "roJuQ0IRMWFuw1elMVYB5A",
+      "name": "Kalphite Friend",
+      "rowName": "BP_AI_KalphiteFriend_Data",
+      "sourceAsset": "BP_AI_KalphiteFriend_Data.json"
+    },
+    {
+      "persistenceId": "c-0yk0TpjFJbeHCOn0Re1Q",
+      "name": "Kalphite Guardian",
+      "rowName": "BP_AI_KalphiteGuardian_Data",
+      "sourceAsset": "BP_AI_KalphiteGuardian_Data.json"
+    },
+    {
+      "persistenceId": "KVtxk0eKweIctEudLd1OAA",
+      "name": "Kalphite Queen",
+      "rowName": "BP_AI_KalphiteQueenFlyer_Data",
+      "sourceAsset": "BP_AI_KalphiteQueenFlyer_Data.json"
+    },
+    {
+      "persistenceId": "VRzunUtKpr51MnWkBehwNQ",
+      "name": "Kalphite Queen",
+      "rowName": "BP_AI_KalphiteQueenGrounded_Data",
+      "sourceAsset": "BP_AI_KalphiteQueenGrounded_Data.json"
+    },
+    {
+      "persistenceId": "mC6pMEZfzwI8qq-0uh2fcg",
+      "name": "Kalphite Queen Guardian Minion",
+      "rowName": "BP_AI_KalphiteQueenMinion_Guardian_Data",
+      "sourceAsset": "BP_AI_KalphiteQueenMinion_Guardian_Data.json"
+    },
+    {
+      "persistenceId": "Ow1O-U6xA53MfNOLbgFaiQ",
+      "name": "Kalphite Queen Soldier Minion",
+      "rowName": "BP_AI_KalphiteQueenMinion_Soldier_Data",
+      "sourceAsset": "BP_AI_KalphiteQueenMinion_Soldier_Data.json"
+    },
+    {
+      "persistenceId": "Xccqe0RPtSHHHLSV8iBkZA",
+      "name": "Kalphite Queen Worker Minion",
+      "rowName": "BP_AI_KalphiteQueenMinion_Worker_Data",
+      "sourceAsset": "BP_AI_KalphiteQueenMinion_Worker_Data.json"
+    },
+    {
+      "persistenceId": "RhtMFEQX9486rxeB4nAH7A",
+      "name": "Kalphite Soldier",
+      "rowName": "BP_AI_KalphiteSoldier_Data",
+      "sourceAsset": "BP_AI_KalphiteSoldier_Data.json"
+    },
+    {
+      "persistenceId": "v_pYa0QocxmvqkS05g-P9g",
+      "name": "Kalphite Worker",
+      "rowName": "BP_AI_KalphiteWorker_Data",
+      "sourceAsset": "BP_AI_KalphiteWorker_Data.json"
+    },
+    {
+      "persistenceId": "OwNEpEDTUEsdnJ2PIMaT9g",
+      "name": "Kebbit",
+      "rowName": "BP_AI_Kebbit_Data",
+      "sourceAsset": "BP_AI_Kebbit_Data.json"
+    },
+    {
+      "persistenceId": "5G8Dm0b8RHOOb8-vdUbXEQ",
+      "name": "Kebbit Desert Devil",
+      "rowName": "BP_AI_Kebbit_DesertDevil_Data",
+      "sourceAsset": "BP_AI_Kebbit_DesertDevil_Data.json"
+    },
+    {
+      "persistenceId": "fAKVwUL1df5hs4eRU4y-zg",
+      "name": "Kot Haar-Hur",
+      "rowName": "BP_AI_KotHaar_Hur_Data",
+      "sourceAsset": "BP_AI_KotHaar_Hur_Data.json"
+    },
+    {
+      "persistenceId": "keHXCkKGt-XglQKRCsCRsQ",
+      "name": "Kot Haar-Kal",
+      "rowName": "BP_AI_KotHaar_Xil_Data",
+      "sourceAsset": "BP_AI_KotHaar_Xil_Data.json"
+    },
+    {
+      "persistenceId": "vMyKv0FAahGTA0G96_A0Bg",
+      "name": "Kot Haar-Ket",
+      "rowName": "BP_AI_KotHaar_Ket_Data",
+      "sourceAsset": "BP_AI_KotHaar_Ket_Data.json"
+    },
+    {
+      "persistenceId": "D6eamUFk5lsgCAKv1o5t9Q",
+      "name": "Kot Haar-Xil",
+      "rowName": "BP_AI_KotHaar_Xil_Ranged_Data",
+      "sourceAsset": "BP_AI_KotHaar_Xil_Ranged_Data.json"
+    },
+    {
+      "persistenceId": "blWmC05i2wbgVweCwuWgkA",
+      "name": "Kothaar-Mej",
+      "rowName": "BP_AI_KotHaar_Mej_Data",
+      "sourceAsset": "BP_AI_KotHaar_Mej_Data.json"
+    },
+    {
+      "persistenceId": "dJOx-Ua3iiEbsQm7ss-Qtg",
+      "name": "Lapulis Vine",
+      "rowName": "BP_AI_WildJadeVineShock_Data",
+      "sourceAsset": "BP_AI_WildJadeVineShock_Data.json"
+    },
+    {
+      "persistenceId": "YZ91-U3VQ5N24NO--yazXw",
+      "name": "Lesser Blue Dragon",
+      "rowName": "BP_AI_DragonLesserBlue_Data",
+      "sourceAsset": "BP_AI_DragonLesserBlue_Data.json"
+    },
+    {
+      "persistenceId": "HhdT2U4Z3pnsUEqKWGXd0A",
+      "name": "Lesser Demon",
+      "rowName": "BP_AI_LesserDemon_Data",
+      "sourceAsset": "BP_AI_LesserDemon_Data.json"
+    },
+    {
+      "persistenceId": "M4a4CEcv-2DKgIuN3H2qcQ",
+      "name": "Lesser Demon Delrom",
+      "rowName": "BP_AI_LesserDemon_Delrom_Data",
+      "sourceAsset": "BP_AI_LesserDemon_Delrom_Data.json"
+    },
+    {
+      "persistenceId": "1Soitkch73QL2zenWZuLEA",
+      "name": "Lesser Demon Shardbound",
+      "rowName": "BP_AI_LesserDemon_Shardbound_Data",
+      "sourceAsset": "BP_AI_LesserDemon_Shardbound_Data.json"
+    },
+    {
+      "persistenceId": "5EQTnE-z1tfnf1aMKp4_zQ",
+      "name": "Lost Soul",
+      "rowName": "BP_AI_SpectralZombieImaru_Data",
+      "sourceAsset": "BP_AI_SpectralZombieImaru_Data.json"
+    },
+    {
+      "persistenceId": "E8g7t06EkiShkkmnREyV0Q",
+      "name": "Lost Soul",
+      "rowName": "BP_AI_SpectralZombie_Data",
+      "sourceAsset": "BP_AI_SpectralZombie_Data.json"
+    },
+    {
+      "persistenceId": "dULY7EQjzu9zpySPyGV10Q",
+      "name": "Lurch",
+      "rowName": "BP_AI_Hellhound_Lurch_Data",
+      "sourceAsset": "BP_AI_Hellhound_Lurch_Data.json"
+    },
+    {
+      "persistenceId": "euu0DkCaapXLaH62d0Ls9Q",
+      "name": "Mage Of Zamorak",
+      "rowName": "BP_AI_MageOfZamorak_Data",
+      "sourceAsset": "BP_AI_MageOfZamorak_Data.json"
+    },
+    {
+      "persistenceId": "2NIVK0zLwdpk6SKr5c4BRQ",
+      "name": "Magpie",
+      "rowName": "BP_AI_Magpie_Data",
+      "sourceAsset": "BP_AI_Magpie_Data.json"
+    },
+    {
+      "persistenceId": "UX3Ju0lrd-CAys2sX2ovNg",
+      "name": "Medium Beast Sw",
+      "rowName": "BP_AI_MediumBeast_SW_Data",
+      "sourceAsset": "BP_AI_MediumBeast_SW_Data.json"
+    },
+    {
+      "persistenceId": "XhVRS0d_2WE_DZ-Bw-53vw",
+      "name": "Nc Abyssal Demon",
+      "rowName": "BP_AI_NC_AbyssalDemon_Data",
+      "sourceAsset": "BP_AI_NC_AbyssalDemon_Data.json"
+    },
+    {
+      "persistenceId": "zvz8MkLag7zicb26MNoa3A",
+      "name": "Nc Black Knight Titan",
+      "rowName": "BP_AI_NC_BlackKnightTitan_Data",
+      "sourceAsset": "BP_AI_NC_BlackKnightTitan_Data.json"
+    },
+    {
+      "persistenceId": "FvvVbE6gTfU6DYa2mFw2kA",
+      "name": "Nc Colossal Melee Vault Guardian",
+      "rowName": "BP_AI_NC_ColossalMeleeVaultGuardian_Data",
+      "sourceAsset": "BP_AI_NC_ColossalMeleeVaultGuardian_Data.json"
+    },
+    {
+      "persistenceId": "gaAH2klx4meCApWRenBB6A",
+      "name": "Nc Colossal Ranged Vault Guardian",
+      "rowName": "BP_AI_NC_ColossalRangedVaultGuardian_Data",
+      "sourceAsset": "BP_AI_NC_ColossalRangedVaultGuardian_Data.json"
+    },
+    {
+      "persistenceId": "2u8OQk5wStq4nnma5bpKXQ",
+      "name": "Nc Dragon Lesser Blue",
+      "rowName": "BP_AI_NC_DragonLesserBlue_Data",
+      "sourceAsset": "BP_AI_NC_DragonLesserBlue_Data.json"
+    },
+    {
+      "persistenceId": "MXhkJk8Gt50p-bypf52MoA",
+      "name": "Nc Dragon Lesser Green",
+      "rowName": "BP_AI_NC_DragonLesserGreen_Data",
+      "sourceAsset": "BP_AI_NC_DragonLesserGreen_Data.json"
+    },
+    {
+      "persistenceId": "MTJKl0oNRrQJquOtHJKkQA",
+      "name": "Nc Dragon Lesser Red",
+      "rowName": "BP_AI_NC_DragonLesserRed_Data",
+      "sourceAsset": "BP_AI_NC_DragonLesserRed_Data.json"
+    },
+    {
+      "persistenceId": "oXCAPU-i-4L28V2FLBCGpQ",
+      "name": "Nc Magic Beast",
+      "rowName": "BP_AI_NC_MagicBeast_Data",
+      "sourceAsset": "BP_AI_NC_MagicBeast_Data.json"
+    },
+    {
+      "persistenceId": "bQ_dnE9m0Cp5S6CK_-bxRA",
+      "name": "Nc Medium Beast",
+      "rowName": "BP_AI_NC_MediumBeast_Data",
+      "sourceAsset": "BP_AI_NC_MediumBeast_Data.json"
+    },
+    {
+      "persistenceId": "pxGmi0KWPBTdcHG-TW66Ow",
+      "name": "Nc Ranged Beast",
+      "rowName": "BP_AI_NC_RangedBeast_Data",
+      "sourceAsset": "BP_AI_NC_RangedBeast_Data.json"
+    },
+    {
+      "persistenceId": "8EzmcUmTerYbEC-Yiwlynw",
+      "name": "Nc Thane Beast",
+      "rowName": "BP_AI_NC_ThaneBeast_Data",
+      "sourceAsset": "BP_AI_NC_ThaneBeast_Data.json"
+    },
+    {
+      "persistenceId": "8Bu6fEzjDhFiPWqxfqUbOg",
+      "name": "Nc Zogre Dr",
+      "rowName": "BP_AI_NC_Zogre_DR_Data",
+      "sourceAsset": "BP_AI_NC_Zogre_DR_Data.json"
+    },
+    {
+      "persistenceId": "lGVE7UjIPCIrhFSP4H3VUw",
+      "name": "Nosey",
+      "rowName": "BP_AI_Hellrat_Nosey_Data",
+      "sourceAsset": "BP_AI_Hellrat_Nosey_Data.json"
+    },
+    {
+      "persistenceId": "2lL-V0dG5r7nCISBUB7Pbg",
+      "name": "Patch",
+      "rowName": "BP_AI_Hellrat_Patch_Data",
+      "sourceAsset": "BP_AI_Hellrat_Patch_Data.json"
+    },
+    {
+      "persistenceId": "EG7LWUX1wd1YtfKce4zjOQ",
+      "name": "Pip",
+      "rowName": "BP_AI_Hellrat_Pip_Data",
+      "sourceAsset": "BP_AI_Hellrat_Pip_Data.json"
+    },
+    {
+      "persistenceId": "7e9SLUk4zo6hioCKbZIuUQ",
+      "name": "Poison Ranger Goblin",
+      "rowName": "BP_AI_RangedGoblin_Poison_Data",
+      "sourceAsset": "BP_AI_RangedGoblin_Poison_Data.json"
+    },
+    {
+      "persistenceId": "7sEMKEehWhw1Y7CdGgMZ7A",
+      "name": "Putrid Rat",
+      "rowName": "BP_AI_FungalRat_Data",
+      "sourceAsset": "BP_AI_FungalRat_Data.json"
+    },
+    {
+      "persistenceId": "Q90ZeEeW2h2f_5-UftBWnA",
+      "name": "Ram",
+      "rowName": "BP_AI_Ram_Data",
+      "sourceAsset": "BP_AI_Ram_Data.json"
+    },
+    {
+      "persistenceId": "wGmT4EL5Y5S-fAOiMpHcBA",
+      "name": "Ranged Beast Sw",
+      "rowName": "BP_AI_RangedBeast_SW_Data",
+      "sourceAsset": "BP_AI_RangedBeast_SW_Data.json"
+    },
+    {
+      "persistenceId": "-4emkEXN2Y_qDiuv5ZEjZg",
+      "name": "Rat Master",
+      "rowName": "BP_AI_MageOfZamorak_RatMaster_Data",
+      "sourceAsset": "BP_AI_MageOfZamorak_RatMaster_Data.json"
+    },
+    {
+      "persistenceId": "XOgkaU4tu_SfO0-TvEfalA",
+      "name": "Raven",
+      "rowName": "BP_AI_Raven_Data",
+      "sourceAsset": "BP_AI_Raven_Data.json"
+    },
+    {
+      "persistenceId": "O7NG6k4jP-95x_CRTmwslw",
+      "name": "Raven",
+      "rowName": "BP_AI_Raven_Data",
+      "sourceAsset": "BP_AI_Raven_Data.json"
+    },
+    {
+      "persistenceId": "_XR8VE05QHGV_VmF8tNN7A",
+      "name": "Razlem",
+      "rowName": "BP_AI_SkeletalNecromancer_Razlem_Data",
+      "sourceAsset": "BP_AI_SkeletalNecromancer_Razlem_Data.json"
+    },
+    {
+      "persistenceId": "5_KI90XIriL6obO9TVGFxQ",
+      "name": "Red Dragon Hatchling",
+      "rowName": "BP_AI_DragonHatchlingRed_Data",
+      "sourceAsset": "BP_AI_DragonHatchlingRed_Data.json"
+    },
+    {
+      "persistenceId": "LgAgpUh3wAtUE7ScWeMODg",
+      "name": "Reek",
+      "rowName": "BP_AI_Hellrat_Reek_Data",
+      "sourceAsset": "BP_AI_Hellrat_Reek_Data.json"
+    },
+    {
+      "persistenceId": "VYr0PUQM2xR0I3KLEYVI9Q",
+      "name": "Revenant Knight",
+      "rowName": "BP_AI_Revenant_MeleeBlackKnight_Data",
+      "sourceAsset": "BP_AI_Revenant_MeleeBlackKnight_Data.json"
+    },
+    {
+      "persistenceId": "_CxHM0QMCTa4b5qZzwFVqw",
+      "name": "Rotsworn Blight Shot",
+      "rowName": "BP_AI_SkeletalArcher_Poison_Data",
+      "sourceAsset": "BP_AI_SkeletalArcher_Poison_Data.json"
+    },
+    {
+      "persistenceId": "LpoD20eb-VTmried7FzjhQ",
+      "name": "Rotsworn Marauder",
+      "rowName": "BP_AI_RotswornMarauder_Data",
+      "sourceAsset": "BP_AI_RotswornMarauder_Data.json"
+    },
+    {
+      "persistenceId": "JF2gd0n1ifHe8DCSl6_WEQ",
+      "name": "Rotsworn Warrior",
+      "rowName": "BP_AI_RotswornWarrior_Data",
+      "sourceAsset": "BP_AI_RotswornWarrior_Data.json"
+    },
+    {
+      "persistenceId": "hcbD4kE3NQnktRiAQjrVZA",
+      "name": "Rotsworn Zombie",
+      "rowName": "BP_AI_RotswornZombie_Data",
+      "sourceAsset": "BP_AI_RotswornZombie_Data.json"
+    },
+    {
+      "persistenceId": "zLyUwkuBPMN4ew6UcfFTHg",
+      "name": "Ruby Vine",
+      "rowName": "BP_AI_WildJadeVineFire_Data",
+      "sourceAsset": "BP_AI_WildJadeVineFire_Data.json"
+    },
+    {
+      "persistenceId": "-H9uXUdRWnARwS63mNnhvw",
+      "name": "Rufus",
+      "rowName": "BP_AI_Hellhound_Rufus_Data",
+      "sourceAsset": "BP_AI_Hellhound_Rufus_Data.json"
+    },
+    {
+      "persistenceId": "SPyR40SygWYPg2aB-3q-Kg",
+      "name": "Self Reviving Zombie",
+      "rowName": "BP_AI_RotswornZombie_SelfReviving_Data",
+      "sourceAsset": "BP_AI_RotswornZombie_SelfReviving_Data.json"
+    },
+    {
+      "persistenceId": "4h0mCUvkIrW15lqe1lXnXg",
+      "name": "Sentry Goblin",
+      "rowName": "BP_AI_SentryGoblin_Data",
+      "sourceAsset": "BP_AI_SentryGoblin_Data.json"
+    },
+    {
+      "persistenceId": "OAxHJkISHKbZppaljsFV0A",
+      "name": "Sgt Blister",
+      "rowName": "BP_AI_SgtBlister_Data",
+      "sourceAsset": "BP_AI_SgtBlister_Data.json"
+    },
+    {
+      "persistenceId": "-K0XNUWdGuFyACWqkSFmpg",
+      "name": "Sheep",
+      "rowName": "BP_AI_Sheep_Data",
+      "sourceAsset": "BP_AI_Sheep_Data.json"
+    },
+    {
+      "persistenceId": "1JNbIk8-JZE_yr-b8uW53A",
+      "name": "Skeleton Fire Mage",
+      "rowName": "BP_AI_SkeletonMagicFire_Data",
+      "sourceAsset": "BP_AI_SkeletonMagicFire_Data.json"
+    },
+    {
+      "persistenceId": "15viyEDszcrP9zmkBQVgIg",
+      "name": "Skeleton Mage",
+      "rowName": "BP_AI_SkeletalNecromancer_Data",
+      "sourceAsset": "BP_AI_SkeletalNecromancer_Data.json"
+    },
+    {
+      "persistenceId": "Yh6hsU9tl2IeTuKSo1oV-A",
+      "name": "Skeleton Melee",
+      "rowName": "BP_AI_SkeletalWarriorGhost_Data",
+      "sourceAsset": "BP_AI_SkeletalWarriorGhost_Data.json"
+    },
+    {
+      "persistenceId": "9_BGwkBsnHDuVTm4-CxuGg",
+      "name": "Skeleton Melee",
+      "rowName": "BP_AI_SkeletalWarrior_Data",
+      "sourceAsset": "BP_AI_SkeletalWarrior_Data.json"
+    },
+    {
+      "persistenceId": "XfRtaUUlnqGMas6srUztkg",
+      "name": "Skeleton Melee 2H",
+      "rowName": "BP_AI_SkeletalMarauder_Data",
+      "sourceAsset": "BP_AI_SkeletalMarauder_Data.json"
+    },
+    {
+      "persistenceId": "iWcCZU5x8pP_KIaVA_6L2A",
+      "name": "Skeleton Melee Shock",
+      "rowName": "BP_AI_SkeletonMeleeShock_Data",
+      "sourceAsset": "BP_AI_SkeletonMeleeShock_Data.json"
+    },
+    {
+      "persistenceId": "tQ4Pzkr2VOMBksq4waJ8Rw",
+      "name": "Skeleton Ranged",
+      "rowName": "BP_AI_SkeletalArcher_Data",
+      "sourceAsset": "BP_AI_SkeletalArcher_Data.json"
+    },
+    {
+      "persistenceId": "_P-S7kaIcHA38NinCZ6nMw",
+      "name": "Skeleton Shield",
+      "rowName": "BP_AI_SkeletalHoplite_Data",
+      "sourceAsset": "BP_AI_SkeletalHoplite_Data.json"
+    },
+    {
+      "persistenceId": "i9LN80QJS7-mOWSpqnzQUg",
+      "name": "Skeleton Shock Mage",
+      "rowName": "BP_AI_SkeletonMagicShock_Data",
+      "sourceAsset": "BP_AI_SkeletonMagicShock_Data.json"
+    },
+    {
+      "persistenceId": "PkAHFkgIl6yPAYSkKS3jBw",
+      "name": "Skeleton Wither Mage",
+      "rowName": "BP_AI_RotswornNecromancer_Data",
+      "sourceAsset": "BP_AI_RotswornNecromancer_Data.json"
+    },
+    {
+      "persistenceId": "IerPrEoP2GjKAdy1OrPZSg",
+      "name": "Skleton Melee Fire",
+      "rowName": "BP_AI_SkeletonMeleeFire_Data",
+      "sourceAsset": "BP_AI_SkeletonMeleeFire_Data.json"
+    },
+    {
+      "persistenceId": "jKepHkfpRJhBfyq_Q0rwuQ",
+      "name": "Spectral Chinchompa",
+      "rowName": "BP_AI_SpectralChinchompa_Data",
+      "sourceAsset": "BP_AI_SpectralChinchompa_Data.json"
+    },
+    {
+      "persistenceId": "0TefdE64r5mE_8-wKJqvjg",
+      "name": "Spectral Gyr Falcon",
+      "rowName": "BP_AI_SpectralGyrFalcon_Data",
+      "sourceAsset": "BP_AI_SpectralGyrFalcon_Data.json"
+    },
+    {
+      "persistenceId": "aa9BnkkkpHipUlWCqF3DiA",
+      "name": "Spectral Skeletal Hoplite",
+      "rowName": "BP_AI_SpectralSkeletalHoplite_Data",
+      "sourceAsset": "BP_AI_SpectralSkeletalHoplite_Data.json"
+    },
+    {
+      "persistenceId": "4OzZT0nHjPlhmlq-pq3vyA",
+      "name": "Stormpact Demon",
+      "rowName": "BP_AI_LesserDemon_Shock_Data",
+      "sourceAsset": "BP_AI_LesserDemon_Shock_Data.json"
+    },
+    {
+      "persistenceId": "NEPIQ07hQXWytLK7AHZH-w",
+      "name": "Terror Bird Bird King",
+      "rowName": "BP_AI_TerrorBird_BirdKing_Data",
+      "sourceAsset": "BP_AI_TerrorBird_BirdKing_Data.json"
+    },
+    {
+      "persistenceId": "qZMa0Ugvrd3l-DCHtDzqZA",
+      "name": "Terrorbird",
+      "rowName": "BP_AI_TerrorBird_Data",
+      "sourceAsset": "BP_AI_TerrorBird_Data.json"
+    },
+    {
+      "persistenceId": "4oEsHUX6-BfPB-uRZ7iJRw",
+      "name": "Thane Beast Sw",
+      "rowName": "BP_AI_ThaneBeast_SW_Data",
+      "sourceAsset": "BP_AI_ThaneBeast_SW_Data.json"
+    },
+    {
+      "persistenceId": "78-skE8VCclqD7KKtH3UBg",
+      "name": "Tiny",
+      "rowName": "BP_AI_Hellhound_Tiny_Data",
+      "sourceAsset": "BP_AI_Hellhound_Tiny_Data.json"
+    },
+    {
+      "persistenceId": "ZSSJtk5MjW-6Sb2Xav-1Yg",
+      "name": "Tok-Xil",
+      "rowName": "BP_AI_TokXil_Data",
+      "sourceAsset": "BP_AI_TokXil_Data.json"
+    },
+    {
+      "persistenceId": "nwFOPkwNAM4KWJylvComKQ",
+      "name": "Training Dummy",
+      "rowName": "BP_AI_TrainingDummy_Data",
+      "sourceAsset": "BP_AI_TrainingDummy_Data.json"
+    },
+    {
+      "persistenceId": "lSNvlUpMUo7TQvKQxj-zQQ",
+      "name": "Vault Guardian Melee",
+      "rowName": "BP_AI_MeleeVaultGuardianStatue_Data",
+      "sourceAsset": "BP_AI_MeleeVaultGuardianStatue_Data.json"
+    },
+    {
+      "persistenceId": "Tl9cGk1bAyBLHfO9HsaTZQ",
+      "name": "Vault Guardian Melee",
+      "rowName": "BP_AI_MeleeVaultGuardian_Data",
+      "sourceAsset": "BP_AI_MeleeVaultGuardian_Data.json"
+    },
+    {
+      "persistenceId": "_kRksEyYDTM5lSi87-b2pQ",
+      "name": "Vault Guardian Ranged",
+      "rowName": "BP_AI_RangedVaultGuardianStatue_Data",
+      "sourceAsset": "BP_AI_RangedVaultGuardianStatue_Data.json"
+    },
+    {
+      "persistenceId": "oiCkXkCrqYDV45ajoVGPzw",
+      "name": "Vault Guardian Ranged",
+      "rowName": "BP_AI_RangedVaultGuardian_Data",
+      "sourceAsset": "BP_AI_RangedVaultGuardian_Data.json"
+    },
+    {
+      "persistenceId": "SheDRUly33vpCfiGaZd4ZA",
+      "name": "Vault Miniboss Melee",
+      "rowName": "BP_AI_VaultMinibossMelee_Data",
+      "sourceAsset": "BP_AI_VaultMinibossMelee_Data.json"
+    },
+    {
+      "persistenceId": "zDN1MUmWTt-HLFC5hVGc5w",
+      "name": "Vault Miniboss Melee",
+      "rowName": "BP_AI_VaultMinibossRanged_Data",
+      "sourceAsset": "BP_AI_VaultMinibossRanged_Data.json"
+    },
+    {
+      "persistenceId": "Ni1sMUaMcc32ysCo22fYDQ",
+      "name": "Vault Miniboss Melee Fire",
+      "rowName": "BP_AI_VaultMinibossMeleeFire_Data",
+      "sourceAsset": "BP_AI_VaultMinibossMeleeFire_Data.json"
+    },
+    {
+      "persistenceId": "vPjoVkwdfCckeWazor1vKQ",
+      "name": "Vault Miniboss Melee Poison",
+      "rowName": "BP_AI_VaultMinibossMeleePoison_Data",
+      "sourceAsset": "BP_AI_VaultMinibossMeleePoison_Data.json"
+    },
+    {
+      "persistenceId": "bX1ItURDV_ckP-eIvdspGg",
+      "name": "Vault Miniboss Ranged Fire",
+      "rowName": "BP_AI_VaultMinibossRangedFire_Data",
+      "sourceAsset": "BP_AI_VaultMinibossRangedFire_Data.json"
+    },
+    {
+      "persistenceId": "YbApBUUPPUIk6fO8RMNC6Q",
+      "name": "Vault Miniboss Ranged Shock",
+      "rowName": "BP_AI_VaultMinibossRangedShock_Data",
+      "sourceAsset": "BP_AI_VaultMinibossRangedShock_Data.json"
+    },
+    {
+      "persistenceId": "4zdlCkASZRuKb8yUuFRHfw",
+      "name": "Velgar",
+      "rowName": "BP_AI_DragonVelgar_Data",
+      "sourceAsset": "BP_AI_DragonVelgar_Data.json"
+    },
+    {
+      "persistenceId": "RjQC0kTtBz8cSSa6lvfAMg",
+      "name": "Vulture",
+      "rowName": "BP_AI_Vulture_Data",
+      "sourceAsset": "BP_AI_Vulture_Data.json"
+    },
+    {
+      "persistenceId": "YZqOKELGAqpY-XeBdCJqMA",
+      "name": "Wolf",
+      "rowName": "BP_AI_Wolf_Data",
+      "sourceAsset": "BP_AI_Wolf_Data.json"
+    },
+    {
+      "persistenceId": "F4WtQUm6p3E16iqJ5PkeaA",
+      "name": "Zamorakian Acolyte",
+      "rowName": "BP_AI_ZamorakianAcolyte_Data",
+      "sourceAsset": "BP_AI_ZamorakianAcolyte_Data.json"
+    },
+    {
+      "persistenceId": "vzE2P001IANF4uK_o_MxGw",
+      "name": "Zogre",
+      "rowName": "BP_AI_Zogre_Data",
+      "sourceAsset": "BP_AI_Zogre_Data.json"
+    },
+    {
+      "persistenceId": "wSdst0I-7bhaG1Kh6aZ1mw",
+      "name": "Zogre Dr",
+      "rowName": "BP_AI_Zogre_DR_Data",
+      "sourceAsset": "BP_AI_Zogre_DR_Data.json"
+    },
+    {
+      "persistenceId": "2KmxkUy5wvf5VleL0k0V3w",
+      "name": "Zombie",
+      "rowName": "BP_AI_ZombieFast_Data",
+      "sourceAsset": "BP_AI_ZombieFast_Data.json"
+    },
+    {
+      "persistenceId": "-E-08UIlPZaSOUyN1pEe0w",
+      "name": "Zombie",
+      "rowName": "BP_AI_ZombieSlow_Data",
+      "sourceAsset": "BP_AI_ZombieSlow_Data.json"
+    },
+    {
+      "persistenceId": "rrJ-7kRwy8GbV2q9Jnm-Fg",
+      "name": "Zombie",
+      "rowName": "BP_AI_Zombie_Data",
+      "sourceAsset": "BP_AI_Zombie_Data.json"
+    }
+  ]
+}

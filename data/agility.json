@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "usmap": "RSDragonwilds-5.6.1-251392+++dominion+live-0196ef29.usmap",
+    "count": 6
+  },
+  "courses": [
+    {
+      "persistenceId": "ozOAhU5oKLJNkta_kV8edw",
+      "name": "Brynmoor 1",
+      "rowName": "DA_AgilityGymCourse1",
+      "sourceAsset": "DA_AgilityGymCourse1.json"
+    },
+    {
+      "persistenceId": "DY92hUu0TrbWlfa_mn07Ew",
+      "name": "Dowdun Reach 1",
+      "rowName": "DA_AgilityGymCourse4",
+      "sourceAsset": "DA_AgilityGymCourse4.json"
+    },
+    {
+      "persistenceId": "T8AD905FMrkXty6vDN52tQ",
+      "name": "Fellhollow 1",
+      "rowName": "DA_AgilityGymCourse3",
+      "sourceAsset": "DA_AgilityGymCourse3.json"
+    },
+    {
+      "persistenceId": "_bdK2EOlh_awoE2OSPQKTg",
+      "name": "Ghornfell 1",
+      "rowName": "DA_AgilityGymCourse2",
+      "sourceAsset": "DA_AgilityGymCourse2.json"
+    },
+    {
+      "persistenceId": "ey1IZEnvZ2D32yC14mES5Q",
+      "name": "Ghornfell 2",
+      "rowName": "DA_AgilityGymCourse6_Ghornfell2",
+      "sourceAsset": "DA_AgilityGymCourse6_Ghornfell2.json"
+    },
+    {
+      "persistenceId": "jRj_gkpcW9KatSSSMhVYMA",
+      "name": "Umbral Sands",
+      "rowName": "DA_AgilityGymCourse5",
+      "sourceAsset": "DA_AgilityGymCourse5.json"
+    }
+  ]
+}

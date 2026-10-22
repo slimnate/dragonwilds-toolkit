@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "usmap": "RSDragonwilds-5.6.1-251392+++dominion+live-0196ef29.usmap",
+    "count": 45
+  },
+  "hooks": [
+    {
+      "persistenceId": "raTo7knbCXllPjSV_PRuPA",
+      "name": "Boss Altar Region 1",
+      "rowName": "PH_BossAltar_Region1",
+      "sourceAsset": "PH_BossAltar_Region1.json"
+    },
+    {
+      "persistenceId": "Pm1ehUEyko4TuoiooMFT7A",
+      "name": "Building Unlocked 2",
+      "rowName": "PH_BuildingUnlocked2",
+      "sourceAsset": "PH_BuildingUnlocked2.json"
+    },
+    {
+      "persistenceId": "etkzK0jorU-OFyqYToFOjw",
+      "name": "Constructed First Campfire",
+      "rowName": "PH_ConstructedFirstCampfire",
+      "sourceAsset": "PH_ConstructedFirstCampfire.json"
+    },
+    {
+      "persistenceId": "B8Uv_k2qaxkou0SnqZVwuw",
+      "name": "Constructed First Workbench",
+      "rowName": "PH_ConstructedFirstWorkbench",
+      "sourceAsset": "PH_ConstructedFirstWorkbench.json"
+    },
+    {
+      "persistenceId": "prbKS0g1X6EsOe6Lc17yAg",
+      "name": "Downdun Reach Intro",
+      "rowName": "PH_DowndunReachIntro",
+      "sourceAsset": "PH_DowndunReachIntro.json"
+    },
+    {
+      "persistenceId": "KT6IL0MW-u0Z7fKfrRIlJA",
+      "name": "Exit Temple Of Saradomin",
+      "rowName": "PH_ExitTempleOfSaradomin",
+      "sourceAsset": "PH_ExitTempleOfSaradomin.json"
+    },
+    {
+      "persistenceId": "w7i9eEkrmS07OdumshFxiA",
+      "name": "Fell Hollow Intro",
+      "rowName": "PH_FellHollowIntro",
+      "sourceAsset": "PH_FellHollowIntro.json"
+    },
+    {
+      "persistenceId": "-A0hHk34hKPjJQ6WH4tj_Q",
+      "name": "First Claimed Bed",
+      "rowName": "PH_FirstClaimedBed",
+      "sourceAsset": "PH_FirstClaimedBed.json"
+    },
+    {
+      "persistenceId": "wEG6aEJOf7-76Re4dIq2CA",
+      "name": "First Closed Crafting Menu",
+      "rowName": "PH_FirstClosedCraftingMenu",
+      "sourceAsset": "PH_FirstClosedCraftingMenu.json"
+    },
+    {
+      "persistenceId": "S9KlyUntCdY2goiksCTCfA",
+      "name": "First Durability Dropped",
+      "rowName": "PH_FirstDurabilityDropped",
+      "sourceAsset": "PH_FirstDurabilityDropped.json"
+    },
+    {
+      "persistenceId": "Bloa8k1OU_oLC8-ZyZl5xg",
+      "name": "First Encumbered",
+      "rowName": "PH_FirstEncumbered",
+      "sourceAsset": "PH_FirstEncumbered.json"
+    },
+    {
+      "persistenceId": "DuvBLEYy3K75vo6GAhBzcA",
+      "name": "First Entered Building Placement Mode",
+      "rowName": "PH_FirstEnteredBuildingPlacementMode",
+      "sourceAsset": "PH_FirstEnteredBuildingPlacementMode.json"
+    },
+    {
+      "persistenceId": "mt-kq0m4_CRb8ROfF_jqXw",
+      "name": "First Entered Higher Power Level Region",
+      "rowName": "PH_FirstEnteredHigherPowerLevelRegion",
+      "sourceAsset": "PH_FirstEnteredHigherPowerLevelRegion.json"
+    },
+    {
+      "persistenceId": "08DnvkgFUSNWXD6kxqio4g",
+      "name": "First Equipped Armor",
+      "rowName": "PH_FirstEquippedArmor",
+      "sourceAsset": "PH_FirstEquippedArmor.json"
+    },
+    {
+      "persistenceId": "w-1d7EhFtsbJMS6ltU8DmQ",
+      "name": "First Equipped Bow",
+      "rowName": "PH_FirstEquippedBow",
+      "sourceAsset": "PH_FirstEquippedBow.json"
+    },
+    {
+      "persistenceId": "z_4plkvLwjSP0tKGTa_m_w",
+      "name": "First Hit Copper With Stone Pickaxe",
+      "rowName": "PH_FirstHitCopperWithStonePickaxe",
+      "sourceAsset": "PH_FirstHitCopperWithStonePickaxe.json"
+    },
+    {
+      "persistenceId": "jFR5qkCPd_6arTSTRXLoQg",
+      "name": "First Hit Oak Tree With Stone Axe",
+      "rowName": "PH_FirstHitOakTreeWithStoneAxe",
+      "sourceAsset": "PH_FirstHitOakTreeWithStoneAxe.json"
+    },
+    {
+      "persistenceId": "jKa_mEbMYqgrvpqsaoUnuA",
+      "name": "First Interacted With Workbench",
+      "rowName": "PH_FirstInteractedWithWorkbench",
+      "sourceAsset": "PH_FirstInteractedWithWorkbench.json"
+    },
+    {
+      "persistenceId": "Q-nbS0Ix4xYlDOmVGtHHGQ",
+      "name": "First Item Broken",
+      "rowName": "PH_FirstItemBroken",
+      "sourceAsset": "PH_FirstItemBroken.json"
+    },
+    {
+      "persistenceId": "zs2dMEkILRVKWE-AFdbqmg",
+      "name": "First Item Foraged",
+      "rowName": "PH_FirstItemForaged",
+      "sourceAsset": "PH_FirstItemForaged.json"
+    },
+    {
+      "persistenceId": "JysPMUrEduVUnZSO7fkm9w",
+      "name": "First Night",
+      "rowName": "PH_FirstNight",
+      "sourceAsset": "PH_FirstNight.json"
+    },
+    {
+      "persistenceId": "EgOJ6UJEd8OpUYGqrkKJMw",
+      "name": "First Opened Spell Book",
+      "rowName": "PH_FirstOpenedSpellBook",
+      "sourceAsset": "PH_FirstOpenedSpellBook.json"
+    },
+    {
+      "persistenceId": "mK4CD0MN1Mg_DhGr3PVIRg",
+      "name": "First Recipe Unlocked",
+      "rowName": "PH_FirstRecipeUnlocked",
+      "sourceAsset": "PH_FirstRecipeUnlocked.json"
+    },
+    {
+      "persistenceId": "SUqI4k7g5bLdEJaxHWEBNw",
+      "name": "First Respawned",
+      "rowName": "PH_FirstRespawned",
+      "sourceAsset": "PH_FirstRespawned.json"
+    },
+    {
+      "persistenceId": "dTO81EUhiV8eVjude2rkjQ",
+      "name": "First Skill Level Up",
+      "rowName": "PH_FirstSkillLevelUp",
+      "sourceAsset": "PH_FirstSkillLevelUp.json"
+    },
+    {
+      "persistenceId": "NrNI6UeNYKBGW8-QleaePQ",
+      "name": "First Spawned In Lworld",
+      "rowName": "PH_FirstSpawnedInLWorld",
+      "sourceAsset": "PH_FirstSpawnedInLWorld.json"
+    },
+    {
+      "persistenceId": "rL1csE9EGZ9eiuyhJjiizQ",
+      "name": "First Take Damage",
+      "rowName": "PH_FirstTakeDamage",
+      "sourceAsset": "PH_FirstTakeDamage.json"
+    },
+    {
+      "persistenceId": "1MnmSUuARGW-QICkWZlNfA",
+      "name": "First Wake Up In Bed",
+      "rowName": "PH_FirstWakeUpInBed",
+      "sourceAsset": "PH_FirstWakeUpInBed.json"
+    },
+    {
+      "persistenceId": "2iVmJ0plnL_DLQy9Vj-mXQ",
+      "name": "Imaru Gaze Stage 1",
+      "rowName": "PH_ImaruGazeStage1",
+      "sourceAsset": "PH_ImaruGazeStage1.json"
+    },
+    {
+      "persistenceId": "XUONlkj2SR7TxEulXWQ6_w",
+      "name": "Imaru Gaze Stage 2",
+      "rowName": "PH_ImaruGazeStage2",
+      "sourceAsset": "PH_ImaruGazeStage2.json"
+    },
+    {
+      "persistenceId": "06O_ekhxpxGVOaS5bBru_g",
+      "name": "Imaru Gaze Stage 3",
+      "rowName": "PH_ImaruGazeStage3",
+      "sourceAsset": "PH_ImaruGazeStage3.json"
+    },
+    {
+      "persistenceId": "0eyyXUpK1RPf61GVE2xtTQ",
+      "name": "Kuldra End Cinematic",
+      "rowName": "PH_KuldraEndCinematic",
+      "sourceAsset": "PH_KuldraEndCinematic.json"
+    },
+    {
+      "persistenceId": "ta6YSk116CeTvYmEcY-WKQ",
+      "name": "Music Ftue",
+      "rowName": "PH_MusicFTUE",
+      "sourceAsset": "PH_MusicFTUE.json"
+    },
+    {
+      "persistenceId": "zEbE-Up0518eqo-MOwXAZw",
+      "name": "Narrative Intro",
+      "rowName": "PH_NarrativeIntro",
+      "sourceAsset": "PH_NarrativeIntro.json"
+    },
+    {
+      "persistenceId": "K9ib2k1vxhVUPtSnA3zaOg",
+      "name": "Obtained First Food",
+      "rowName": "PH_ObtainedFirstFood",
+      "sourceAsset": "PH_ObtainedFirstFood.json"
+    },
+    {
+      "persistenceId": "JOrjykCyTMhRlWuimes2DQ",
+      "name": "Obtained First Resource",
+      "rowName": "PH_ObtainedFirstResource",
+      "sourceAsset": "PH_ObtainedFirstResource.json"
+    },
+    {
+      "persistenceId": "aLtQSklcimGNk0ydqGastg",
+      "name": "Scorned Wilderness Intro",
+      "rowName": "PH_ScornedWildernessIntro",
+      "sourceAsset": "PH_ScornedWildernessIntro.json"
+    },
+    {
+      "persistenceId": "Go-s402keEoboTKcmMC3FQ",
+      "name": "Second Recipe Unlocked",
+      "rowName": "PH_SecondRecipeUnlocked",
+      "sourceAsset": "PH_SecondRecipeUnlocked.json"
+    },
+    {
+      "persistenceId": "xrorgU9QidZcGcSGni-T2g",
+      "name": "Stability",
+      "rowName": "PH_Stability",
+      "sourceAsset": "PH_Stability.json"
+    },
+    {
+      "persistenceId": "5m02BUYiuoWdqwaF4FH4_A",
+      "name": "Umbral Sands Intro",
+      "rowName": "PH_UmbralSandsIntro",
+      "sourceAsset": "PH_UmbralSandsIntro.json"
+    },
+    {
+      "persistenceId": "FyjKdEkP-AN_d7ayoBNARw",
+      "name": "Unlocked First Bed",
+      "rowName": "PH_UnlockedFirstBed",
+      "sourceAsset": "PH_UnlockedFirstBed.json"
+    },
+    {
+      "persistenceId": "IikXl0sXhZ0HGt-WUKijIA",
+      "name": "Unlocked First Building Beam",
+      "rowName": "PH_UnlockedFirstBuildingBeam",
+      "sourceAsset": "PH_UnlockedFirstBuildingBeam.json"
+    },
+    {
+      "persistenceId": "T9ZLkEak-vFqKiCTXUwHVg",
+      "name": "Unlocked First Building Piece",
+      "rowName": "PH_UnlockedFirstBuildingPiece",
+      "sourceAsset": "PH_UnlockedFirstBuildingPiece.json"
+    },
+    {
+      "persistenceId": "zH30j0NjIViunj6M4mjxlg",
+      "name": "Unlocked First Station Upgrade",
+      "rowName": "PH_UnlockedFirstStationUpgrade",
+      "sourceAsset": "PH_UnlockedFirstStationUpgrade.json"
+    },
+    {
+      "persistenceId": "hPNURUuvQM4FSPy6k46F3g",
+      "name": "Unlocked Spell Book",
+      "rowName": "PH_UnlockedSpellBook",
+      "sourceAsset": "PH_UnlockedSpellBook.json"
+    }
+  ]
+}

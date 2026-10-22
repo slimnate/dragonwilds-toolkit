@@ -1,0 +1,14 @@
+{
+  "ConfigTitle": "RSDragonwilds-MountIcons",
+  "GamePath": "C:/Program Files (x86)/Steam/steamapps/common/RSDragonwilds/RSDragonwilds/Content/Paks",
+  "OutputPath": "",
+  "EngineVersion": "5.6",
+  "AesKeys": [],
+  "MappingFileName": "RSDragonwilds.usmap",
+  "CreateNewCheckpoint": false,
+  "ExportPaths": [
+    "RSDragonwilds/Content/Art/UI/Spellcasting/Mounts/T_Mount_Terrobird_.*\\.uasset:png",
+    "RSDragonwilds/Content/Art/UI/Icons/Icons_0_12_UmS/Icons/T_Icon_SM_Carpet_.*\\.uasset:png"
+  ],
+  "ExcludePaths": []
+}

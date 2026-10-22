@@ -1,0 +1,723 @@
+[
+  {
+    "persistenceId": "TuG7zUS90qgd7BOHhOxd8Q",
+    "name": "Abraxus Ring",
+    "rowName": "trinket_runic_ring",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Runic_Ring.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 100,
+    "sourceAsset": "ITEM_Trinket_Iconic_Runic_Ring.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Iconic_Runic_Ring.uasset",
+    "wearableRow": "ITEM_Trinket_Iconic_Runic_Ring",
+    "combatSkills": [
+      "SKILL_Magic"
+    ]
+  },
+  {
+    "persistenceId": "u0YGp0XHrNClFea2YgtqHQ",
+    "name": "Amulet of Accuracy",
+    "category": "Jewellery",
+    "subcategory": "Amulet",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 2500,
+    "icon": "T_Icon_Amulet_of_Accuracy.png"
+  },
+  {
+    "persistenceId": "bkZosEFhzpZdonqm9gx-vA",
+    "name": "Amulet of Defence",
+    "rowName": "trinket_amulet_of_defence",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Amulet_of_Defense.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 2500,
+    "sourceAsset": "ITEM_Trinket_Iconic_Amulet_of_Defence.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Iconic_Amulet_of_Defence.uasset",
+    "wearableRow": "ITEM_Trinket_Iconic_Amulet_of_Defence",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "MQ9B9EFqxWoPzFSfC8X2dg",
+    "name": "Amulet of Magic",
+    "category": "Jewellery",
+    "subcategory": "Amulet",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 2500,
+    "icon": "T_Icon_Amulet_of_Magic.png"
+  },
+  {
+    "persistenceId": "4EKck0Gae8VbebeQZ0DANA",
+    "name": "Amulet of Strength",
+    "category": "Jewellery",
+    "subcategory": "Amulet",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 2500,
+    "icon": "T_Icon_Amulet_of_Strength.png"
+  },
+  {
+    "persistenceId": "c58uRUng_7z6S82IC3vYdA",
+    "name": "Gilded Gyrhawk Amulet",
+    "rowName": "trinket_gyrhawk_amulet_golden",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket",
+      "Item.Equipment.Trinket.GoldenSilverhawkAmulet"
+    ],
+    "icon": "T_Icon_Gold_GyrhawkAmulet.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 500,
+    "sourceAsset": "ITEM_Trinket_Gyrhawk_Amulet_Golden.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Character/Player/Equipment/Jewlery/ITEM_Trinket_Gyrhawk_Amulet_Golden.uasset",
+    "wearableRow": "ITEM_Trinket_Gyrhawk_Amulet_Golden"
+  },
+  {
+    "persistenceId": "D-8qyESiEHxIW06KSbukYA",
+    "name": "Gourmand Ring",
+    "rowName": "jewellery_ring_gourmand",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_icon_Resource_Ring_Of_Pursuit.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Jewellery_Ring_Gourmand.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/Deprecated/ITEM_Jewellery_Ring_Gourmand.uasset",
+    "wearableRow": "Jewellery_Ring_Gourmand",
+    "equipmentKind": "wearable"
+  },
+  {
+    "persistenceId": "0tiXEUpXPMTUvgGRZLeRIw",
+    "name": "Gyrhawk Amulet",
+    "rowName": "trinket_gyrhawk_amulet",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket",
+      "Item.Equipment.Trinket.SilverhawkAmulet"
+    ],
+    "icon": "T_Icon_GyrhawkAmulet.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 250,
+    "sourceAsset": "ITEM_Trinket_Gyrhawk_Amulet.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Character/Player/Equipment/Jewlery/ITEM_Trinket_Gyrhawk_Amulet.uasset",
+    "wearableRow": "ITEM_Trinket_Gyrhawk_Amulet"
+  },
+  {
+    "persistenceId": "DX96203Z9RTWnbiguX1FYg",
+    "name": "Herd Ring",
+    "rowName": "jewellery_ring_herd",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_icon_Resource_Ring_Of_Pursuit.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Jewellery_Ring_Herd.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/Deprecated/ITEM_Jewellery_Ring_Herd.uasset",
+    "wearableRow": "Jewellery_Ring_Herd",
+    "equipmentKind": "wearable"
+  },
+  {
+    "persistenceId": "Hrp4NUzvyg8dz-Gm1-z2DQ",
+    "name": "Hermit Ring",
+    "rowName": "jewellery_ring_hermit",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_icon_Resource_Ring_Of_Pursuit.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Jewellery_Ring_Hermit.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/Deprecated/ITEM_Jewellery_Ring_Hermit.uasset",
+    "wearableRow": "Jewellery_Ring_Hermit",
+    "equipmentKind": "wearable"
+  },
+  {
+    "persistenceId": "ZT4FAUAaZw_DF6GNkkvZ8g",
+    "name": "Inspiring Amulet of Attack",
+    "rowName": "trinket_inspiring_attack",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Amulet_Inspiring.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 32000,
+    "sourceAsset": "ITEM_Trinket_Inspiring_Attack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Inspiring_Attack.uasset",
+    "wearableRow": "ITEM_Trinket_Inspiring_Attack",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "x8-RhkKqeWm0aTeFQB7tFQ",
+    "name": "Inspiring Amulet of Magic",
+    "rowName": "trinket_inspiring_magic",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Amulet_Inspiring.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 32000,
+    "sourceAsset": "ITEM_Trinket_Inspiring_Magic.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Inspiring_Magic.uasset",
+    "wearableRow": "ITEM_Trinket_Inspiring_Magic",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "oO9ajk1av01ia2yV89in8g",
+    "name": "Inspiring Amulet of Ranged",
+    "rowName": "trinket_ring_inspiring_ranged",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Amulet_Inspiring.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 32000,
+    "sourceAsset": "ITEM_Trinket_Inspiring_Ranged.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Inspiring_Ranged.uasset",
+    "wearableRow": "ITEM_Trinket_Inspiring_Ranged",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "5kDKqUKN-DPKZQi97nYTCw",
+    "name": "Inspiring Ring of Agility",
+    "rowName": "trinket_inspiring_agility",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Ring_Inspiring.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 32000,
+    "sourceAsset": "ITEM_Trinket_Inspiring_Agility.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Character/Player/Equipment/Jewlery/ITEM_Trinket_Inspiring_Agility.uasset",
+    "wearableRow": "ITEM_Trinket_Inspiring_Agility",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "hAKS80q9h0YE2fKH-W8HXw",
+    "name": "Inspiring Ring of Artisan",
+    "rowName": "trinket_inspiring_artisan",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Ring_Inspiring.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 32000,
+    "sourceAsset": "ITEM_Trinket_Inspiring_Artisan.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Inspiring_Artisan.uasset",
+    "wearableRow": "ITEM_Trinket_Inspiring_Artisan",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "U1Os5ksV_1mgE-uIXQwTfg",
+    "name": "Inspiring Ring of Construction",
+    "rowName": "trinket_inspiring_construction",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Ring_Inspiring.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 32000,
+    "sourceAsset": "ITEM_Trinket_Inspiring_Construction.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Inspiring_Construction.uasset",
+    "wearableRow": "ITEM_Trinket_Inspiring_Construction",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "4Nk2sUk3L3uP46uv4Ihn_A",
+    "name": "Inspiring Ring of Cooking",
+    "rowName": "trinket_inspiring_cooking",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Ring_Inspiring.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 32000,
+    "sourceAsset": "ITEM_Trinket_Inspiring_Cooking.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Inspiring_Cooking.uasset",
+    "wearableRow": "ITEM_Trinket_Inspiring_Cooking",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "6hSlpEgZOEEhEWSHFD6dYQ",
+    "name": "Inspiring Ring of Farming",
+    "rowName": "trinket_inspiring_farming",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Ring_Inspiring.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 32000,
+    "sourceAsset": "ITEM_Trinket_Inspiring_Farming.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Inspiring_Farming.uasset",
+    "wearableRow": "ITEM_Trinket_Inspiring_Farming",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "S2CyZUxCmxx6V32ox2yxVA",
+    "name": "Inspiring Ring of Fishing",
+    "rowName": "trinket_inspiring_fishing",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Ring_Inspiring.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 32000,
+    "sourceAsset": "ITEM_Trinket_Inspiring_Fishing.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Inspiring_Fishing.uasset",
+    "wearableRow": "ITEM_Trinket_Inspiring_Fishing",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "GFXou0YGkMmxiM2yPMitnw",
+    "name": "Inspiring Ring of Mining",
+    "rowName": "trinket_inspiring_mining",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Ring_Inspiring.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 32000,
+    "sourceAsset": "ITEM_Trinket_Inspiring_Mining.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Inspiring_Mining.uasset",
+    "wearableRow": "ITEM_Trinket_Inspiring_Mining",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "qtlVPEDKintQLXmG96cfOQ",
+    "name": "Inspiring Ring of Runecrafting",
+    "rowName": "trinket_inspiring_runecrafting",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Ring_Inspiring.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 32000,
+    "sourceAsset": "ITEM_Trinket_Inspiring_Runecrafting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Inspiring_Runecrafting.uasset",
+    "wearableRow": "ITEM_Trinket_Inspiring_Runecrafting",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "ZLyl5EG2nofK0nqCQa2fRg",
+    "name": "Inspiring Ring of Woodcutting",
+    "rowName": "trinket_inspiring_woodcutting",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Ring_Inspiring.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 32000,
+    "sourceAsset": "ITEM_Trinket_Inspiring_Woodcutting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Inspiring_Woodcutting.uasset",
+    "wearableRow": "ITEM_Trinket_Inspiring_Woodcutting",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "jPpy8kY7hqir8kO87fzzZg",
+    "name": "Miner Ring",
+    "rowName": "jewellery_ring_miner",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_icon_Resource_Ring_Of_Pursuit.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Jewellery_Ring_Miner.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/Deprecated/ITEM_Jewellery_Ring_Miner.uasset",
+    "wearableRow": "Jewellery_Ring_Miner",
+    "equipmentKind": "wearable"
+  },
+  {
+    "persistenceId": "y2L4-k3UhpNxZWuWioqAJA",
+    "name": "Moon Ring",
+    "rowName": "jewellery_ring_moon",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_icon_Resource_Ring_Of_Pursuit.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Jewellery_Ring_Moon.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/Deprecated/ITEM_Jewellery_Ring_Moon.uasset",
+    "wearableRow": "Jewellery_Ring_Moon",
+    "equipmentKind": "wearable"
+  },
+  {
+    "persistenceId": "sIdr0kbfd2Vh-lG1MqtFaw",
+    "name": "Mule Ring",
+    "rowName": "jewellery_ring_mule",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_icon_Resource_Ring_Of_Pursuit.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Jewellery_Ring_Mule.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/Deprecated/ITEM_Jewellery_Ring_Mule.uasset",
+    "wearableRow": "Jewellery_Ring_Mule",
+    "equipmentKind": "wearable"
+  },
+  {
+    "persistenceId": "Cfr4A060axoUrFGXXzNKyw",
+    "name": "Pack Raidpack Whisperingswamp",
+    "rowName": "item_pack_raidpack_whisperingswamp",
+    "category": "Jewellery",
+    "subcategory": "Ring",
+    "icon": "T_Icon_Human_Napsack_01.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_RaidPack_WhisperingSwamp.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Consumables/ITEM_Consumable_RaidPack_WhisperingSwamp.uasset"
+  },
+  {
+    "persistenceId": "yBO0NEdxMTVnKD2dMKXIPA",
+    "name": "Phoenix Ring",
+    "rowName": "jewellery_ring_phoenix",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_icon_Resource_Ring_Of_Pursuit.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Jewellery_Ring_Phoenix.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/Deprecated/ITEM_Jewellery_Ring_Phoenix.uasset",
+    "wearableRow": "Jewellery_Ring_Phoenix",
+    "equipmentKind": "wearable"
+  },
+  {
+    "persistenceId": "RNEguUHWfm1Ru3m6-mbsYw",
+    "name": "Pristine Herring",
+    "rowName": "res_fish_pristine_herring",
+    "category": "Jewellery",
+    "subcategory": "Ring",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Herring_Pristine.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_Herring.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Herring/Pristine/ITEM_Resources_Fish_Raw_Pristine_Herring.uasset"
+  },
+  {
+    "persistenceId": "mqzn-kOXtYJX-Qedojuu3Q",
+    "name": "Ravanna's Ring",
+    "rowName": "trinket_ravannas_ring",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Ravanna_Ring.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 32000,
+    "sourceAsset": "ITEM_Trinket_Ravannas_Ring.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Ravannas_Ring.uasset",
+    "wearableRow": "ITEM_Trinket_Ravannas_Ring",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "G1a6IE4Aoa80Pt6l6zmhKg",
+    "name": "Raw Herring",
+    "rowName": "res_fish_herring",
+    "category": "Jewellery",
+    "subcategory": "Ring",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Herring.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Herring.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Herring/ITEM_Resources_Fish_Raw_Herring.uasset"
+  },
+  {
+    "persistenceId": "xPzAAUqcRS8ZetuUKSJG5Q",
+    "name": "Ring of Life",
+    "rowName": "trinket_ring_of_life",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Ring_of_Life.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 1,
+    "sourceAsset": "ITEM_Trinket_Iconic_Ring_of_Life.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Iconic_Ring_of_Life.uasset",
+    "wearableRow": "ITEM_Trinket_Iconic_Ring_of_Life",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "mETsn0hsQKyU-h-s1LRQ6g",
+    "name": "Ring of Pursuit",
+    "rowName": "jewellery_ring_pursuit",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_icon_Resource_Ring_Of_Pursuit.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Jewellery_Ring_Pursuit.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/Deprecated/ITEM_Jewellery_Ring_Pursuit.uasset",
+    "wearableRow": "Jewellery_Ring_Pursuit",
+    "equipmentKind": "wearable"
+  },
+  {
+    "persistenceId": "3NlCk0PLvMeVQ06pQp2V8g",
+    "name": "Ring of Pursuit",
+    "rowName": "trinket_ring_of_pursuit",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Ring_of_Pursuit.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 18000,
+    "sourceAsset": "ITEM_Trinket_Iconic_Ring_of_Pursuit.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Iconic_Ring_of_Pursuit.uasset",
+    "wearableRow": "ITEM_Trinket_Iconic_Ring_of_Pursuit",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "hN41hUB2BvFbvyiqYpSgyg",
+    "name": "Ring of Recoil",
+    "rowName": "trinket_ring_of_recoil",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Ring_of_Recoil.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 2500,
+    "sourceAsset": "ITEM_Trinket_Iconic_Ring_of_Recoil.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Iconic_Ring_of_Recoil.uasset",
+    "wearableRow": "ITEM_Trinket_Iconic_Ring_of_Recoil",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "LD2aYUnB_pK6aHOn64cemw",
+    "name": "Salve Amulet",
+    "category": "Jewellery",
+    "subcategory": "Amulet",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 2500,
+    "icon": "T_Icon_Amulet_Salve.png"
+  },
+  {
+    "persistenceId": "QLUcE0_Hp9EJpD-294xu4Q",
+    "name": "Skills Necklace",
+    "rowName": "trinket_skills_necklace",
+    "category": "Jewellery",
+    "subcategory": "Amulet",
+    "tags": [
+      "Item.Equipment.Trinket",
+      "Item.Equipment.Trinket.SkillsNecklace"
+    ],
+    "icon": "T_Icon_Skill_Necklace.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 2500,
+    "sourceAsset": "ITEM_Trinket_Iconic_Skills_Necklace.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Jewelry/ITEM_Trinket_Iconic_Skills_Necklace.uasset",
+    "wearableRow": "ITEM_Trinket_Iconic_Skills_Necklace"
+  },
+  {
+    "persistenceId": "zMkPh01oP5052KmW1ctXeA",
+    "name": "Sun Ring",
+    "rowName": "jewellery_ring_sun",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_icon_Resource_Ring_Of_Pursuit.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Jewellery_Ring_Sun.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/Deprecated/ITEM_Jewellery_Ring_Sun.uasset",
+    "wearableRow": "Jewellery_Ring_Sun",
+    "equipmentKind": "wearable"
+  },
+  {
+    "persistenceId": "ksnsjULZfCA4oa63yNWkkg",
+    "name": "Unholy Symbol",
+    "rowName": "trinket_unholy_symbol",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_Icon_Unholy_Symbol.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 2500,
+    "sourceAsset": "ITEM_Trinket_Unholy_Symbol.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Jewellery/ITEM_Trinket_Unholy_Symbol.uasset",
+    "wearableRow": "ITEM_Trinket_Unholy_Symbol",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "rCw_tULBJw2cbgiNTYjmuQ",
+    "name": "Withering Heights Reward Pack",
+    "rowName": "item_pack_deathquestreward",
+    "category": "Jewellery",
+    "subcategory": "Ring",
+    "icon": "T_Icon_Resources_Garou_Pack.png",
+    "weight": 1,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_DeathquestRewardPack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_DeathquestRewardPack.uasset"
+  },
+  {
+    "persistenceId": "ZdUEQUlgodd2eLeZKYrHFA",
+    "name": "Woodsman Ring",
+    "rowName": "jewellery_ring_woodsman",
+    "category": "Jewellery",
+    "tags": [
+      "Item.Equipment.Trinket"
+    ],
+    "icon": "T_icon_Resource_Ring_Of_Pursuit.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Jewellery_Ring_Woodsman.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Jewellery/Deprecated/ITEM_Jewellery_Ring_Woodsman.uasset",
+    "wearableRow": "Jewellery_Ring_Woodsman",
+    "equipmentKind": "wearable"
+  }
+]

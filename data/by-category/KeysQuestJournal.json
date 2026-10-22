@@ -1,0 +1,1101 @@
+[
+  {
+    "persistenceId": "LbZ25U9zDiMV9Y2mZiUkdA",
+    "name": "[PH] Abysal Lantern",
+    "rowName": "res_dreamstone_lantern_piece_3",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Placeholder.png",
+    "weight": 0,
+    "maxStackSize": 25,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_Main_Piece_3.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/Depreciated/ITEM_Quest_DR_Main_Piece_3.uasset"
+  },
+  {
+    "persistenceId": "L910nkHgsySXXwio7CfE7w",
+    "name": "[PH] Dreamstone Lantern",
+    "rowName": "res_dreamstone_lantern",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.BossSoul"
+    ],
+    "icon": "T_Icon_Placeholder.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_Main_Lantern.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/Depreciated/ITEM_Quest_DR_Main_Lantern.uasset"
+  },
+  {
+    "persistenceId": "CgBtgUYiZCZC5QmnqvAebw",
+    "name": "[PH] Gatekeeper Greatsword",
+    "rowName": "res_reforged_gatekeeper_sword",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Sword"
+    ],
+    "icon": "T_Icon_Placeholder.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_Main_Reforged_Gatekeeper_Greatsword.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/Depreciated/ITEM_Quest_DR_Main_Reforged_Gatekeeper_Greatsword.uasset"
+  },
+  {
+    "persistenceId": "lZVUXUVhycw9AC-chq6hvg",
+    "name": "[PH] Lantern Handle",
+    "rowName": "res_dreamstone_lantern_piece_2",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Placeholder.png",
+    "weight": 0,
+    "maxStackSize": 25,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_Main_Piece_2.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/Depreciated/ITEM_Quest_DR_Main_Piece_2.uasset"
+  },
+  {
+    "persistenceId": "HHXDR0_DJmuYJ423pebA5g",
+    "name": "[PH] Lantern Lens",
+    "rowName": "res_dreamstone_lantern_piece_4",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Placeholder.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_Main_Piece_4.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/Depreciated/ITEM_Quest_DR_Main_Piece_4.uasset"
+  },
+  {
+    "persistenceId": "kKE0g096uQ-0_7eA5qolUg",
+    "name": "[PH] Large Dream Shard",
+    "rowName": "res_dreamstone_lantern_piece_1",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Placeholder.png",
+    "weight": 0,
+    "maxStackSize": 25,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_Main_Piece_1.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/Depreciated/ITEM_Quest_DR_Main_Piece_1.uasset"
+  },
+  {
+    "persistenceId": "HRS8Uk9eJ7jNYTaxeR6-xw",
+    "name": "[PH] Lens Mould",
+    "rowName": "res_lens_mould",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Placeholder.png",
+    "weight": 0,
+    "maxStackSize": 25,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_Main_LensMould.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/Depreciated/ITEM_Quest_DR_Main_LensMould.uasset"
+  },
+  {
+    "persistenceId": "aqAX10VI_108ALiidaJH_A",
+    "name": "[PH] Page from Demon Master's Journal",
+    "rowName": "res_dr_sq2_demonmaster_journal",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.BossSoul"
+    ],
+    "icon": "T_Icon_Placeholder.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_SQ2_DemonmasterJournal.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/SideQuests/SQ2_AnimalLover/ITEM_Quest_DR_SQ2_DemonmasterJournal.uasset"
+  },
+  {
+    "persistenceId": "aS0zgEZbMtsDiiKNGvsyVg",
+    "name": "[PH] Page from Ratmaster's Journal",
+    "rowName": "res_dr_sq2_ratmaster_journal",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.BossSoul"
+    ],
+    "icon": "T_Icon_Placeholder.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_SQ2_RatmasterJournal.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/SideQuests/SQ2_AnimalLover/ITEM_Quest_DR_SQ2_RatmasterJournal.uasset"
+  },
+  {
+    "persistenceId": "7e6im0NkLJ8wwPiVslzvdw",
+    "name": "[PH] Page from the Houndmaster's Journal",
+    "rowName": "res_dr_sq2_houndmaster_journal",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.BossSoul"
+    ],
+    "icon": "T_Icon_Placeholder.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_SQ2_HoundmasterJournal.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/SideQuests/SQ2_AnimalLover/ITEM_Quest_DR_SQ2_HoundmasterJournal.uasset"
+  },
+  {
+    "persistenceId": "HoxsiUzCz6tQz7SvHZ74Qw",
+    "name": "[PH] Portal Sigil",
+    "rowName": "res_dr_sq1_portal_sigil",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.BossSoul"
+    ],
+    "icon": "T_Icon_Placeholder.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_SQ1_PortalSigil.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/SideQuests/SQ1_PlayingWithPortals/ITEM_Quest_DR_SQ1_PortalSigil.uasset"
+  },
+  {
+    "persistenceId": "5g2q0EbO7nKX_e-N1ogTGg",
+    "name": "Beast-Training Notes",
+    "rowName": "res_dr_sq2_journal_pages",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.BossSoul"
+    ],
+    "icon": "T_Icon_Torn_Journal_Pages.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_SQ2_JournalPages.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/SideQuests/SQ2_AnimalLover/ITEM_Quest_DR_SQ2_JournalPages.uasset"
+  },
+  {
+    "persistenceId": "B_9Rt0HRTRhbZfSgUrQNTg",
+    "name": "Broken Titan's Wrath",
+    "rowName": "res_broken_gatekeeper_sword",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Broken_Titans_Sword.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_Main_Broken_Gatekeeper_Greatsword.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/ITEM_Quest_DR_Main_Broken_Gatekeeper_Greatsword.uasset"
+  },
+  {
+    "persistenceId": "vFTf1ESz99oYbRuJ-BnJyg",
+    "name": "Consumable Ums Mq Rewardpack Campa",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "icon": "T_Icon_Resources_Garou_Pack.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Ums_MQ_RewardPack_CampA.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Consumable_Ums_MQ_RewardPack_CampA.uasset"
+  },
+  {
+    "persistenceId": "jHy7j06_jYcprVy_JZGXwA",
+    "name": "Consumable Ums Mq Rewardpack Campb",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "icon": "T_Icon_Resources_Garou_Pack.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Ums_MQ_RewardPack_CampB.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Consumable_Ums_MQ_RewardPack_CampB.uasset"
+  },
+  {
+    "persistenceId": "GG4SPEucI1B_D-CegwCIuw",
+    "name": "Consumable Ums Mq Rewardpack Campc",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "icon": "T_Icon_Resources_Garou_Pack.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Ums_MQ_RewardPack_CampC.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Consumable_Ums_MQ_RewardPack_CampC.uasset"
+  },
+  {
+    "persistenceId": "-ScWrUBProaGeVmYdfrJAg",
+    "name": "Consumable Ums Mq Rewardpack Complete",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "icon": "T_Icon_Resources_Garou_Pack.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Ums_MQ_RewardPack_Complete.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Consumable_Ums_MQ_RewardPack_Complete.uasset"
+  },
+  {
+    "persistenceId": "fsPKUkCx54AbTpGD4r0PxA",
+    "name": "Corrupted Essence Sample",
+    "rowName": "res_dr_sq3_magical_essence",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Plague_Sample.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_SQ3_RavenEssence.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/SideQuests/SQ3_Nevermore/ITEM_Quest_DR_SQ3_RavenEssence.uasset"
+  },
+  {
+    "persistenceId": "lovpE0A99m4svQy2BGmy1Q",
+    "name": "Fuzan's Head",
+    "rowName": "res_fuzans_head",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Fuzan_Head.png",
+    "weight": 0,
+    "maxStackSize": 25,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Fuzan_Head.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Resources_Fuzan_Head.uasset"
+  },
+  {
+    "persistenceId": "PeVzmkAypE8k92yqKOvaDQ",
+    "name": "Glass Owl",
+    "rowName": "res_dr_glass_owl",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Audio.Glass.Pane"
+    ],
+    "icon": "T_Icon_Glass_Owl.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_Glass_Owl.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/ITEM_Quest_Glass_Owl.uasset"
+  },
+  {
+    "persistenceId": "Y2WogUE5ZiQMtuawA1-_Cg",
+    "name": "Key Fightcavekey A",
+    "rowName": "res_key_fightcavekey_a",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Mirror_Lens_of_Alcarrid.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resource_Key_FightCaveKey_A.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Resource_Key_FightCaveKey_A.uasset"
+  },
+  {
+    "persistenceId": "xGroCUd5KBipUW2PlHbwjQ",
+    "name": "Key Fightcavekey B",
+    "rowName": "res_key_fightcavekey_b",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Mirror_Lens_of_Alcarrid.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resource_Key_FightCaveKey_B.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Resource_Key_FightCaveKey_B.uasset"
+  },
+  {
+    "persistenceId": "4lMsdEwqu7pGlZy-MN7Stg",
+    "name": "Key Fightcavekey C",
+    "rowName": "res_key_fightcavekey_c",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Mirror_Lens_of_Alcarrid.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resource_Key_FightCaveKey_C.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Resource_Key_FightCaveKey_C.uasset"
+  },
+  {
+    "persistenceId": "nco3kk0etfy5uV-wpjoTvA",
+    "name": "Moonstone",
+    "rowName": "res_quest_ums_mainquest_moonstone",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Gemstone_Diamond_01.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_Mainquest_Moonstone.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_Mainquest_Moonstone.uasset"
+  },
+  {
+    "persistenceId": "mQeJ6kJZdcr49cGHQ1qcHw",
+    "name": "Pack Blackknighrewardpack",
+    "rowName": "item_pack_blackknighrewardpack",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "icon": "T_Icon_Pack_Zamorak_01.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_BlackKnightFortresssRewardPack1.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/ITEM_Consumable_BlackKnightFortresssRewardPack1.uasset"
+  },
+  {
+    "persistenceId": "nmMtNE2Oy_IpeN6_zLjSUw",
+    "name": "Pack Thinkingwithportalsbonuspack",
+    "rowName": "item_pack_thinkingwithportalsbonuspack",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "icon": "T_Icon_Resources_Garou_Pack.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_consumable_ThinkingWithPortalsBonusRewardPack.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/SideQuests/SQ1_PlayingWithPortals/ITEM_consumable_ThinkingWithPortalsBonusRewardPack.uasset"
+  },
+  {
+    "persistenceId": "UUugHUlLsNKWtHaaPp6jsQ",
+    "name": "Quest Ums Mainquest Campb Task1 01",
+    "rowName": "Quest_Item_UmS_Quest_CampB_Task1_01",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_MainQuest_CampB_Task1_01.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_MainQuest_CampB_Task1_01.uasset"
+  },
+  {
+    "persistenceId": "TnXdk0gPa8QrK9G3WRhe6Q",
+    "name": "Quest Ums Mainquest Campb Task1 02",
+    "rowName": "Quest_Item_UmS_Quest_CampB_Task1_02",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_MainQuest_CampB_Task1_02.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_MainQuest_CampB_Task1_02.uasset"
+  },
+  {
+    "persistenceId": "zJ8rdEHRXP7g_wuh0305HA",
+    "name": "Quest Ums Mainquest Campb Task1 03",
+    "rowName": "Quest_Item_UmS_Quest_CampB_Task1_03",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_MainQuest_CampB_Task1_03.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_MainQuest_CampB_Task1_03.uasset"
+  },
+  {
+    "persistenceId": "vp5Gn0c2SJ6mMpy6x8rZbw",
+    "name": "Quest Ums Mainquest Campb Task1 04",
+    "rowName": "Quest_Item_UmS_Quest_CampB_Task1_04",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_MainQuest_CampB_Task1_04.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_MainQuest_CampB_Task1_04.uasset"
+  },
+  {
+    "persistenceId": "SIm5j0PKY-H000WTgPzWmg",
+    "name": "Quest Ums Mainquest Campb Task1 05",
+    "rowName": "Quest_Item_UmS_Quest_CampB_Task1_05",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_MainQuest_CampB_Task1_05.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_MainQuest_CampB_Task1_05.uasset"
+  },
+  {
+    "persistenceId": "qGFy9kugI4GwPYajWcROAQ",
+    "name": "Quest Ums Mainquest Campb Task1 06",
+    "rowName": "Quest_Item_UmS_Quest_CampB_Task1_06",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_MainQuest_CampB_Task1_06.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_MainQuest_CampB_Task1_06.uasset"
+  },
+  {
+    "persistenceId": "EetXSUHXAB-DSEm9BBMYOQ",
+    "name": "Quest Ums Mainquest Campc Task3 01",
+    "rowName": "ITEM_Quest_UmS_MainQuest_CampC_Task3_01",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_MainQuest_CampC_Task3_01.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_MainQuest_CampC_Task3_01.uasset"
+  },
+  {
+    "persistenceId": "Yr1Ou0VTHguzlaG64LGBZg",
+    "name": "Quest Ums Mainquest Campc Task3 02",
+    "rowName": "ITEM_Quest_UmS_MainQuest_CampC_Task3_02",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_MainQuest_CampC_Task3_02.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_MainQuest_CampC_Task3_02.uasset"
+  },
+  {
+    "persistenceId": "poji_k3B57PCgjid0aNX-w",
+    "name": "Quest Ums Mainquest Campc Task3 03",
+    "rowName": "ITEM_Quest_UmS_MainQuest_CampC_Task3_03",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_MainQuest_CampC_Task3_03.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_MainQuest_CampC_Task3_03.uasset"
+  },
+  {
+    "persistenceId": "rYygi0Cfp9B446mUrP5ZrA",
+    "name": "Quest Ums Mainquest Campc Task3 04",
+    "rowName": "ITEM_Quest_UmS_MainQuest_CampC_Task3_04",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_MainQuest_CampC_Task3_04.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_MainQuest_CampC_Task3_04.uasset"
+  },
+  {
+    "persistenceId": "dzv930KrI8-krPyerIoQiA",
+    "name": "Quest Ums Mainquest Scroll1",
+    "rowName": "res_quest_ums_mainquest_scroll1",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_Mainquest_Scroll1.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_Mainquest_Scroll1.uasset"
+  },
+  {
+    "persistenceId": "ynovA0kL9ol5O8246rJL1g",
+    "name": "Quest Ums Mainquest Scroll2",
+    "rowName": "res_quest_ums_mainquest_scroll2",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_Mainquest_Scroll2.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_Mainquest_Scroll2.uasset"
+  },
+  {
+    "persistenceId": "B-hRIU5BZEAq13OzDpfLAQ",
+    "name": "Quest Ums Mainquest Scroll3",
+    "rowName": "res_quest_ums_mainquest_scroll3",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_Mainquest_Scroll3.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_Mainquest_Scroll3.uasset"
+  },
+  {
+    "persistenceId": "swrsCk48mGo467aEDf-WxA",
+    "name": "Quest Ums Mainquest Scroll4",
+    "rowName": "res_quest_ums_mainquest_scroll4",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_UmS_Mainquest_Scroll4.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Quest_UmS_Mainquest_Scroll4.uasset"
+  },
+  {
+    "persistenceId": "cLv5j0HjjATZ2FSMtJ2CSg",
+    "name": "Resources Dragonsheart",
+    "rowName": "res_ums_mainquest_dragon_heart",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Dragon_heart.png",
+    "weight": 0,
+    "maxStackSize": 25,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_DragonsHeart.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Resources_DragonsHeart.uasset"
+  },
+  {
+    "persistenceId": "48BYVkZfcyg3uoyx2hBHmQ",
+    "name": "Shadow Sword",
+    "rowName": "weap_masterwork_greatsword_gatekeeper",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Sword"
+    ],
+    "icon": "T_icon_Shadow_2H_Greatsword.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_DR_Main_Reforged_GreatSword_Gatekeeper.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/ITEM_DR_Main_Reforged_GreatSword_Gatekeeper.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_2H_Greatsword",
+      "primary": "PA_Attack_2H_Greatsword",
+      "special": "PA_Attack_2H_Greatsword_Special",
+      "specialName": "Barge"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Greatsword",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  },
+  {
+    "persistenceId": "hJyKREoYCuSo8E20uZBB9g",
+    "name": "Shard of the Dreaming Stone",
+    "rowName": "res_dreamstone_shard",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.BossSoul"
+    ],
+    "icon": "T_Icon_Dreamstone_Shard.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_Main_Dreamstone_Shard.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/ITEM_Quest_DR_Main_Dreamstone_Shard.uasset"
+  },
+  {
+    "persistenceId": "4z-8l0h5MJBHfpm2GOyiDw",
+    "name": "Tome of Attack - Vol 1",
+    "rowName": "tome_t1_attack",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Attack.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier1_Attack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier1_Attack.uasset"
+  },
+  {
+    "persistenceId": "x4yO1keTodki4u2fuVOFqA",
+    "name": "Tome of Attack - Vol 2",
+    "rowName": "tome_t2_attack",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Attack.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier2_Attack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier2_Attack.uasset"
+  },
+  {
+    "persistenceId": "xKjZUEBiIC72rFitwW4m6Q",
+    "name": "Tome of Construction - Vol 1",
+    "rowName": "tome_t1_construction",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Construction.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier1_Construction.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier1_Construction.uasset"
+  },
+  {
+    "persistenceId": "pwfJkkgr-BjVlw-gEXjXrw",
+    "name": "Tome of Construction - Vol 2",
+    "rowName": "tome_t2_construction",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Construction.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier2_Construction.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier2_Construction.uasset"
+  },
+  {
+    "persistenceId": "yxFSIE8VtUQs4c6l7eM_cw",
+    "name": "Tome of Cooking - Vol 1",
+    "rowName": "tome_t1_cooking",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Cooking.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier1_Cooking.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier1_Cooking.uasset"
+  },
+  {
+    "persistenceId": "xeKfT0nc_p4FcdSOi7korw",
+    "name": "Tome of Cooking - Vol 2",
+    "rowName": "tome_t2_cooking",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Dec_Skill_Tome_Standing_Cooking.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier2_Cooking.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier2_Cooking.uasset"
+  },
+  {
+    "persistenceId": "-c0ia0DAjcLPRlCGHFGi1A",
+    "name": "Tome of Farming - Vol 1",
+    "rowName": "tome_t1_farming",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Farming.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier1_Farming.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier1_Farming.uasset"
+  },
+  {
+    "persistenceId": "I7LcEEj5FmwWq3GNQclQrA",
+    "name": "Tome of Farming - Vol 2",
+    "rowName": "tome_t2_farming",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Dec_Skill_Tome_Standing_Farming.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier2_Farming.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier2_Farming.uasset"
+  },
+  {
+    "persistenceId": "2cTzA0DMigYJPoSk3U-WKw",
+    "name": "Tome of Magic - Vol 1",
+    "rowName": "tome_t1_magic",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Magic.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier1_Magic.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier1_Magic.uasset"
+  },
+  {
+    "persistenceId": "qubFp0_qYyO8K-mNKyS0GA",
+    "name": "Tome of Magic - Vol 2",
+    "rowName": "tome_t2_magic",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Dec_Skill_Tome_Standing_Magic.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier2_Magic.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier2_Magic.uasset"
+  },
+  {
+    "persistenceId": "NfrIoUsI1Obs-4KY7LuBkQ",
+    "name": "Tome of Mining - Vol 1",
+    "rowName": "tome_t1_mining",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Mining.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier1_Mining.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier1_Mining.uasset"
+  },
+  {
+    "persistenceId": "4xxJcEnzI6vYpCuDcVIhkw",
+    "name": "Tome of Mining - Vol 2",
+    "rowName": "tome_t2_mining",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Mining.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier2_Mining.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier2_Mining.uasset"
+  },
+  {
+    "persistenceId": "44ZDU03461OXgqSqIMb2IA",
+    "name": "Tome of Ranged - Vol 1",
+    "rowName": "tome_t1_ranged",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Ranged.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier1_Ranged.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier1_Ranged.uasset"
+  },
+  {
+    "persistenceId": "9pn4hkp6rYDf93WjY8uwbQ",
+    "name": "Tome of Ranged - Vol 2",
+    "rowName": "tome_t2_ranged",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Ranged.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier2_Ranged.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier2_Ranged.uasset"
+  },
+  {
+    "persistenceId": "U6OtnkxHtcHAIPy1kMGc8A",
+    "name": "Tome of Runecrafting - Vol 1",
+    "rowName": "tome_t1_runecrafting",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Runecrafting.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier1_Runecrafting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier1_Runecrafting.uasset"
+  },
+  {
+    "persistenceId": "A16R9EEWxwuqhsykRimejQ",
+    "name": "Tome of Runecrafting - Vol 2",
+    "rowName": "tome_t2_runecrafting",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Runecrafting.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier2_Runecrafting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier2_Runecrafting.uasset"
+  },
+  {
+    "persistenceId": "llpKZU92JhzHdva7AC5vqw",
+    "name": "Tome of the Artisan - Vol 1",
+    "rowName": "tome_t1_artisan",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Artisan.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier1_Artisan.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier1_Artisan.uasset"
+  },
+  {
+    "persistenceId": "Oom9EkKGmERNFOWbQDqK-A",
+    "name": "Tome of the Artisan - Vol 2",
+    "rowName": "tome_t2_artisan",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Artisan.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier2_Artisan.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier2_Artisan.uasset"
+  },
+  {
+    "persistenceId": "KlQuMkdkj3bNzr2LWvCBxw",
+    "name": "Tome of the Dragon Slayer",
+    "rowName": "tome_t0_dragonslayerquest",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Tome_of_the_Dragon_Slayer.png",
+    "weight": 6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier0_DragonSlayerQuest.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier0_DragonSlayerQuest.uasset"
+  },
+  {
+    "persistenceId": "9_oomElWmcQ3vDWxNIfvbA",
+    "name": "Tome of the Undying",
+    "rowName": "tome_t0_deathquestmain",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Tome_of_the_Dragon_Slayer.png",
+    "weight": 6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier0_DeathQuestMain.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier0_DeathQuestMain.uasset"
+  },
+  {
+    "persistenceId": "1lnRvU1YsQeoDdyR_9s6Ug",
+    "name": "Tome of Woodcutting - Vol 1",
+    "rowName": "tome_t1_woodcutting",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Woodcutting.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier1_Woodcutting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier1_Woodcutting.uasset"
+  },
+  {
+    "persistenceId": "7hpoTUnHdDAIftKIzaRVVA",
+    "name": "Tome of Woodcutting - Vol 2",
+    "rowName": "tome_t2_woodcutting",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Woodcutting.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier2_Woodcutting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier2_Woodcutting.uasset"
+  },
+  {
+    "persistenceId": "Pc6vpkbmfa3yXnaREyZM2g",
+    "name": "Tome T0 Blackknightsfortress",
+    "rowName": "tome_t0_blackknightsfortress",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_of_the_Titan.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier0_DR_Main.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/ITEM_Consumable_Tome_Tier0_DR_Main.uasset"
+  },
+  {
+    "persistenceId": "XOPTmkd3G8PAyA-7kTfWIA",
+    "name": "Tome T0 Umbralsands",
+    "rowName": "tome_t0_umbralsands",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_of_the_Volcano.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier0_UmS_MQ.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Quest/ITEM_Consumable_Tome_Tier0_UmS_MQ.uasset"
+  },
+  {
+    "persistenceId": "yuSAzUIjRFXpOg6HuCmWcQ",
+    "name": "Tome T1 Agility",
+    "rowName": "tome_t1_agility",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Agility.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier1_Agility.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Tomes/ITEM_Consumable_Tome_Tier1_Agility.uasset"
+  },
+  {
+    "persistenceId": "QwGXZE4nIZWUh2qSPgUq6g",
+    "name": "Tome T1 Fishing",
+    "rowName": "tome_t1_fishing",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Fishing.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier1_Fishing.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier1_Fishing.uasset"
+  },
+  {
+    "persistenceId": "48shkE6vr9QLm_ajg2t7aA",
+    "name": "Tome T2 Agility",
+    "rowName": "tome_t2_agility",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Skill_Tome_Agility.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier2_Agility.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Tomes/ITEM_Consumable_Tome_Tier2_Agility.uasset"
+  },
+  {
+    "persistenceId": "3d9m90smcTX4RZa0yDvsPA",
+    "name": "Tome T2 Fishing",
+    "rowName": "tome_t2_fishing",
+    "category": "KeysQuestJournal",
+    "subcategory": "Tomes",
+    "icon": "T_Icon_Dec_Skill_Tome_Standing_Fishing.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tome_Tier2_Fishing.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Consumables/Tomes/ITEM_Consumable_Tome_Tier2_Fishing.uasset"
+  },
+  {
+    "persistenceId": "iO8n7UBZaw3mT3m27D2frw",
+    "name": "Twilight Lily",
+    "rowName": "res_dr_sq3_midnight_lilly_leaves",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.BossSoul"
+    ],
+    "icon": "T_Icon_Midnight_Flower.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_SQ3_MidnightLillyLeaves.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/SideQuests/SQ3_Nevermore/ITEM_Quest_DR_SQ3_MidnightLillyLeaves.uasset"
+  },
+  {
+    "persistenceId": "XgIbvE39a-uFSJKWcwYDSA",
+    "name": "Unholy Water",
+    "rowName": "res_dr_sq3_holy_water",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.BossSoul"
+    ],
+    "icon": "T_Icon_Unholy_Water.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_DR_SQ3_HolyWater.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/SideQuests/SQ3_Nevermore/ITEM_Quest_DR_SQ3_HolyWater.uasset"
+  },
+  {
+    "persistenceId": "PGr-_U1RdW7DxSyRq38KHw",
+    "name": "Unusual Trout",
+    "rowName": "res_fish_unusualtrout_quest",
+    "category": "KeysQuestJournal",
+    "subcategory": "Quest",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Unusual_Trout.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_UnusualTrout_Quest.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/GoblinFishermen/ITEM_Resources_Fish_Raw_UnusualTrout_Quest.uasset"
+  }
+]

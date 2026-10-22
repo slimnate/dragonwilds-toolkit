@@ -1,0 +1,14 @@
+{
+  "ConfigTitle": "RSDragonwilds-StringTables",
+  "GamePath": "C:/Program Files (x86)/Steam/steamapps/common/RSDragonwilds/RSDragonwilds/Content/Paks",
+  "OutputPath": "",
+  "EngineVersion": "5.6",
+  "AesKeys": [],
+  "MappingFileName": "RSDragonwilds.usmap",
+  "CreateNewCheckpoint": false,
+  "ExportPaths": [
+    "RSDragonwilds/Content/Gameplay/Items/ST_.*\\.uasset:json",
+    "RSDragonwilds/Plugins/.*/Content/Gameplay/Items/ST_.*\\.uasset:json"
+  ],
+  "ExcludePaths": []
+}

@@ -1,0 +1,1272 @@
+[
+  {
+    "persistenceId": "FMg5OEJlI1iEkg2T4Bqmeg",
+    "name": "Adamant Logging Axe",
+    "rowName": "tool_logging_axe_adamant",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Hatchet"
+    ],
+    "icon": "T_Icon_LoggingAxe_Adamant_2H_01.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 2400,
+    "sourceAsset": "ITEM_Logging_Axe_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Hatchet/ITEM_Logging_Axe_Adamant.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Hatchet",
+      "special": "PA_Attack_Hatchet_Special"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3
+  },
+  {
+    "persistenceId": "B22wJkg_3gJt8S-OdZWx8Q",
+    "name": "Adamant Pickaxe",
+    "rowName": "tool_pick_adamant",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Pickaxe"
+    ],
+    "icon": "T_Icon_Pickaxe_Adamant_2H_01.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 2400,
+    "sourceAsset": "ITEM_Pickaxe_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Pickaxe/ITEM_Pickaxe_Adamant.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Pickaxe"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3
+  },
+  {
+    "persistenceId": "o9dCAkICXnpXlWixaRhq0Q",
+    "name": "Adamant Spade",
+    "rowName": "tool_spade_Adamant",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Shovel",
+      "Item.Farming.ShowProgress"
+    ],
+    "icon": "T_Icon_Shovel_Adamant_2H_01.png",
+    "weight": 5.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 750,
+    "sourceAsset": "ITEM_Spade_T7_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Shovel/ITEM_Spade_T7_Adamant.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3
+  },
+  {
+    "persistenceId": "DT6Cbkn3bNRQC4GPk-r6cA",
+    "name": "Adamant Warhammer",
+    "rowName": "weap_hammer_adamant",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Warhammer"
+    ],
+    "icon": "T_Icon_Warhammer_Adamant_2H_01.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Hammer_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Hammer/ITEM_Hammer_Adamant.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Warhammer",
+      "primary": "PA_Attack_2H_Hammer",
+      "special": "PA_Attack_2H_Hammer_Special"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Warhammer",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3,
+    "damageNegation": 66.0
+  },
+  {
+    "persistenceId": "N4AdMUxYQVnAKHy4JUROxg",
+    "name": "Adamant Watering Can",
+    "rowName": "tool_WateringCan_Adamant",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.WateringCan",
+      "Item.Farming.ShowProgress"
+    ],
+    "icon": "T_Icon_WateringCan_Adamant_2H_01.png",
+    "weight": 5.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_WateringCan_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Bucket/ITEM_WateringCan_Adamant.uasset",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3
+  },
+  {
+    "persistenceId": "Uk-6cE5TYIYCqPOZ1Oxgow",
+    "name": "Ash Rod",
+    "rowName": "tool_fishing_rod_ash",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Fishing.Rod"
+    ],
+    "icon": "T_Icon_Ash_Rod.png",
+    "weight": 1.5,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 120,
+    "sourceAsset": "ITEM_FishingRod_Ash.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingRod/ITEM_FishingRod_Ash.uasset",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9
+  },
+  {
+    "persistenceId": "kFhu-UO_M12vHueLm012eQ",
+    "name": "Blue Torch",
+    "rowName": "tool_torch_blue",
+    "category": "Tools",
+    "tags": [
+      "ItemFilter.Type.Equipment.Tool"
+    ],
+    "icon": "T_Icon_Torch_Flame_Blue.png",
+    "weight": 1.5,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 1800,
+    "sourceAsset": "ITEM_Torch_Blue.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Torch/ITEM_Torch_Blue.uasset",
+    "abilities": {
+      "block": "PA_Block_Torch"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0
+  },
+  {
+    "persistenceId": "Xs6AJ0up43qfLeG1fRqk4g",
+    "name": "Bone Pickaxe",
+    "rowName": "tool_pick_bone",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Pickaxe"
+    ],
+    "icon": "T_Icon_Pickaxe_Bone_2H_01.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 1350,
+    "sourceAsset": "ITEM_Pickaxe_Bone.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Pickaxe/ITEM_Pickaxe_Bone.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Pickaxe"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9
+  },
+  {
+    "persistenceId": "VBJg2XpMOEGTd6Qk9lB4Kw",
+    "name": "Bronze Logging Axe",
+    "rowName": "tools_logging_axe_bronze",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Hatchet"
+    ],
+    "icon": "T_Icon_LoggingAxe_Refined_2H_01.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1800,
+    "sourceAsset": "ITEM_Logging_Axe_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Hatchet/ITEM_Logging_Axe_Bronze.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Hatchet",
+      "special": "PA_Attack_Hatchet_Special"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8
+  },
+  {
+    "persistenceId": "V-CGfkBdlbxvc-6TkU-K_A",
+    "name": "Bronze Pickaxe",
+    "rowName": "tool_pick_bronze",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Pickaxe"
+    ],
+    "icon": "T_Icon_Pickaxe_Bronze_2H_01.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1800,
+    "sourceAsset": "ITEM_Pickaxe_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Pickaxe/ITEM_Pickaxe_Bronze.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Pickaxe"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8
+  },
+  {
+    "persistenceId": "FTGL4ElVrhJ4zSmGTWqSQw",
+    "name": "Bronze Spade",
+    "rowName": "tool_spade_Bronze",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Shovel",
+      "Item.Farming.ShowProgress"
+    ],
+    "icon": "T_icon_Bronze_Shovel.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 650,
+    "sourceAsset": "ITEM_Spade_T3_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Shovel/ITEM_Spade_T3_Bronze.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9
+  },
+  {
+    "persistenceId": "jUhzF0avp4bpepKSoz7H2A",
+    "name": "Bronze Warhammer",
+    "rowName": "weap_hammer_bronze",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Warhammer"
+    ],
+    "icon": "T_Icon_Warhammer_Bronze_2H_01.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Hammer_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Hammer/ITEM_Hammer_Bronze.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Warhammer",
+      "primary": "PA_Attack_2H_Hammer",
+      "special": "PA_Attack_2H_Hammer_Special"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Warhammer",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8,
+    "damageNegation": 39.0
+  },
+  {
+    "persistenceId": "IRhYFE04RuHPriOUTWp4Sg",
+    "name": "Bronze Watering Can",
+    "rowName": "tool_WateringCan_Bronze",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.WateringCan",
+      "Item.Farming.ShowProgress"
+    ],
+    "icon": "T_icon_Bronze_Watering_Can.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_WateringCan_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bucket/ITEM_WateringCan_Bronze.uasset",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8
+  },
+  {
+    "persistenceId": "37Thw0rQs9a6w5ykcz9QDw",
+    "name": "Coarse Net",
+    "rowName": "tool_fishing_net_coarse",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Fishing.Net"
+    ],
+    "icon": "T_Icon_Net_1_Course.png",
+    "weight": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 300,
+    "sourceAsset": "ITEM_FishingNet_CoarseNet.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingNet/CoarseNet/ITEM_FishingNet_CoarseNet.uasset",
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.9
+  },
+  {
+    "persistenceId": "8Ftd_kB5cANr16a6Bd8-OQ",
+    "name": "Compost Bucket",
+    "rowName": "tool_Bucket_Compost",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Bucket.Compost",
+      "Item.Farming.ShowProgress"
+    ],
+    "icon": "T_icon_Wooden_Bucket.png",
+    "weight": 5.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Bucket_Compost.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bucket/ITEM_Bucket_Compost.uasset",
+    "powerCurve": "Weapons"
+  },
+  {
+    "persistenceId": "Ve_85UMS9lL7i2OdRA2Zkw",
+    "name": "Desert Net",
+    "rowName": "tool_fishing_net_desert",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Fishing.Net"
+    ],
+    "icon": "T_Icon_Net_Desert.png",
+    "weight": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 500,
+    "sourceAsset": "ITEM_FishingNet_DesertNet.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/FishingNet/ITEM_FishingNet_DesertNet.uasset",
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3
+  },
+  {
+    "persistenceId": "Sf0E3UqE6GhMGk2XhghuJA",
+    "name": "Fine Net",
+    "rowName": "tool_fishing_net_fine",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Fishing.Net"
+    ],
+    "icon": "T_Icon_Net_3_Fine.png",
+    "weight": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 450,
+    "sourceAsset": "ITEM_FishingNet_FineNet.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingNet/LinenNet/ITEM_FishingNet_FineNet.uasset",
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4
+  },
+  {
+    "persistenceId": "yte2PUYaqeYZH02J_aviEg",
+    "name": "Granite Maul",
+    "rowName": "weap_granite_maul",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Warhammer"
+    ],
+    "icon": "T_Icon_Warhammer_Granite_Maul.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Hammer_GraniteMaul.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/UniqueWeapons/Hammer/GraniteMaul/ITEM_Hammer_GraniteMaul.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Warhammer",
+      "primary": "PA_Attack_Granite_Maul",
+      "special": "PA_Attack_Granite_Maul_Special",
+      "specialName": "Battering Ram"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8
+  },
+  {
+    "persistenceId": "cavaX0BAYR8kq-q5dx6ojg",
+    "name": "Green Torch",
+    "rowName": "tool_torch_green",
+    "category": "Tools",
+    "tags": [
+      "ItemFilter.Type.Equipment.Tool"
+    ],
+    "icon": "T_Icon_Torch_Flame_Green.png",
+    "weight": 1.5,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 1800,
+    "sourceAsset": "ITEM_Torch_Green.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Torch/ITEM_Torch_Green.uasset",
+    "abilities": {
+      "block": "PA_Block_Torch"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0
+  },
+  {
+    "persistenceId": "YvBVZjzx_UKN9z1wIPzlrA",
+    "name": "Iron Logging Axe",
+    "rowName": "tool_logging_axe_iron",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Hatchet"
+    ],
+    "icon": "T_Icon_LoggingAxe_Iron_2H_01.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 2400,
+    "sourceAsset": "ITEM_Logging_Axe_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Hatchet/ITEM_Logging_Axe_Iron.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Hatchet",
+      "special": "PA_Attack_Hatchet_Special"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1
+  },
+  {
+    "persistenceId": "VfaynRGcAkammV5YUusfbA",
+    "name": "Iron Pickaxe",
+    "rowName": "tool_pick_iron",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Pickaxe"
+    ],
+    "icon": "T_Icon_Pickaxe_Iron_2H_01.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 2100,
+    "sourceAsset": "ITEM_Pickaxe_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Pickaxe/ITEM_Pickaxe_Iron.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Pickaxe"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1
+  },
+  {
+    "persistenceId": "_zH6rkxCUB_Le9yGzumsmg",
+    "name": "Iron Secateurs",
+    "rowName": "tool_secateurs_iron",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Secateurs"
+    ],
+    "icon": "T_icon_Iron_Secateurs.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Secateurs_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Tools/ITEM_Secateurs_Iron.uasset",
+    "powerLevelInferred": true,
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1
+  },
+  {
+    "persistenceId": "o9zzhev_YEulDWv5D8vI3A",
+    "name": "Iron Warhammer",
+    "rowName": "weap_hammer_iron",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Warhammer"
+    ],
+    "icon": "T_Icon_Warhammer_Iron_2H_01.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Hammer_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Hammer/ITEM_Hammer_Iron.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Warhammer",
+      "primary": "PA_Attack_2H_Hammer",
+      "special": "PA_Attack_2H_Hammer_Special"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Warhammer",
+    "powerCurve": "Weapons",
+    "weaponPower": 4.1,
+    "damageNegation": 46.0
+  },
+  {
+    "persistenceId": "RbrpREuxQ5-x4LCvrfMRAg",
+    "name": "Large Compost Bucket",
+    "rowName": "tool_Bucket_Compost_Big",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Bucket.Compost",
+      "Item.Farming.ShowProgress"
+    ],
+    "icon": "T_Icon_Large_Compost_Bucket_New.png",
+    "weight": 6,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Bucket_Compost_Big.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bucket/ITEM_Bucket_Compost_Big.uasset",
+    "powerCurve": "Weapons"
+  },
+  {
+    "persistenceId": "3IJ8v0euxw1Jt4-UpbTFZQ",
+    "name": "Maple Rod",
+    "rowName": "tool_fishing_rod_maple",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Fishing.Rod"
+    ],
+    "icon": "T_Icon_Maple_Rod.png",
+    "weight": 1.5,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 260,
+    "sourceAsset": "ITEM_FishingRod_Maple.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingRod/ITEM_FishingRod_Maple.uasset",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8
+  },
+  {
+    "persistenceId": "Qy1xxEdt6crGaqGd5DVCCw",
+    "name": "Mithril Logging Axe",
+    "rowName": "tool_logging_axe_mithril",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Hatchet"
+    ],
+    "icon": "T_Icon_Mithril_Logging_Axe.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 2400,
+    "sourceAsset": "ITEM_Logging_Axe_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Hatchet/ITEM_Logging_Axe_Mithril.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Hatchet",
+      "special": "PA_Attack_Hatchet_Special"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8
+  },
+  {
+    "persistenceId": "MDWp7UesApT1kjqhUNoR4w",
+    "name": "Mithril Pickaxe",
+    "rowName": "tool_pick_mithril",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Pickaxe"
+    ],
+    "icon": "T_Icon_Mithril_Pickaxe.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 2400,
+    "sourceAsset": "ITEM_Pickaxe_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Pickaxe/ITEM_Pickaxe_Mithril.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Pickaxe"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8
+  },
+  {
+    "persistenceId": "kY3YrUjljLRP25mmWyGy2A",
+    "name": "Mithril Warhammer",
+    "rowName": "weap_hammer_mithril",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Warhammer"
+    ],
+    "icon": "T_Icon_Mithril_Warhammer.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Hammer_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Hammer/ITEM_Hammer_Mithril.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Warhammer",
+      "primary": "PA_Attack_2H_Hammer",
+      "special": "PA_Attack_2H_Hammer_Special"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Warhammer",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8,
+    "damageNegation": 59.0
+  },
+  {
+    "persistenceId": "w3WUqEtAH6GIClKLUR6EvQ",
+    "name": "Mystic Net",
+    "rowName": "tool_fishing_net_mystic",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Fishing.Net"
+    ],
+    "icon": "T_Icon_Net_4_Mystic.png",
+    "weight": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 500,
+    "sourceAsset": "ITEM_FishingNet_MysticNet.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingNet/MysticNet/ITEM_FishingNet_MysticNet.uasset",
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 6.8
+  },
+  {
+    "persistenceId": "Da0NWky2WMPeue-wemPzlQ",
+    "name": "Oak Rod",
+    "rowName": "tool_fishing_rod_oak",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Fishing.Rod"
+    ],
+    "icon": "T_Icon_Oak_Rod.png",
+    "weight": 1.5,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 180,
+    "sourceAsset": "ITEM_FishingRod_Oak.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingRod/ITEM_FishingRod_Oak.uasset",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8
+  },
+  {
+    "persistenceId": "EDycrUpzAak4n7Sm2-dlDg",
+    "name": "Purple Torch",
+    "rowName": "tool_torch_purple",
+    "category": "Tools",
+    "tags": [
+      "ItemFilter.Type.Equipment.Tool"
+    ],
+    "icon": "T_Icon_Torch_Flame_Purple.png",
+    "weight": 1.5,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 1800,
+    "sourceAsset": "ITEM_Torch_Purple.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Torch/ITEM_Torch_Purple.uasset",
+    "abilities": {
+      "block": "PA_Block_Torch"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0
+  },
+  {
+    "persistenceId": "tvX-eEp9LC3mHkyU_mhr3g",
+    "name": "Red Torch",
+    "rowName": "tool_torch_red",
+    "category": "Tools",
+    "tags": [
+      "ItemFilter.Type.Equipment.Tool"
+    ],
+    "icon": "T_Icon_Torch_Flame_Red.png",
+    "weight": 1.5,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 1800,
+    "sourceAsset": "ITEM_Torch_Red.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Torch/ITEM_Torch_Red.uasset",
+    "abilities": {
+      "block": "PA_Block_Torch"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0
+  },
+  {
+    "persistenceId": "z981l0V2fejPd36bf0-V3g",
+    "name": "Rune Logging Axe",
+    "rowName": "tool_logging_axe_rune",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Hatchet"
+    ],
+    "icon": "T_Icon_LoggingAxe_Rune_2H_01.png",
+    "weight": 5,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 2700,
+    "sourceAsset": "ITEM_Logging_Axe_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Hatchet/ITEM_Logging_Axe_Rune.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Hatchet",
+      "special": "PA_Attack_Hatchet_Special"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 9.8
+  },
+  {
+    "persistenceId": "o6_zoEc6AeJDki6DErW__Q",
+    "name": "Rune Pickaxe",
+    "rowName": "tool_pick_rune",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Pickaxe"
+    ],
+    "icon": "T_Icon_Pickaxe_Rune_2H_01.png",
+    "weight": 5,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 2700,
+    "sourceAsset": "ITEM_Pickaxe_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Pickaxe/ITEM_Pickaxe_Rune.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Pickaxe"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 9.8
+  },
+  {
+    "persistenceId": "Z_2OHUr47dPq84uXDmB-rQ",
+    "name": "Rune Spade",
+    "rowName": "tool_spade_rune",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Shovel",
+      "Item.Farming.ShowProgress"
+    ],
+    "icon": "T_Icon_Shovel_Rune_2H_01.png",
+    "weight": 5.5,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 800,
+    "sourceAsset": "ITEM_Spade_T8_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Shovel/ITEM_Spade_T8_Rune.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "powerCurve": "Weapons",
+    "weaponPower": 9.8
+  },
+  {
+    "persistenceId": "YBpMc01jcdU_HvWv3-UFwQ",
+    "name": "Rune Warhammer",
+    "rowName": "weap_hammer_rune",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Warhammer"
+    ],
+    "icon": "T_Icon_Warhammer_Rune_2H_01.png",
+    "weight": 25,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Hammer_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Hammer/ITEM_Hammer_Rune.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Warhammer",
+      "primary": "PA_Attack_2H_Hammer",
+      "special": "PA_Attack_2H_Hammer_Special"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Warhammer",
+    "powerCurve": "Weapons",
+    "weaponPower": 9.8,
+    "damageNegation": 72.0
+  },
+  {
+    "persistenceId": "lEsO2kH1SoUJLqu-hYZWkw",
+    "name": "Rune Watering Can",
+    "rowName": "tool_WateringCan_rune",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.WateringCan",
+      "Item.Farming.ShowProgress"
+    ],
+    "icon": "T_Icon_Watering_Can_Rune_2H_01.png",
+    "weight": 5.5,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "sourceAsset": "ITEM_WateringCan_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Bucket/ITEM_WateringCan_Rune.uasset",
+    "powerCurve": "Weapons",
+    "weaponPower": 9.8
+  },
+  {
+    "persistenceId": "t6PZE0lGoToPSDq_5wY90g",
+    "name": "Steel Logging Axe",
+    "rowName": "tool_logging_axe_steel",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Hatchet"
+    ],
+    "icon": "T_icon_Steel_Logging_Axe.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 2400,
+    "sourceAsset": "ITEM_Logging_Axe_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Hatchet/ITEM_Logging_Axe_Steel.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Hatchet",
+      "special": "PA_Attack_Hatchet_Special"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4
+  },
+  {
+    "persistenceId": "gnsOeUlUW-HZZv6kTQo2AQ",
+    "name": "Steel Pickaxe",
+    "rowName": "tool_pick_steel",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Pickaxe"
+    ],
+    "icon": "T_icon_Steel_Pickaxe.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 2100,
+    "sourceAsset": "ITEM_Pickaxe_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Pickaxe/ITEM_Pickaxe_Steel.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Pickaxe"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4
+  },
+  {
+    "persistenceId": "Rah78Usgu3iPhOCdFtjVmQ",
+    "name": "Steel Spade",
+    "rowName": "tool_spade_Steel",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Shovel",
+      "Item.Farming.ShowProgress"
+    ],
+    "icon": "T_icon_Steel_Shovel.png",
+    "weight": 5.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 700,
+    "sourceAsset": "ITEM_Spade_T5_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Shovel/ITEM_Spade_T5_Steel.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8
+  },
+  {
+    "persistenceId": "xHf190QoFqK2is6m53ViSQ",
+    "name": "Steel Warhammer",
+    "rowName": "weap_hammer_steel",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Warhammer"
+    ],
+    "icon": "T_icon_Steel_2H_Warhammer.png",
+    "weight": 25,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Hammer_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Hammer/ITEM_Hammer_Steel.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Warhammer",
+      "primary": "PA_Attack_2H_Hammer",
+      "special": "PA_Attack_2H_Hammer_Special"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "weaponFamily": "Warhammer",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4,
+    "damageNegation": 52.0
+  },
+  {
+    "persistenceId": "9FOjcUsCSkwoL6i8ln6M9g",
+    "name": "Steel Watering Can",
+    "rowName": "tool_WateringCan_Steel",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.WateringCan",
+      "Item.Farming.ShowProgress"
+    ],
+    "icon": "T_icon_Steel_Watering_Can.png",
+    "weight": 5.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "sourceAsset": "ITEM_WateringCan_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bucket/ITEM_WateringCan_Steel.uasset",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4
+  },
+  {
+    "persistenceId": "0NWm0hwPokOAgp0ux3ambA",
+    "name": "Stone Logging Axe",
+    "rowName": "tool_logging_axe_stone",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Hatchet"
+    ],
+    "icon": "T_Icon_LoggingAxe_Crude_2H_01.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 1200,
+    "sourceAsset": "ITEM_Logging_Axe_Stone.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Hatchet/ITEM_Logging_Axe_Stone.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Slash"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Hatchet",
+      "special": "PA_Attack_Hatchet_Special"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0
+  },
+  {
+    "persistenceId": "BcoOLIbLs0SLeM3EhJJXSw",
+    "name": "Stone Pickaxe",
+    "rowName": "tool_pick_stone",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Pickaxe"
+    ],
+    "icon": "T_Icon_Pickaxe_Stone_2H_01.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 1200,
+    "sourceAsset": "ITEM_Pickaxe_Stone.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Pickaxe/ITEM_Pickaxe_Stone.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_PickAxe",
+      "primary": "PA_Attack_Pickaxe"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0
+  },
+  {
+    "persistenceId": "lWGe1hSwiECAS9xhsMzJfg",
+    "name": "Torch",
+    "rowName": "tool_torch",
+    "category": "Tools",
+    "tags": [
+      "ItemFilter.Type.Equipment.Tool"
+    ],
+    "icon": "T_Icon_Tool_Torch.png",
+    "weight": 1.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 1800,
+    "sourceAsset": "ITEM_Torch.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Torch/ITEM_Torch.uasset",
+    "abilities": {
+      "block": "PA_Block_Torch"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0
+  },
+  {
+    "persistenceId": "d7VKQ0Pi4TZ60FSYIDUUxw",
+    "name": "TzHaar-Ket-Om",
+    "rowName": "weap_hammer_Tzhaarketom",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Weapon.2H.Warhammer"
+    ],
+    "icon": "T_Icon_Kothaar_Mace.png",
+    "weight": 25,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1200,
+    "sourceAsset": "ITEM_Hammer_TzhaarKetOm.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Hammer/ITEM_Hammer_TzhaarKetOm.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "abilities": {
+      "block": "PA_Block_Warhammer",
+      "special": "PA_Attack_2H_Hammer_Special_TzhaarKetOm",
+      "primary": "PA_Attack_2H_Hammer_Sprint_TzhaarKetOm"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Attack"
+    ],
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3
+  },
+  {
+    "persistenceId": "yxA67EjEbE--tVi4u0pn6A",
+    "name": "Undead Spade",
+    "rowName": "tool_spade_undead",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Shovel",
+      "Item.Farming.ShowProgress"
+    ],
+    "icon": "T_Icon_Undead_Shovel.png",
+    "weight": 5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 750,
+    "sourceAsset": "ITEM_Spade_T5_Undead.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Shovel/ITEM_Spade_T5_Undead.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4
+  },
+  {
+    "persistenceId": "zYF5UEyMqU2WVgSOdDak5g",
+    "name": "Willow Rod",
+    "rowName": "tool_fishing_rod_willow",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Fishing.Rod"
+    ],
+    "icon": "T_Icon_Willow_Rod.png",
+    "weight": 1.5,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 220,
+    "sourceAsset": "ITEM_FishingRod_Willow.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingRod/ITEM_FishingRod_Willow.uasset",
+    "powerCurve": "Weapons",
+    "weaponPower": 5.4
+  },
+  {
+    "persistenceId": "fgdBl0_xCWAS7oeytewVnA",
+    "name": "Wooden Spade",
+    "rowName": "tool_spade_wood",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Shovel",
+      "Item.Farming.ShowProgress"
+    ],
+    "icon": "T_icon_Wooden_Shovel.png",
+    "weight": 4.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 600,
+    "sourceAsset": "ITEM_Spade_T1_Wood.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Shovel/ITEM_Spade_T1_Wood.uasset",
+    "damageTypes": [
+      "DamageType.Physical.Crush"
+    ],
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0
+  },
+  {
+    "persistenceId": "KdTx0k1z9bKZ6EeFI_R9NA",
+    "name": "Wooden Watering Can",
+    "rowName": "tool_WateringCan_Wood",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.WateringCan",
+      "Item.Farming.ShowProgress"
+    ],
+    "icon": "T_icon_Wooden_Watering_Can.png",
+    "weight": 4.5,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_WateringCan_Wood.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Bucket/ITEM_WateringCan_Wood.uasset",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0
+  },
+  {
+    "persistenceId": "_IRKFUWopkHxJ9GcvXEWOQ",
+    "name": "Wool Net",
+    "rowName": "tool_fishing_net_wool",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Fishing.Net"
+    ],
+    "icon": "T_Icon_Net_2_Wool.png",
+    "weight": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 400,
+    "sourceAsset": "ITEM_FishingNet_WoolNet.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingNet/WoolNet/ITEM_FishingNet_WoolNet.uasset",
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 2.8
+  },
+  {
+    "persistenceId": "4HToFUaLj_Ld3-WFTaO-9w",
+    "name": "Yellow Torch",
+    "rowName": "tool_torch_yellow",
+    "category": "Tools",
+    "tags": [
+      "ItemFilter.Type.Equipment.Tool"
+    ],
+    "icon": "T_Icon_Torch_Flame_Yellow.png",
+    "weight": 1.5,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 1800,
+    "sourceAsset": "ITEM_Torch_Yellow.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Torch/ITEM_Torch_Yellow.uasset",
+    "abilities": {
+      "block": "PA_Block_Torch"
+    },
+    "equipmentKind": "held",
+    "powerCurve": "Weapons",
+    "weaponPower": 1.0
+  },
+  {
+    "persistenceId": "cvTs30mcwGGerfacjkJR0A",
+    "name": "Yew Rod",
+    "rowName": "tool_fishing_rod_yew",
+    "category": "Tools",
+    "tags": [
+      "Item.Equipment.Tool.Fishing.Rod"
+    ],
+    "icon": "T_Icon_Adamant_Yew_Fishing_Rod.png",
+    "weight": 1.5,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 260,
+    "sourceAsset": "ITEM_FishingRod_Yew.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/FishingRod/ITEM_FishingRod_Yew.uasset",
+    "powerCurve": "Weapons",
+    "weaponPower": 8.3
+  }
+]

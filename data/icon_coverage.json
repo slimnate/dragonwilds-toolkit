@@ -1,0 +1,112 @@
+{
+  "needed": 1036,
+  "copied": 1035,
+  "missing": 1,
+  "ambiguous": 12,
+  "resolved": 0,
+  "src": "C:\\Users\\Natha\\Documents\\dev\\rsdw-mods\\exports\\icons",
+  "out": "C:\\Users\\Natha\\Documents\\dev\\rsdw-mods\\data\\icons",
+  "missingIcons": [
+    "T_Icon_Rune_Earth_IconRemoved.png"
+  ],
+  "ambiguousIcons": [
+    {
+      "icon": "T_Icon_Anima_Wild_01.png",
+      "chosen": "RSDragonwilds\\Content\\Art\\UI\\Icons\\Start\\T_Icon_Anima_Wild_01.png",
+      "paths": [
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\Resources_09_24\\T_Icon_Anima_Wild_01.png",
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\Start\\T_Icon_Anima_Wild_01.png"
+      ]
+    },
+    {
+      "icon": "T_Icon_Fish_Beltfish.png",
+      "chosen": "RSDragonwilds\\Content\\Art\\UI\\Icons\\Icons_0_12_UmS\\Icons\\T_Icon_Fish_Beltfish.png",
+      "paths": [
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\Icons_0_12_UmS\\Icons\\T_Icon_Fish_Beltfish.png",
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\ScornedWilderness\\Icons\\T_Icon_Fish_Beltfish.png"
+      ]
+    },
+    {
+      "icon": "T_Icon_Fish_Beltfish_Cooked_Steamed.png",
+      "chosen": "RSDragonwilds\\Content\\Art\\UI\\Icons\\Icons_0_12_UmS\\Icons\\T_Icon_Fish_Beltfish_Cooked_Steamed.png",
+      "paths": [
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\Icons_0_12_UmS\\Icons\\T_Icon_Fish_Beltfish_Cooked_Steamed.png",
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\ScornedWilderness\\Icons\\T_Icon_Fish_Beltfish_Cooked_Steamed.png"
+      ]
+    },
+    {
+      "icon": "T_Icon_Fish_Desert_Sole.png",
+      "chosen": "RSDragonwilds\\Content\\Art\\UI\\Icons\\Icons_0_12_UmS\\Icons\\T_Icon_Fish_Desert_Sole.png",
+      "paths": [
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\Icons_0_12_UmS\\Icons\\T_Icon_Fish_Desert_Sole.png",
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\ScornedWilderness\\Icons\\T_Icon_Fish_Desert_Sole.png"
+      ]
+    },
+    {
+      "icon": "T_Icon_Fish_Desert_Sole_Cooked_Sunbaked.png",
+      "chosen": "RSDragonwilds\\Content\\Art\\UI\\Icons\\Icons_0_12_UmS\\Icons\\T_Icon_Fish_Desert_sole_Cooked_Sunbaked.png",
+      "paths": [
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\Icons_0_12_UmS\\Icons\\T_Icon_Fish_Desert_sole_Cooked_Sunbaked.png",
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\ScornedWilderness\\Icons\\T_Icon_Fish_Desert_Sole_Cooked_Sunbaked.png"
+      ]
+    },
+    {
+      "icon": "T_Icon_Fish_Monkfish.png",
+      "chosen": "RSDragonwilds\\Content\\Art\\UI\\Icons\\Icons_0_12_UmS\\Icons\\T_Icon_Fish_Monkfish.png",
+      "paths": [
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\Icons_0_12_UmS\\Icons\\T_Icon_Fish_Monkfish.png",
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\ScornedWilderness\\Icons\\T_Icon_Fish_Monkfish.png"
+      ]
+    },
+    {
+      "icon": "T_Icon_Health.png",
+      "chosen": "RSDragonwilds\\Content\\Art\\UI\\HUD\\VitalsBars\\T_Icon_Health.png",
+      "paths": [
+        "RSDragonwilds\\Content\\Art\\UI\\HUD\\Survival_Core\\T_Icon_Health.png",
+        "RSDragonwilds\\Content\\Art\\UI\\HUD\\VitalsBars\\T_Icon_Health.png",
+        "RSDragonwilds\\Content\\Art\\UI\\HUD\\Survival_Core\\Lifeward_Health_Stamina\\T_Icon_Health.png"
+      ]
+    },
+    {
+      "icon": "T_Icon_Lesser_Red_Potion.png",
+      "chosen": "RSDragonwilds\\Content\\Art\\UI\\Icons\\Potions\\T_Icon_Lesser_Red_Potion.png",
+      "paths": [
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\Potions\\T_Icon_Lesser_Red_Potion.png",
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\Potions\\Potion_Inventory_Big\\T_Icon_Lesser_Red_Potion.png"
+      ]
+    },
+    {
+      "icon": "T_Icon_Placeholder.png",
+      "chosen": "RSDragonwilds\\Content\\Art\\UI\\Icons\\Resources_ConceptArt\\T_Icon_Placeholder.png",
+      "paths": [
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\Resources_ConceptArt\\T_Icon_Placeholder.png",
+        "RSDragonwilds\\Plugins\\Marketplace\\MinimapPlugin\\Content\\Textures\\Icons\\T_Icon_Placeholder.png"
+      ]
+    },
+    {
+      "icon": "T_Icon_Rune_Fire.png",
+      "chosen": "RSDragonwilds\\Content\\Art\\UI\\Icons\\T_Icon_Rune_Fire.png",
+      "paths": [
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\T_Icon_Rune_Fire.png",
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\Resources_ConceptArt\\T_Icon_Rune_Fire.png"
+      ]
+    },
+    {
+      "icon": "T_Icon_Scroll.png",
+      "chosen": "RSDragonwilds\\Content\\Art\\UI\\Icons\\T_Icon_Scroll.png",
+      "paths": [
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\T_Icon_Scroll.png",
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\Icons_0_10_02\\T_Icon_Scroll.png"
+      ]
+    },
+    {
+      "icon": "T_Icon_Whetstone.png",
+      "chosen": "RSDragonwilds\\Content\\Art\\UI\\Icons\\Resources_ConceptArt\\T_Icon_Whetstone.png",
+      "paths": [
+        "RSDragonwilds\\Content\\Art\\UI\\Icons\\Resources_ConceptArt\\T_Icon_Whetstone.png",
+        "RSDragonwilds\\Content\\Art\\UI\\Skills\\2025\\Skill_Chargers\\T_Icon_Whetstone.png"
+      ]
+    }
+  ],
+  "resolvedIcons": []
+}

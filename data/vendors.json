@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "count": 3
+  },
+  "vendors": [
+    {
+      "tag": "Vendor.MoonGarou.Hawker",
+      "name": "Hawker"
+    },
+    {
+      "tag": "Vendor.MoonGarou.Smith",
+      "name": "Smith"
+    },
+    {
+      "tag": "Vendor.MoonGarou.Hunter",
+      "name": "Hunter"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "note": "Optional official world POIs. Path A (retoc to-legacy of L_World/_Generated_ + UAssetGUI tojson) yields actor names in RawExport blobs but no parseable RelativeLocation/world XYZ — transforms appear stripped or unversioned without a working decoder. Fill markers from a UE4SS live actor dump (Path B), then re-run npm run map:resources. Markers with the same categoryId within proximityUu of a MapGenie point replace it.",
+  "markers": []
+}

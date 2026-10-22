@@ -1,0 +1,4218 @@
+[
+  {
+    "persistenceId": "56queU2VGYTvp06IsYxZMw",
+    "name": "Antifire Potion",
+    "rowName": "potion_t3_antifire",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Buff_FocusedAntiFire.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_T3_Antifire.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_T3_Antifire.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "V_P_hkxHRGuHYuqytqOi_Q",
+    "name": "Antifire Potion",
+    "rowName": "potion_t4_antifire",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_Purple.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Potion_T4_Antifire_Super.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_T4_Antifire_Super.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "d0ZVvUZxpn4Miou-QrRG7w",
+    "name": "Antipoison I I",
+    "rowName": "potion_t4_antipoison",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_Green.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Potion_T4_Antipoison_Super.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_T4_Antipoison_Super.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "-oVBzksmuwIMiVWlc9G4aw",
+    "name": "Antipoison Potion",
+    "rowName": "potion_t3_antipoison",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Buff_FocusedAntiPoison.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_T3_Antipoison.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_T3_Antipoison.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "twHjF0oX62SopfSMJwt00g",
+    "name": "Arcane Infusion",
+    "rowName": "food_tea_stamina_reduction_magic",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Arcane_infusion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Stamina_Reduction_Magic.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Tea_Stamina_Reduction_Magic.uasset"
+  },
+  {
+    "persistenceId": "wgV3TEOkcYod4tGRdutHqg",
+    "name": "Baked Potato",
+    "rowName": "food_potato_jacket",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Resource_Baked_Potato.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potato_Jacket.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Potato_Jacket.uasset"
+  },
+  {
+    "persistenceId": "Lg6skUqRUr6NjjyUWJio7A",
+    "name": "Beef & Tomato Stew",
+    "rowName": "food_stew_beeftomato",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Beef_and_tomato_Stew.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Stew_BeefTomato.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Stew_BeefTomato.uasset"
+  },
+  {
+    "persistenceId": "efBZD03P0LoDkiCYPqaoVA",
+    "name": "Beltfish Broth",
+    "rowName": "food_beltfish_broth",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Sweet_Beltfish_Broth.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Beltfish_Broth.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Beltfish_Broth.uasset"
+  },
+  {
+    "persistenceId": "P9AaJUmKwNjQ_lWuDOGRTQ",
+    "name": "Berry Compote",
+    "rowName": "food_fruit_berry_compote",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Resource_Varrock_Hotpot.png",
+    "weight": 0.4,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fruit_Berry_Compote_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Fruit_Berry_Compote_OLD.uasset"
+  },
+  {
+    "persistenceId": "Bt9mnlMVnkipaZStzKEdmg",
+    "name": "Bittercap Mushroom",
+    "rowName": "food_mushroom",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Bittercap_Mushroom.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Mushroom.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Mushroom.uasset"
+  },
+  {
+    "persistenceId": "vzP_bUJb8zHLI2es0JjaHg",
+    "name": "Braised Armoured Catfish",
+    "rowName": "food_fish_armouredcatfish",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Braised_Catfish.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_ArmouredCatfish.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/ArmouredCatfish/ITEM_Consumable_Fish_ArmouredCatfish.uasset"
+  },
+  {
+    "persistenceId": "biWfkEtgD1vOwOyfePmcsw",
+    "name": "Braised Undead Eel",
+    "rowName": "food_fish_undeadeel",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Braised_Undead_Eel.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_UndeadEel.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/UndeadEel/ITEM_Consumable_Fish_UndeadEel.uasset"
+  },
+  {
+    "persistenceId": "sXt7z0fgUQNUKW69bItr-w",
+    "name": "Bread",
+    "rowName": "food_bread",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Bread.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Bread.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Bread.uasset"
+  },
+  {
+    "persistenceId": "x1MVSE9r2Po9v7ytXGJDGw",
+    "name": "Burnt Anchovies",
+    "rowName": "food_fish_anchovies_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Seared_Anchovy.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Anchovies_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Anchovies/ITEM_Consumable_Fish_Anchovies_Burnt.uasset"
+  },
+  {
+    "persistenceId": "6nOpPEfEVKthTA2bkCZ3pA",
+    "name": "Burnt Armoured Catfish",
+    "rowName": "food_fish_armouredcatfish_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Braised_Catfish.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_ArmouredCatfish_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/ArmouredCatfish/ITEM_Consumable_Fish_ArmouredCatfish_Burnt.uasset"
+  },
+  {
+    "persistenceId": "9aqFkEvmEomECT-OVRuLrQ",
+    "name": "Burnt Beltfish",
+    "rowName": "food_fish_beltfish_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Fish_Beltfish_Cooked_Steamed.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Beltfish_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Fish_Beltfish_Burnt.uasset"
+  },
+  {
+    "persistenceId": "2wDHZkZRqZP5P3eH8whXPg",
+    "name": "Burnt Bread",
+    "rowName": "food_bread_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Bread.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Bread_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Bread_Burnt.uasset"
+  },
+  {
+    "persistenceId": "C6qQW0EvfmEU_viIY32q5g",
+    "name": "Burnt Cabbage",
+    "rowName": "food_cabbage_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Fried_Cabbage.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Cabbage_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Cabbage_Burnt.uasset"
+  },
+  {
+    "persistenceId": "eP4Lj0re9u0Exa2wOWXl9A",
+    "name": "Burnt Cactus Steak",
+    "rowName": "food_cactus_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Cactus_Steak_Cooked.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Steak_Cactus_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Steak_Cactus_Burnt.uasset"
+  },
+  {
+    "persistenceId": "y7xRMkrIHbH_Ny-uQuUjDA",
+    "name": "Burnt Cadavaberries",
+    "rowName": "food_fruit_cadavaberry_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Dried_Cadaverberries.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Fruit_Cadavaberry_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Fruit_Cadavaberry_Burnt.uasset"
+  },
+  {
+    "persistenceId": "TDhD_EybzqHFvjmoX63P7w",
+    "name": "Burnt Desert Sole",
+    "rowName": "food_fish_desertsole_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Fish_Desert_Sole_Cooked_Sunbaked.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_DesertSole_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Fish_DesertSole_Burnt.uasset"
+  },
+  {
+    "persistenceId": "o-3rKkQUKC8olaWc0SljQg",
+    "name": "Burnt Dwellberries",
+    "rowName": "food_dwellberry_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Dried_Dwellberries.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Fruit_Dwellberry_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Fruit_Dwellberry_Burnt.uasset"
+  },
+  {
+    "persistenceId": "S2VJT0kN5V1UaoGPyQDShA",
+    "name": "Burnt Egg",
+    "rowName": "food_egg_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Fried_egg.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Egg_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Egg_Burnt.uasset"
+  },
+  {
+    "persistenceId": "yllgHEVevYQWCgidChNt1g",
+    "name": "Burnt Fillet",
+    "rowName": "food_fillet_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Resource_Cooked_bird_meat.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Meat_Fillet_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Meat_Fillet_Burnt.uasset"
+  },
+  {
+    "persistenceId": "m4B55EJCdkotk0KEocQ6jg",
+    "name": "Burnt Flank",
+    "rowName": "food_flank_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Flank_Steak.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Beast_Flank_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Beast_Flank_Burnt.uasset"
+  },
+  {
+    "persistenceId": "QM2wbkMx5_J54UmxE4rXqQ",
+    "name": "Burnt Giant Krill",
+    "rowName": "food_fish_giantkrill_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Dried_Krill.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_GiantKrill_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/GiantKrill/ITEM_Consumable_Fish_GiantKrill_Burnt.uasset"
+  },
+  {
+    "persistenceId": "RM7sjkfd1Xqn-8Or6rNxdQ",
+    "name": "Burnt Haunch",
+    "rowName": "food_haunch_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Deer_Meat_Burnt.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Meat_Haunch_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Meat_Haunch_Burnt.uasset"
+  },
+  {
+    "persistenceId": "Zy3nakqQmMhprnOaRf2cMQ",
+    "name": "Burnt Herring",
+    "rowName": "food_fish_herring_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Herring_Cooked_01.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Herring_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Herring/ITEM_Consumable_Fish_Herring_Burnt.uasset"
+  },
+  {
+    "persistenceId": "IkCdxUey1RxxbwaV7lSRvg",
+    "name": "Burnt Infernal Eel",
+    "rowName": "food_fish_infernaleel_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Smoked_Infernal_Eel.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_InfernalEel_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/InfernalEel/ITEM_Consumable_Fish_InfernalEel_Burnt.uasset"
+  },
+  {
+    "persistenceId": "VJfxJkvN9irHbmuNY6Ydcw",
+    "name": "Burnt Lobster",
+    "rowName": "food_fish_lobster_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Roast_Lobster.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Lobster_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Lobster/ITEM_Consumable_Fish_Lobster_Burnt.uasset"
+  },
+  {
+    "persistenceId": "tNmlCkWaQlxSRL-8PheVWw",
+    "name": "Burnt Maple Syrup",
+    "rowName": "food_syrup_maple_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Maple_Syrup.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Syrup_Maple_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Syrup_Maple_Burnt.uasset"
+  },
+  {
+    "persistenceId": "NzKk60boWGDHNlqpWauTCw",
+    "name": "Burnt Monkfish",
+    "rowName": "food_fish_monkfish_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Fish_Monkfish_Cooked_Fillets.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Monkfish_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Fish_Monkfish_Burnt.uasset"
+  },
+  {
+    "persistenceId": "lI4zAkyhtQZQlV-8jh1CpA",
+    "name": "Burnt Mushroom",
+    "rowName": "food_mushroom_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Grilled_Mushrooms.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Mushroom_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Mushroom_Burnt.uasset"
+  },
+  {
+    "persistenceId": "KeCpwk28n4LHrHqsptOIHg",
+    "name": "Burnt Onion",
+    "rowName": "food_onion_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Fried_Onions.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Onion_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Onion_Burnt.uasset"
+  },
+  {
+    "persistenceId": "FahQp0v2g1hVGVeYFfGXNw",
+    "name": "Burnt Peach",
+    "rowName": "food_peach_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Dried_peach.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Fruit_Peach_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Fruit_Peach_Burnt.uasset"
+  },
+  {
+    "persistenceId": "S5Ekb0vJkGcCBTWlV5Ie7g",
+    "name": "Burnt Potato",
+    "rowName": "food_potato_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Resource_Baked_Potato.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potato_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Potato_Burnt.uasset"
+  },
+  {
+    "persistenceId": "n8pSqEJCBDGqd3ukRXQVrw",
+    "name": "Burnt Pumpkin",
+    "rowName": "food_pumpkin_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Roasted_Pumkin.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Pumpkin_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Pumpkin_Burnt.uasset"
+  },
+  {
+    "persistenceId": "YPxUfkgrbaDlMGa0aQBgfw",
+    "name": "Burnt Rat Roast",
+    "rowName": "food_rat_roast_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Rat_roast.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Meat_Rat_Roast_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Meat_Rat_Roast_Burnt.uasset"
+  },
+  {
+    "persistenceId": "ArdDhUW3LRqTHQG2zu5UYg",
+    "name": "Burnt Redberries",
+    "rowName": "food_redberry_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Dried_Redberries.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Fruit_Redberry_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Fruit_Redberry_Burnt.uasset"
+  },
+  {
+    "persistenceId": "wT-I-EoQ-aRWF3aA-E5r6A",
+    "name": "Burnt Salmon",
+    "rowName": "food_fish_salmon_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Fried_Salmon.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Salmon_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Salmon/ITEM_Consumable_Fish_Salmon_Burnt.uasset"
+  },
+  {
+    "persistenceId": "jn2zDED30XbZcWyCAZzVdw",
+    "name": "Burnt Sardine",
+    "rowName": "food_fish_sardine_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Fried_Sardine.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Sardine_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Sardine/ITEM_Consumable_Fish_Sardine_Burnt.uasset"
+  },
+  {
+    "persistenceId": "zp--Mk1bKmNrgta5rps8_w",
+    "name": "Burnt Shrimp",
+    "rowName": "food_fish_shrimp_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Sauteed_Shrimp.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Shrimp_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Shrimp/ITEM_Consumable_Fish_Shrimp_Burnt.uasset"
+  },
+  {
+    "persistenceId": "OcXO909VQEKBY16kWc3G9Q",
+    "name": "Burnt Steak",
+    "rowName": "food_steak_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Resource_Seared_Farm_Meat.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Farm_Steak_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Farm_Steak_Burnt.uasset"
+  },
+  {
+    "persistenceId": "Cnqff0Rv5kfQht2qDEdYJg",
+    "name": "Burnt Tomato",
+    "rowName": "food_tomato_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Grilled_Tomato.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Tomato_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Tomato_Burnt.uasset"
+  },
+  {
+    "persistenceId": "_om5V0gAREHL_riaA84msg",
+    "name": "Burnt Trout",
+    "rowName": "food_fish_trout_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Grilled_Trout.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Trout_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Trout/ITEM_Consumable_Fish_Trout_Burnt.uasset"
+  },
+  {
+    "persistenceId": "9jwE1UW2633ZPXS-CKpb8g",
+    "name": "Burnt Undead Bass",
+    "rowName": "food_fish_undeadbass_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Grilled_Undead_Bass.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_UndeadBass_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/UndeadBass/ITEM_Consumable_Fish_UndeadBass_Burnt.uasset"
+  },
+  {
+    "persistenceId": "ia_2SET9F7Y1YeSYzJfxJw",
+    "name": "Burnt Undead Eel",
+    "rowName": "food_fish_undeadeel_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Braised_Undead_Eel.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_UndeadEel_Burnt.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/UndeadEel/ITEM_Consumable_Fish_UndeadEel_Burnt.uasset"
+  },
+  {
+    "persistenceId": "vdz5gURsII92tQaXERfDsg",
+    "name": "Burnt Undead Steak",
+    "rowName": "food_steak_undead_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Cooked_Undead_meat.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Steak_Undead_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Steak_Undead_Burnt.uasset"
+  },
+  {
+    "persistenceId": "atK88UfDNGTVALumf_S7yw",
+    "name": "Burnt Watermelon",
+    "rowName": "food_watermelon_burnt",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Watermelon_Jerky.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Watermelon_Burnt.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Watermelon_Burnt.uasset"
+  },
+  {
+    "persistenceId": "Hq4CrUEukmw8b7i4xolVRg",
+    "name": "BurntTrout",
+    "rowName": "food_fish_trout_burnt_quest",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish",
+      "Item.Status.Burnt"
+    ],
+    "icon": "T_Icon_Unusual_Trout.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Fish_Trout_Burnt_QUEST.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/GoblinFishermen/ITEM_Consumable_Fish_Trout_Burnt_QUEST.uasset"
+  },
+  {
+    "persistenceId": "EHN6Hs9NFkur7chZVfchJg",
+    "name": "Cabbage",
+    "rowName": "food_cabbage",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.Compostable",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Resource_Cabbage.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Cabbage.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Cabbage.uasset"
+  },
+  {
+    "persistenceId": "Pek92ERqvxrFO_Gh7xufqA",
+    "name": "Cadavaberries",
+    "rowName": "food_fruit_cadavaberry",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.CompostableSuper",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Cadavaberries.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Fruit_Cadavaberry.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Fruit_Cadavaberry.uasset"
+  },
+  {
+    "persistenceId": "yhTo-0sFyMXGYMWrwVpQ7Q",
+    "name": "Cadaveberry Infusion",
+    "rowName": "food_tea_cadavaberry",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Cadavaberry_infusion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Cadavaberry.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Tea_Cadavaberry.uasset"
+  },
+  {
+    "persistenceId": "XMOdf0Zc5L04hfSCIdpybA",
+    "name": "Cauterised Undead Steak",
+    "rowName": "food_steak_undead",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Cooked_Undead_meat.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Steak_Undead.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Steak_Undead.uasset"
+  },
+  {
+    "persistenceId": "ZbaFNUQBjcQFiBmssky-4g",
+    "name": "Challenge Horn Mouthpiece",
+    "rowName": "res_horn_mouthpiece",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Resource"
+    ],
+    "icon": "T_Masterworks_Horn_Mouthpiece.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Masterworks_Horn_Mouthpiece.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Masterworks_Horn_Mouthpiece.uasset"
+  },
+  {
+    "persistenceId": "woAWUkDJFS_g2Y-viCDznQ",
+    "name": "Cheeky Fryup",
+    "rowName": "food_fryup_cheeky",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Cheeky_fry_up.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fryup_Cheeky.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Fryup_Cheeky.uasset"
+  },
+  {
+    "persistenceId": "hKYyX0vQ_pgLRAi2ugGK3w",
+    "name": "Clean Water",
+    "rowName": "food_water_clean",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Clean_Water.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Water_Clean.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Water_Clean.uasset"
+  },
+  {
+    "persistenceId": "1W9M4kzOBiqjMGulPcHr4A",
+    "name": "Consumable Berrydrizzle Pan-Seared",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Berry_Drizzle_Pan_Seared.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_BerryDrizzle_Pan-Seared.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Consumables/Food/ITEM_Consumable_BerryDrizzle_Pan-Seared.uasset"
+  },
+  {
+    "persistenceId": "xii8Q0dRJsnevvKv1g2bNQ",
+    "name": "Dirty Water",
+    "rowName": "food_water_dirty",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Dirty_Water.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Water_Dirty.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Water_Dirty.uasset"
+  },
+  {
+    "persistenceId": "TODWPUpA_YR0EnaqhMstcQ",
+    "name": "Divine Cabbage",
+    "rowName": "food_divine_cabbage",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Food_Cabbage.png",
+    "weight": 0.7,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_divine_cabbage_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_divine_cabbage_OLD.uasset"
+  },
+  {
+    "persistenceId": "wmCh2EyCLaKL77eM21cPww",
+    "name": "Dried Cadavaberries",
+    "rowName": "food_fruit_cadavaberry_dried",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Dried_Cadaverberries.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Fruit_Dried_Cadavaberry.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Fruit_Dried_Cadavaberry.uasset"
+  },
+  {
+    "persistenceId": "QpxVI0bu8fcLkpuM7HrEaw",
+    "name": "Dried Dwellberries",
+    "rowName": "food_fruit_dried_dwellberry",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Dried_Dwellberries.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Fruit_Dried_Dwellberry.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Fruit_Dried_Dwellberry.uasset"
+  },
+  {
+    "persistenceId": "8AUpS0Crn3fVrAOoMWgXkQ",
+    "name": "Dried Giant Krill",
+    "rowName": "food_fish_giantkrill",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Dried_Krill.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_GiantKrill.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/GiantKrill/ITEM_Consumable_Fish_GiantKrill.uasset"
+  },
+  {
+    "persistenceId": "QhL0n0vYFVaK0Jyu0N96vg",
+    "name": "Dried Peach",
+    "rowName": "food_fruit_peach_dried",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Dried_peach.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Fruit_Peach_Dried.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Fruit_Peach_Dried.uasset"
+  },
+  {
+    "persistenceId": "sGZHV0IIuJLCDIyGNNBMbA",
+    "name": "Dried Redberries",
+    "rowName": "food_fruit_dried_redberry",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Dried_Redberries.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Fruit_Dried_Redberry.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Fruit_Dried_Redberry.uasset"
+  },
+  {
+    "persistenceId": "PNna20ypp8utF-KAq0xgTA",
+    "name": "Dubious Meat Pie",
+    "rowName": "food_pie_meat_dubious",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Dubious_meat_pie.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Pie_Meat_Dubious.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Pie_Meat_Dubious.uasset"
+  },
+  {
+    "persistenceId": "eCBq3UiiNADih26zDQBTVQ",
+    "name": "Dwellberries",
+    "rowName": "food_fruit_dwellberry",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.Compostable",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Dwellberries.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Fruit_Dwellberry.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Fruit_Dwellberry.uasset"
+  },
+  {
+    "persistenceId": "TitYzk-CcDdnIrGzbUT7hg",
+    "name": "Dwellberry Crunchies",
+    "rowName": "food_crunchies_dwellberry_old",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Dwellberry_Crunchies.png",
+    "weight": 0.6,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Crunchies_Dwellberry_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Crunchies_Dwellberry_OLD.uasset"
+  },
+  {
+    "persistenceId": "08JlYEx5Tw0YVv-VhX8dmw",
+    "name": "Dwellberry Crunchies",
+    "rowName": "food_crunchies_dwellberry",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Dwellberry_Crunchies.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Crunchies_Dwellberry.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Crunchies_Dwellberry.uasset"
+  },
+  {
+    "persistenceId": "KxVJGk9-oaTznrKsVgwMPQ",
+    "name": "Dwellberry Glazed Roast Flank",
+    "rowName": "food_glazed_dwellberry_roast_flank",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Dwellberry_Glazed_Flank.png",
+    "weight": 1.2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Glazed_Dwellberry_Roast_Flank_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Glazed_Dwellberry_Roast_Flank_OLD.uasset"
+  },
+  {
+    "persistenceId": "Fy-bB0PP2zL0eQ6MBRBfrg",
+    "name": "Dwellberry Glazed Roast Meat",
+    "rowName": "food_glazed_dwellberry_roast_meat",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Dwellberry_Glazed_Roast_Meat.png",
+    "weight": 1.2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Glazed_Dwellberry_Roast_Meat_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Glazed_Dwellberry_Roast_Meat_OLD.uasset"
+  },
+  {
+    "persistenceId": "-jEah0znNr-2UVmbHK-Hqg",
+    "name": "Dwellberry Infusion",
+    "rowName": "food_tea_dwellberry",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Dwellberry_Infusion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Dwellberry_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Tea_Dwellberry_OLD.uasset"
+  },
+  {
+    "persistenceId": "x0HE4knFLcQj2sGI_4fYAA",
+    "name": "Dwellberry Infusion",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Dwellberry_Infusion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Dwellberry.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Tea_Dwellberry.uasset"
+  },
+  {
+    "persistenceId": "rRqyCURhyronhl-sJzypDQ",
+    "name": "Egg",
+    "rowName": "res_egg",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "Item.Food"
+    ],
+    "icon": "T_Resources_Egg.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Resources_Egg.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Egg.uasset"
+  },
+  {
+    "persistenceId": "Q6x_W0jhgHvuqe-u6-PW-g",
+    "name": "Eggs Royale",
+    "rowName": "food_eggs_royale",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Eggs_Royale.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Eggs_Royale.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Consumables/Food/ITEM_Consumable_Eggs_Royale.uasset"
+  },
+  {
+    "persistenceId": "cZ6va0BSo6_5Dg2Pi23lUQ",
+    "name": "Evasive Infusion",
+    "rowName": "food_tea_stamina_reduction_dodge",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Wild_Reflex_Infusion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Stamina_Reduction_Dodge.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Tea_Stamina_Reduction_Dodge.uasset"
+  },
+  {
+    "persistenceId": "WihyWUT7MXzWxMmP2z3dhg",
+    "name": "Farming Potion",
+    "rowName": "tool_farming_potion",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "tags": [
+      "ItemFilter.Type.Consumable.Potion"
+    ],
+    "weight": 1,
+    "maxStackSize": 20,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Potion.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Deleted/ITEM_Farming_Potion.uasset",
+    "equipmentKind": "held",
+    "powerCurve": "Weapons"
+  },
+  {
+    "persistenceId": "igveHUWYg2AeXe69EwW1PA",
+    "name": "Ferocious Infusion",
+    "rowName": "food_tea_stamina_reduction_attack_ranged_magic",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Predators_Infusion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Stamina_Reduction_Attack_Ranged_Magic.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/Beverages/ITEM_Consumable_Tea_Stamina_Reduction_Attack_Ranged_Magic.uasset"
+  },
+  {
+    "persistenceId": "F92_I0JuQtcVUGeHNkKn_g",
+    "name": "Ferocious Infusion",
+    "rowName": "food_tea_stamina_reduction_attack",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Predators_Infusion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Stamina_Reduction_Attack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Tea_Stamina_Reduction_Attack.uasset"
+  },
+  {
+    "persistenceId": "TBfPmUBQqV_F0pCG34_XkQ",
+    "name": "Fillet",
+    "rowName": "food_fillet_from_bird",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Resource_Cooked_bird_meat.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Meat_Fillet.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Meat_Fillet.uasset"
+  },
+  {
+    "persistenceId": "SkrumkIe7Slbyge9rHNnOA",
+    "name": "Fish Fry",
+    "rowName": "food_fish_fry",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Fish_Fry.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Fry.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Consumables/Food/ITEM_Consumable_Fish_Fry.uasset"
+  },
+  {
+    "persistenceId": "NeMd5ktRmFW1ZWqnCwsxKA",
+    "name": "Flank Steak",
+    "rowName": "food_flank",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Flank_Steak.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Beast_Flank.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Beast_Flank.uasset"
+  },
+  {
+    "persistenceId": "PZdR5E2sYqyUe-2JgBsCfA",
+    "name": "Fleet-Footed Infusion",
+    "rowName": "food_tea_stamina_reduction_sprint",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Fleet_Footed_Infusion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Stamina_Reduction_Sprint.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Tea_Stamina_Reduction_Sprint.uasset"
+  },
+  {
+    "persistenceId": "O3DuSEokXuaKPYGrNvVlwA",
+    "name": "Focused Artisan Potion",
+    "rowName": "potion_focused_t3_artisan",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Buff_FocusedArtisan.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T3_Artisan.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T3_Artisan.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "RomgrUiURBzTRI28nkVp8A",
+    "name": "Focused Attack Potion",
+    "rowName": "potion_focused_t3_attack",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Buff_FocusedAttack.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T3_Attack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T3_Attack.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "MbWSZkyQnryh54WAtlg-xQ",
+    "name": "Focused Construction Potion",
+    "rowName": "potion_focused_t3_construction",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Buff_FocusedConstruction.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T3_Construction.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T3_Construction.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "6AFNZUiBh0PlXGeGU_SqOg",
+    "name": "Focused Construction Potion",
+    "rowName": "potion_focused_t4_construction",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_Blue.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T4_Construction_Super.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_Focused_T4_Construction_Super.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "_nUun0yU3ymRFRq8DWWDQA",
+    "name": "Focused Cooking Potion",
+    "rowName": "potion_focused_t3_cooking",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Buff_FocusedCooking.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T3_Cooking.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T3_Cooking.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "-kNFWkMMc8GUHZW1VaElAg",
+    "name": "Focused Farming Potion",
+    "rowName": "potion_focused_t3_farming",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Buff_LesserFocusedFarming.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T3_Farming.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T3_Farming.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "t1k7T0TV-Lou_TGjFa7tdQ",
+    "name": "Focused Mining Potion",
+    "rowName": "potion_focused_t3_mining",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Buff_FocusedMining.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T3_Mining.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T3_Mining.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "39PNfE4HZA4y90yp0QkUQw",
+    "name": "Focused Runecrafting Potion",
+    "rowName": "potion_focused_t3_runecrafting",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Buff_FocusedRunecrafting.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T3_Runecrafting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T3_Runecrafting.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "MF-P00gAgcMX_ZGw_Yv9yA",
+    "name": "Focused Runecrafting Potion",
+    "rowName": "potion_focused_t4_runecrafting",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_Purple.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T4_Runecrafting_Super.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_Focused_T4_Runecrafting_Super.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "7w8X70Js0v6MxTenuDRGSg",
+    "name": "Focused T1 Weak Agility",
+    "rowName": "potion_focused_t1_weak_agility",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_Red_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T1_Weak_Agility.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Potions/ITEM_Consumable_Potion_Focused_T1_Weak_Agility.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "ZIgMT0CVKKcQf5-LSkqb-Q",
+    "name": "Focused T1 Weak Fishing",
+    "rowName": "potion_focused_t1_weak_fishing",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_Turquoise_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T1_Weak_Fishing.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T1_Weak_Fishing.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "-AnBxkV80dPyh1CuYCzItg",
+    "name": "Focused T3 Agility",
+    "rowName": "potion_focused_t3_agility",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Buff_LesserFocusedAgility.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T3_Agility.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Potions/ITEM_Consumable_Potion_Focused_T3_Agility.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "2xp9tUh_CS1H_R6om2FRWQ",
+    "name": "Focused T3 Fishing",
+    "rowName": "potion_focused_t3_fishing",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Buff_FocusedFishing.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T3_Fishing.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T3_Fishing.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "5W0u3UEzvfFQbZ2YQj717g",
+    "name": "Focused T4 Attack",
+    "rowName": "potion_focused_t4_attack",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_Yellow.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T4_Attack_Super.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_Focused_T4_Attack_Super.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "ywGtfkLpbS4vyWiQpFmNRA",
+    "name": "Focused T4 Mining",
+    "rowName": "potion_focused_t4_mining",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_Orange.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T4_Mining_Super.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_Focused_T4_Mining_Super.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "WtYl3UJM-qk92JOuu7c7rg",
+    "name": "Focused Woodcutting Potion",
+    "rowName": "potion_focused_t3_woodcutting",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Buff_FocusedWoodcutting.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T3_Woodcutting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T3_Woodcutting.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "vV8SLUe7aJRPwiOXq4uKiw",
+    "name": "Focused Woodcutting Potion",
+    "rowName": "potion_focused_t4_woodcutting",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_Green.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T4_Woodcutting_Super.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_Focused_T4_Woodcutting_Super.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "-OS_Ykn42MiPUQm0trK0mA",
+    "name": "Forager's Sandwich",
+    "rowName": "food_sandwich_veggie",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Sandwich_Veggie.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Sandwich_Veggie.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Sandwich_Veggie.uasset"
+  },
+  {
+    "persistenceId": "KC5DW0XcQiikzPymCSlVZQ",
+    "name": "Fortifying Crunchies",
+    "rowName": "food_crunchies_fortifying",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Fortifying_Crunchies.png",
+    "weight": 0.6,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Crunchies_Fortifying_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Crunchies_Fortifying_OLD.uasset"
+  },
+  {
+    "persistenceId": "O9t9Kknjb4lXvNKsNl7Vrg",
+    "name": "Fortifying Soup",
+    "rowName": "food_soup_fortifying",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Fortifying_Soup.png",
+    "weight": 0.8,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Soup_Fortifying_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Soup_Fortifying_OLD.uasset"
+  },
+  {
+    "persistenceId": "Xq3aqE2osbcagCKBy8A_kg",
+    "name": "Fortifying Stew",
+    "rowName": "food_stew_fortifying",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Fortifying_Stew.png",
+    "weight": 1.4,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Stew_Fortifying_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Stew_Fortifying_OLD.uasset"
+  },
+  {
+    "persistenceId": "DQdI2EZLlP0EJB2C6_R28w",
+    "name": "Fried Cabbage",
+    "rowName": "food_cabbage_fried",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Fried_Cabbage.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Cabbage_Fried.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Cabbage_Fried.uasset"
+  },
+  {
+    "persistenceId": "F1bM9Uvl1eIYiOmstBB_Qg",
+    "name": "Fried Egg",
+    "rowName": "food_egg_fried",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Fried_egg.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Egg_Fried.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Egg_Fried.uasset"
+  },
+  {
+    "persistenceId": "yEEiukHPM7htB4WeWEXeWg",
+    "name": "Fried Onions",
+    "rowName": "food_onion_fried",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Fried_Onions.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Onion_Fried.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Onion_Fried.uasset"
+  },
+  {
+    "persistenceId": "0Ecw6kronfsu_oK1fE3rCg",
+    "name": "Fried Salmon",
+    "rowName": "food_fish_salmon",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Fried_Salmon.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Salmon.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Salmon/ITEM_Consumable_Fish_Salmon.uasset"
+  },
+  {
+    "persistenceId": "MIMLxUNibUMJjheTS3ppzQ",
+    "name": "Fried Sardine",
+    "rowName": "food_fish_sardine",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Fried_Sardine.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Sardine.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Sardine/ITEM_Consumable_Fish_Sardine.uasset"
+  },
+  {
+    "persistenceId": "i8oivkt7LRX5FSm2hBJC_A",
+    "name": "Fruit Pie",
+    "rowName": "food_pie_fruit",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Fruit_pie.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Pie_Fruit.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Pie_Fruit.uasset"
+  },
+  {
+    "persistenceId": "2n1dCkUcVAbIIXGM5w7BOQ",
+    "name": "Glazed Pumpkin Sandwich",
+    "rowName": "food_sandwich_glazed_pumpkin_roast",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Sandwich_Glazed_Pumpkin_Roast.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Sandwich_Glazed_Pumpkin_Roast.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Sandwich_Glazed_Pumpkin_Roast.uasset"
+  },
+  {
+    "persistenceId": "ftNa7ksUxtKfXxixt-o_8w",
+    "name": "Grilled Mushrooms",
+    "rowName": "food_mushroom_grilled",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Grilled_Mushrooms.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Mushroom_Grilled.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Mushroom_Grilled.uasset"
+  },
+  {
+    "persistenceId": "NyjLt0Sz3UzrqKWOZpiYmw",
+    "name": "Grilled Tomatoes",
+    "rowName": "food_tomato_grilled",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Grilled_Tomato.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Tomato_Grilled.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Tomato_Grilled.uasset"
+  },
+  {
+    "persistenceId": "rWBJXE0R1i0I_muWFNMOnQ",
+    "name": "Grilled Trout",
+    "rowName": "food_fish_trout_quest",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Unusual_Trout.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Fish_Trout_QUEST.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Quest/Main/GoblinFishermen/ITEM_Consumable_Fish_Trout_QUEST.uasset"
+  },
+  {
+    "persistenceId": "1ZQ1sE4AApAB3C-tjdLOHQ",
+    "name": "Grilled Trout",
+    "rowName": "food_fish_trout",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Grilled_Trout.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Fish_Trout.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Trout/ITEM_Consumable_Fish_Trout.uasset"
+  },
+  {
+    "persistenceId": "cWhn2kw0MVtsYW2Ny2vAqA",
+    "name": "Grilled Undead Bass",
+    "rowName": "food_fish_undeadbass",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Grilled_Undead_Bass.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_UndeadBass.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/UndeadBass/ITEM_Consumable_Fish_UndeadBass.uasset"
+  },
+  {
+    "persistenceId": "pqhdt0z6D2sMGRWhCf5mkQ",
+    "name": "Haunch",
+    "rowName": "food_haunch_from_game",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Deer_Meat_Cooked.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Meat_Haunch.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Meat_Haunch.uasset"
+  },
+  {
+    "persistenceId": "rxKE_k4GIeA6PSC8dKu6TQ",
+    "name": "Healing Potion",
+    "rowName": "potion_t3_healing",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Health.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_T3_Healing.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Consumable_Potion_T3_Healing.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "_gj4SUtBZXfY6Vm7zFko9w",
+    "name": "Hearty Crunchies",
+    "rowName": "food_crunchies_hearty",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Hearty_Crunchies.png",
+    "weight": 0.6,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Crunchies_Hearty_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Crunchies_Hearty_OLD.uasset"
+  },
+  {
+    "persistenceId": "j36nJ0b9Xat20KicKMGzHw",
+    "name": "Hearty Fortifying Soup",
+    "rowName": "food_soup_hearty_fortifying",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Fortifying_Hearty_Soup.png",
+    "weight": 0.8,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Soup_Hearty_Fortifying_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Soup_Hearty_Fortifying_OLD.uasset"
+  },
+  {
+    "persistenceId": "j3p4M0t12J8IVHeC1bN4yg",
+    "name": "Hearty Soup",
+    "rowName": "food_soup_hearty",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Hearty_Soup.png",
+    "weight": 0.8,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Soup_Hearty_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Soup_Hearty_OLD.uasset"
+  },
+  {
+    "persistenceId": "SNCcLEdRbF7GAwSkvob6NQ",
+    "name": "Hearty Stew",
+    "rowName": "food_stew_hearty",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Hearty_Stew.png",
+    "weight": 1.4,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Stew_Hearty_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Stew_Hearty_OLD.uasset"
+  },
+  {
+    "persistenceId": "MQpHP0DB4GPxFdClfinANA",
+    "name": "Herb Baked Trout",
+    "rowName": "food_herbbaked_trout",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Herby_Trout.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_HerbBaked_Trout.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Consumables/Food/ITEM_Consumable_HerbBaked_Trout.uasset"
+  },
+  {
+    "persistenceId": "LbLCFEmVn7KnJBS59zUS4g",
+    "name": "Lesser Antipoison Potion",
+    "rowName": "potion_t2_lesser_antipoison",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Green_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_T2_Lesser_Antipoison.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_T2_Lesser_Antipoison.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "u9KamEevDhDoqA-Ypsobrw",
+    "name": "Lesser Attack Potion",
+    "rowName": "potion_t2_lesser_attack",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Blue_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_T2_Lesser_Attack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_T2_Lesser_Attack.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "OD5pQEsin7INsTO67zlr6w",
+    "name": "Lesser Focused Agility Potion",
+    "rowName": "potion_focused_t2_lesser_agility",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Red_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T2_Lesser_Agility.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Potions/ITEM_Consumable_Potion_Focused_T2_Lesser_Agility.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "7NPyZ03E4wudmtm9dqvgWw",
+    "name": "Lesser Focused Artisan Potion",
+    "rowName": "potion_focused_t2_lesser_artisan",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Clay_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T2_Lesser_Artisan.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T2_Lesser_Artisan.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "Oza9k0LVE1OmNtyDc5w_8w",
+    "name": "Lesser Focused Attack Potion",
+    "rowName": "potion_focused_t2_lesser_attack",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Yellow_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T2_Lesser_Attack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T2_Lesser_Attack.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "WQaIa0s7EnIKmw65TZ5RbA",
+    "name": "Lesser Focused Construction Potion",
+    "rowName": "potion_focused_t2_lesser_construction",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Blue_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T2_Lesser_Construction.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T2_Lesser_Construction.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "LrmZqkx8wzDkUYuVAfv2OA",
+    "name": "Lesser Focused Cooking Potion",
+    "rowName": "potion_focused_t2_lesser_cooking",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Orange_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T2_Lesser_Cooking.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T2_Lesser_Cooking.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "EUF4FU4_m_JXKUiL6yH6yg",
+    "name": "Lesser Focused Farming Potion",
+    "rowName": "potion_focused_t2_lesser_farming",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_White_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T2_Lesser_Farming.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T2_Lesser_Farming.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "gxUvIknKqg_4FoeYpzXXaw",
+    "name": "Lesser Focused Fishing Potion",
+    "rowName": "potion_focused_t2_lesser_fishing",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Turquoise_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T2_Lesser_Fishing.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T2_Lesser_Fishing.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "CaDZQEFq2q9uXb-T17sxWA",
+    "name": "Lesser Focused Mining Potion",
+    "rowName": "potion_focused_t2_lesser_mining",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Orange_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T2_Lesser_Mining.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T2_Lesser_Mining.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "CuP7oEL4UtnZaFWnPzenQg",
+    "name": "Lesser Focused Runecrafting Potion",
+    "rowName": "potion_focused_t2_lesser_runecrafting",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Purple_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T2_Lesser_Runecrafting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T2_Lesser_Runecrafting.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "6sTczU43FmxKI8aJ3SSWSA",
+    "name": "Lesser Focused Woodcutting Potion",
+    "rowName": "potion_focused_t2_lesser_woodcutting",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Green_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T2_Lesser_Woodcutting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T2_Lesser_Woodcutting.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "-9Zin0B1C7GQgVKwKSR0hQ",
+    "name": "Lesser Healing Potion",
+    "rowName": "potion_t2_lesser_healing",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Red_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_T2_Lesser_Healing.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Consumable_Potion_T2_Lesser_Healing.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "lPzqZUcSYtHIhWmVyYKJ_Q",
+    "name": "Lesser Healing Potion (Expired)",
+    "rowName": "item_potion_healing_refund_lesser",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Red_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Potion_Healing_Lesser_RefundPack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_Potion_Healing_Lesser_RefundPack.uasset"
+  },
+  {
+    "persistenceId": "zwfSHEp0CHGOFuOzNQA2OQ",
+    "name": "Lesser Healing Potion (Expired)",
+    "rowName": "item_potion_healing_refund",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Potion_Tier3_Red.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Potion_Healing_RefundPack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_Potion_Healing_RefundPack.uasset"
+  },
+  {
+    "persistenceId": "PTH4UEM3VLs9biqjMeB0hg",
+    "name": "Lesser Lumberjack Potion",
+    "rowName": "potion_t2_lesser_lumberjack",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Green_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_T2_Lesser_Lumberjack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_T2_Lesser_Lumberjack.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "qLXWx0NDd_CRXlmojVy3xg",
+    "name": "Lesser Magic Potion",
+    "rowName": "potion_t2_lesser_magic",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Pink_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_T2_Lesser_Magic.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_T2_Lesser_Magic.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "x2HUXkgtMUWqJ3i_oD1AcA",
+    "name": "Lesser Quarrymaster Potion",
+    "rowName": "potion_t2_lesser_quarrymaster",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Lesser_Black_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Potion_T2_Lesser_Quarrymaster.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_T2_Lesser_Quarrymaster.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "99TvyUt0VbALswaw-0FBPw",
+    "name": "Lumberjack Potion",
+    "rowName": "potion_t3_lumberjack",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Buff_Lumberjack.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_T3_Lumberjack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_T3_Lumberjack.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "xGCRrEMgJu73_oKeaTVKIg",
+    "name": "Maple Infusion",
+    "rowName": "food_tea_maple",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Fleet_Footed_Infusion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_Consumable_Tea_Maple.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Tea_Maple.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "fe0nGUckAo3g6m-XVSAkqQ",
+    "name": "Maple Syrup",
+    "rowName": "food_syrup_maple",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Maple_Syrup.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Syrup_Maple.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Syrup_Maple.uasset"
+  },
+  {
+    "persistenceId": "OKB-WUFyUloiJoaQI8GlaQ",
+    "name": "Maple Toastie",
+    "rowName": "food_toastie_maple",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Sandwich_Maple_Toastie.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_Consumable_Toastie_Maple.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Toastie_Maple.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "QfPOk0c4rF6PIUqOxt0ytg",
+    "name": "Meat Pizza",
+    "rowName": "food_pizza_meat",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Iconic_Pizza_Meat.png",
+    "weight": 0.7,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Iconic_Pizza_Meat.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Iconic_Pizza_Meat.uasset"
+  },
+  {
+    "persistenceId": "WUq2qkrD-1bDaOG3fN6dMw",
+    "name": "Meat Sandwich",
+    "rowName": "food_sandwich_meat",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Sandwich_Meat.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Sandwich_Meat.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Sandwich_Meat.uasset"
+  },
+  {
+    "persistenceId": "uYBo5UuEdMMdOyicMA9ikQ",
+    "name": "Meat Stew",
+    "rowName": "food_stew_meat",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Meat_Stew.png",
+    "weight": 1.4,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Stew_Meat.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Stew_Meat.uasset"
+  },
+  {
+    "persistenceId": "CHZTiEgSmdmbf5Su1KhteA",
+    "name": "Meat Stew",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Meat_Stew.png",
+    "weight": 1.4,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_v3_Stew_Meat.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_v3_Stew_Meat.uasset"
+  },
+  {
+    "persistenceId": "SXiW10MZjZ6nu7e3O4BOUw",
+    "name": "Meat Twist Sandwich",
+    "rowName": "food_sandwich_meat_double",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Sandwich_Double_Meat.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Sandwich_Meat_Double.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Sandwich_Meat_Double.uasset"
+  },
+  {
+    "persistenceId": "_1F2mkEqVqGFC06z4Uw0Jw",
+    "name": "Mixed Grill",
+    "rowName": "food_mixed_grill",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Mixed_Grill.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Meat_Mixed_Grill.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Meat_Mixed_Grill.uasset"
+  },
+  {
+    "persistenceId": "HjRGr0FDXpD-d-65HZbdXA",
+    "name": "Mixed Platter",
+    "rowName": "food_mixed_platter",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Mixed_Platter.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Meat_Mixed_Platter_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Meat_Mixed_Platter_OLD.uasset"
+  },
+  {
+    "persistenceId": "bOaEFUMyGMkXsDukzJFZmA",
+    "name": "Monkfish Fillets",
+    "rowName": "food_fish_monkfish",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Fish_Monkfish_Cooked_Fillets.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Monkfish.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Fish_Monkfish.uasset"
+  },
+  {
+    "persistenceId": "De872kEe6CpKWdafSj_p0w",
+    "name": "Monkfish Skewers",
+    "rowName": "food_monkfish_skewer",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Monkfish_Skewers.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Monkfish_Skewers.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Monkfish_Skewers.uasset"
+  },
+  {
+    "persistenceId": "5AYjnUqlwTP9f12w5x2rlQ",
+    "name": "Mushroom Kebab",
+    "rowName": "food_kebab_mushroom",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Iconic_Kebab.png",
+    "weight": 0.7,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Iconic_Kebab.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Iconic_Kebab.uasset"
+  },
+  {
+    "persistenceId": "JsMp30dRbfOXIPuy-4NmFA",
+    "name": "Onion",
+    "rowName": "food_onion",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.Compostable",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Onion.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Resources_Onion.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Onion.uasset"
+  },
+  {
+    "persistenceId": "FPYmOkCqcOpLYpaP1DKYjA",
+    "name": "Peach",
+    "rowName": "food_fruit_peach",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Resource_Peach.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Fruit_Peach.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Fruit_Peach.uasset"
+  },
+  {
+    "persistenceId": "XXWU70NlMFVOmPO4gXCVwA",
+    "name": "Plant Cure",
+    "rowName": "ITEM_Farming_Consumable_PlantCure",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "tags": [
+      "Item.Farming.Potion.CurePlant"
+    ],
+    "icon": "T_Icon_Plant_Cure_Potion.png",
+    "weight": 1,
+    "maxStackSize": 20,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_CureDiseasePotion.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Farming/ITEM_Farming_CureDiseasePotion.uasset"
+  },
+  {
+    "persistenceId": "HwM2_HvXZUyt8FmT4F2iYQ",
+    "name": "Potato",
+    "rowName": "food_potato",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.Compostable",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Resource_Potato.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Potato.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Potato.uasset"
+  },
+  {
+    "persistenceId": "ebQ3hkrWl5kQDdCvqx-NTQ",
+    "name": "Pristine Anchovies",
+    "rowName": "res_fish_pristine_anchovies",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Fish_Anchovie_Pristine_03.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_Anchovies.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Anchovies/Pristine/ITEM_Resources_Fish_Raw_Pristine_Anchovies.uasset"
+  },
+  {
+    "persistenceId": "WmViD0yovBAwMc-J4-65ew",
+    "name": "Pristine Armoured Catfish",
+    "rowName": "res_fish_pristine_armouredcatfish",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Armoured_Catfish_Pristine.png",
+    "weight": 9,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_ArmouredCatfish.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/ArmouredCatfish/Pristine/ITEM_Resources_Fish_Raw_Pristine_ArmouredCatfish.uasset"
+  },
+  {
+    "persistenceId": "GNFBo0lw0P942wC2AJL58g",
+    "name": "Pristine Giant Krill",
+    "rowName": "res_fish_pristine_giantkrill",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Fish_Gaint_Krill_Pristine_03.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_GiantKrill.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/GiantKrill/Pristine/ITEM_Resources_Fish_Raw_Pristine_GiantKrill.uasset"
+  },
+  {
+    "persistenceId": "odh7oUEyUMURVlW5y1qNlQ",
+    "name": "Pristine Infernal Eel",
+    "rowName": "res_fish_pristine_infernaleel",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Infernal_Eel_Pristine.png",
+    "weight": 5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_InfernalEel.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/InfernalEel/Pristine/ITEM_Resources_Fish_Raw_Pristine_InfernalEel.uasset"
+  },
+  {
+    "persistenceId": "ssWu9kTc1NCQljSNukqitg",
+    "name": "Pristine Lobster",
+    "rowName": "res_fish_pristine_lobster",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Lobster_Pristine.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_Lobster.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Lobster/Pristine/ITEM_Resources_Fish_Raw_Pristine_Lobster.uasset"
+  },
+  {
+    "persistenceId": "gDgtDkoWrGV8VFmLEVYOFg",
+    "name": "Pristine Salmon",
+    "rowName": "res_fish_pristine_salmon",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Salmon_Pristine.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_Salmon.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Salmon/Pristine/ITEM_Resources_Fish_Raw_Pristine_Salmon.uasset"
+  },
+  {
+    "persistenceId": "jKYmQkxuzN0iPSW04Cib6g",
+    "name": "Pristine Sardine",
+    "rowName": "res_fish_pristine_sardine",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Sardine_Pristine.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_Sardine.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Sardine/Pristine/ITEM_Resources_Fish_Raw_Pristine_Sardine.uasset"
+  },
+  {
+    "persistenceId": "mj-mD0Ewhm7LR4yNjSpMGA",
+    "name": "Pristine Shrimp",
+    "rowName": "res_fish_pristine_shrimp",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Shrimp.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_Shrimp.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Shrimp/Pristine/ITEM_Resources_Fish_Raw_Pristine_Shrimp.uasset"
+  },
+  {
+    "persistenceId": "Z6RESk-dc5_GYBucx5C9hg",
+    "name": "Pristine Trout",
+    "rowName": "res_fish_pristine_trout",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Trout_Pristine.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_Trout.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Trout/Pristine/ITEM_Resources_Fish_Raw_Pristine_Trout.uasset"
+  },
+  {
+    "persistenceId": "6JMEF0rKcbRgUEC4PV3SgQ",
+    "name": "Pristine Undead Bass",
+    "rowName": "res_fish_pristine_undeadbass",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Undead_Bass_Pristine.png",
+    "weight": 5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_UndeadBass.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/UndeadBass/Pristine/ITEM_Resources_Fish_Raw_Pristine_UndeadBass.uasset"
+  },
+  {
+    "persistenceId": "RYcwKEVh7tPqfpCb2eY5_Q",
+    "name": "Pristine Undead Eel",
+    "rowName": "res_fish_pristine_undeadeel",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Undead_Eel_Pristine.png",
+    "weight": 5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_UndeadEel.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/UndeadEel/Pristine/ITEM_Resources_Fish_Raw_Pristine_UndeadEel.uasset"
+  },
+  {
+    "persistenceId": "wHJdjE9MS1vFXXqX9pNeWA",
+    "name": "Pumpkin",
+    "rowName": "food_pumpkin",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.CompostableSuper",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Pumpkin.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Pumpkin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Pumpkin.uasset"
+  },
+  {
+    "persistenceId": "ziJyKkjO9ax3UsWGTvPMtw",
+    "name": "Pumpkin Soup",
+    "rowName": "food_soup_pumpkin",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Pumpkin_soup.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Soup_Pumpkin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Soup_Pumpkin.uasset"
+  },
+  {
+    "persistenceId": "kZor20jQ-GKLW52SdVDwAw",
+    "name": "Pumpkin Spice Infusion",
+    "rowName": "food_tea_pumpkin",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Pumpkin_spice_infusion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Pumpkin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Tea_Pumpkin.uasset"
+  },
+  {
+    "persistenceId": "pU_QfU6ScaLWNcu2Chk9-g",
+    "name": "Pungent Omelette",
+    "rowName": "food_omelette_pungent",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Pungent_omelette.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Omelette_Pungent.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Omelette_Pungent.uasset"
+  },
+  {
+    "persistenceId": "J_6-sk2CKwAAW0Sgbwhb1g",
+    "name": "Quarrymaster Potion",
+    "rowName": "potion_t3_quarrymaster",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Buff_Fleet__Quarrymaster.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Consumable_Potion_T3_Quarrymaster.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_T3_Quarrymaster.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "0aufkk55nHU1TlSAXZ0o3g",
+    "name": "Rat Roast",
+    "rowName": "food_rat_roast",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Rat_roast.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Meat_Rat_Roast.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Meat_Rat_Roast.uasset"
+  },
+  {
+    "persistenceId": "F8Gj_0t1nPzhZZGJRPPLog",
+    "name": "Raw Anchovies",
+    "rowName": "res_fish_anchovies",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Anchovy.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Anchovies.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Anchovies/ITEM_Resources_Fish_Raw_Anchovies.uasset"
+  },
+  {
+    "persistenceId": "FTOJfkqIZ64ZzEK1pliPAQ",
+    "name": "Raw Armoured Catfish",
+    "rowName": "res_fish_armouredcatfish",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Armoured_Catfish.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_ArmouredCatfish.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/ArmouredCatfish/ITEM_Resources_Fish_Raw_ArmouredCatfish.uasset"
+  },
+  {
+    "persistenceId": "tosPpUxp9FZgwdGvvXrcjw",
+    "name": "Raw Bestial Meat",
+    "rowName": "res_meat_bestial",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Resource_Bestial_Meat.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Resources_Meat_Bestial.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Meat_Bestial.uasset"
+  },
+  {
+    "persistenceId": "6VtTq32kQkyOk-E3Ly05-A",
+    "name": "Raw Bird Meat",
+    "rowName": "res_meat_bird",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Resource_Raw_bird_meat.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Resources_Meat_Bird.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Meat_Bird.uasset"
+  },
+  {
+    "persistenceId": "Ttc6u0zyAi-JMaOjrxwtNQ",
+    "name": "Raw Farm Meat",
+    "rowName": "res_meat_farm",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Resource_Raw_Farm_Meat.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Meat_Farm.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Meat_Farm.uasset"
+  },
+  {
+    "persistenceId": "Ua7XqsiwjUio_H540eRegw",
+    "name": "Raw Game Meat",
+    "rowName": "res_meat_game",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Deer_Meat_Raw.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Meat_Game.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Meat_Game.uasset"
+  },
+  {
+    "persistenceId": "WkipUU41kVqWhlG2C4egeg",
+    "name": "Raw Giant Krill",
+    "rowName": "res_fish_giantkrill",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Giant_Krill.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_GiantKrill.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/GiantKrill/ITEM_Resources_Fish_Raw_GiantKrill.uasset"
+  },
+  {
+    "persistenceId": "zG5G1U9iEo6yr8iBrdqm-w",
+    "name": "Raw Infernal Eel",
+    "rowName": "res_fish_infernaleel",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Infernal_Eel.png",
+    "weight": 2.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_InfernalEel.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/InfernalEel/ITEM_Resources_Fish_Raw_InfernalEel.uasset"
+  },
+  {
+    "persistenceId": "BVosqUjrBZMIsmeYDcSh8Q",
+    "name": "Raw Lobster",
+    "rowName": "res_fish_lobster",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Lobster.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Lobster.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Lobster/ITEM_Resources_Fish_Raw_Lobster.uasset"
+  },
+  {
+    "persistenceId": "1k8-cj3JqEGeRgu1P7PK2g",
+    "name": "Raw Rat Meat",
+    "rowName": "res_meat_stringy",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Resource_Raw_Stringy_Meat.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Resources_Raw_Stringy_Meat.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Raw_Stringy_Meat.uasset"
+  },
+  {
+    "persistenceId": "lWUjC0f59fYNW5yz60-xEA",
+    "name": "Raw Salmon",
+    "rowName": "res_fish_salmon",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Salmon.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Salmon.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Salmon/ITEM_Resources_Fish_Raw_Salmon.uasset"
+  },
+  {
+    "persistenceId": "OXEA-E083jjv8fGlbEEW4Q",
+    "name": "Raw Sardine",
+    "rowName": "res_fish_sardine",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Sardine.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Sardine.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Sardine/ITEM_Resources_Fish_Raw_Sardine.uasset"
+  },
+  {
+    "persistenceId": "DDkCk0GYuoxdUnCP5DFKaQ",
+    "name": "Raw Shrimp",
+    "rowName": "res_fish_shrimp",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Shrimp.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Shrimp.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Shrimp/ITEM_Resources_Fish_Raw_Shrimp.uasset"
+  },
+  {
+    "persistenceId": "1zVLZUPyMqtcAOSbIHqMjA",
+    "name": "Raw Trout",
+    "rowName": "res_fish_trout",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Trout.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Trout.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Trout/ITEM_Resources_Fish_Raw_Trout.uasset"
+  },
+  {
+    "persistenceId": "K3JMOEMSsysPtk2Sf7bTBw",
+    "name": "Raw Undead Bass",
+    "rowName": "res_fish_undeadbass",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Undead_Bass.png",
+    "weight": 2.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_UndeadBass.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/UndeadBass/ITEM_Resources_Fish_Raw_UndeadBass.uasset"
+  },
+  {
+    "persistenceId": "GEGLbUrbPSIV3zSv9wLkkg",
+    "name": "Raw Undead Eel",
+    "rowName": "res_fish_undeadeel",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Undead_Eel.png",
+    "weight": 2.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_UndeadEel.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/UndeadEel/ITEM_Resources_Fish_Raw_UndeadEel.uasset"
+  },
+  {
+    "persistenceId": "GHxAwJ8gNkSe3vxloWof2A",
+    "name": "Redberries",
+    "rowName": "food_fruit_redberry",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.Compostable",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Redberries.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Fruit_Redberry.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Fruit_Redberry.uasset"
+  },
+  {
+    "persistenceId": "ipb2Z0dRiFIUUhqLsIqIxA",
+    "name": "Redberry Crunchies",
+    "rowName": "food_crunchies_redberry_old",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Redberry_Crunchies.png",
+    "weight": 0.6,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Crunchies_Redberry_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Crunchies_Redberry_OLD.uasset"
+  },
+  {
+    "persistenceId": "GBmnz07RWPG4dnKvJqcLPw",
+    "name": "Redberry Crunchies",
+    "rowName": "food_crunchies_redberry",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Redberry_Crunchies.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Crunchies_Redberry.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Crunchies_Redberry.uasset"
+  },
+  {
+    "persistenceId": "kP1gFUp7vT74QYWp9gwnNg",
+    "name": "Redberry Glazed Roast Flank",
+    "rowName": "food_glazed_redberry_roast_flank",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Redberry_Glazed_Flank.png",
+    "weight": 1.2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Glazed_Redberry_Roast_Flank_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Glazed_Redberry_Roast_Flank_OLD.uasset"
+  },
+  {
+    "persistenceId": "h_Jzr26f5kiw_PRKFEkHrA",
+    "name": "Redberry Glazed Roast Meat",
+    "rowName": "food_glazed_redberry_roast_meat",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Redberry_Glazed_Roast_Meat.png",
+    "weight": 1.2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Glazed_Redberry_Roast_Meat_OLD.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/ITEM_Consumable_Glazed_Redberry_Roast_Meat_OLD.uasset"
+  },
+  {
+    "persistenceId": "BHyv-U4eeKvSxeqdh5UswQ",
+    "name": "Redberry Infusion",
+    "rowName": "food_tea_redberry",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Redberry_Infusion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Redberry.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Tea_Redberry.uasset"
+  },
+  {
+    "persistenceId": "AwUFeEoCOtrQnjq0M1wo8A",
+    "name": "Redberry Roast Rat",
+    "rowName": "food_redberry_roast_rat",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Redberry_Glazed_Roast_Meat.png",
+    "weight": 1.2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Redberry_Roast_Rat.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Redberry_Roast_Rat.uasset"
+  },
+  {
+    "persistenceId": "6G9wVEzmqK_cUpmvHijytg",
+    "name": "Refundable Item",
+    "rowName": "item_potion_healing_refund_weak",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_Red_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Potion_Healing_Weak_RefundPack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_Potion_Healing_Weak_RefundPack.uasset"
+  },
+  {
+    "persistenceId": "SRKw_UuOlGyEv4uAhkQh1A",
+    "name": "Relentless Infusion",
+    "rowName": "food_tea_stamina_reduction_ranged",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Relentless_infusion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Stamina_Reduction_Ranged.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Tea_Stamina_Reduction_Ranged.uasset"
+  },
+  {
+    "persistenceId": "osDyaUIyzTvf1iaY4WQrKg",
+    "name": "Roast Dinner",
+    "rowName": "food_roastdinner",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Roast_dinner.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_RoastDinner.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_RoastDinner.uasset"
+  },
+  {
+    "persistenceId": "u1SkBEnMIdkuQ0-028XVmw",
+    "name": "Roast Pumpkin",
+    "rowName": "food_pumpkin_roast",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Roasted_Pumkin.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Pumpkin_Roast.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Pumpkin_Roast.uasset"
+  },
+  {
+    "persistenceId": "Mtq3OkIkK_Y2W3iF1Gye9A",
+    "name": "Roasted Lobster",
+    "rowName": "food_fish_lobster",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Roast_Lobster.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Lobster.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Lobster/ITEM_Consumable_Fish_Lobster.uasset"
+  },
+  {
+    "persistenceId": "lOKEb02bvpoU1lm9wGg7Eg",
+    "name": "Sauteed Sardines",
+    "rowName": "food_sauteed_sardines",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Sauteed_Sardines.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Sauteed_Sardines.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Consumables/Food/ITEM_Consumable_Sauteed_Sardines.uasset"
+  },
+  {
+    "persistenceId": "BuIkvEQpeT3Dvme8WpKKOQ",
+    "name": "Sauteed Shrimp",
+    "rowName": "food_fish_shrimp",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Sauteed_Shrimp.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Shrimp.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Shrimp/ITEM_Consumable_Fish_Shrimp.uasset"
+  },
+  {
+    "persistenceId": "msWz8U8Go37N3OKnBNsPMg",
+    "name": "Seared Anchovies",
+    "rowName": "food_fish_anchovies",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Seared_Anchovy.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Anchovies.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Anchovies/ITEM_Consumable_Fish_Anchovies.uasset"
+  },
+  {
+    "persistenceId": "2FShxkn8ERqqJSmYxl-x9w",
+    "name": "Seared Cactus Steak",
+    "rowName": "food_cactus_cooked",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Cactus_Steak_Cooked.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Steak_Cactus_Cooked.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Steak_Cactus_Cooked.uasset"
+  },
+  {
+    "persistenceId": "un-3wk55DOANbK6KCmTSsQ",
+    "name": "Shrimp Omelette",
+    "rowName": "food_omelette_shrimp",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Shrimp_Omelette.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Omelette_Shrimp.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Consumables/Food/ITEM_Consumable_Omelette_Shrimp.uasset"
+  },
+  {
+    "persistenceId": "Kc93V0IZh2HYft-FRiZyxw",
+    "name": "Smoked Herring",
+    "rowName": "food_fish_herring",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Smoked_Herring.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Herring.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/Herring/ITEM_Consumable_Fish_Herring.uasset"
+  },
+  {
+    "persistenceId": "xWJES0gUkZki1Qiu9Fzidg",
+    "name": "Smoked Infernal Eel",
+    "rowName": "food_fish_infernaleel",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Smoked_Infernal_Eel.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_InfernalEel.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Fishes/InfernalEel/ITEM_Consumable_Fish_InfernalEel.uasset"
+  },
+  {
+    "persistenceId": "iFw4Z0VzNkp7Dy6VdzfGiw",
+    "name": "Squeaking Sausage",
+    "rowName": "food_sausage_squeaking",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Resource_Beastly_Sausage.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Sausage_Squeaking.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Sausage_Squeaking.uasset"
+  },
+  {
+    "persistenceId": "W0iKvUtaCMML_3iPRANO6Q",
+    "name": "Stamina Potion",
+    "rowName": "potion_stamina",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_Yellow.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Potion_Stamina.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Potions/ITEM_Consumable_Potion_Stamina.uasset"
+  },
+  {
+    "persistenceId": "gC-ZukCFUhIWbCyJIkj3LQ",
+    "name": "Steak",
+    "rowName": "food_steak_from_farm",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Resource_Seared_Farm_Meat.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Farm_Steak.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Farm_Steak.uasset"
+  },
+  {
+    "persistenceId": "jS5_8UZSJZ_bkh-ojI0Rwg",
+    "name": "Steak 'N' Eggs",
+    "rowName": "food_steakandeggs",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Steak_and_egg.png",
+    "weight": 1.2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_SteakAndEggs.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_SteakAndEggs.uasset"
+  },
+  {
+    "persistenceId": "U1bXxkSd4aE-4TiyxP2L1w",
+    "name": "Steak Sandwich",
+    "rowName": "food_sandwich_steak",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Sandwich_Steak.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Sandwich_Steak.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Sandwich_Steak.uasset"
+  },
+  {
+    "persistenceId": "BuMM9kFLo2eM7WWcfJOLtg",
+    "name": "Steamed Beltfish",
+    "rowName": "food_fish_beltfish",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Fish_Beltfish_Cooked_Steamed.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_Beltfish.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Fish_Beltfish.uasset"
+  },
+  {
+    "persistenceId": "kEtsQUkSCzjvktu0G_2hKQ",
+    "name": "Stir-Fry",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Stir_Fry.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Stir-Fry.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Consumables/Food/ITEM_Consumable_Stir-Fry.uasset"
+  },
+  {
+    "persistenceId": "-BOBs02naPFSPFCBf82D9Q",
+    "name": "Strong Sweet Tea",
+    "rowName": "food_tea_strong_sweet",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Strong_Sweet_Tea.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Strong_Sweet.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Tea_Strong_Sweet.uasset"
+  },
+  {
+    "persistenceId": "z4qLlkT2ULHmcfeycAar-Q",
+    "name": "Strong Tea",
+    "rowName": "food_tea_strong",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Strong_Tea.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Strong.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Tea_Strong.uasset"
+  },
+  {
+    "persistenceId": "PX3xG09OdYndrQq7eIv-iQ",
+    "name": "Stuffed Catfish",
+    "rowName": "food_stuffed_catfish",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Stuffed_Catfish.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Stuffed_Catfish.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Consumables/Food/ITEM_Consumable_Stuffed_Catfish.uasset"
+  },
+  {
+    "persistenceId": "nPu5HUnEdsxMIc6BC-Fprg",
+    "name": "Sun Baked Sole",
+    "rowName": "food_fish_desertsole",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Fish_Desert_Sole_Cooked_Sunbaked.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fish_DesertSole.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Fish_DesertSole.uasset"
+  },
+  {
+    "persistenceId": "olhcdkOUSa_5VkyiSxchdg",
+    "name": "Super Focused Agility Potion",
+    "rowName": "potion_focused_t4_super_agility",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_Red.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T4_Super_Agility.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Potions/ITEM_Consumable_Potion_Focused_T4_Super_Agility.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "_6Zo0UafFHm0M2mX_SixAg",
+    "name": "Super Focused Artisan Potion",
+    "rowName": "potion_focused_t4_artisan",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_Clay.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T4_Artisan_Super.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_Focused_T4_Artisan_Super.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "mr7HeEuhQu2iYp28FECuvg",
+    "name": "Super Focused Cooking Potion",
+    "rowName": "potion_focused_t4_cooking",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_Orange.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T4_Cooking_Super.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_Focused_T4_Cooking_Super.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "qN9xc0EwK2hjvua6tphmfw",
+    "name": "Super Focused Farming Potion",
+    "rowName": "potion_focused_t4_farming",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_White.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T4_Farming_Super.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_Focused_T4_Farming_Super.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "9Xa5YELJq7zXFa6qHDJZUw",
+    "name": "Super Focused Fishing Potion",
+    "rowName": "potion_focused_t4_fishing",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_Turquoise.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T4_Fishing_Super.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_Focused_T4_Fishing_Super.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "jn-lBkTydrV69QC4jTEByA",
+    "name": "Swabbie Pie",
+    "rowName": "food_pie_swabbie",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Swabbyl_Pie.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Pie_Swabbie.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Pie_Swabbie.uasset"
+  },
+  {
+    "persistenceId": "8qJOoUX9S5-1ogG8C5AcFA",
+    "name": "Sweet Veg Ball",
+    "rowName": "food_vegball_sweet",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Sweet_veg_ball.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Vegball_Sweet.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Vegball_Sweet.uasset"
+  },
+  {
+    "persistenceId": "yzupsUvhneUKUIyRdoWx1A",
+    "name": "T4 Lumberjack",
+    "rowName": "potion_t4_lumberjack",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_Green.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Potion_T4_Lumberjack_Super.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_T4_Lumberjack_Super.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "wcqfdUpMfYcfcv-t1pu1-w",
+    "name": "T4 Quarrymaster",
+    "rowName": "potion_t4_quarrymaster",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Super_Potion__T4_Black.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Potion_T4_Quarrymaster_Super.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Potion_T4_Quarrymaster_Super.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "sHsduqfNRkWma9kGQQ8u-w",
+    "name": "TEST_Cake",
+    "rowName": "food_test_cake",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Food_Cake.png",
+    "weight": 0.1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_TEST_Cake.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/Deprecated/Beverages/ITEM_Consumable_TEST_Cake.uasset"
+  },
+  {
+    "persistenceId": "9sGUYUTljibjYSOO3fbgIQ",
+    "name": "Tomato",
+    "rowName": "food_tomato",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.Compostable",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Tomato.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Tomato.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Tomato.uasset"
+  },
+  {
+    "persistenceId": "Xs4cAk1L3Nenuk6JA-Htzg",
+    "name": "Umbral Kebab",
+    "rowName": "item_food_umbral_kebab",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Umbral_Kebab.png",
+    "weight": 0.0,
+    "maxStackSize": 20,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Umbral_Kebab.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Umbral_Kebab.uasset"
+  },
+  {
+    "persistenceId": "fc13d0kT8O20L12pmQELLg",
+    "name": "Undead Delight",
+    "rowName": "food_undead_delight",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food",
+      "Item.Food.Fish"
+    ],
+    "icon": "T_Icon_Undead_Delight.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Undead_Delight.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Items/Consumables/Food/ITEM_Consumable_Undead_Delight.uasset"
+  },
+  {
+    "persistenceId": "C12YuEnnFEKdJhWmXv3hFg",
+    "name": "Undead Meat",
+    "rowName": "res_meat_undead",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Undead_Meat.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Meat_Undead.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Meat_Undead.uasset"
+  },
+  {
+    "persistenceId": "V8Zm8EJdBfS9TYyDcNaosQ",
+    "name": "Vegan Fryup",
+    "rowName": "food_fryup_vegan",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Vegan_Fryup.png",
+    "weight": 2,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Fryup_Vegan.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Fryup_Vegan.uasset"
+  },
+  {
+    "persistenceId": "lUXT6k3qLQtJa4CdnnJw5g",
+    "name": "Vegetable Soup",
+    "rowName": "food_soup_vegetable",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Resource_Meat_Stew.png",
+    "weight": 0.8,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Soup_Vegetable.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Soup_Vegetable.uasset"
+  },
+  {
+    "persistenceId": "PlG_PU5KlyIwE1yb6T_H9g",
+    "name": "Victoria Sponge Cake",
+    "rowName": "food_cake_victoriaspongecake",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Victoria_Sponge_Cake.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Cake_VictoriaSpongeCake.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Cake_VictoriaSpongeCake.uasset"
+  },
+  {
+    "persistenceId": "Oj3BdU4ZfC9iOtq4vXaOww",
+    "name": "Watermelon",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.CompostableSuper",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Watermelon.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Watermelon.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Watermelon.uasset"
+  },
+  {
+    "persistenceId": "DwwoW0qeygf3xt-AJSJ8YA",
+    "name": "Watermelon Jerky",
+    "rowName": "food_watermelon_jerky",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Watermelon_Jerky.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Consumable_Watermelon_Jerky.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Watermelon_Jerky.uasset"
+  },
+  {
+    "persistenceId": "ukjoSEXQTWbO6zSJvP5Z4Q",
+    "name": "Weak Antipoison Potion",
+    "rowName": "potion_t1_weak_antipoison",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_Green_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Potion_T1_Weak_Antipoison.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_T1_Weak_Antipoison.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "CPT7I01jfIBmhyCQLJH31A",
+    "name": "Weak Focused Artisan Potion",
+    "rowName": "potion_focused_t1_weak_artisan",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_Clay_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T1_Weak_Artisan.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T1_Weak_Artisan.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "Gl810k3TcUSB866zC50I2g",
+    "name": "Weak Focused Attack Potion",
+    "rowName": "potion_focused_t1_weak_attack",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_Yellow_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T1_Weak_Attack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T1_Weak_Attack.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "m4bFA0UwQOecAhah3hNtSA",
+    "name": "Weak Focused Construction Potion",
+    "rowName": "potion_focused_t1_weak_construction",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_Blue_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T1_Weak_Construction.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T1_Weak_Construction.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "K7le0EXS_TjIx-Wb9d9PZg",
+    "name": "Weak Focused Cooking Potion",
+    "rowName": "potion_focused_t1_weak_cooking",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_Orange_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T1_Weak_Cooking.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T1_Weak_Cooking.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "HCnG10E8sW72-wa0bbZZfg",
+    "name": "Weak Focused Farming Potion",
+    "rowName": "potion_focused_t1_weak_farming",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_White_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T1_Weak_Farming.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T1_Weak_Farming.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "8gh6wkTHrHGgAMSeSMHNTw",
+    "name": "Weak Focused Mining Potion",
+    "rowName": "potion_focused_t1_weak_mining",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_Orange_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T1_Weak_Mining.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T1_Weak_Mining.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "0PXPSUTx8SdrxW6J26Ljfw",
+    "name": "Weak Focused Runecraft Potion",
+    "rowName": "potion_focused_t1_weak_runecrafting",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_Purple_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T1_Weak_Runecrafting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T1_Weak_Runecrafting.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "U3WBak2LNdsGzrajcaLGpw",
+    "name": "Weak Focused Woodcutting Potion",
+    "rowName": "potion_focused_t1_weak_woodcutting",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_Green_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Potion_Focused_T1_Weak_Woodcutting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_Focused_T1_Weak_Woodcutting.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "qRA1TEfZJkMoanWXc_l-Sg",
+    "name": "Weak Healing Potion",
+    "rowName": "potion_t1_weak_healing",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_Red_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Potion_T1_Weak_Healing.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Consumable_Potion_T1_Weak_Healing.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "ni4XGUQ7iWkplmuumD7kkA",
+    "name": "Weak Lumberjack Potion",
+    "rowName": "potion_t1_weak_lumberjack",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_Green_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Potion_T1_Weak_Lumberjack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_T1_Weak_Lumberjack.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "2aa7lkBxEmc_Zuy6bPQ-Ag",
+    "name": "Weak Quarrymaster Potion",
+    "rowName": "potion_t1_weak_quarrymaster",
+    "category": "Consumables",
+    "subcategory": "Potions",
+    "icon": "T_Icon_Weak_Black_Potion.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Consumable_Potion_T1_Weak_Quarrymaster.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Magic/ITEM_Consumable_Potion_T1_Weak_Quarrymaster.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "Ub1yCE7dcEADMJKZcOHMMQ",
+    "name": "Wild Pie",
+    "rowName": "food_pie_wild",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "tags": [
+      "Item.Food"
+    ],
+    "icon": "T_Icon_Iconic_Pie_Wild.png",
+    "weight": 0.7,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Iconic_Pie_Wild.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Iconic_Pie_Wild.uasset"
+  },
+  {
+    "persistenceId": "7MEFaERG0Ka6-jO7J8Vc3A",
+    "name": "Wither Water",
+    "rowName": "food_water_wither",
+    "category": "Consumables",
+    "subcategory": "Food",
+    "icon": "T_Icon_Withered_Water.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Water_Wither.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Food/Items/v3/ITEM_Consumable_Water_Wither.uasset"
+  }
+]

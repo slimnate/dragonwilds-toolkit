@@ -1,0 +1,1626 @@
+{
+  "sourceUsmap": "RSDragonwilds-5.6.1-251392+++dominion+live-0196ef29.usmap",
+  "quests": [
+    {
+      "persistenceId": "luaLQEzPXjx9_ICiz5zkNg",
+      "internalName": "Quest_FTUE_FS",
+      "name": "First Steps",
+      "region": "Brynmoor",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Speak to the Wise Old Man in Bramblemead village."
+        }
+      ],
+      "description": "Begin your adventure."
+    },
+    {
+      "persistenceId": "AmuXOUitB08PYDCmdVA_Ug",
+      "internalName": "Quest_FTUE_GS",
+      "name": "First Steps",
+      "region": "Brynmoor",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Speak to the Wise Old Man in the Temple."
+        },
+        {
+          "id": "Objective2",
+          "text": "Speak to the Wise Old Man in the Temple."
+        },
+        {
+          "id": "Objective3",
+          "text": "Speak to Doric outside the Temple."
+        }
+      ],
+      "description": "Begin your adventure."
+    },
+    {
+      "persistenceId": "v9LCTEjS-igQFrq4bpvtsA",
+      "internalName": "Quest_FTUE_Q1",
+      "name": "First Steps",
+      "region": "Brynmoor",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Objective1"
+        },
+        {
+          "id": "Objective2",
+          "text": "Objective2"
+        },
+        {
+          "id": "Objective3",
+          "text": "Objective3"
+        }
+      ],
+      "hidden": true
+    },
+    {
+      "persistenceId": "7i8X403LNgw6uY-XK5OgnA",
+      "internalName": "Quest_FTUE_Q7",
+      "name": "First Steps",
+      "region": "Brynmoor",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Objective1"
+        }
+      ],
+      "hidden": true
+    },
+    {
+      "persistenceId": "xa8o60AbJZ23FymQeiH3bg",
+      "internalName": "Quest_FTUE_RtftJ",
+      "name": "Getting Started",
+      "region": "Brynmoor",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Collect some dirty water from the nearby ponds and bring them back to Doric."
+        },
+        {
+          "id": "Objective2",
+          "text": "Build a crafting table and craft a stone club, then bring it to Doric."
+        },
+        {
+          "id": "Objective3",
+          "text": "Bring the stone club to Doric outside the temple."
+        }
+      ],
+      "description": "Doric wants to teach you some survival basics."
+    },
+    {
+      "persistenceId": "_L6IAEaHSVPnhhaTamBHBA",
+      "internalName": "Quest_FTUE_Farming",
+      "name": "Growing Pains",
+      "region": "Brynmoor",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "ApplyCompostToPlot",
+          "text": "Apply Compost To Plot"
+        },
+        {
+          "id": "BuildGardenPlot",
+          "text": "Build Garden Plot"
+        },
+        {
+          "id": "FinishQuest",
+          "text": "Return to the Wise Old Man in Bramblemead."
+        },
+        {
+          "id": "FullyWaterPlot",
+          "text": "Fully Water Plot"
+        },
+        {
+          "id": "GetCompost",
+          "text": "Get Compost"
+        },
+        {
+          "id": "HarvestCrop",
+          "text": "Grow and harvest your first crop from a farming plot."
+        },
+        {
+          "id": "HarvestPlot",
+          "text": "Harvest Plot"
+        },
+        {
+          "id": "PlantSeeds",
+          "text": "Plant Seeds"
+        },
+        {
+          "id": "SpeakToWOM1",
+          "text": "Speak to the Wise Old Man, in Bramblemead, to learn about the Farming skill."
+        },
+        {
+          "id": "SpeakToWOM2",
+          "text": "Speak To WOM2"
+        },
+        {
+          "id": "SpeakToWOM3",
+          "text": "Speak To WOM3"
+        }
+      ],
+      "description": "Learn the basics of the Farming skill from the Wise Old Man."
+    },
+    {
+      "persistenceId": "SDcUrkVqRiTKKEyzEh5DWw",
+      "internalName": "Quest_FTUE_RC",
+      "name": "Ratcatcher",
+      "region": "Brynmoor",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Speak to Vannaka near the Windmill."
+        },
+        {
+          "id": "Objective2",
+          "text": "Kill rats and successfully cook one rat roast from their meat."
+        }
+      ],
+      "description": "Vannaka wants to teach you the basics of hunting, fighting and cooking."
+    },
+    {
+      "persistenceId": "4lW6rU0i0js1e3qFEAVI4w",
+      "internalName": "Quest_FTUE_Q5",
+      "name": "Ratcatcher",
+      "region": "Brynmoor",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Objective1"
+        },
+        {
+          "id": "Objective2",
+          "text": "Objective2"
+        }
+      ],
+      "hidden": true
+    },
+    {
+      "persistenceId": "YTzYzUk_2vcK4RSEwe-m3w",
+      "internalName": "Quest_FTUE_Q2",
+      "name": "Right Tool",
+      "region": "Brynmoor",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "Objective2",
+          "text": "Objective2"
+        },
+        {
+          "id": "Objective3",
+          "text": "Objective3"
+        }
+      ],
+      "hidden": true
+    },
+    {
+      "persistenceId": "TgVnb0NCLvmEVRed59IgsQ",
+      "internalName": "Quest_FTUE_LO",
+      "name": "Rune Mysteries",
+      "region": "Brynmoor",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "Chop wood",
+          "text": "Chop wood"
+        },
+        {
+          "id": "Speak to Zanik",
+          "text": "Speak to Zanik"
+        }
+      ],
+      "description": "Zanik wants you to learn the basics of crafting runes."
+    },
+    {
+      "persistenceId": "zrqqFUNmx3lcF6umysJfvQ",
+      "internalName": "Quest_FTUE_RM",
+      "name": "Rune Mysteries",
+      "region": "Brynmoor",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Speak to Zanik near the river, down the road from the temple."
+        },
+        {
+          "id": "Objective2",
+          "text": "Mine Rune Essence, craft some Air and Astral Runes by building a Rune Altar or from Siphoning Anima Vents."
+        },
+        {
+          "id": "Objective3",
+          "text": "Return to Zanik."
+        }
+      ],
+      "description": "Zanik wants you to learn the basics of crafting runes."
+    },
+    {
+      "persistenceId": "EWRW7Ux-jHohLEKQCrkJJw",
+      "internalName": "Quest_FTUE_Q4",
+      "name": "Rune Mysteries",
+      "region": "Brynmoor",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Objective1"
+        },
+        {
+          "id": "Objective2",
+          "text": "Objective2"
+        },
+        {
+          "id": "Objective3",
+          "text": "Objective3"
+        }
+      ],
+      "hidden": true
+    },
+    {
+      "persistenceId": "_8zxGkuJtgJeZgG_lEGXuw",
+      "internalName": "Quest_FTUE_Q3",
+      "name": "Seeking Shelter",
+      "region": "Brynmoor",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Objective1"
+        },
+        {
+          "id": "Objective2",
+          "text": "Objective2"
+        },
+        {
+          "id": "Objective3",
+          "text": "Objective3"
+        }
+      ],
+      "hidden": true
+    },
+    {
+      "persistenceId": "DSGuYE-gPNCI1yCzvZhT8Q",
+      "internalName": "Quest_FTUE_WardStones",
+      "name": "Warding Off Danger",
+      "region": "Brynmoor",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Speak to the Wise Old Man to learn about Lifewards."
+        },
+        {
+          "id": "Objective2",
+          "text": "Craft a Small Wardstone at a Crafting Table and bring it to the Wise Old Man."
+        },
+        {
+          "id": "Objective3",
+          "text": "Bring your Small Wardstone to the Wise Old Man."
+        }
+      ],
+      "description": "The Wise Old Man wants to teach you about Lifewards and how to recharge them."
+    },
+    {
+      "persistenceId": "2kXJ3kWFS38kZfmPnvUFXw",
+      "internalName": "Quest_SQ3_Nevermore",
+      "name": "Biohazard",
+      "region": "Dowdun Reach",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "DR_SQ3_EntryPickup",
+          "text": "DR SQ3 Entry Pickup"
+        },
+        {
+          "id": "DR_SQ3_FinalBeat",
+          "text": "DR SQ3 Final Beat"
+        },
+        {
+          "id": "DR_SQ3_FindIngredients",
+          "text": "DR SQ3 Find Ingredients"
+        },
+        {
+          "id": "DR_SQ3_HuntRavens",
+          "text": "DR SQ3 Hunt Ravens"
+        },
+        {
+          "id": "DR_SQ3_LocateSource",
+          "text": "DR SQ3 Locate Source"
+        }
+      ],
+      "description": "Investigate the strange corruption afflicting the residents of Dowdun Reach."
+    },
+    {
+      "persistenceId": "BlackKnightsFortress",
+      "internalName": "Quest_DR_MainQuest",
+      "name": "Black Knight's Fortress",
+      "region": "Dowdun Reach",
+      "kind": "main",
+      "objectives": [
+        {
+          "id": "DR_Main_Objective",
+          "text": "DR Main Objective"
+        },
+        {
+          "id": "DR_Main_Objective_-1",
+          "text": "DR Main Objective -1"
+        },
+        {
+          "id": "DR_Main_Objective_4",
+          "text": "DR Main Objective 4"
+        },
+        {
+          "id": "DR_Main_Objective_4_-1",
+          "text": "DR Main Objective 4 -1"
+        }
+      ],
+      "description": "Uncover the secrets of Dowdun Reach in order to unlock your way through to the Umbral Sands."
+    },
+    {
+      "persistenceId": "8gKiWUPU3vW2sQesVHdrPA",
+      "internalName": "Quest_DR_FTUE_Fishing",
+      "name": "Shrimp Catcher",
+      "region": "Dowdun Reach",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "ReturnToTheWOM",
+          "text": "Return to the Wise Old Man in Bramblemead Village."
+        },
+        {
+          "id": "SpeakToWom",
+          "text": "Speak To Wom"
+        },
+        {
+          "id": "StartFishing",
+          "text": "Fish a Sardine at a fishing spot near the Wise Old Man in Bramblemead Village."
+        }
+      ],
+      "description": "The Wise Old Man has some tips on how to grow as an amateur angler."
+    },
+    {
+      "persistenceId": "9Kod2UgSkm8YrJCwMgmAdQ",
+      "internalName": "Quest_SQ2_AnimalLover",
+      "name": "Wanted!",
+      "region": "Dowdun Reach",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "DR_SQ2_EntryJournal",
+          "text": "DR SQ2 Entry Journal"
+        },
+        {
+          "id": "DR_SQ2_FindPages",
+          "text": "DR SQ2 Find Pages"
+        },
+        {
+          "id": "DR_SQ2_ReturnToVannaka",
+          "text": "DR SQ2 Return To Vannaka"
+        }
+      ]
+    },
+    {
+      "persistenceId": "vxS7_kzdpGvmWKWwjqF7Jg",
+      "internalName": "Quest_SQ1_ThinkingWithPortals",
+      "name": "What's Theirs is Mine",
+      "region": "Dowdun Reach",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "DR_SQ1_Aquifer",
+          "text": "DR SQ1 Aquifer"
+        },
+        {
+          "id": "DR_SQ1_Garrison",
+          "text": "Look for signs of the mugger-mage in the Garrisons of Dowdun Keep."
+        },
+        {
+          "id": "DR_SQ1_ReturnToDoric",
+          "text": "Speak to Doric in the Dowdun Reach Nexus."
+        },
+        {
+          "id": "DR_SQ1_Temple",
+          "text": "DR SQ1 Temple"
+        }
+      ],
+      "description": "Help Doric track down the mage that stole his keepsake, by unlocking portals around Dowdun Reach."
+    },
+    {
+      "persistenceId": "Fv3Rt0Dn18PT1DepNzEqtQ",
+      "internalName": "Quest_FH_CollectorsCalling",
+      "name": "Doric's Quest",
+      "region": "Fellhollow",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "FindNecromancerStaff",
+          "text": "Craft a Necromancer's Staff and bring it to Doric in Fellhollow. Doric believes the recipe is in a vault somewhere."
+        },
+        {
+          "id": "FindShadowSword",
+          "text": "Craft a Shadow Sword and bring it to Doric in Fellhollow. Doric believes a zogre has the recipe."
+        },
+        {
+          "id": "FindSkeletonShortbow",
+          "text": "Find Skeleton Shortbow"
+        },
+        {
+          "id": "SpeakToDoric",
+          "text": "Speak to Doric in Fellhollow."
+        }
+      ],
+      "description": "Doric is looking for rare weapons in Fellhollow."
+    },
+    {
+      "persistenceId": "EvenMoreRestlessGhosts",
+      "internalName": "Quest_FH_GhostQuest",
+      "name": "Even More Restless Ghosts",
+      "region": "Fellhollow",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "BackToZanik",
+          "text": "Back To Zanik"
+        },
+        {
+          "id": "BackToZanikNotSpokenToZanik",
+          "text": "Back To Zanik Not Spoken To Zanik"
+        },
+        {
+          "id": "FindGhosts0/3",
+          "text": "Find Ghosts0 / 3"
+        },
+        {
+          "id": "FindGhosts1/3",
+          "text": "Find ghosts and complete their unfinished business. (0/3)"
+        },
+        {
+          "id": "FindGhosts2/3",
+          "text": "Find ghosts and complete their unfinished business. (1/3)"
+        }
+      ],
+      "description": "Help Zanik lay some spirits to rest by finding them and completing their unfinished business."
+    },
+    {
+      "persistenceId": "4kbEAUJrs6mebhGkzFQxmA",
+      "internalName": "Quest_FH_LettersForTheDead",
+      "name": "Letters For The Dead",
+      "region": "Fellhollow",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "ObjectiveOne",
+          "text": "Objective One"
+        },
+        {
+          "id": "ObjectiveReturn",
+          "text": "Objective Return"
+        },
+        {
+          "id": "ObjectiveThree",
+          "text": "Objective Three"
+        },
+        {
+          "id": "ObjectiveTwo",
+          "text": "Objective Two"
+        },
+        {
+          "id": "ObjectiveZero",
+          "text": "Objective Zero"
+        }
+      ],
+      "description": "Postie Pete needs some help finding and delivering some stolen letters around Bleakfields Valley in Fellhollow."
+    },
+    {
+      "persistenceId": "KLBpt02O2AA_kaa_A8Av9w",
+      "internalName": "Quest_FH_MirrorMirror",
+      "name": "Mirror Mirror",
+      "region": "Fellhollow",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "FindSilverThread",
+          "text": "Find Silver Thread"
+        },
+        {
+          "id": "LightCandles",
+          "text": "Light Candles"
+        },
+        {
+          "id": "ReturnToNPC",
+          "text": "Return To NPC"
+        }
+      ],
+      "description": "Help free a mysterious figure from their mirror prison."
+    },
+    {
+      "persistenceId": "Rov9uE687b2NkaKFCTFP3A",
+      "internalName": "Quest_FH_WitherWard",
+      "name": "Seeking Salvation",
+      "region": "Fellhollow",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "FindRecipe",
+          "text": "Access the vault and find the hidden secret within."
+        },
+        {
+          "id": "LookForDoric",
+          "text": "Find someone in Fellhollow that can translate dwarvish text."
+        },
+        {
+          "id": "ReturnToDoric",
+          "text": "Bring the dwarven writing to Doric."
+        }
+      ],
+      "description": "Find the statues to gain entrance to the vault and uncover the secrets that lie within."
+    },
+    {
+      "persistenceId": "rai6k0UuXT_GPEixJM0boQ",
+      "internalName": "Quest_FH_WitherBeast",
+      "name": "The Wild Hunt",
+      "region": "Fellhollow",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "BringHeart",
+          "text": "Bring the hearts to Vannaka."
+        },
+        {
+          "id": "BringHeartNotStarted",
+          "text": "Bring the Primordial Heart to someone with an interest in the wild hunt."
+        },
+        {
+          "id": "HuntBeast",
+          "text": "Hunt down Nature Spirits near Fellhollow's willow groves and bring three of their hearts to Vannaka."
+        }
+      ],
+      "description": "Help Vannaka safeguard Fellhollow's nature spirits, by hunting them down, in willow groves, and collecting their hearts."
+    },
+    {
+      "persistenceId": "wwEK50EPipTecO20yTquSQ",
+      "internalName": "Quest_FH_NightoftheSpectralBoom",
+      "name": "Things That Go Boom In The Night",
+      "region": "Fellhollow",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "FindSpectralChinchompaSkulls",
+          "text": "Find Spectral Chinchompa Skulls"
+        },
+        {
+          "id": "SpeaktoVannaka",
+          "text": "Speak to Vannaka in Fellhollow."
+        }
+      ],
+      "description": "Gather spectral chinchompa skulls so that Vannaka can help the land heal."
+    },
+    {
+      "persistenceId": "WhatRemainsIsWritten",
+      "internalName": "Quest_FH_WhatRemainsIsWritten",
+      "name": "What Remains is Written",
+      "region": "Fellhollow",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "FindBooks",
+          "text": "Search the eastern areas of Fellhollow and find the books for Abraxus."
+        },
+        {
+          "id": "FindBooksAndReturn",
+          "text": "Find five of Abraxus’ missing books in eastern Fellhollow and return them to him."
+        },
+        {
+          "id": "FindScrolls",
+          "text": "Defeat Abraxus' enemies to retrieve the scrolls."
+        },
+        {
+          "id": "FindScrollsAndReturn",
+          "text": "Defeat Abraxus' enemies to retrieve the scrolls. Then return them to Abraxus."
+        },
+        {
+          "id": "FoundBooks",
+          "text": "Bring the books to Abraxus."
+        },
+        {
+          "id": "FoundScrolls",
+          "text": "Bring the scrolls to Abraxus."
+        },
+        {
+          "id": "ObjectiveZero",
+          "text": "Objective Zero"
+        }
+      ],
+      "description": "Find stolen knowledge and return it to its owner. I'm sure nothing bad will happen because of it."
+    },
+    {
+      "persistenceId": "uftGB0es-CGrvXyPoxW31w",
+      "internalName": "Quest_DeathQuestMain",
+      "name": "Withering Heights",
+      "region": "Fellhollow",
+      "kind": "main",
+      "objectives": [
+        {
+          "id": "BreakRemainingtwoSeals",
+          "text": "Break Remainingtwo Seals"
+        },
+        {
+          "id": "BreakTheFinalSeal",
+          "text": "Break The Final Seal"
+        },
+        {
+          "id": "BreakTheThreeSeals",
+          "text": "Break The Three Seals"
+        },
+        {
+          "id": "ChallangeImaru",
+          "text": "Challange Imaru"
+        },
+        {
+          "id": "FindACleansingPool",
+          "text": "Find A Cleansing Pool"
+        },
+        {
+          "id": "GoThroughDoorToFH",
+          "text": "Go Through Door To FH"
+        },
+        {
+          "id": "InteractedWithStone1",
+          "text": "Interacted With Stone1"
+        },
+        {
+          "id": "InteractedWithStone2",
+          "text": "Interacted With Stone2"
+        },
+        {
+          "id": "InvestigateStandingStones",
+          "text": "Investigate Standing Stones"
+        },
+        {
+          "id": "ReachedStandingStones",
+          "text": "Reached Standing Stones"
+        },
+        {
+          "id": "ReturnToDeath",
+          "text": "Return To Death"
+        },
+        {
+          "id": "SearchTheStructure",
+          "text": "Search The Structure"
+        },
+        {
+          "id": "SpeakToMysteriousFigure",
+          "text": "Speak To Mysterious Figure"
+        },
+        {
+          "id": "SpeakToPostiePete",
+          "text": "Speak to Postie Pete."
+        },
+        {
+          "id": "TalkToWomNEGF",
+          "text": "Talk To Wom NEGF"
+        },
+        {
+          "id": "UnlockGate",
+          "text": "Unlock Gate"
+        }
+      ],
+      "description": "Put an end to the horror of Fellhollow, by defeating Imaru, the soul-devourer."
+    },
+    {
+      "persistenceId": "O3ruOkgGHBqwIheSH_7BBg",
+      "internalName": "Quest_AMelodyRemebered",
+      "name": "A Melody Remembered",
+      "region": "Ghornfell",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "The jewellery box requires a specific ring."
+        },
+        {
+          "id": "Objective2",
+          "text": "The jewellery box requires a specific amulet."
+        }
+      ],
+      "description": "A jewellery box in Ghornfell plays a haunting melody, but it cannot complete its song."
+    },
+    {
+      "persistenceId": "4G_ph0XQeA1Nc72_CVO6HQ",
+      "internalName": "Quest_ElderGarou",
+      "name": "A Room with a Garou",
+      "region": "Ghornfell",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "None",
+          "text": "None"
+        }
+      ],
+      "description": "An elder garou wants you to build a home that his late wife would be proud of."
+    },
+    {
+      "persistenceId": "0WS3LUBsaPUDeuiPT_akhQ",
+      "internalName": "Quest_AnimalMagnetism",
+      "name": "Animal Magnetism",
+      "region": "Ghornfell",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "None",
+          "text": "None"
+        },
+        {
+          "id": "Objective2",
+          "text": "Discuss the advert with Manktongue"
+        },
+        {
+          "id": "Objective3",
+          "text": "Gather an undead chicken, magnetised iron bar and undead twigs, and bring them to Manktongue"
+        },
+        {
+          "id": "Objective4",
+          "text": "Return to Manktongue"
+        }
+      ],
+      "description": "Create the Ava's Accumulator"
+    },
+    {
+      "persistenceId": "cZlfrUaPSsi4VfeVc6iIEw",
+      "internalName": "Quest_CooksAssistant",
+      "name": "Cook's Assistant",
+      "region": "Ghornfell",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Gather 4 eggs, 6 wheat and a bucket of milk, and bring them all to Slopfinger."
+        },
+        {
+          "id": "Objective2",
+          "text": "Bake a cake using the stove next to Slopfinger."
+        },
+        {
+          "id": "Objective3",
+          "text": "Bring the signed cake to Manktongue."
+        },
+        {
+          "id": "Objective4",
+          "text": "Show Slopfinger the freshly cooked cake."
+        },
+        {
+          "id": "Objective5",
+          "text": "Give Slopfinger the good news."
+        }
+      ],
+      "description": "Help Slopfinger in Ghornfell bake a memorable cake for Manktongue."
+    },
+    {
+      "persistenceId": "Kdj6N0dEw05JjoyDP0pNvw",
+      "internalName": "Quest_DogDays",
+      "name": "Dog Days",
+      "region": "Ghornfell",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Objective1"
+        },
+        {
+          "id": "Objective2",
+          "text": "Objective2"
+        },
+        {
+          "id": "Objective3",
+          "text": "Objective3"
+        },
+        {
+          "id": "Objective4",
+          "text": "Objective4"
+        },
+        {
+          "id": "Objective5",
+          "text": "Objective5"
+        },
+        {
+          "id": "Objective6",
+          "text": "Objective6"
+        }
+      ]
+    },
+    {
+      "persistenceId": "yrRZnkmro-IvH_OmZ3f-5A",
+      "internalName": "Quest_DragonSlayer",
+      "name": "Dragon Slayer",
+      "region": "Ghornfell",
+      "kind": "main",
+      "objectives": [
+        {
+          "id": "Challenge Velgar",
+          "text": "Challenge Velgar"
+        },
+        {
+          "id": "Claim a bed",
+          "text": "Claim a bed"
+        },
+        {
+          "id": "Craft the summon horn",
+          "text": "Craft the summon horn"
+        },
+        {
+          "id": "Find and hunt a deer",
+          "text": "Find and hunt a deer"
+        },
+        {
+          "id": "Investigate the castle",
+          "text": "Investigate the castle"
+        },
+        {
+          "id": "Locate cathan in the vault",
+          "text": "Locate cathan in the vault"
+        },
+        {
+          "id": "Look for evidence of Cathan at the tower",
+          "text": "Look for evidence of Cathan at the tower"
+        },
+        {
+          "id": "Return to the Wise old man",
+          "text": "Return to the Wise old man"
+        },
+        {
+          "id": "Return to the Wise old man after claimed bed",
+          "text": "Return to the Wise old man after claimed bed"
+        },
+        {
+          "id": "Return to the Wise old man after killing velgar",
+          "text": "Return to the Wise old man after killing velgar"
+        },
+        {
+          "id": "Venture into Ghornfell",
+          "text": "Venture into Ghornfell"
+        }
+      ],
+      "description": "Recruited with promises of glory, your first challenge is to defeat General Velgar."
+    },
+    {
+      "persistenceId": "AsyEt0xjewNEzYmzr_kg_w",
+      "internalName": "Quest_GoblinDiplomacy",
+      "name": "Goblin Diplomacy",
+      "region": "Ghornfell",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Investigate the ruins to the northeast and the guild to the south of Zanik."
+        },
+        {
+          "id": "Objective2a",
+          "text": "Investigate the ruin northeast of Zanik."
+        },
+        {
+          "id": "Objective2b",
+          "text": "Investigate the guild south of Zanik."
+        },
+        {
+          "id": "Objective3",
+          "text": "Search for the other amulet piece in an area filled with mud and stagnant swampwater."
+        },
+        {
+          "id": "Objective4",
+          "text": "Bring both amulets to Zanik."
+        },
+        {
+          "id": "Objective5",
+          "text": "Look for the other amulet at either the ruins northeast of Zanik, or the guild to the south."
+        },
+        {
+          "id": "Objective6",
+          "text": "Find someone that can identify the Bandosian amulet."
+        }
+      ],
+      "description": "Zanik needs you to stop a prophecy before it's too late."
+    },
+    {
+      "persistenceId": "bsfNlkgT8D_Y5HCdCf-Seg",
+      "internalName": "Quest_GraniteMauled",
+      "name": "Granite Mauled",
+      "region": "Ghornfell",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Investigate the secrets hidden below Ashien's Watch."
+        },
+        {
+          "id": "Objective2",
+          "text": "Objective2"
+        },
+        {
+          "id": "Objective3",
+          "text": "Objective3"
+        }
+      ],
+      "description": "Uncover the secrets of Ashien's Watch."
+    },
+    {
+      "persistenceId": "xsgOzUS-M2iCLDe-XTDq3w",
+      "internalName": "Quest_Heartstrings",
+      "name": "Heartstrings",
+      "region": "Ghornfell",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "follow the blue-leafed trees",
+          "text": "follow the blue-leafed trees"
+        }
+      ],
+      "description": "Follow an elven bard's trail of memory, and discover a harmonious weapon."
+    },
+    {
+      "persistenceId": "HighlightingTheProblem",
+      "internalName": "Quest_HighlightingTheProblem",
+      "name": "Highlighting the Problem",
+      "region": "Ghornfell",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "Charge the orb",
+          "text": "Charge the orb"
+        },
+        {
+          "id": "Investigate for clues about the statue",
+          "text": "Investigate for clues about the statue"
+        },
+        {
+          "id": "Return to statue",
+          "text": "Return to statue"
+        },
+        {
+          "id": "Search the runecrafting guild for wizard statue",
+          "text": "Search the runecrafting guild for wizard statue"
+        }
+      ],
+      "description": "Explore the RuneCrafting Guild to discover the means to craft a powerful magical weapon."
+    },
+    {
+      "persistenceId": "eKV5vkDqZH89aGWiY_T7GQ",
+      "internalName": "Quest_RestlessGhosts",
+      "name": "Restless Ghosts",
+      "region": "Ghornfell",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "Found ghost amulet",
+          "text": "Search for a purpose for the Amulet of Ghostspeak."
+        },
+        {
+          "id": "Put ghosts to rest",
+          "text": "Find the restless spirits and help lay them to rest. They only appear at night."
+        }
+      ],
+      "description": "Lay to rest the spirits of the lost expedition members."
+    },
+    {
+      "persistenceId": "2V1KS0R3XJX-UtiuP78EoA",
+      "internalName": "Quest_SaradominStatue",
+      "name": "Saradomin Statue",
+      "region": "Ghornfell",
+      "kind": "side",
+      "objectives": []
+    },
+    {
+      "persistenceId": "kTD_70L2tJmsOiSW5iCYVw",
+      "internalName": "Quest_ScarecrowScavenging",
+      "name": "Scarecrow Scavenging",
+      "region": "Ghornfell",
+      "kind": "side",
+      "objectives": []
+    },
+    {
+      "persistenceId": "db-ciknQnYrkNHuOcQXhkA",
+      "internalName": "Quest_GreatBodyRobbery",
+      "name": "The Great Body Robbery",
+      "region": "Ghornfell",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "AddPartsToTable",
+          "text": "Add Parts To Table"
+        },
+        {
+          "id": "BodyParts.0",
+          "text": "Dig up body parts from graves around Bloodblight Swamp. 0/3"
+        },
+        {
+          "id": "BodyParts.1",
+          "text": "Dig up body parts from graves around Bloodblight Swamp. 1/3"
+        },
+        {
+          "id": "BodyParts.2",
+          "text": "Dig up body parts from graves around Bloodblight Swamp. 2/3"
+        },
+        {
+          "id": "Objecrive3.5",
+          "text": "Objecrive3 5"
+        },
+        {
+          "id": "Objective2",
+          "text": "Objective2"
+        },
+        {
+          "id": "Objective3",
+          "text": "Objective3"
+        },
+        {
+          "id": "Objective4",
+          "text": "Objective4"
+        },
+        {
+          "id": "Objective5",
+          "text": "Objective5"
+        },
+        {
+          "id": "Objective6",
+          "text": "Objective6"
+        },
+        {
+          "id": "Objective7",
+          "text": "Objective7"
+        },
+        {
+          "id": "Objective8",
+          "text": "Objective8"
+        },
+        {
+          "id": "Objective9",
+          "text": "Objective9"
+        }
+      ],
+      "description": "Assist Dr Fenkenstrain in acquiring a new body. FOR SCIENCE!"
+    },
+    {
+      "persistenceId": "xmM520wY0W5Qw8qE3YnC5Q",
+      "internalName": "Quest_Whip",
+      "name": "Whip",
+      "region": "Ghornfell",
+      "kind": "side",
+      "objectives": []
+    },
+    {
+      "persistenceId": "Nw3wiUaB8siRIN2bStWJmw",
+      "internalName": "Quest_SW_MainQuest",
+      "name": "Regicide",
+      "region": "Scorned Wilderness",
+      "kind": "main",
+      "objectives": [
+        {
+          "id": "AccessSW",
+          "text": "Access SW"
+        },
+        {
+          "id": "BringHead",
+          "text": "Bring Head"
+        },
+        {
+          "id": "DefeatKuldra",
+          "text": "Defeat Kuldra"
+        },
+        {
+          "id": "ReturnToZilyana",
+          "text": "Return To Zilyana"
+        },
+        {
+          "id": "SpeakZilyana",
+          "text": "Speak to Zilyana."
+        }
+      ],
+      "description": "Take the fight to Kuldra, and end this once and for all."
+    },
+    {
+      "persistenceId": "sQ91eUA55bcQx0OQ0m59sg",
+      "internalName": "Quest_BrinkOfExtinction",
+      "name": "Brink of Extinction",
+      "region": "Umbral Sands",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "Bring 1 cactus steak and 3 raw beltfish back to Zi in Umbral Sands"
+        },
+        {
+          "id": "Objective2",
+          "text": "Touch 4 pedestals in any order in THE GAUNTLET OF FIRE - 0/4"
+        },
+        {
+          "id": "Objective2.1",
+          "text": "Touch 4 pedestals in any order in THE GAUNTLET OF FIRE - 1/4"
+        },
+        {
+          "id": "Objective2.2",
+          "text": "Touch 4 pedestals in any order in THE GAUNTLET OF FIRE - 2/4"
+        },
+        {
+          "id": "Objective2.3",
+          "text": "Touch 4 pedestals in any order in THE GAUNTLET OF FIRE - 3/4"
+        },
+        {
+          "id": "Objective3",
+          "text": "Return to Zi in the Burning Spire region of the Umbral Sands"
+        },
+        {
+          "id": "Objective4",
+          "text": "Use the password to enter the Cave of Screams, within the Burning Spire region"
+        },
+        {
+          "id": "Objective5",
+          "text": "Use the KotHaar numbering book to get past the KotHaar Bouncer"
+        },
+        {
+          "id": "Objective6",
+          "text": "Return to the KotHaar Bouncer outside of the Cave of Screams"
+        }
+      ],
+      "description": "Help Zi to become a real KotHaar"
+    },
+    {
+      "persistenceId": "A3DOkkGZxXUHc82rPKHznA",
+      "internalName": "Quest_Contact",
+      "name": "Contact!",
+      "region": "Umbral Sands",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "CrystalShard.1",
+          "text": "Find Crystal Helix fragments. 1/3"
+        },
+        {
+          "id": "CrystalShard.2",
+          "text": "Find Crystal Helix fragments. 2/3"
+        },
+        {
+          "id": "Objective1",
+          "text": "Find the Vault Guardian Prime in the Kalphite Hive"
+        },
+        {
+          "id": "Objective2",
+          "text": "Find 3 missing vault guardians and recover their Crystal Helix fragments"
+        },
+        {
+          "id": "Objective2.1",
+          "text": "Follow the footsteps in the sand to find who made them"
+        },
+        {
+          "id": "Objective3",
+          "text": "Return to the Vault Guardian Prime"
+        },
+        {
+          "id": "Objective4",
+          "text": "Use the Crystal Helix to pass through the magical barrier in the Kalphite Hive"
+        },
+        {
+          "id": "Objective5",
+          "text": "Talk to Zanik in the Shortcut Chamber within the Kalphite Hive"
+        },
+        {
+          "id": "Objective6",
+          "text": "Break the four crystals in the Shortcut Chamber of the Kalphite Hive"
+        },
+        {
+          "id": "Objective7",
+          "text": "Return to Zanik in the Shortcut Chamber within the Kalphite Hive"
+        }
+      ],
+      "description": "Work with Avisk to find a potential shortcut to Fuzan's Volcano"
+    },
+    {
+      "persistenceId": "IcthlarinsLittleHelper",
+      "internalName": "Quest_UmS_MainQuest",
+      "name": "Icthlarin's Little Helper",
+      "region": "Umbral Sands",
+      "kind": "main",
+      "objectives": [
+        {
+          "id": "EnterUmS",
+          "text": "Enter the Umbral Sands"
+        },
+        {
+          "id": "FightFuzan",
+          "text": "Enter the Fight Caves and defeat Fuzan"
+        },
+        {
+          "id": "FindGarou",
+          "text": "Speak to the Alcarrid Elder in the Moon Garou settlement to the south"
+        },
+        {
+          "id": "FindLastKey",
+          "text": "Complete tasks for the final camp and gain their Mirror Lens"
+        },
+        {
+          "id": "FindThreeKeys",
+          "text": "Find Three Keys"
+        },
+        {
+          "id": "FirstGarouEarnReputation.HighReputation",
+          "text": "First Garou Earn Reputation High Reputation"
+        },
+        {
+          "id": "FirstGarouEarnReputation.LowReputation",
+          "text": "First Garou Earn Reputation Low Reputation"
+        },
+        {
+          "id": "FirstGarouEarnReputation.MaxReputation",
+          "text": "First Garou Earn Reputation Max Reputation"
+        },
+        {
+          "id": "FirstGarouEarnReputation.MediumReputation",
+          "text": "First Garou Earn Reputation Medium Reputation"
+        },
+        {
+          "id": "FirstGarouEarnReputation.NoReputation",
+          "text": "First Garou Earn Reputation No Reputation"
+        },
+        {
+          "id": "InvestigateGarouProblem",
+          "text": "Investigate the nearby area for something that concerns the Moon Garou"
+        },
+        {
+          "id": "LookForLife",
+          "text": "Look For Life"
+        },
+        {
+          "id": "RepairTheMirrors",
+          "text": "Repair The Mirrors"
+        },
+        {
+          "id": "ReturnToFirstGarou",
+          "text": "Return to Shangruuh, the Alcarrid Envoy in the passage from Dowdun Reach"
+        },
+        {
+          "id": "ReturnToIcthlarin",
+          "text": "Bring Fuzan's head to Icthlarin at the Mirror Relay"
+        },
+        {
+          "id": "SlayFuzan",
+          "text": "Slay Fuzan"
+        },
+        {
+          "id": "SpeakToGarouElder",
+          "text": "Speak To Garou Elder"
+        },
+        {
+          "id": "SpeakToIcthlarin",
+          "text": "Speak to Icthlarin at the Mirror Relay"
+        }
+      ],
+      "description": "Slay the tyrant dragon Fuzan and unite the Moon Garou along the way"
+    },
+    {
+      "persistenceId": "NjeUO0TBeyQGzSCmu2b3bA",
+      "internalName": "Quest_UMS_MappingTheSands",
+      "name": "Mapping the Sands I",
+      "region": "Umbral Sands",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "0/3",
+          "text": "0 / 3"
+        },
+        {
+          "id": "1/3",
+          "text": "1 / 3"
+        },
+        {
+          "id": "2/3",
+          "text": "2 / 3"
+        },
+        {
+          "id": "3/3",
+          "text": "3 / 3"
+        },
+        {
+          "id": "Objective1",
+          "text": "Climb tall locations around the Alcarrid Camp and find their Moon Sprites"
+        },
+        {
+          "id": "Objective2",
+          "text": "Return to the Moon Sprite Shaman in the Alcarrid Camp"
+        }
+      ],
+      "description": "Discover Moon Sprites on top of tall locations around the Alcarrid Camp to map the Umbral Sands."
+    },
+    {
+      "persistenceId": "rI4VkUT_8837ayKcLgxWwQ",
+      "internalName": "Quest_UMS_MappingTheSands2",
+      "name": "Mapping the Sands II",
+      "region": "Umbral Sands",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "0/8",
+          "text": "0 / 8"
+        },
+        {
+          "id": "1/8",
+          "text": "1 / 8"
+        },
+        {
+          "id": "2/8",
+          "text": "2 / 8"
+        },
+        {
+          "id": "3/8",
+          "text": "3 / 8"
+        },
+        {
+          "id": "4/8",
+          "text": "4 / 8"
+        },
+        {
+          "id": "5/8",
+          "text": "5 / 8"
+        },
+        {
+          "id": "6/8",
+          "text": "6 / 8"
+        },
+        {
+          "id": "7/8",
+          "text": "7 / 8"
+        },
+        {
+          "id": "Objective1",
+          "text": "Climb tall locations around Umbral Sands and find their Moon Sprites"
+        },
+        {
+          "id": "Objective2",
+          "text": "Return to the Moon Sprite Shaman in the Alcarrid Camp"
+        }
+      ],
+      "description": "Discover Moon Sprites on top of tall locations around all of the Umbral Sands."
+    },
+    {
+      "persistenceId": "nIvEyEv-kvSwgqOLc5VopQ",
+      "internalName": "Quest_UmS_MainQuest1_TribeB_Task3",
+      "name": "Mark Day",
+      "region": "Umbral Sands",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "ConvinceNoble.0",
+          "text": "Convince Noble 0"
+        },
+        {
+          "id": "ConvinceNoble.1",
+          "text": "Convince Noble 1"
+        },
+        {
+          "id": "ConvinceNoble.2",
+          "text": "Convince Noble 2"
+        },
+        {
+          "id": "ReturnToShangruuh",
+          "text": "Return to Shangruuh - Garou Envoy in the Uzzer Camp"
+        }
+      ],
+      "description": "Stop the Uzzer tribe from making a mistake and binding themselves to Fuzan's Mark"
+    },
+    {
+      "persistenceId": "1BhNkkkP6y7ireu6yVR5tg",
+      "internalName": "Quest_UmS_MainQuest1_TribeA_Task1",
+      "name": "Rag and Bone Garou",
+      "region": "Umbral Sands",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "GatherIngredients",
+          "text": "Gather Ingredients"
+        }
+      ],
+      "description": "Bring materials to Lagra - The Butcher in the Alcarrid Camp."
+    },
+    {
+      "persistenceId": "d6s4dUyoCduLy7eRc2KndQ",
+      "internalName": "Quest_UmS_MainQuest1_TribeA_Task2",
+      "name": "Rogue Trader",
+      "region": "Umbral Sands",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "FindMoonstone",
+          "text": "Find 3 moonstones beneath gypsum deposits in rocky areas west of Alcarrid"
+        },
+        {
+          "id": "ReturnToShopkeeper",
+          "text": "Return to Domri - The Merchant in the Alcarrid Camp"
+        }
+      ],
+      "description": "Domri - The Merchant is looking for 3 moonstones for their shop"
+    },
+    {
+      "persistenceId": "XElCtUmXXqK35p63tua9og",
+      "internalName": "Quest_UmS_MainQuest1_TribeB_Task1",
+      "name": "Saga of the Adventurer",
+      "region": "Umbral Sands",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "FindRemainingClues2/4",
+          "text": "Find Remaining Clues2 / 4"
+        },
+        {
+          "id": "FindRemainingClues3/4",
+          "text": "Find Remaining Clues3 / 4"
+        },
+        {
+          "id": "FindTheClues",
+          "text": "Find The Clues"
+        },
+        {
+          "id": "LocateTheGateway",
+          "text": "Locate The Gateway"
+        },
+        {
+          "id": "None",
+          "text": "None"
+        },
+        {
+          "id": "ReturnToBard",
+          "text": "Return To Bard"
+        }
+      ],
+      "description": "Help Laguna - The Bard to find stone slabs in rocky spires around the pyramid"
+    },
+    {
+      "persistenceId": "Bnon4kzm_EdvZz-bma5HBg",
+      "internalName": "Quest_UmS_MainQuest1_TribeC_Task2",
+      "name": "Scaling Difficulties",
+      "region": "Umbral Sands",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "FindDragon",
+          "text": "Find Dragon"
+        },
+        {
+          "id": "ReturnToGarou",
+          "text": "Return To Garou"
+        },
+        {
+          "id": "SearchLocation",
+          "text": "Search Location"
+        }
+      ],
+      "description": "Find some lost garou scouts and slay the creature they have been tracking"
+    },
+    {
+      "persistenceId": "Xb1KUkU_wOIHvzahULr6yA",
+      "internalName": "Quest_UmS_MainQuest1_TribeC_Task3",
+      "name": "Song of the Ancients",
+      "region": "Umbral Sands",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "FindStatues.0",
+          "text": "Transcribe lyrics written on stone slabs within the Dragonkin Vault. 0/3"
+        },
+        {
+          "id": "FindStatues.1",
+          "text": "Transcribe lyrics written on stone slabs within the Dragonkin Vault. 1/3"
+        },
+        {
+          "id": "FindStatues.2",
+          "text": "Transcribe lyrics written on stone slabs within the Dragonkin Vault. 2/3"
+        },
+        {
+          "id": "FindStatues.3",
+          "text": "Find Statues 3"
+        },
+        {
+          "id": "FindStatues.4",
+          "text": "Find Statues 4"
+        },
+        {
+          "id": "Return",
+          "text": "Return"
+        }
+      ],
+      "description": "Complete the 'Song of the Ancients' by finding lyrics on stone slabs within the Dragonkin Vault."
+    },
+    {
+      "persistenceId": "0cB0D0QD_L4nrpu6CxZEsw",
+      "internalName": "Quest_UmS_MainQuest1_TribeC_Task1",
+      "name": "Task1",
+      "region": "Umbral Sands",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "FollowBeast",
+          "text": "Track down the Dearg Due through the sandstorm"
+        },
+        {
+          "id": "GiveWater",
+          "text": "Give Water"
+        },
+        {
+          "id": "Return",
+          "text": "Return"
+        }
+      ],
+      "description": "Follow the trail of the Dearg Due to the south, and retrieve the body of its victim."
+    },
+    {
+      "persistenceId": "8Rb0t0upslwKHXWYGnTKgg",
+      "internalName": "Quest_UmS_MainQuest1_TribeB_Task2",
+      "name": "The Dig Site",
+      "region": "Umbral Sands",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "DigScroll.0",
+          "text": "Dig Scroll 0"
+        },
+        {
+          "id": "DigScroll.1",
+          "text": "Dig Scroll 1"
+        },
+        {
+          "id": "DigScroll.2",
+          "text": "Dig Scroll 2"
+        },
+        {
+          "id": "DigScroll.3",
+          "text": "Dig Scroll 3"
+        },
+        {
+          "id": "ReturnToArchaeologist",
+          "text": "Return to Lehran - The Archaeologist in the Uzzer Camp"
+        }
+      ],
+      "description": "Dig up buried history in garou ruins far to the south"
+    },
+    {
+      "persistenceId": "d6M5Dkpx9Pjw_V2mNJh6eA",
+      "internalName": "Quest_UmS_MainQuest1_TribeA_Task3",
+      "name": "The Mirror Crack'd",
+      "region": "Umbral Sands",
+      "kind": "task",
+      "objectives": [
+        {
+          "id": "BringBars",
+          "text": "Bring Bars"
+        }
+      ],
+      "description": "Valas - The Blacksmith is looking for some adamant bars to repair the Mirror Relay"
+    },
+    {
+      "persistenceId": "UPSTQ0y_YVdTjyO6nWKZiQ",
+      "internalName": "Quest_UmS_Vannaka",
+      "name": "Vannaka UmS",
+      "region": "Umbral Sands",
+      "kind": "side",
+      "objectives": [
+        {
+          "id": "Objective1",
+          "text": "[PH] Vannaka UmS"
+        },
+        {
+          "id": "Objective2",
+          "text": "[PH] Vannaka is fascinated by the Kalphite. Help him understand them more."
+        },
+        {
+          "id": "Objective3",
+          "text": "[PH] Bring a Kalphite shell to Vannaka to study"
+        }
+      ]
+    }
+  ]
+}

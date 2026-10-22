@@ -1,0 +1,5171 @@
+[
+  {
+    "persistenceId": "Mw42KUu2HuXm3baIbHa_8g",
+    "name": "Abyssal Ashes",
+    "rowName": "res_abyssal_ashes",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Abyssal_Ashes.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Abyssal_Ashes.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Abyssal_Ashes.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "GHBDsEGyH5DJpTqa7xIC1w",
+    "name": "Abyssal Spine",
+    "rowName": "res_abyssal_spine",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.Bone"
+    ],
+    "icon": "T_Icon_Resource_Abyssal_Spine.png",
+    "weight": 10,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Abyssal_Spine.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Abyssal_Spine.uasset"
+  },
+  {
+    "persistenceId": "o_FS9kA9Wks1Fh2JaUNxHw",
+    "name": "Acrid Adhesive",
+    "rowName": "res_adhesive_acrid",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Acrid_Adhesive.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Adhesive_Acrid.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Adhesive_Acrid.uasset"
+  },
+  {
+    "persistenceId": "Nk1A7U8zr0iWSJr-3AVh6g",
+    "name": "Adamant Bar",
+    "rowName": "res_bar_adamantite",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "ItemFilter.Material.Metal"
+    ],
+    "icon": "T_Icon_Adamantite_Bar.png",
+    "weight": 5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_AdamantiteBar.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_AdamantiteBar.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "eLhc5azRrkOtvftheM1s1g",
+    "name": "Adamantite Ore",
+    "rowName": "res_ore_adamantite",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Adamantite_Ore.png",
+    "weight": 3.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_AdamantiteOre.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_AdamantiteOre.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "3_luxedD0kyY_dd3UKYvEQ",
+    "name": "Adhesive",
+    "rowName": "res_adhesive",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Adhesive.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Adhesive.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Adhesive.uasset"
+  },
+  {
+    "persistenceId": "3qvw7EnZoZI0IDyB7ZUCQg",
+    "name": "Aetheric Fundamentals, a Primordial Primer",
+    "rowName": "ITEM_quest_FH_WhatRemains_Book1",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Abraxus_Necromancer_Book.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_WhatRemains_Book1.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_WhatRemains_Book1.uasset"
+  },
+  {
+    "persistenceId": "JkkgFEcMSlbLJ8CVW7Z22Q",
+    "name": "Amylase Crystal",
+    "rowName": "res_agility_amylase_crystal",
+    "category": "Resources",
+    "subcategory": "Agility",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_AmylaseCrystal.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Agility_Amylase_Crystal.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Resources/Agility/ITEM_Resources_Agility_Amylase_Crystal.uasset"
+  },
+  {
+    "persistenceId": "tKokB0xYm6tJNHiWwmG2SQ",
+    "name": "Anima-infused Bark",
+    "rowName": "res_animainfusedbark",
+    "category": "Resources",
+    "subcategory": "Wood",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resource_Anima_Infused_Bark.png",
+    "weight": 0.8,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_AnimaInfusedBark.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Wood/ITEM_Resources_AnimaInfusedBark.uasset"
+  },
+  {
+    "persistenceId": "EnjZ-B1MLkuduCRe1oLNQw",
+    "name": "Animal Bone",
+    "rowName": "res_bone",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.Bone"
+    ],
+    "icon": "T_Icon_Animal_Bone.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_AnimalBone.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_AnimalBone.uasset"
+  },
+  {
+    "persistenceId": "ND81bEI1UktxBZK6a1kPtg",
+    "name": "Animal Hide",
+    "rowName": "res_animal_hide",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resources_Animal_Hide.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Animal_Hide.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Animal_Hide.uasset"
+  },
+  {
+    "persistenceId": "ab53An3iPkyjTqnHyme-0A",
+    "name": "Animal Hide Scraps",
+    "rowName": "res_skin_scraps",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resource_Animal_Hide_Scraps.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Skin_Scraps.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Skin_Scraps.uasset"
+  },
+  {
+    "persistenceId": "AEnD3ErsJVZ3V7WT1YdPQQ",
+    "name": "Antler",
+    "rowName": "res_animal_horn_antler",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.Bone"
+    ],
+    "icon": "T_Icons_Resource_Antlers.png",
+    "weight": 1.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Animal_Horn.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Animal_Horn.uasset"
+  },
+  {
+    "persistenceId": "1vnQRkU3nbjoBkygrJuehA",
+    "name": "Arcane Infusion",
+    "rowName": "food_tea_stamina_reduction_magic_cooling",
+    "category": "Resources",
+    "subcategory": "Consumable",
+    "icon": "T_Icon_Cooling_Infusion_Blue.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Stamina_Reduction_Magic_Cooling.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Tea_Stamina_Reduction_Magic_Cooling.uasset"
+  },
+  {
+    "persistenceId": "o6DnPkaZXSenA3eEK7bxgw",
+    "name": "Ascension Core",
+    "rowName": "res_t8_upgrade_core",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Nightmare_Crucible_Keys_01_Orange.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "sourceAsset": "ITEM_Resources_T8_Upgrade_Core.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_T8_Upgrade_Core.uasset"
+  },
+  {
+    "persistenceId": "nU6Fg0T66QR19Q66XKbv8Q",
+    "name": "Ascension Core 4",
+    "rowName": "res_t4_upgrade_core",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Nightmare_Crucible_Keys_01_Blue.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_T4_Upgrade_Core.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_T4_Upgrade_Core.uasset"
+  },
+  {
+    "persistenceId": "b1LuN0tOkAVnfz2UuoqgSQ",
+    "name": "Ascension Core 5",
+    "rowName": "res_t5_upgrade_core",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Nightmare_Crucible_Keys_01_Purple.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "sourceAsset": "ITEM_Resources_T5_Upgrade_Core.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_T5_Upgrade_Core.uasset"
+  },
+  {
+    "persistenceId": "h3u7Rk41zjjzfq6u0_n7Ug",
+    "name": "Ascension Core 6",
+    "rowName": "res_t6_upgrade_core",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Nightmare_Crucible_Keys_01_Pink.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_Resources_T6_Upgrade_Core.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_T6_Upgrade_Core.uasset"
+  },
+  {
+    "persistenceId": "wg4KnETWmNL1cbO6KKgs7A",
+    "name": "Ascension Core 7",
+    "rowName": "res_t7_upgrade_core",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Nightmare_Crucible_Keys_01_Red.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_T7_Upgrade_Core.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_T7_Upgrade_Core.uasset"
+  },
+  {
+    "persistenceId": "RzZ0JUvCjt1tbQK8WWQxxA",
+    "name": "Ascension Shard",
+    "rowName": "res_t8_upgrade_shard",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Upgrade_Core_small_Orange.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_T8_Upgrade_Shard.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_T8_Upgrade_Shard.uasset"
+  },
+  {
+    "persistenceId": "H8Ib6kekRERuiGKtbEvpmQ",
+    "name": "Ascension Shard 4",
+    "rowName": "res_t4_upgrade_shard",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Upgrade_Core_small_Blue.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_T4_Upgrade_Shard.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_T4_Upgrade_Shard.uasset"
+  },
+  {
+    "persistenceId": "xPsMjk-6CC6Loxyd8lnjnw",
+    "name": "Ascension Shard 5",
+    "rowName": "res_t5_upgrade_shard",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Upgrade_Core_small_Purple.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "sourceAsset": "ITEM_Resources_T5_Upgrade_Shard.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_T5_Upgrade_Shard.uasset"
+  },
+  {
+    "persistenceId": "6hDDS0E5hHRfaXCv_VVWGQ",
+    "name": "Ascension Shard 6",
+    "rowName": "res_t6_upgrade_shard",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Upgrade_Core_small_Pink.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_Resources_T6_Upgrade_Shard.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_T6_Upgrade_Shard.uasset"
+  },
+  {
+    "persistenceId": "jV870UJVpUaRId6E8wQYVA",
+    "name": "Ascension Shard 7",
+    "rowName": "res_t7_upgrade_shard",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Upgrade_Core_small_Red.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_T7_Upgrade_Shard.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_T7_Upgrade_Shard.uasset"
+  },
+  {
+    "persistenceId": "2rxJ495rm0GDn4h5OWKiyQ",
+    "name": "Ash Logs",
+    "rowName": "res_wood_ash",
+    "category": "Resources",
+    "subcategory": "Wood",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Ash_Logs.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Wood_Ash.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Wood/ITEM_Resources_Wood_Ash.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "Gv_wHkJnBgiXOfq0cCvggg",
+    "name": "Ash Plank",
+    "rowName": "res_plank",
+    "category": "Resources",
+    "subcategory": "Wood",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Ash_Plank.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Plank_Ash.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Wood/ITEM_Resources_Plank_Ash.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "rml74kE3HftGhqabnwqNhw",
+    "name": "Ash tree Seed",
+    "rowName": "farming_treeseed_ash",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Ash_Tree_Seed.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Farming_TreeSeed_Ash.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/TreePlanting/ITEM_Farming_TreeSeed_Ash.uasset"
+  },
+  {
+    "persistenceId": "awC3tEtnaioupsqub2UC2A",
+    "name": "Avantoe",
+    "rowName": "res_herb_avantoe",
+    "category": "Resources",
+    "subcategory": "Agility",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Avantoe_Herb_v2.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Agility_Avantoe.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Resources/Agility/ITEM_Resources_Agility_Avantoe.uasset"
+  },
+  {
+    "persistenceId": "-6OQn0vK8wqfGn2Wh1TeXA",
+    "name": "Avantoe Seeds",
+    "rowName": "tool_farming_seed_avantoe",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Avantoe_seeds_v2.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Avantoe.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Avantoe.uasset"
+  },
+  {
+    "persistenceId": "Z5QvWUvqmCXwNoqA4luI4A",
+    "name": "Bag of Flour",
+    "rowName": "res_ground_wheat",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Bag_of_flour.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Ground_Wheat.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Ground_Wheat.uasset"
+  },
+  {
+    "persistenceId": "1Gu7vU51PMnkRBu2wqlHHQ",
+    "name": "Bandosian Amulet",
+    "rowName": "res_quest_goblin_castle",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Bandosian_Amulet_1.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_goblin_amulet_Part1.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_goblin_amulet_Part1.uasset"
+  },
+  {
+    "persistenceId": "HDqIfUGt2TS8Rv-epmS83A",
+    "name": "Barrel Cactus Seeds",
+    "rowName": "tool_farming_seed_cactus_barrel",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Barrel_Seed.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Cactus_Barrel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Cactus_Barrel.uasset"
+  },
+  {
+    "persistenceId": "SIm7DUR1h7EDCcGACB8JDA",
+    "name": "Bedraggled Spellbook",
+    "rowName": "ITEM_quest_FH_MirrorMirror_Book",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Abraxus_Necromancer_Book.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_MirrorMirror_Book.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_MirrorMirror_Book.uasset"
+  },
+  {
+    "persistenceId": "hGIscEuEaNe89aOPIT8Wmg",
+    "name": "Black Dragon Hide",
+    "rowName": "res_hide_dragon_black",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Black_Dragon_Hide.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Hide_Dragon_Black.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Hide_Dragon_Black.uasset"
+  },
+  {
+    "persistenceId": "ZLzKi0u0PLEP1W-e2f02RA",
+    "name": "Black Dragon Leather",
+    "rowName": "res_leather_dragon_black",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Black_Dragon_Leather.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Leather_Dragon_Black.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Leather_Dragon_Black.uasset"
+  },
+  {
+    "persistenceId": "GE1KcEN1F8prN5WT6LnDZg",
+    "name": "Black Metal Bar",
+    "rowName": "res_bar_blackmetal",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "Item.Resource.Metal.TarnishedBlackMetal"
+    ],
+    "icon": "T_Icon_Black_Metal_Bar.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_BlackMetalBar.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Metal/ITEM_Resources_BlackMetalBar.uasset"
+  },
+  {
+    "persistenceId": "CxUwQN-Me0qnNfyc207f0g",
+    "name": "Blightwood",
+    "rowName": "res_wood_blightwood",
+    "category": "Resources",
+    "subcategory": "Wood",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Blightwood.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Wood_Blightwood.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Wood/ITEM_Resources_Wood_Blightwood.uasset"
+  },
+  {
+    "persistenceId": "OeUUZEKiGnt36CqCIkqJgw",
+    "name": "Bloodwood Sap",
+    "rowName": "res_bloodwood_sap",
+    "category": "Resources",
+    "subcategory": "Plant",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Bloodwood_Sap.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Bloodwood_Sap.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Bloodwood_Sap.uasset"
+  },
+  {
+    "persistenceId": "tM_S1EEP0EUAbNCCQZi5Og",
+    "name": "Blue Dragon Scale",
+    "rowName": "res_scale_dragon_blue",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Blue_Dragon_Scale.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Scale_Dragon_Blue.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Scale_Dragon_Blue.uasset"
+  },
+  {
+    "persistenceId": "1qQozE_nJyZ7xv6VWcG7yw",
+    "name": "Blue Dragon Scale Dust",
+    "rowName": "res_ground_scale_dragon_blue",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Blue_Dragon_Dust.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ground_Scale_Dragon_Blue.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Ground_Scale_Dragon_Blue.uasset"
+  },
+  {
+    "persistenceId": "Akm81UDVNK4UCl-h10JwxA",
+    "name": "Blurite Bar",
+    "rowName": "res_bar_blurite",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "ItemFilter.Material.Metal"
+    ],
+    "icon": "T_Icon_Resource_Bar_Blurite.png",
+    "weight": 4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Resources_BluriteBar.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_BluriteBar.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "8sdCrU7VnKISn-mcBqKD0w",
+    "name": "Blurite Crossbow Limbs",
+    "rowName": "res_crossbowlimbs_blurite",
+    "category": "Resources",
+    "subcategory": "Components",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_CrossbowLimb_Blurite_1H_01.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Resources_BluriteLimbs.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Components/ITEM_Resources_BluriteLimbs.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "HgH49UolaqYHza6Zg1IFYw",
+    "name": "Blurite Ore",
+    "rowName": "res_ore_blurite",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Ore_Blurite.png",
+    "weight": 1.7,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Resources_BluriteOre.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_BluriteOre.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "P02SmEivYDi2N5u8rZc7ug",
+    "name": "Bone Crossbow Limbs",
+    "rowName": "res_crossbowlimbs_dorgeshuun",
+    "category": "Resources",
+    "subcategory": "Components",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_icon_Dorgeshuun_Crossbow_Limbs.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_DorgeshuunLimbs.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Components/ITEM_Resources_DorgeshuunLimbs.uasset"
+  },
+  {
+    "persistenceId": "Y2Y48OMHukKIilN4srd7cA",
+    "name": "Bronze Bar",
+    "rowName": "res_bar_bronze",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "ItemFilter.Material.Metal"
+    ],
+    "icon": "T_Icon_Resource_Bar_Bronze.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_BronzeBar.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_BronzeBar.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "k_8lkkBlxSUG1qydAobddA",
+    "name": "Bronze Crossbow Limbs",
+    "rowName": "res_crossbowlimbs_bronze",
+    "category": "Resources",
+    "subcategory": "Components",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_CrossbowLimb_Bronze_1H_01.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_BronzeLimbs.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Components/ITEM_Resources_BronzeLimbs.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "lLdg5kHhPe_aH7Ge0q0-cA",
+    "name": "Bronze Leaf",
+    "rowName": "res_agility_bronze_leaf",
+    "category": "Resources",
+    "subcategory": "Agility",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Bronze_Leaf.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Agility_Bronze_Leaf.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Resources/Agility/ITEM_Resources_Agility_Bronze_Leaf.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "enaDskFVNHwlmmyAI6Q-Gw",
+    "name": "Bunny Cactus Seeds",
+    "rowName": "tool_farming_seed_cactus_bunny",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Bunny_Cactus_Seed.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Cactus_Bunny.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Cactus_Bunny.uasset"
+  },
+  {
+    "persistenceId": "LRrgT0uxL009Hq-oGeINEg",
+    "name": "Cabbage seeds",
+    "rowName": "tool_farming_seed_cabbage",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Cabbage_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Cabbage.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Cabbage.uasset"
+  },
+  {
+    "persistenceId": "02kZ2Uwo05HWvQK1R_PEyw",
+    "name": "Cactus Fibres",
+    "rowName": "res_fibers_cactus",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "Item.Farming.CompostableUltra"
+    ],
+    "icon": "T_Icon_Cactus_Fibers.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Fibers_Cactus.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Fibers_Cactus.uasset"
+  },
+  {
+    "persistenceId": "rwsHuURIjnLzTLeZxqUjGw",
+    "name": "Cactus Steak",
+    "rowName": "res_steak_cactus",
+    "category": "Resources",
+    "subcategory": "Plant",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Cactus_Steak_Raw.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "sourceAsset": "ITEM_Resources_Steak_Cactus.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Steak_Cactus.uasset"
+  },
+  {
+    "persistenceId": "BxgYKUpS17ILLAuAtGTS1A",
+    "name": "Cactus Water",
+    "rowName": "res_water_cactus",
+    "category": "Resources",
+    "subcategory": "Consumable",
+    "icon": "T_Icon_Cactus_Water_V3.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Water_Cactus.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Water_Cactus.uasset"
+  },
+  {
+    "persistenceId": "4_zoG0eScTmPyFaVcIxIqw",
+    "name": "Cadavaberry Seeds",
+    "rowName": "tool_farming_seed_cadavaberry",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Cadaverberry_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Cadavaberry.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Cadavaberry.uasset"
+  },
+  {
+    "persistenceId": "45qRbkCgpbXsxAuswso8Aw",
+    "name": "Challenge Horn",
+    "rowName": "res_challenge_horn",
+    "category": "Resources",
+    "subcategory": "Masterworks",
+    "tags": [
+      "Item.BossSoul"
+    ],
+    "icon": "T_Icon_Challenge_Horn_01.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Masterworks_Challenge_Horn.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Masterworks/BossSummon/ITEM_Masterworks_Challenge_Horn.uasset"
+  },
+  {
+    "persistenceId": "x-SiNQenZEuF0yyTPkxhiw",
+    "name": "Charcoal",
+    "rowName": "res_charcoal",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Resource_Charcoal.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Fuel_Resources_Charcoal.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Fuel_Resources_Charcoal.uasset"
+  },
+  {
+    "persistenceId": "LLV95ECQPPkItvyaC0gCzQ",
+    "name": "Clay",
+    "rowName": "res_ore_clay",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resources_Clay.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Clay.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Clay.uasset"
+  },
+  {
+    "persistenceId": "C-Blv0bNk7v6BOWLA8Cw-g",
+    "name": "Clay Decoration",
+    "rowName": "res_clay_decoration",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Fired_Clay_Decoration.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Clay_Decoration.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Clay_Decoration.uasset"
+  },
+  {
+    "persistenceId": "sycphkkEs4cXKKC721kS2w",
+    "name": "Clay Decoration (Unfired)",
+    "rowName": "res_clay_decoration_unfired",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Unfired_Clay_Decoration.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Clay_Decoration_Unfired.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Clay_Decoration_Unfired.uasset"
+  },
+  {
+    "persistenceId": "zEg0M0VWEp6-wLOhkvYJ8A",
+    "name": "Clay Mould",
+    "rowName": "res_clay_mould",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Clay_Mould.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Clay_Mould.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Clay_Mould.uasset"
+  },
+  {
+    "persistenceId": "FXYVR0dXwrzmeo-goNwTHA",
+    "name": "Clay Mould (Unfired)",
+    "rowName": "res_clay_mould_unfired",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Unfired_Clay_Mould.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Clay_Mould_Unfired.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Clay_Mould_Unfired.uasset"
+  },
+  {
+    "persistenceId": "uTmDj0pXttZKU7qob4UvNw",
+    "name": "Clay Vessel",
+    "rowName": "res_clay_vessel",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Fired_Clay_Vessel.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Clay_Vessel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Clay_Vessel.uasset"
+  },
+  {
+    "persistenceId": "xhvDCkkTzJPbihGOZo3Hvw",
+    "name": "Clay Vessel (Unfired)",
+    "rowName": "res_clay_vessel_unfired",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Unfired_Clay_Vessel.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Clay_Vessel_Unfired.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Clay_Vessel_Unfired.uasset"
+  },
+  {
+    "persistenceId": "MsQyukIFtzlttaiTzrbgxw",
+    "name": "Coal",
+    "rowName": "res_ore_coal",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Coal.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Coal.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Coal.uasset"
+  },
+  {
+    "persistenceId": "ISwwk0SMdhURciK1Sr3i6Q",
+    "name": "Coarse Animal Fur",
+    "rowName": "res_coarse_animal_fur",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resource_Coarse_Animal_Fur.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Coarse_Animal_Fur.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Coarse_Animal_Fur.uasset"
+  },
+  {
+    "persistenceId": "Dns4MEGuhT5fcRWocI5o9Q",
+    "name": "Coarse Thread",
+    "rowName": "res_thread_coarse",
+    "category": "Resources",
+    "subcategory": "Textiles",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Resource_Thread.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Thread_Coarse.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Textiles/ITEM_Resources_Thread_Coarse.uasset"
+  },
+  {
+    "persistenceId": "NUzVKEXAML0DLYSjTIBmNA",
+    "name": "Coclear Malificarum",
+    "rowName": "ITEM_quest_FH_WhatRemains_Scroll2",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_WhatRemains_Scroll2.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_WhatRemains_Scroll2.uasset"
+  },
+  {
+    "persistenceId": "JQbaoUnPf8v7GyqG6-hwtw",
+    "name": "Cooling Relentless Infusion",
+    "rowName": "food_tea_stamina_reduction_ranged_cooling",
+    "category": "Resources",
+    "subcategory": "Consumable",
+    "icon": "T_Icon_Cooling_Infusion_Green.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Stamina_Reduction_Ranged_Cooling.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Tea_Stamina_Reduction_Ranged_Cooling.uasset"
+  },
+  {
+    "persistenceId": "S7Kk_ZA9OEKZ8qwU9ciKCA",
+    "name": "Copper Bar",
+    "rowName": "res_bar_copper",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "ItemFilter.Material.Metal"
+    ],
+    "icon": "T_Icon_Resource_Bar_Copper.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_CopperBar.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_CopperBar.uasset"
+  },
+  {
+    "persistenceId": "A8Lx3sZhHEeG4GXsl4ZLZw",
+    "name": "Copper Ore",
+    "rowName": "res_ore_copper",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Ore_Copper.png",
+    "weight": 2.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_CopperOre.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_CopperOre.uasset"
+  },
+  {
+    "persistenceId": "Qkty-0yfrzKyHcODIHnTag",
+    "name": "Corpse Cotton",
+    "rowName": "res_corpse_fur",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Corpse_Cotton.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Corpse_Fur.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Corpse_Fur.uasset"
+  },
+  {
+    "persistenceId": "eE35XEZgqujcuBymNjnyBQ",
+    "name": "Corpse Cotton Seeds",
+    "rowName": "tool_farming_seed_CorpseCotton",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Corpsecotton_seed.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_CorpseCotton.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_CorpseCotton.uasset"
+  },
+  {
+    "persistenceId": "JYGJbEV-DrOkn5SNR5sYKQ",
+    "name": "Crystal Seed",
+    "rowName": "res_crystal_seed",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Crystal_Seed.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_CrystalSeed.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_CrystalSeed.uasset"
+  },
+  {
+    "persistenceId": "ObT03UmkX-U-WJ667Rk0vA",
+    "name": "Curse Fragment (Despair)",
+    "rowName": "res_seal_break_fort_key",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Imaru_Curse_Seal_Despair_nofx.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_SealBreakKey_Fort.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Resources_SealBreakKey_Fort.uasset"
+  },
+  {
+    "persistenceId": "o9Nec0TWzFiYJIeiYQBjVw",
+    "name": "Curse Fragment (Grief)",
+    "rowName": "res_seal_break_vil_key",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Imaru_Curse_Seal_Grief_nofx.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_SealBreakKey_Vil.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Resources_SealBreakKey_Vil.uasset"
+  },
+  {
+    "persistenceId": "TQY6cUXdLjzqCIuXB3vAvw",
+    "name": "Curse Fragment (Rage)",
+    "rowName": "res_seal_break_fall_key",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Imaru_Curse_Seal_Rage_nofx.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_SealBreakKey_Fall.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Resources_SealBreakKey_Fall.uasset"
+  },
+  {
+    "persistenceId": "21j0N0WuJGTYqGW132kTXg",
+    "name": "Desert Cloth",
+    "rowName": "res_cloth_desert",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Desert_Cloth.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Cloth_Desert.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Cloth_Desert.uasset"
+  },
+  {
+    "persistenceId": "-aCGLkug5wgNq8-2x1EfZw",
+    "name": "Desert Thread",
+    "rowName": "res_thread_desert",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Desert_Thread.png",
+    "weight": 0.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Thread_Desert.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Thread_Desert.uasset"
+  },
+  {
+    "persistenceId": "xV6lAUZ18-ZLpkK8sBL6QQ",
+    "name": "Desert Weed",
+    "rowName": "res_weed_desert",
+    "category": "Resources",
+    "subcategory": "Plant",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Desert_Weed.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Weed_Desert.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Weed_Desert.uasset"
+  },
+  {
+    "persistenceId": "GNOjVEJ_aZoPgKayoW81PA",
+    "name": "Desert Weed Seeds",
+    "rowName": "tool_farming_seed_weed_desert",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Desert_Weed_Seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Weed_Desert.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Weed_Desert.uasset"
+  },
+  {
+    "persistenceId": "m3q-xERQoHTPDJehWwOFtQ",
+    "name": "Diamond",
+    "rowName": "res_gem_diamond",
+    "category": "Resources",
+    "subcategory": "Gem",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Diamond.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Diamond.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Gem/ITEM_Resources_Diamond.uasset"
+  },
+  {
+    "persistenceId": "xWhXAUIGC9ufwqK9k-GkfA",
+    "name": "Dihydrogen Monoxide",
+    "rowName": "res_dihydrogen_monoxide",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Dihydrogen_Monoxide_v2.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Dihydrogen_Monoxide.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_Dihydrogen_Monoxide.uasset"
+  },
+  {
+    "persistenceId": "wqBk-EZDxcfPtH6VdUnlNg",
+    "name": "Dire Wolf Hide",
+    "rowName": "res_alpha_wolf_skin",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Dire_Wolf_Skin.png",
+    "weight": 0.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Alpha_Wolf_Skin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Alpha_Wolf_Skin.uasset"
+  },
+  {
+    "persistenceId": "Rex-3ECcbilpOVqd6zWpIQ",
+    "name": "Dire Wolf Leather",
+    "rowName": "res_alpha_leather",
+    "category": "Resources",
+    "subcategory": "Textiles",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Dire_Wolf_Leather_NEW.png",
+    "weight": 0.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Alpha_Leather.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Textiles/ITEM_Resources_Alpha_Leather.uasset"
+  },
+  {
+    "persistenceId": "zbjOZke2yCdAfcKhncBKuw",
+    "name": "Discordant Residue",
+    "rowName": "res_residue_discordent",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Discorden_Residue.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Residue_Discordent.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_Residue_Discordent.uasset"
+  },
+  {
+    "persistenceId": "jmA4D0DSEBYxDMWYne8frQ",
+    "name": "Draconic Leather",
+    "rowName": "res_leather_draconic",
+    "category": "Resources",
+    "subcategory": "Textiles",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Draconic_leather.png",
+    "weight": 0.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Leather_Draconic.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Textiles/ITEM_Resources_Leather_Draconic.uasset"
+  },
+  {
+    "persistenceId": "eGomNEhi9WpKdjWtXqJv_w",
+    "name": "Draconic Vis Wax",
+    "rowName": "res_wax_draconic_vis",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Draconic_Vis_Wax.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Wax_Draconic_Vis.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Wax_Draconic_Vis.uasset"
+  },
+  {
+    "persistenceId": "9D2K3U9jvwZc85KkIZjAFQ",
+    "name": "Draconic Visage",
+    "rowName": "res_visage_dragon",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Dragon_Visage.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Visage_Dragon.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Visage_Dragon.uasset"
+  },
+  {
+    "persistenceId": "5lnCBEUmEDbANTWVRn3nDA",
+    "name": "Dragon Blood",
+    "rowName": "res_dragonblood",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Dragon_Blood.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_DragonBlood.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_DragonBlood.uasset"
+  },
+  {
+    "persistenceId": "qelCL0cKP9oFmYaJkKg6wA",
+    "name": "Dragon Tooth",
+    "rowName": "res_dragon_tooth",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Dragon_Tooth.png",
+    "weight": 5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Dragon_Tooth.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Dragon_Tooth.uasset"
+  },
+  {
+    "persistenceId": "Axe5-E-mDfO6kmSfv_qa6A",
+    "name": "Dragonstone",
+    "rowName": "res_gem_dragonstone",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Dragonstone_Gem.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Gem_Dragonstone.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Gem_Dragonstone.uasset"
+  },
+  {
+    "persistenceId": "vMLqpkZGH4brfHatrG1ktg",
+    "name": "Dragonwolf Hide",
+    "rowName": "res_skin_dragonwolf",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Dragonwolf_Hide.png",
+    "weight": 0.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Skin_Dragonwolf.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Skin_Dragonwolf.uasset"
+  },
+  {
+    "persistenceId": "ChMv3Usv_PIWh16n74hBwA",
+    "name": "Dried Tea Leaves",
+    "rowName": "res_herb_tea_leaves_dried",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "Item.BuildingResource",
+      "Item.Farming.CompostableUltra"
+    ],
+    "icon": "T_Icon_Dried_Tea_Leaves_01.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Tea_Dried.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Tea_Dried.uasset"
+  },
+  {
+    "persistenceId": "EacnEk2SKqmy6zGxnrhpRw",
+    "name": "Druid's Bandosian Amulet",
+    "rowName": "res_quest_goblin_guild",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Bandosian_Amulet_2.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_goblin_amulet_Part2.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_goblin_amulet_Part2.uasset"
+  },
+  {
+    "persistenceId": "P-cDcE4TaF32sN-q8Z3T3w",
+    "name": "Dust-covered Sketchbook",
+    "rowName": "ITEM_quest_FellhollowGhostQuest_Book",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Skill_Tome_Artisan.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FellhollowGhostQuest_Book.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FellhollowGhostQuest_Book.uasset"
+  },
+  {
+    "persistenceId": "9TCHHEYRZOvy0KWszdfntA",
+    "name": "Dwellberry seeds",
+    "rowName": "tool_farming_seed_dwellberry",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Dwellberry_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Dwellberry.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Dwellberry.uasset"
+  },
+  {
+    "persistenceId": "RduYgUn8zLSQC7-A2zSQ5Q",
+    "name": "Ectoplasm",
+    "rowName": "res_ectoplasm",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Ectoplasm.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ectoplasm.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Ectoplasm.uasset"
+  },
+  {
+    "persistenceId": "9_0W_keq7RPq7BOMBOMjZQ",
+    "name": "Elder Curiosities",
+    "rowName": "res_elder_curiosities",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Elder_Curiosities.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Elder_Curiosities.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_Elder_Curiosities.uasset"
+  },
+  {
+    "persistenceId": "Poz0Fk2f6rEdx5-2Q7CeYQ",
+    "name": "Evasive Infusion",
+    "rowName": "food_tea_stamina_reduction_dodge_cooling",
+    "category": "Resources",
+    "subcategory": "Consumable",
+    "icon": "T_Icon_Cooling_Infusion_Green.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Stamina_Reduction_Dodge_Cooling.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Tea_Stamina_Reduction_Dodge_Cooling.uasset"
+  },
+  {
+    "persistenceId": "xyVlYUoDcHIK3m6-pTk6Zg",
+    "name": "Eventide - A New Spawn",
+    "rowName": "ITEM_quest_FH_WhatRemains_Scroll3",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_WhatRemains_Scroll3.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_WhatRemains_Scroll3.uasset"
+  },
+  {
+    "persistenceId": "v5MSO2Wz4ke5xOGvKC5GlQ",
+    "name": "Feathers",
+    "rowName": "res_feathers",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resource_Feathers.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Feathers.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Feathers.uasset"
+  },
+  {
+    "persistenceId": "_-zeJ0RSQCE_woyqHO_XBg",
+    "name": "Ferocious Infusion",
+    "rowName": "food_tea_stamina_reduction_attack_cooling",
+    "category": "Resources",
+    "subcategory": "Consumable",
+    "icon": "T_Icon_Cooling_Infusion_Pink.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Stamina_Reduction_Attack_Cooling.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Tea_Stamina_Reduction_Attack_Cooling.uasset"
+  },
+  {
+    "persistenceId": "mNrV2kph16HfXq2I-rhK8w",
+    "name": "Fibrous Pipe Cactus",
+    "rowName": "res_cactus_pipe",
+    "category": "Resources",
+    "subcategory": "Plant",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Fibrous_Cactus.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Cactus_Pipe.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Cactus_Pipe.uasset"
+  },
+  {
+    "persistenceId": "cZiciUse9nReAtG6kIHa8w",
+    "name": "Fine Cloth",
+    "rowName": "res_cloth_fine",
+    "category": "Resources",
+    "subcategory": "Textiles",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Fine_Cloth.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Cloth_Fine.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Textiles/ITEM_Resources_Cloth_Fine.uasset"
+  },
+  {
+    "persistenceId": "5MS2l0bmkh8K8PaYjdbviw",
+    "name": "Fine Thread",
+    "rowName": "res_thread_fine",
+    "category": "Resources",
+    "subcategory": "Textiles",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Fine_Thread.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Thread_Fine.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Textiles/ITEM_Resources_Thread_Fine.uasset"
+  },
+  {
+    "persistenceId": "LaW8m0ibg39l4ESl58Ddtg",
+    "name": "Fire Oil",
+    "rowName": "res_fireoil",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Fire_Oil.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 525,
+    "sourceAsset": "ITEM_Resources_FireOil.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_FireOil.uasset"
+  },
+  {
+    "persistenceId": "J3Ord4Mjnk-zz-Of_0oL8w",
+    "name": "Flax",
+    "rowName": "res_flax",
+    "category": "Resources",
+    "subcategory": "Plant",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resource_Flax.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Flax.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Flax.uasset"
+  },
+  {
+    "persistenceId": "A9hQfkjtyPUlXI-8vKm2mA",
+    "name": "Flax seeds",
+    "rowName": "tool_farming_seed_flax",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Flax_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Flax.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Flax.uasset"
+  },
+  {
+    "persistenceId": "mZWtu9Ir9ECtl0a7cV7uJw",
+    "name": "Fleece",
+    "rowName": "res_skin_sheep",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Fleece.png",
+    "weight": 0.45,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Skin_Fleece.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Skin_Fleece.uasset"
+  },
+  {
+    "persistenceId": "g2MOmkDgIbnrulyDr1Mlhw",
+    "name": "Fleet-Footed Infusion",
+    "rowName": "food_tea_stamina_reduction_sprint_cooling",
+    "category": "Resources",
+    "subcategory": "Consumable",
+    "icon": "T_Icon_Cooling_Infusion_Yellow.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Tea_Stamina_Reduction_Sprint_Cooling.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_Tea_Stamina_Reduction_Sprint_Cooling.uasset"
+  },
+  {
+    "persistenceId": "Br8lTU45wX65kDigZkkgAg",
+    "name": "Fuel Pellet",
+    "rowName": "res_fuel_pellet",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon__Block_FuelPellet.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Fuel_Resources_Fuel_Pellet.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Fuel_Resources_Fuel_Pellet.uasset"
+  },
+  {
+    "persistenceId": "H7H6ZELIkC07dSSlbtpOCg",
+    "name": "Garou Artefact",
+    "rowName": "res_artifact_garou",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Artifact.png",
+    "weight": 1.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Artifact_Garou.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_Artifact_Garou.uasset"
+  },
+  {
+    "persistenceId": "WqpIPU7dFtswfcaDoldlYg",
+    "name": "Garou Chit",
+    "rowName": "res_currency_chit_garou",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Garou_Chits.png",
+    "weight": 1,
+    "maxStackSize": 9999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Currency_Chit_Garou.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_Currency_Chit_Garou.uasset"
+  },
+  {
+    "persistenceId": "9xmA7ErJrFyN2cey7sYKBQ",
+    "name": "Garou Weave",
+    "rowName": "res_cloth_garou",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Garou_Weave.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Cloth_Garou.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Cloth_Garou.uasset"
+  },
+  {
+    "persistenceId": "EZGayEl5U_ZQaZSscJGZQg",
+    "name": "Ghostspeak Amulet",
+    "rowName": "res_quest_ghost_speak_amulet",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Ghostspeak_Amulet.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_GhostSpeakAmulet.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_GhostSpeakAmulet.uasset"
+  },
+  {
+    "persistenceId": "vnB8VE9uS_fKRz6AHgTjMQ",
+    "name": "Glass Decoration",
+    "rowName": "res_glass_decoration",
+    "category": "Resources",
+    "subcategory": "Glass",
+    "tags": [
+      "Audio.Glass.Pane"
+    ],
+    "icon": "T_Icon_Glass_Decoration.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Glass_Decoration.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Glass/ITEM_Resources_Glass_Decoration.uasset"
+  },
+  {
+    "persistenceId": "fVBHgEoB-OOVgcarewJngQ",
+    "name": "Glass Pane",
+    "rowName": "res_glass_pane",
+    "category": "Resources",
+    "subcategory": "Glass",
+    "tags": [
+      "Audio.Glass.Pane"
+    ],
+    "icon": "T_Icon_Glass_Pane.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Glass_Pane.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Glass/ITEM_Resources_Glass_Pane.uasset"
+  },
+  {
+    "persistenceId": "fliBkkBZfNJwhpej98Q2xA",
+    "name": "Glass Vessel",
+    "rowName": "res_glass_vessel",
+    "category": "Resources",
+    "subcategory": "Glass",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Glass_Vessel.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Glass_Vessel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Glass/ITEM_Resources_Glass_Vessel.uasset"
+  },
+  {
+    "persistenceId": "9jFU2lh9l0qPbNTspGCBFA",
+    "name": "Gold Bar",
+    "rowName": "res_bar_gold",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "ItemFilter.Material.Metal"
+    ],
+    "icon": "T_Icon_Resource_Bar_Gold.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_GoldBar.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_GoldBar.uasset"
+  },
+  {
+    "persistenceId": "DHtOEU6KRL_vY9WiVQlLOA",
+    "name": "Gold Leaf",
+    "rowName": "res_agility_golden_leaf",
+    "category": "Resources",
+    "subcategory": "Agility",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Gold_Leaf.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Agility_Golden_Leaf.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Resources/Agility/ITEM_Resources_Agility_Golden_Leaf.uasset"
+  },
+  {
+    "persistenceId": "D-BzgHFSHkyc53teVzmBNA",
+    "name": "Gold Ore",
+    "rowName": "res_ore_gold",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Ore_Gold.png",
+    "weight": 2.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_GoldOre.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_GoldOre.uasset"
+  },
+  {
+    "persistenceId": "83Kcm0CpBOcYsk-eo-dfMw",
+    "name": "Granite",
+    "rowName": "res_granite",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Granite.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Granite.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Granite.uasset"
+  },
+  {
+    "persistenceId": "-_1K2EnGd3ifxRmeJaAWig",
+    "name": "Greater Kalphite Wing",
+    "rowName": "res_wing_kalphite_alpha",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Alpha_Kalaphite_Wing.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Wing_Kalphite_Alpha.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Wing_Kalphite_Alpha.uasset"
+  },
+  {
+    "persistenceId": "UzelPUO0iC4x54K2-iWu4g",
+    "name": "Green Dragon Hide",
+    "rowName": "res_skin_dragon_green_lesser",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Green_Dragon_Hide.png",
+    "weight": 1.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Skin_Dragon_Green_Lesser.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Skin_Dragon_Green_Lesser.uasset"
+  },
+  {
+    "persistenceId": "cVt3BEoa7Bh6k_KasKqLAA",
+    "name": "Green Dragonhide Leather",
+    "rowName": "res_leather_dragon_green_lesser",
+    "category": "Resources",
+    "subcategory": "Textiles",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Green_Dragon_Hide_Leather.png",
+    "weight": 0.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Leather_Dragon_Green_Lesser.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Textiles/ITEM_Resources_Leather_Dragon_Green_Lesser.uasset"
+  },
+  {
+    "persistenceId": "GXtUfUZIYgpsYAGE4y5vEg",
+    "name": "Ground Clay",
+    "rowName": "res_stone_ground_clay",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Resources_Ground_Clay.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ground_Clay.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Ground_Clay.uasset"
+  },
+  {
+    "persistenceId": "MfStnkw8VINygc2tjO1P2g",
+    "name": "Ground Dragon Tooth",
+    "rowName": "res_ground_tooth_dragon",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Ground_Dragon_Tooth.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ground_Tooth_Dragon.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Ground_Tooth_Dragon.uasset"
+  },
+  {
+    "persistenceId": "Cu5DREB0z4_XYRGkXu8U9A",
+    "name": "Ground Granite",
+    "rowName": "res_ground_granite",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Resources_Ground_Granite.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ground_Granite.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Ground_Granite.uasset"
+  },
+  {
+    "persistenceId": "vVkLf0huba3c0nGQlfQQhA",
+    "name": "Ground Gypsum",
+    "rowName": "res_ground_gypsum",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Gypsum_Powder.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ground_Gypsum.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Ground_Gypsum.uasset"
+  },
+  {
+    "persistenceId": "xj2lLk3Kx_7PCb2kms7wcA",
+    "name": "Ground Obsidian",
+    "rowName": "res_ground_obsidian",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Ground_Obsidian.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_Ground_Obsidian.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Ground_Obsidian.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "FcnXn0Sq3OS7tJKuCRAc1A",
+    "name": "Ground Sandstone",
+    "rowName": "res_ground_sandstone",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Resources_Ground_Sandstone.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ground_Sandstone.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Ground_Sandstone.uasset"
+  },
+  {
+    "persistenceId": "guCjkksBOmEcLFut-VH-qg",
+    "name": "Ground Stone",
+    "rowName": "res_ground_stone",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Resources_Ground_Stone.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ground_Stone.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Ground_Stone.uasset"
+  },
+  {
+    "persistenceId": "-ZuYW0i-guPjwkmfyRmHiA",
+    "name": "Ground Tea Leaves",
+    "rowName": "res_herb_tea_leaves_ground",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "Item.BuildingResource",
+      "Item.Farming.CompostableUltra"
+    ],
+    "icon": "T_Icon_Ground_Tea_Leaves_01.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Tea_Ground.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Tea_Ground.uasset"
+  },
+  {
+    "persistenceId": "WVx_L0zKYnoR0-am8rtjYQ",
+    "name": "Gypsum",
+    "rowName": "res_gypsum",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Gypsum_Rock_2.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Gypsum.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Gypsum.uasset"
+  },
+  {
+    "persistenceId": "a1W1TEsh5ngCDu-uly8jAQ",
+    "name": "Gypsum Wax",
+    "rowName": "res_wax_gypsum",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Gypsum_Wax.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Wax_Gypsum.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Wax_Gypsum.uasset"
+  },
+  {
+    "persistenceId": "UyIYrQzoTkaR04aJNXLTJQ",
+    "name": "Hard Leather",
+    "rowName": "res_leather_hard",
+    "category": "Resources",
+    "subcategory": "Textiles",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Resources_Hard_leather.png",
+    "weight": 0.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Leather_Hard.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Textiles/ITEM_Resources_Leather_Hard.uasset"
+  },
+  {
+    "persistenceId": "OHb33k_owf3LCoO3uWcK3w",
+    "name": "Hard Leather Scraps",
+    "rowName": "res_leather_scraps_hard",
+    "category": "Resources",
+    "subcategory": "Textiles",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Hard_Leather_Scraps.png",
+    "weight": 0.15,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Leather_Scraps_Hard.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Textiles/ITEM_Resources_Leather_Scraps_Hard.uasset"
+  },
+  {
+    "persistenceId": "N3f9DUkxKk4__Ie1rlxbUA",
+    "name": "Harmonised Compound",
+    "rowName": "res_compound_harmonized",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Harmonized_Compound.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Compound_Harmonized.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Compound_Harmonized.uasset"
+  },
+  {
+    "persistenceId": "mJ4P8qzfy0Wg8OxrYc_NBA",
+    "name": "Harralander",
+    "rowName": "res_herb_harrlander",
+    "category": "Resources",
+    "subcategory": "Herb",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resource_Harralander.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Herb_Harralander.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Herb/ITEM_Herb_Harralander.uasset"
+  },
+  {
+    "persistenceId": "xXgE7EGhfL-DrgWWABTBQw",
+    "name": "Harralander Seeds",
+    "rowName": "tool_farming_seed_Harralander",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Harralander_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Harralander.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Harralander.uasset"
+  },
+  {
+    "persistenceId": "kSC5h08_DEq2H7CMAVDN9Q",
+    "name": "Hollow Bark",
+    "rowName": "res_bark_hollow",
+    "category": "Resources",
+    "subcategory": "Wood",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Hollow_Bark.png",
+    "weight": 2.8,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Bark_Hollow.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Wood/ITEM_Resources_Bark_Hollow.uasset"
+  },
+  {
+    "persistenceId": "ALQSs0j7loBVpum0CaDH2w",
+    "name": "Imaru's Head",
+    "rowName": "res_imarus_head",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Imaru_Head_Resized.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Imaru_Head.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Resources_Imaru_Head.uasset"
+  },
+  {
+    "persistenceId": "TRQBZ0gufJDy-HWCsXysNw",
+    "name": "Imbued Granite Maul Head",
+    "rowName": "res_imbued_maul_head",
+    "category": "Resources",
+    "subcategory": "Masterworks",
+    "tags": [
+      "Item.BossSoul"
+    ],
+    "icon": "T_Icon_Imbued_Maul_Head.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Masterworks_Imbued_Granite_Maul_Head.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Masterworks/GraniteMaul/ITEM_Masterworks_Imbued_Granite_Maul_Head.uasset"
+  },
+  {
+    "persistenceId": "1kW1mUsw1eKjlOiBCMXcUg",
+    "name": "Imbued Leather Wrappings",
+    "rowName": "res_imbued_leather_wrappings",
+    "category": "Resources",
+    "subcategory": "Masterworks",
+    "tags": [
+      "Item.BossSoul"
+    ],
+    "icon": "T_Icon_Imbued_Leather_Wrappings.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Masterworks_Imbued_Leather_Wrappings.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Masterworks/GraniteMaul/ITEM_Masterworks_Imbued_Leather_Wrappings.uasset"
+  },
+  {
+    "persistenceId": "F73O1kqSP2Z-Y5SYg9F01A",
+    "name": "Infernal Fragment",
+    "rowName": "res_currency_dream_shard",
+    "category": "Resources",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Infernal_Fragments.png",
+    "weight": 0,
+    "maxStackSize": 9999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Currency_DreamShard.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/ITEM_Resources_Currency_DreamShard.uasset"
+  },
+  {
+    "persistenceId": "hnvjW0wQ_OPazBO_c-wvwg",
+    "name": "Infinity Cloth",
+    "rowName": "res_cloth_infinity",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Infinity_Cloth.png",
+    "weight": 0.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Cloth_Infinity.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Cloth_Infinity.uasset"
+  },
+  {
+    "persistenceId": "_xTATEjgarvMXg2zfD5Sgw",
+    "name": "Irit",
+    "rowName": "res_herb_irit",
+    "category": "Resources",
+    "subcategory": "Herb",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Irit_Leaf.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Herb_Irit.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Herb/ITEM_Herb_Irit.uasset"
+  },
+  {
+    "persistenceId": "98YO40YpmUX_hU2NCcYo-w",
+    "name": "Irit Seeds",
+    "rowName": "tool_farming_seed_Irit",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Irit_seed.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Irit.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Irit.uasset"
+  },
+  {
+    "persistenceId": "Ng6eFNNuiU-VdxSoZtI6kA",
+    "name": "Iron Bar",
+    "rowName": "res_bar_iron",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "ItemFilter.Material.Metal"
+    ],
+    "icon": "T_Icon_Resource_Bar_Iron.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_IronBar.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_IronBar.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "VlhCS0xKcZzgC3igVdQ38w",
+    "name": "Iron Crossbow Limbs",
+    "rowName": "res_crossbowlimbs_iron",
+    "category": "Resources",
+    "subcategory": "Components",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_CrossbowLimb_Iron_1H_01.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_IronLimbs.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Components/ITEM_Resources_IronLimbs.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "rTRm3cGOmUm1h1BMEYzTwA",
+    "name": "Iron Ore",
+    "rowName": "res_ore_iron",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Ore_Iron.png",
+    "weight": 3.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_IronOre.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_IronOre.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "hzztKE-CsjtgVaWFJoTw2w",
+    "name": "Jade",
+    "rowName": "res_gem_jade",
+    "category": "Resources",
+    "subcategory": "Gem",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Jade.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Jade.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Gem/ITEM_Resources_Jade.uasset"
+  },
+  {
+    "persistenceId": "kYCoMk0BJgh3XZiQFEYuoQ",
+    "name": "Kalphite Ichor",
+    "rowName": "res_ichor_kalphite",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Kalphite_Icor.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ichor_Kalphite.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Ichor_Kalphite.uasset"
+  },
+  {
+    "persistenceId": "vO9CRUNvFs5edreg7u4LLQ",
+    "name": "Kalphite Shell",
+    "rowName": "res_shell_kalphite",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Kalphite_Shell.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Shell_Kalphite.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Shell_Kalphite.uasset"
+  },
+  {
+    "persistenceId": "ENsQgEwZgPqaNZKgoEgT7Q",
+    "name": "Kalphite Shell Fragments",
+    "rowName": "res_shell_kalphite_fragments",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_KalphiteShellFragment.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Shell_Kalphite_Fragments.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Shell_Kalphite_Fragments.uasset"
+  },
+  {
+    "persistenceId": "1uEla0zKAR6sTb2w5-K1JQ",
+    "name": "Kalphite Wing",
+    "rowName": "res_wing_kalphite",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Kalaphite_Wing.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Wing_Kalphite.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Wing_Kalphite.uasset"
+  },
+  {
+    "persistenceId": "sH2kLkPI7HM-Fr67B5jIDQ",
+    "name": "Kot Pack",
+    "rowName": "item_pack_kut",
+    "category": "Resources",
+    "subcategory": "Consumable",
+    "icon": "T_Icon_Kothaar_Pack.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_KutPack.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Consumable/ITEM_Consumable_KutPack.uasset"
+  },
+  {
+    "persistenceId": "4vL1iUE8hFPCUjy34QVYpg",
+    "name": "Kuldra's Head",
+    "rowName": "res_kuldra",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Kuldra_Head.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Kuldra.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Kuldra.uasset"
+  },
+  {
+    "persistenceId": "iTb_WUUHO2kAez65O2a4PA",
+    "name": "Kwuarm",
+    "rowName": "res_herb_kwuarm",
+    "category": "Resources",
+    "subcategory": "Herb",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Kwarm_Herb.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Herb_Kwuarm.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Herb/ITEM_Herb_Kwuarm.uasset"
+  },
+  {
+    "persistenceId": "8gFmQkZfAW468MqU3rXlug",
+    "name": "Kwuarm Seeds",
+    "rowName": "tool_farming_seed_Kwuarm",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Kuarm_seed.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Kwuarm.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Kwuarm.uasset"
+  },
+  {
+    "persistenceId": "KejxKZhqBEy2BmyMUMidlA",
+    "name": "Leather",
+    "rowName": "res_leather",
+    "category": "Resources",
+    "subcategory": "Textiles",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Resources_Leather.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Leather.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Textiles/ITEM_Resources_Leather.uasset"
+  },
+  {
+    "persistenceId": "0SFGhElEGrRq5ieWLSjREA",
+    "name": "Leonard The Bound",
+    "rowName": "ITEM_quest_FH_WhatRemains_Book5",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Abraxus_Necromancer_Book.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_WhatRemains_Book5.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_WhatRemains_Book5.uasset"
+  },
+  {
+    "persistenceId": "XOC2A06c5qYUarW6_XzFvg",
+    "name": "Letter",
+    "rowName": "ITEM_Activity_PostBox_FH_EmberwoodVillage",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Envelope.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Activity_PostBox_FH_EmberwoodVillage.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/PostBoxes/ITEM_Activity_PostBox_FH_EmberwoodVillage.uasset"
+  },
+  {
+    "persistenceId": "Zo2PkUiV8Im58oWLYPyhZQ",
+    "name": "Letter",
+    "rowName": "ITEM_Activity_PostBox_FH_FallenGates",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Envelope.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Activity_PostBox_FH_FallenGates.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/PostBoxes/ITEM_Activity_PostBox_FH_FallenGates.uasset"
+  },
+  {
+    "persistenceId": "L8a_IkpD4aR_LHC7SD85xA",
+    "name": "Letter",
+    "rowName": "ITEM_Activity_PostBox_FH_FountainRuins",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Envelope.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Activity_PostBox_FH_FountainRuins.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/PostBoxes/ITEM_Activity_PostBox_FH_FountainRuins.uasset"
+  },
+  {
+    "persistenceId": "Cs7b4U5s6SuaYi-wzmKYPg",
+    "name": "Letter",
+    "rowName": "ITEM_Activity_PostBox_FH_Gatehouse",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Envelope.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Activity_PostBox_FH_Gatehouse.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/PostBoxes/ITEM_Activity_PostBox_FH_Gatehouse.uasset"
+  },
+  {
+    "persistenceId": "SF3UEEViXZZmN-C3FVDhPg",
+    "name": "Letter",
+    "rowName": "ITEM_Activity_PostBox_FH_ImarusTower",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Envelope.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Activity_PostBox_FH_ImarusTower.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/PostBoxes/ITEM_Activity_PostBox_FH_ImarusTower.uasset"
+  },
+  {
+    "persistenceId": "6k3tRk6VcDFr6D6eulRV_g",
+    "name": "Letter",
+    "rowName": "ITEM_Activity_PostBox_FH_KeepEntrance",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Envelope.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Activity_PostBox_FH_KeepEntrance.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/PostBoxes/ITEM_Activity_PostBox_FH_KeepEntrance.uasset"
+  },
+  {
+    "persistenceId": "xSrYCktOQvdk2ae01DSUxw",
+    "name": "Letter",
+    "rowName": "ITEM_Activity_PostBox_FH_MinersCottage",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Envelope.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Activity_PostBox_FH_MinersCottage.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/PostBoxes/ITEM_Activity_PostBox_FH_MinersCottage.uasset"
+  },
+  {
+    "persistenceId": "kcc_Jk87s3ioZUyeJI_edQ",
+    "name": "Letter",
+    "rowName": "ITEM_Activity_PostBox_FH_PostiePete",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Envelope.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Activity_PostBox_FH_PostiePete.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/PostBoxes/ITEM_Activity_PostBox_FH_PostiePete.uasset"
+  },
+  {
+    "persistenceId": "PkzzMUGalquRRCyhTwQ_Uw",
+    "name": "Letter",
+    "rowName": "ITEM_Activity_PostBox_FH_StandingStones",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Envelope.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Activity_PostBox_FH_StandingStones.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/PostBoxes/ITEM_Activity_PostBox_FH_StandingStones.uasset"
+  },
+  {
+    "persistenceId": "YVydsUwpZA6WfKWIbecQ5g",
+    "name": "Letter",
+    "rowName": "ITEM_Activity_PostBox_FH_WillgroveRuins",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Envelope.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Activity_PostBox_FH_WillgroveRuins.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/PostBoxes/ITEM_Activity_PostBox_FH_WillgroveRuins.uasset"
+  },
+  {
+    "persistenceId": "5gtt00N-XHLfD9-bYjzpTw",
+    "name": "Letter",
+    "rowName": "ITEM_Activity_PostBox_FH_WitheredRuins",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Envelope.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Activity_PostBox_FH_WitheredRuins.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/PostBoxes/ITEM_Activity_PostBox_FH_WitheredRuins.uasset"
+  },
+  {
+    "persistenceId": "c8qcyEiordFIIMKxzAebpA",
+    "name": "Lougrim's Staff",
+    "rowName": "ITEM_Quest_SW_Lougrim_Staff",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Lougrim_Staff.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_SW_Lougrim_Staff.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_SW_Lougrim_Staff.uasset"
+  },
+  {
+    "persistenceId": "-HOWn07hphZ-nGKN52Ohqg",
+    "name": "Luminite",
+    "rowName": "res_ore_luminite",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Luminute_Ore.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ore_Luminite.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Ore_Luminite.uasset"
+  },
+  {
+    "persistenceId": "tmufJ0jdpQ2zkNmHreyEiw",
+    "name": "Magic Logs",
+    "rowName": "res_wood_magic",
+    "category": "Resources",
+    "subcategory": "Plant",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Magic_Wood.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Wood_Magic.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Wood_Magic.uasset"
+  },
+  {
+    "persistenceId": "lKzq6EQPYKlfozqxS5zB9g",
+    "name": "Magic Tree Seed",
+    "rowName": "farming_treeseed_magic",
+    "category": "Resources",
+    "subcategory": "Plant",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Magic_Seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Farming_TreeSeed_Magic.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Resources/Plant/ITEM_Farming_TreeSeed_Magic.uasset"
+  },
+  {
+    "persistenceId": "ihb_x8sSRkCU2Nnatr2Ytw",
+    "name": "Maple Logs",
+    "rowName": "res_wood_maple",
+    "category": "Resources",
+    "subcategory": "Wood",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resources_Maple_Logs.png",
+    "weight": 0.8,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_Resources_Wood_Maple.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Wood/ITEM_Resources_Wood_Maple.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "6elZUk7d7zVP8qCRjXN9uQ",
+    "name": "Maple Sap",
+    "rowName": "res_maple_sap",
+    "category": "Resources",
+    "subcategory": "Plant",
+    "tags": [
+      "Item.Farming.CompostableSuper"
+    ],
+    "icon": "T_Icon_Maple_Sap.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Maple_Sap.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Maple_Sap.uasset"
+  },
+  {
+    "persistenceId": "8oswskI2KOuVK3KUvU8cSw",
+    "name": "Maple Tree Seed",
+    "rowName": "farming_treeseed_maple",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Maple_Seed.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_Farming_TreeSeed_Maple.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/TreePlanting/ITEM_Farming_TreeSeed_Maple.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "OzJAo0L_wtEHut6bOPXo5Q",
+    "name": "Marentill Seeds",
+    "rowName": "tool_farming_seed_Marrentil",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Marrentil_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Marrentill.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Marrentill.uasset"
+  },
+  {
+    "persistenceId": "U3fAKU2mI0apYz-rc0qWcQ",
+    "name": "Marrentill",
+    "rowName": "res_herb_marrentil",
+    "category": "Resources",
+    "subcategory": "Herb",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resource_Marrentil.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Herb_Marrentill.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Herb/ITEM_Herb_Marrentill.uasset"
+  },
+  {
+    "persistenceId": "R49qY0KT-YjRmT6a0YB04g",
+    "name": "Missing Letter",
+    "rowName": "ITEM_quest_FH_LettersForTheDead_Letter_1",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Envelope.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_LettersForTheDead_Letter_1.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_LettersForTheDead_Letter_1.uasset"
+  },
+  {
+    "persistenceId": "D_xL3kw1nvzcQxCqPSLymw",
+    "name": "Missing Letter",
+    "rowName": "ITEM_quest_FH_LettersForTheDead_Letter_2",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Envelope.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_LettersForTheDead_Letter_2.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_LettersForTheDead_Letter_2.uasset"
+  },
+  {
+    "persistenceId": "3PChfUy1T0FfXUKg0Uqcgg",
+    "name": "Missing Letter",
+    "rowName": "ITEM_quest_FH_LettersForTheDead_Letter_3",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Envelope.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_LettersForTheDead_Letter_3.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_LettersForTheDead_Letter_3.uasset"
+  },
+  {
+    "persistenceId": "CiyC5Y3Qx0u0CTQt12QR1w",
+    "name": "Mithril Bar",
+    "rowName": "res_bar_mithril",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "ItemFilter.Material.Metal"
+    ],
+    "icon": "T_Icon_Mithril_Bar.png",
+    "weight": 5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_Resources_MithrilBar.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_MithrilBar.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "NE9ro1p-LEeiL-80nPPyhw",
+    "name": "Mithril Ore",
+    "rowName": "res_ore_mithril",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Mithril_Ore.png",
+    "weight": 3.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_Resources_MithrilOre.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_MithrilOre.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "qwgPgkOGqffCUdG9M7YR2Q",
+    "name": "Molten Glass",
+    "rowName": "res_molten_glass",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Molten_Glass.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Molten_Glass.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Molten_Glass.uasset"
+  },
+  {
+    "persistenceId": "7MA-NkEejSNBooCvO4XI9w",
+    "name": "Monstrous Fang",
+    "rowName": "res_monstrous_fang",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.Bone"
+    ],
+    "icon": "T_Icon_Resource_Monstrous_Fang.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Monstrous_Fang.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Monstrous_Fang.uasset"
+  },
+  {
+    "persistenceId": "bjjJ1kCgKXKvMPyJC4YQkQ",
+    "name": "Mysterious Orb [Charged]",
+    "rowName": "ITEM_quest_HtP_chargedmysteriousOrb",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Charged_Mysterious_Orb.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_HtP_MysteriousOrb_Charged.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_HtP_MysteriousOrb_Charged.uasset"
+  },
+  {
+    "persistenceId": "kLFhCEF-uIEs1hW6ioa7pA",
+    "name": "Mysterious Orb [Uncharged]",
+    "rowName": "ITEM_quest_HtP_mysteriousOrb",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Mysterious_Orb.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_HtP_MysteriousOrb.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_HtP_MysteriousOrb.uasset"
+  },
+  {
+    "persistenceId": "L90H-kMtgkcomlmEb1cedg",
+    "name": "Mystic Fibres",
+    "rowName": "res_cloth_fibres_mystic",
+    "category": "Resources",
+    "tags": [
+      "Item.Resource"
+    ],
+    "icon": "T_Icon_Mystic_Fibres.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Fibres_Mystic.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/ITEM_Resources_Fibres_Mystic.uasset"
+  },
+  {
+    "persistenceId": "hceXwEDdifvrgFCOaBsV-w",
+    "name": "Mystic Thread",
+    "rowName": "res_cloth_mystic_thread",
+    "category": "Resources",
+    "tags": [
+      "Item.Resource"
+    ],
+    "icon": "T_Icon_Mystic_Thread.png",
+    "weight": 0.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Thread_Mystic.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/ITEM_Resources_Thread_Mystic.uasset"
+  },
+  {
+    "persistenceId": "HoHTJUAlDeh09AeumxhAwA",
+    "name": "Naphtha",
+    "rowName": "res_naptha",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Naptha.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Naptha.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Naptha.uasset"
+  },
+  {
+    "persistenceId": "ffhRi0ROvrJqaHW9odKKWQ",
+    "name": "Necrotic Bonemeal",
+    "rowName": "res_bone_ground_necrotic",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Bonemeal.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ground_Bonemeal_Necrotic.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Ground_Bonemeal_Necrotic.uasset"
+  },
+  {
+    "persistenceId": "TsGMyBWLNEWhBdNu21CwCA",
+    "name": "Oak Logs",
+    "rowName": "res_wood_oak",
+    "category": "Resources",
+    "subcategory": "Wood",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Oak_Logs.png",
+    "weight": 1.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Resources_Wood_Oak.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Wood/ITEM_Resources_Wood_Oak.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "FaDdOe9tLUOzvrkYSPpb3Q",
+    "name": "Oak Plank",
+    "rowName": "res_plank_oak",
+    "category": "Resources",
+    "subcategory": "Wood",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Oak_Plank.png",
+    "weight": 0.75,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Resources_Plank_Oak.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Wood/ITEM_Resources_Plank_Oak.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "KdEPik9BM_2zKiOenCEJgQ",
+    "name": "Oak tree Seed",
+    "rowName": "farming_treeseed_oak",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Oal_Tree_Seed.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Farming_TreeSeed_Oak.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/TreePlanting/ITEM_Farming_TreeSeed_Oak.uasset"
+  },
+  {
+    "persistenceId": "ICJa4EegESPCbLK-TiQToQ",
+    "name": "Obsidian Device",
+    "rowName": "res_obsidian_device",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Obsidian_Device.png",
+    "weight": 0.9,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_Obsidian_Device.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_Obsidian_Device.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "s7eNFE3W-S0tBnKewniiKQ",
+    "name": "Onion seeds",
+    "rowName": "tool_farming_seed_onion",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Onion_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Onion.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Onion.uasset"
+  },
+  {
+    "persistenceId": "GAnIKkuMoUfiGC2wiSfmqg",
+    "name": "Opal",
+    "rowName": "res_gem_opal",
+    "category": "Resources",
+    "subcategory": "Gem",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Opal.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Opal.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Gem/ITEM_Resources_Opal.uasset"
+  },
+  {
+    "persistenceId": "RFgA4kE-5E71wiGpmjWkKA",
+    "name": "Ornate Maul Handle",
+    "rowName": "res_ornate_maul_handle",
+    "category": "Resources",
+    "subcategory": "Masterworks",
+    "tags": [
+      "Item.BossSoul"
+    ],
+    "icon": "T_Icon_Ornate_Maul_Handle.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Masterworks_Ornate_Maul_Handle.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Masterworks/GraniteMaul/ITEM_Masterworks_Ornate_Maul_Handle.uasset"
+  },
+  {
+    "persistenceId": "6kYeY05XaTnhySas_bXdnw",
+    "name": "Padded Cloth",
+    "rowName": "res_cloth_padded",
+    "category": "Resources",
+    "subcategory": "Textiles",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Resource_Padded_Cloth.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Cloth_Padded.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Textiles/ITEM_Resources_Cloth_Padded.uasset"
+  },
+  {
+    "persistenceId": "T8r9B08LE-0n1rGU6Qp4BQ",
+    "name": "Pipe Cactus Seeds",
+    "rowName": "tool_farming_seed_cactus_pipe",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Pipe_Cactus_Seed_v2.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Cactus_Pipe.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Cactus_Pipe.uasset"
+  },
+  {
+    "persistenceId": "vxn3aEpxraaQXJi9Btd7Cw",
+    "name": "Poison Ichor",
+    "rowName": "res_herb_poison_ichor",
+    "category": "Resources",
+    "subcategory": "Herb",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Poison_Ichor2.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Herb_Poison_Ichor.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Herb/ITEM_Herb_Poison_Ichor.uasset"
+  },
+  {
+    "persistenceId": "cW7jv0WM_XgkG_OsOz_YgQ",
+    "name": "Potato seeds",
+    "rowName": "tool_farming_seed_potato",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Potato_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Potato.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Potato.uasset"
+  },
+  {
+    "persistenceId": "j_sPzUBqZftQOjuet7eAzg",
+    "name": "Primordial Heart",
+    "rowName": "ITEM_quest_FH_WitherBeast_Heart",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "ItemFilter.Type.QuestItem"
+    ],
+    "icon": "T_Icon_WitherBeast_Heart.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_WitherBeast_Heart.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_WitherBeast_Heart.uasset"
+  },
+  {
+    "persistenceId": "ZdlXc0iCuI6Ts0SQx5hovQ",
+    "name": "Pristine Beltfish",
+    "rowName": "res_fish_pristine_beltfish",
+    "category": "Resources",
+    "subcategory": "Fish",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Fish_Beltfish_Pristine.png",
+    "weight": 5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_Beltfish.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Fish/ITEM_Resources_Fish_Raw_Pristine_Beltfish.uasset"
+  },
+  {
+    "persistenceId": "K7TQb0jdPaK9g6WcZTea9g",
+    "name": "Pristine Desert Sole",
+    "rowName": "res_fish_pristine_desertsole",
+    "category": "Resources",
+    "subcategory": "Fish",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Fish_Desert_Sole_Pristine.png",
+    "weight": 5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_DesertSole.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Fish/ITEM_Resources_Fish_Raw_Pristine_DesertSole.uasset"
+  },
+  {
+    "persistenceId": "wM1AskkweSYyC_2YuR7tsw",
+    "name": "Pristine Monkfish",
+    "rowName": "res_fish_pristine_monkfish",
+    "category": "Resources",
+    "subcategory": "Fish",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Iconl_Fish_Monkfish_Pristine.png",
+    "weight": 5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Pristine_Monkfish.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Fish/ITEM_Resources_Fish_Raw_Pristine_Monkfish.uasset"
+  },
+  {
+    "persistenceId": "2_CkFkMTSN7b5_-eDlNPDQ",
+    "name": "Pumpkin Seeds",
+    "rowName": "tool_farming_seed_pumpkin",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Pumpkin_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Pumpkin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Pumpkin.uasset"
+  },
+  {
+    "persistenceId": "GjJEvUEeLJDK4rC8sNKYXA",
+    "name": "Purified King's Token",
+    "rowName": "ITEM_quest_garou_purifiedkingstoken",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Journal_King_Token_Purified.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_garou_purifiedkingstoken.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_garou_purifiedkingstoken.uasset"
+  },
+  {
+    "persistenceId": "H5D6PE3yfLhTPAypRyRg4g",
+    "name": "Quest Animalmagnetism Advertinnabottle",
+    "rowName": "ITEM_quest_animalmagnetism_advert",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_AnimalMagnetism_AdvertInnaBottle.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_AnimalMagnetism_AdvertInnaBottle.uasset"
+  },
+  {
+    "persistenceId": "4FpRvU8a805uyHWIWqRssA",
+    "name": "Quest Animalmagnetism Magnet",
+    "rowName": "ITEM_quest_animalmagnetism_magnet",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Magnet.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_AnimalMagnetism_Magnet.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_AnimalMagnetism_Magnet.uasset"
+  },
+  {
+    "persistenceId": "mvx1OETLM8yAXXeURdnopw",
+    "name": "Quest Animalmagnetism Undeadchicken",
+    "rowName": "ITEM_Quest_AnimalMagnetism_UndeadChicken",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_ZombieChicken.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_AnimalMagnetism_UndeadChicken.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_AnimalMagnetism_UndeadChicken.uasset"
+  },
+  {
+    "persistenceId": "cpy67k4wxDG9VEO2yabJAg",
+    "name": "Quest Animalmagnetism Undeadtwig",
+    "rowName": "ITEM_Quest_AnimalMagnetism_UndeadTwig",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Undead_Twig.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_AnimalMagnetism_UndeadTwig.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_AnimalMagnetism_UndeadTwig.uasset"
+  },
+  {
+    "persistenceId": "nKMUnEFGqTpwgTGN9Cio7A",
+    "name": "Quest Brinkofextinction Zi Core",
+    "rowName": "ITEM_Quest_BrinkOfExtinction_Zi_Core",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Ico_Zi_Core.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_BrinkOfExtinction_Zi_Core.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_BrinkOfExtinction_Zi_Core.uasset"
+  },
+  {
+    "persistenceId": "F1vxi0xGxEF-N2imWojBjQ",
+    "name": "Quest Contact Helixcrystal",
+    "rowName": "ITEM_Quest_Contact_HelixCrystal",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Crystal_Helix_Fragment.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_Contact_HelixCrystal.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_Contact_HelixCrystal.uasset"
+  },
+  {
+    "persistenceId": "SxYBrEAYX94K2IO8AZRbIw",
+    "name": "Quest Contact Helixcrystal Complete",
+    "rowName": "ITEM_Quest_Contact_HelixCrystal_Complete",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Crystal_Helix.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_Contact_HelixCrystal_Complete.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_Contact_HelixCrystal_Complete.uasset"
+  },
+  {
+    "persistenceId": "X365jUQVlVCisPyLHI2w0Q",
+    "name": "Quest Cooksassistant Cake",
+    "rowName": "ITEM_Quest_CooksAssistant_Cake",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Victoria_Sponge_Cake.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_CooksAssistant_Cake.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_CooksAssistant_Cake.uasset"
+  },
+  {
+    "persistenceId": "rQ0QSU-IDvSacAiYVFKVVg",
+    "name": "Quest Cooksassistant Milk",
+    "rowName": "ITEM_Quest_CooksAssistant_Milk",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_icon_Wooden_Bucket.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_CooksAssistant_Milk.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_CooksAssistant_Milk.uasset"
+  },
+  {
+    "persistenceId": "BvR9CEY-ewm4Poa_Ck1-Sg",
+    "name": "Quest Greatbodyrobbery Body 01",
+    "rowName": "ITEM_Quest_GreatBodyRobbery_Body_01",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Torso.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_GreatBodyRobbery_Body_01.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_GreatBodyRobbery_Body_01.uasset"
+  },
+  {
+    "persistenceId": "CGGjjUjBWZXPaCOebNSbAA",
+    "name": "Quest Greatbodyrobbery Body 02",
+    "rowName": "ITEM_Quest_GreatBodyRobbery_Body_02",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Arms.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_GreatBodyRobbery_Body_02.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_GreatBodyRobbery_Body_02.uasset"
+  },
+  {
+    "persistenceId": "s8FuRk6XIY1cDRW1I9t1zQ",
+    "name": "Quest Greatbodyrobbery Body 03",
+    "rowName": "ITEM_Quest_GreatBodyRobbery_Body_03",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Legs.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_GreatBodyRobbery_Body_03.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_GreatBodyRobbery_Body_03.uasset"
+  },
+  {
+    "persistenceId": "G5igxEcPCpDtWNyIDxiK0A",
+    "name": "Quest Greatbodyrobbery Emptyvial",
+    "rowName": "ITEM_Quest_GreatBodyRobbery_EmptyVial",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Uncharged_Lightning_Bolt.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_GreatBodyRobbery_EmptyVial.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_GreatBodyRobbery_EmptyVial.uasset"
+  },
+  {
+    "persistenceId": "3GWhzkNRhc7wfQmPYA669w",
+    "name": "Quest Greatbodyrobbery Fenkenstrains Head",
+    "rowName": "ITEM_Quest_GreatBodyRobbery_FenkenstrainsHead",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Fenkenstrain_Head.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_GreatBodyRobbery_Fenkenstrains_Head.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_GreatBodyRobbery_Fenkenstrains_Head.uasset"
+  },
+  {
+    "persistenceId": "a0E-e0hIWbI9zBa2ywIqjw",
+    "name": "Quest Greatbodyrobbery Lightningvial",
+    "rowName": "ITEM_Quest_GreatBodyRobbery_LighningVial",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Charged_Lightning_Bolt.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_GreatBodyRobbery_LightningVial.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_GreatBodyRobbery_LightningVial.uasset"
+  },
+  {
+    "persistenceId": "yXwumEWoFjSuJxm0ePb8hA",
+    "name": "Quest Saradominstatue Key Jade",
+    "rowName": "ITEM_Quest_SaradominStatue_Key_Jade",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Saradomin_Symbol.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_SaradominStatue_Key_Jade.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_SaradominStatue_Key_Jade.uasset"
+  },
+  {
+    "persistenceId": "tFEiwkn2jWc-676skm3W4w",
+    "name": "Quest Saradominstatue Key Opal",
+    "rowName": "ITEM_Quest_SaradominStatue_Key_Opal",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Saradomin_Symbol.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_SaradominStatue_Key_Opal.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_SaradominStatue_Key_Opal.uasset"
+  },
+  {
+    "persistenceId": "YTzOXk6aAesQ1yusHup5Mg",
+    "name": "Quest Saradominstatue Key Sapphire",
+    "rowName": "ITEM_Quest_SaradominStatue_Key_Sapphire",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Saradomin_Symbol.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Quest_SaradominStatue_Key_Sapphire.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Quest_SaradominStatue_Key_Sapphire.uasset"
+  },
+  {
+    "persistenceId": "QgqqlUauXmB-HSuxNa3Zuw",
+    "name": "Quest Scarecrow Key",
+    "rowName": "ITEM_quest_scarecrow_key",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Key.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_Scarecrow_Key.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_Scarecrow_Key.uasset"
+  },
+  {
+    "persistenceId": "E5lUJEc3VidsqDGPkYhl4A",
+    "name": "Ram Horn",
+    "rowName": "res_animal_horn_ram",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.Bone"
+    ],
+    "icon": "T_Icon_Resources_Large_Animal_Horn.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Large_Animal_Horn.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Large_Animal_Horn.uasset"
+  },
+  {
+    "persistenceId": "6y6Gj07noGrEPLu1XxtBow",
+    "name": "Raw Beltfish",
+    "rowName": "res_fish_beltfish",
+    "category": "Resources",
+    "subcategory": "Fish",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Fish_Beltfish.png",
+    "weight": 2.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Beltfish.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Fish/ITEM_Resources_Fish_Raw_Beltfish.uasset"
+  },
+  {
+    "persistenceId": "ysGzF0vWJkA621WqqhdHuA",
+    "name": "Raw Desert Sole",
+    "rowName": "res_fish_desertsole",
+    "category": "Resources",
+    "subcategory": "Fish",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "ItemFilter.Material.PristineFish"
+    ],
+    "icon": "T_Icon_Fish_Desert_Sole.png",
+    "weight": 2.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_DesertSole.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Fish/ITEM_Resources_Fish_Raw_DesertSole.uasset"
+  },
+  {
+    "persistenceId": "Kuh1zETAPQYHeyugXE12Rg",
+    "name": "Raw Monkfish",
+    "rowName": "res_fish_monkfish",
+    "category": "Resources",
+    "subcategory": "Fish",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "ItemFilter.Material.RawFish"
+    ],
+    "icon": "T_Icon_Fish_Monkfish.png",
+    "weight": 2.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_Fish_Raw_Monkfish.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Fish/ITEM_Resources_Fish_Raw_Monkfish.uasset"
+  },
+  {
+    "persistenceId": "Xz39Hkk-Jbz9bJONeZgkPw",
+    "name": "Red Dragon Hide",
+    "rowName": "res_skin_dragon_red_lesser",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_RedDragonhide.png",
+    "weight": 1.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Skin_Dragon_Red_Lesser.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Skin_Dragon_Red_Lesser.uasset"
+  },
+  {
+    "persistenceId": "MiOchEk4FHYRIF2KL0PK_g",
+    "name": "Red Dragonhide Leather",
+    "rowName": "res_leather_dragon_red_lesser",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_RedDragonLeather.png",
+    "weight": 0.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Leather_Dragon_Red_Lesser.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Leather_Dragon_Red_Lesser.uasset"
+  },
+  {
+    "persistenceId": "DY6MkEu_wT76ukyxwYr45g",
+    "name": "Red Topaz",
+    "rowName": "res_gem_red_topaz",
+    "category": "Resources",
+    "subcategory": "Gem",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Red_Topaz.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Red_Topaz.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Gem/ITEM_Resources_Red_Topaz.uasset"
+  },
+  {
+    "persistenceId": "7lSIik5yoOFoPX-5w38Ytg",
+    "name": "Redberry seeds",
+    "rowName": "tool_farming_seed_redberry",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Redberry_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Redberry.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Redberry.uasset"
+  },
+  {
+    "persistenceId": "8lsZE0DNK5dtlMWPYjVfRg",
+    "name": "Refined Obsidian",
+    "rowName": "res_refined_obsidian",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Type.Resource"
+    ],
+    "icon": "T_Icon_Refined_Obsidian.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_Refined_Obsidian.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Refined_Obsidian.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "UXca20KM2Qp3cq224IjYUA",
+    "name": "Resources Key Nc Ums 01",
+    "rowName": "res_key_nc_ums_01",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Upgrade_Core_Large_White.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Key_NC_UmS_01.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_Key_NC_UmS_01.uasset"
+  },
+  {
+    "persistenceId": "RvxVhE8_DiEaYL6mYnYAhg",
+    "name": "Resources Key Nc Ums 02",
+    "rowName": "res_key_nc_ums_02",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Upgrade_Core_Large_Green.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Key_NC_UmS_02.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_Key_NC_UmS_02.uasset"
+  },
+  {
+    "persistenceId": "ujWakUVbazF-iJSdwRjl-w",
+    "name": "Resources Key Nc Ums 03",
+    "rowName": "res_key_nc_ums_03",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Upgrade_Core_Large_Blue.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Key_NC_UmS_03.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_Key_NC_UmS_03.uasset"
+  },
+  {
+    "persistenceId": "RUF3fEDcbPT288-vcymy0Q",
+    "name": "Resources Key Nc Ums 04",
+    "rowName": "res_key_nc_ums_04",
+    "category": "Resources",
+    "subcategory": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Upgrade_Core_Large_Purple.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Key_NC_UmS_04.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Misc/ITEM_Resources_Key_NC_UmS_04.uasset"
+  },
+  {
+    "persistenceId": "cGGgxuSpjEmvSKUBkJQQUg",
+    "name": "Resources Runiteore Deleted",
+    "rowName": "res_ore_runite_old",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "Item.Resource.Ore.Runite"
+    ],
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_RuniteOre_Deleted.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Resources_RuniteOre_Deleted.uasset"
+  },
+  {
+    "persistenceId": "3Fu51hkQR0-C5bzZJ7CqXw",
+    "name": "Resources Wood Mahogany",
+    "rowName": "res_wood_mahogany",
+    "category": "Resources",
+    "subcategory": "Wood",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_MahoganyWood_01.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Wood_Mahogany.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Resources_Wood_Mahogany.uasset"
+  },
+  {
+    "persistenceId": "GQcT3TAgK0ulDFXjsp-k1A",
+    "name": "Rough Cloth",
+    "rowName": "res_cloth_linen",
+    "category": "Resources",
+    "subcategory": "Textiles",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Resource_Linen_Cloth.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Cloth_Linen.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Textiles/ITEM_Resources_Cloth_Linen.uasset"
+  },
+  {
+    "persistenceId": "fqJO-Erk5qAahfiV_4K80Q",
+    "name": "Ruby",
+    "rowName": "res_gem_ruby",
+    "category": "Resources",
+    "subcategory": "Gem",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Ruby.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ruby.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Gem/ITEM_Resources_Ruby.uasset"
+  },
+  {
+    "persistenceId": "E2DTRcCjREud9vBrNm4wfA",
+    "name": "Rune Bar",
+    "rowName": "res_bar_runite_old",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "ItemFilter.Material.Metal"
+    ],
+    "icon": "T_Resources_IronIngot.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_RuniteBar.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_RuniteBar.uasset"
+  },
+  {
+    "persistenceId": "zzsLzkLrcpzCD3mSme_L3g",
+    "name": "Rune Bar",
+    "rowName": "res_bar_runite",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.Metal"
+    ],
+    "icon": "T_Icon_Runite_Bar.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Bar_Runite.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Bar_Runite.uasset"
+  },
+  {
+    "persistenceId": "vWcpbEWqJ7vapRGxZTskTQ",
+    "name": "Runite Ore",
+    "rowName": "res_ore_runite",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Runite_Ore.png",
+    "weight": 3.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ore_Runite.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Ore_Runite.uasset"
+  },
+  {
+    "persistenceId": "MRRcVkTaxPfC_0evKhclKA",
+    "name": "Sacred Oil",
+    "rowName": "res_sacredoil",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Sacred_Oil.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_SacredOil.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_SacredOil.uasset"
+  },
+  {
+    "persistenceId": "f_tlM0y-QfSP8Ha6vD6Rmg",
+    "name": "Salve Crystal",
+    "rowName": "res_gem_salve",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem",
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Salve_Stone.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Salve_Crystal.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_Resources_Salve_Crystal.uasset"
+  },
+  {
+    "persistenceId": "RdhNn0ebpZZIPQqMviMjNg",
+    "name": "Sandstone",
+    "rowName": "res_sandstone",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Sandstone_Rock.png",
+    "weight": 1.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Sandstone.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Sandstone.uasset"
+  },
+  {
+    "persistenceId": "TvL1Ik7Vc-NHKlCx--22Cg",
+    "name": "Sapphire",
+    "rowName": "res_gem_sapphire",
+    "category": "Resources",
+    "subcategory": "Gem",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Sapphire.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Sapphire.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Gem/ITEM_Resources_Sapphire.uasset"
+  },
+  {
+    "persistenceId": "ZTw--ktbOOeumxWjvwYW3g",
+    "name": "Saradomin Symbol",
+    "rowName": "res_statue_head",
+    "category": "Resources",
+    "subcategory": "Key",
+    "icon": "T_Icon_Saradomin_Symbol.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Saradomin_Symbol_Puzzle.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/FutureMajorVersion/Content/Gameplay/Items/Resources/Key/ITEM_Saradomin_Symbol_Puzzle.uasset"
+  },
+  {
+    "persistenceId": "oC4mrE6kt6tk7-mTY1YLKA",
+    "name": "Scorch Leather",
+    "rowName": "res_leather_scorch",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Scorched_Leather.png",
+    "weight": 1.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Leather_Scorch.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Leather_Scorch.uasset"
+  },
+  {
+    "persistenceId": "i30UB0HkMiCruH-4DPwjDg",
+    "name": "Shimmerscale Powder",
+    "rowName": "res_ground_kalphite_wing",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Shimmer_Scale_Powder.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ground_Kalphite_Wing.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Ground_Kalphite_Wing.uasset"
+  },
+  {
+    "persistenceId": "6lzGokw1exVCJAmMfnUnkg",
+    "name": "Shocking Plant Bulb",
+    "rowName": "res_herb_plant_bulb_shocking",
+    "category": "Resources",
+    "subcategory": "Herb",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resources_Shocking_Plant_Bulb.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Herb_Plant_Bulb_Shocking.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Herb/ITEM_Herb_Plant_Bulb_Shocking.uasset"
+  },
+  {
+    "persistenceId": "fluVNEWmCK3dY4ybEOTJ7A",
+    "name": "Shrapnel",
+    "rowName": "res_shrapnel",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Shrapnel2.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Shrapnel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Shrapnel.uasset"
+  },
+  {
+    "persistenceId": "gunABauXjk6khTFVIKifoA",
+    "name": "Silver Bar",
+    "rowName": "res_bar_silver",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "ItemFilter.Material.Metal"
+    ],
+    "icon": "T_Icon_Resource_Bar_Silver.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_SilverBar.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_SilverBar.uasset"
+  },
+  {
+    "persistenceId": "kLtMy0b8zZGUNXqOnIO1TQ",
+    "name": "Silver Leaf",
+    "rowName": "res_agility_silver_leaf",
+    "category": "Resources",
+    "subcategory": "Agility",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Silver_Leaf.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Agility_Silver_Leaf.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Resources/Agility/ITEM_Resources_Agility_Silver_Leaf.uasset"
+  },
+  {
+    "persistenceId": "xawyKY4sAkmNcNuINCw3ww",
+    "name": "Silver Ore",
+    "rowName": "res_ore_silver",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Ore_Silver.png",
+    "weight": 2.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_SilverOre.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_SilverOre.uasset"
+  },
+  {
+    "persistenceId": "EWuEEEhBQ59daI2TL5y9YQ",
+    "name": "Small Animal Fang",
+    "rowName": "res_fang",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.Bone"
+    ],
+    "icon": "T_Icon_Animal_Fang.png",
+    "weight": 0.25,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Fang.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Fang.uasset"
+  },
+  {
+    "persistenceId": "Ppkk5kcc3GuqaaOUBiwJMg",
+    "name": "Smouldering Draconic Visage",
+    "rowName": "res_visage_dragon_fuzan",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Dragon_Visage.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Visage_Dragon_Fuzan.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Visage_Dragon_Fuzan.uasset"
+  },
+  {
+    "persistenceId": "Ui9BNkmRNjaiVYW31nGqbQ",
+    "name": "Snake Leather",
+    "rowName": "res_leather_snake",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "bandage-roll__3_.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Leather_Snake.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Leather_Snake.uasset"
+  },
+  {
+    "persistenceId": "GZ0sikPuLLsR2HCONjES8Q",
+    "name": "Snake Skin",
+    "rowName": "res_skin_snake",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "fish-scales.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Skin_Snake.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Skin_Snake.uasset"
+  },
+  {
+    "persistenceId": "VP4HYkC55gMC4pGC3c6L4w",
+    "name": "Snapdragon",
+    "rowName": "res_herb_snapdragon",
+    "category": "Resources",
+    "subcategory": "Herb",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resource_Snap_Dragon.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Herb_Snapdragon.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Herb/ITEM_Herb_Snapdragon.uasset"
+  },
+  {
+    "persistenceId": "WVHbYkW9ZZEfyEarxYImSw",
+    "name": "Snapdragon Seeds",
+    "rowName": "tool_farming_seed_SnapDragon",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Snapdragon_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Snapdragon.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Snapdragon.uasset"
+  },
+  {
+    "persistenceId": "_a30PUP3vGbK6omuRTvw2Q",
+    "name": "Soft Animal Fur",
+    "rowName": "res_soft_animal_fur",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resource_Soft_Animal_Fur.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Soft_Animal_Fur.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Soft_Animal_Fur.uasset"
+  },
+  {
+    "persistenceId": "wzNQOkfqch-Pm3avRapETg",
+    "name": "Soul Fragment",
+    "rowName": "res_currency_soulfragment",
+    "category": "Resources",
+    "subcategory": "Currency",
+    "tags": [
+      "ItemFilter.Material.SpecialMaterial"
+    ],
+    "icon": "T_Icon_Soul_Fragment.png",
+    "weight": 0,
+    "maxStackSize": 9999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Currency_SoulFragment.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Currency/ITEM_Currency_SoulFragment.uasset"
+  },
+  {
+    "persistenceId": "UBjRA0kZ03sJQmq-urBsTA",
+    "name": "Spectral Chinchompa Skull",
+    "rowName": "ITEM_quest_FH_SpectralChinchompaSkull",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "ItemFilter.Type.QuestItem"
+    ],
+    "icon": "T_Icon_Spectral_Chinchompa_Skull.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_NightoftheSpectralBoom_Skull.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_NightoftheSpectralBoom_Skull.uasset"
+  },
+  {
+    "persistenceId": "tNBdikFL0zvyBmaARPJORA",
+    "name": "Spectral Silver Thread",
+    "rowName": "ITEM_quest_FH_MirrorMirror_Thread",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Silver_Ash_Thread.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_MirrorMirror_Thread.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_MirrorMirror_Thread.uasset"
+  },
+  {
+    "persistenceId": "bDrJG99f7UKcLJ-z3G_e3w",
+    "name": "Steel Bar",
+    "rowName": "res_bar_steel",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "ItemFilter.Material.Metal"
+    ],
+    "icon": "T_Icon_Steel_Bar.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "sourceAsset": "ITEM_Resources_SteelBar.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_SteelBar.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "iMCDeEyx3QdQI06yZtaE8w",
+    "name": "Steel Crossbow Limbs",
+    "rowName": "res_crossbowlimbs_steel",
+    "category": "Resources",
+    "subcategory": "Components",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_icon_Steel_Crossbow_arms.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "sourceAsset": "ITEM_Resources_SteelLimbs.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Components/ITEM_Resources_SteelLimbs.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "_R44FI_bhEm8Gx61swlzpA",
+    "name": "Stone",
+    "rowName": "res_stone",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Stone.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Stone.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Stone.uasset"
+  },
+  {
+    "persistenceId": "jEGEekTLabfTqtWElqNXLQ",
+    "name": "Stone Block",
+    "rowName": "res_stone_block",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Block_Stone.png",
+    "weight": 4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Stone_Block.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Stone_Block.uasset"
+  },
+  {
+    "persistenceId": "d1Lsm0R5eAGsany1031bmA",
+    "name": "Stunted Kalphite Wing",
+    "rowName": "res_wing_kalphite_stunted",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Stunted_Kalaphite_Wing.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Wing_Kalphite_Stunted.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Wing_Kalphite_Stunted.uasset"
+  },
+  {
+    "persistenceId": "DJIQWUsnDB7Umey0E2dFgA",
+    "name": "Swamp Tar",
+    "rowName": "res_swamp_tar",
+    "category": "Resources",
+    "subcategory": "Mineral",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Swamp_Tar_01.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Swamp_Tar.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Mineral/ITEM_Resources_Swamp_Tar.uasset"
+  },
+  {
+    "persistenceId": "ehZX4E-aGmiITq6BdnbgFA",
+    "name": "Swamp Thread",
+    "rowName": "res_thread_swamp",
+    "category": "Resources",
+    "subcategory": "Textiles",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Resource_Swamp_Thread.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Thread_Swamp.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Textiles/ITEM_Resources_Thread_Swamp.uasset"
+  },
+  {
+    "persistenceId": "zsimokwEIE-BaUmW949QtQ",
+    "name": "Swamp Weed",
+    "rowName": "res_swampweed",
+    "category": "Resources",
+    "subcategory": "Herb",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resource_Swamp_Weed.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_SwampWeed.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Herb/ITEM_SwampWeed.uasset"
+  },
+  {
+    "persistenceId": "VbutMUHbEUrnNpGleFj_vw",
+    "name": "Swamp Weed Seeds",
+    "rowName": "tool_farming_seed_swampweed",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_SwampWeed_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_SwampWeed.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_SwampWeed.uasset"
+  },
+  {
+    "persistenceId": "Vnjun0JNiDTYsG21iTb2gg",
+    "name": "Tainted King's Token",
+    "rowName": "item_quest_garou_kingstoken",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Kings_Token.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_garou_kingstoken.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_garou_kingstoken.uasset"
+  },
+  {
+    "persistenceId": "zqqZoknd3VuU-Wu26LdVcg",
+    "name": "Tea Leaves",
+    "rowName": "res_herb_tea_leaves",
+    "category": "Resources",
+    "subcategory": "Plant",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Tea_Leaves_01.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Tea_Leaves.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Tea_Leaves.uasset"
+  },
+  {
+    "persistenceId": "3GRiakVrfak9eBKzKYJqeQ",
+    "name": "The Binding of Ib",
+    "rowName": "ITEM_quest_FH_WhatRemains_Scroll1",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Scroll.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_WhatRemains_Scroll1.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_WhatRemains_Scroll1.uasset"
+  },
+  {
+    "persistenceId": "GQ7na09L7n8GPkmXLLw01Q",
+    "name": "The Importance of Chaos",
+    "rowName": "ITEM_quest_FH_WhatRemains_Book4",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Abraxus_Necromancer_Book.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_WhatRemains_Book4.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_WhatRemains_Book4.uasset"
+  },
+  {
+    "persistenceId": "mt-zJkY9TORHawyjpD2CRw",
+    "name": "The Pride of the Avernic",
+    "rowName": "ITEM_quest_FH_WhatRemains_Book2",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Abraxus_Necromancer_Book.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_WhatRemains_Book2.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_WhatRemains_Book2.uasset"
+  },
+  {
+    "persistenceId": "I7Cpnk8nMRCVenu9yIrRsA",
+    "name": "The Wrath of Baba Potterington",
+    "rowName": "ITEM_quest_FH_WhatRemains_Book3",
+    "category": "Resources",
+    "subcategory": "Key",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Abraxus_Necromancer_Book.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_quest_FH_WhatRemains_Book3.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Key/ITEM_quest_FH_WhatRemains_Book3.uasset"
+  },
+  {
+    "persistenceId": "7fPUAi9DYkOSI5B_t79TVw",
+    "name": "Tin Bar",
+    "rowName": "res_bar_tin",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "ItemFilter.Material.Metal"
+    ],
+    "icon": "T_Icon_Resource_Bar_Tin.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_TinBar.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_TinBar.uasset"
+  },
+  {
+    "persistenceId": "h1AqBkRETk-Fu_65W6BjVw",
+    "name": "Tin Ore",
+    "rowName": "res_ore_tin",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Resource_Ore_Tin.png",
+    "weight": 2.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_TinOre.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Metal/ITEM_Resources_TinOre.uasset"
+  },
+  {
+    "persistenceId": "61d3bkS0nDQWlVqHDt5OaQ",
+    "name": "Toadflax",
+    "rowName": "res_herb_toadflax",
+    "category": "Resources",
+    "subcategory": "Herb",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resource_Toadflax.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Herb_Toadflax.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Herb/ITEM_Herb_Toadflax.uasset"
+  },
+  {
+    "persistenceId": "ePekjUBWSOdzQMmsbjvP8g",
+    "name": "Toadflax Seeds",
+    "rowName": "tool_farming_seed_Toadflax",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Toadflax_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_ToadFlax.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_ToadFlax.uasset"
+  },
+  {
+    "persistenceId": "McU9BUE_ZXBScBa7M6QZRw",
+    "name": "Tomato seeds",
+    "rowName": "tool_farming_seed_tomato",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Tomato_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Tomato.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Tomato.uasset"
+  },
+  {
+    "persistenceId": "wEJ4yUvsp9EeQvK1IvMN9g",
+    "name": "Undead Bone",
+    "rowName": "res_bone_undead",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.Bone"
+    ],
+    "icon": "T_Icon_Undead_Bone.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Bone_Undead.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Bone_Undead.uasset"
+  },
+  {
+    "persistenceId": "ztBa9UgwHvLRyD-ko9Ea3w",
+    "name": "Undead Draconic Visage",
+    "rowName": "res_visage_dragon_imaru",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Dragon_Visage.png",
+    "weight": 0.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Visage_Dragon_Imaru.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Visage_Dragon_Imaru.uasset"
+  },
+  {
+    "persistenceId": "3zU6qknpEF2Wg6STSQMHtQ",
+    "name": "Velgar's Head",
+    "rowName": "res_velgar_head",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "Item.QuestItem.KeyItem"
+    ],
+    "icon": "T_Icon_Velgar_Head.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Velgar_Head.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Velgar_Head.uasset"
+  },
+  {
+    "persistenceId": "r8vHFkQKCscKp1OoC17YCQ",
+    "name": "Vile Ashes",
+    "rowName": "res_vile_ashes",
+    "category": "Resources",
+    "tags": [
+      "Item.Resource"
+    ],
+    "icon": "T_Icon_Vile_Ashes.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_VileAshes.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/ITEM_Resources_VileAshes.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "QB1cGUwaSGregu6bDnVJIQ",
+    "name": "Vis Cloth",
+    "rowName": "res_cloth_vis",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Viz_Cloth.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Cloth_Vis.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Cloth_Vis.uasset"
+  },
+  {
+    "persistenceId": "Bi2DdkOl6F73Kz-nuGB16g",
+    "name": "Vis Fibres",
+    "rowName": "res_fibres_vis",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Vis_Fibers.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Fibres_Vis.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Fibres_Vis.uasset"
+  },
+  {
+    "persistenceId": "9yk1XkCxmFjwO1SwsRw3vQ",
+    "name": "Warped Feathers",
+    "rowName": "res_agility_warped_feathers",
+    "category": "Resources",
+    "subcategory": "Agility",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Warped_Feathers.png",
+    "weight": 0.1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Agility_Warped_Feathers.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Resources/Agility/ITEM_Resources_Agility_Warped_Feathers.uasset"
+  },
+  {
+    "persistenceId": "GX_XpEZAZdX7koKAEyFSKQ",
+    "name": "Watermelon seeds",
+    "rowName": "tool_farming_seed_watermelon",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Watermelon_seeds.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Watermelon.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Watermelon.uasset"
+  },
+  {
+    "persistenceId": "gMtJMk-b5kwQmSKqmGSimw",
+    "name": "Weapon Barbs",
+    "rowName": "item_weaponbarbs",
+    "category": "Resources",
+    "subcategory": "Metal",
+    "tags": [
+      "Item.Whetstone"
+    ],
+    "icon": "T_Icon_Weapon_Barbs2.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_WeaponBarbs.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_WeaponBarbs.uasset",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "tZixd0Fg53WIeDKDenVy4A",
+    "name": "Weeds",
+    "rowName": "res_weeds",
+    "category": "Resources",
+    "subcategory": "Plant",
+    "tags": [
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Weeds.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Weeds.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Weeds.uasset"
+  },
+  {
+    "persistenceId": "1PhTmE-FuOrQnFSxSVMfUQ",
+    "name": "Wheat",
+    "rowName": "res_Wheat",
+    "category": "Resources",
+    "subcategory": "Plant",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.Compostable",
+      "ItemFilter.Material.RawIngredient"
+    ],
+    "icon": "T_Icon_Weat_Banch.png",
+    "weight": 0.4,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Wheat.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Wheat.uasset"
+  },
+  {
+    "persistenceId": "muWQNEPDzvIGl3ekVbIVRQ",
+    "name": "Wheat seeds",
+    "rowName": "tool_farming_seed_wheat",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Wheat_Seed.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Farming_Seed_Wheat.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/Seeds/ITEM_Farming_Seed_Wheat.uasset"
+  },
+  {
+    "persistenceId": "rwa8v0ugnp7LnvGKd3V29g",
+    "name": "Willow Logs",
+    "rowName": "res_wood_willow",
+    "category": "Resources",
+    "subcategory": "Wood",
+    "tags": [
+      "Item.Farming.CompostableSuper",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Willow_Logs.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "sourceAsset": "ITEM_Resources_Wood_Willow.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Wood/ITEM_Resources_Wood_Willow.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "QezLIU6YRuQdDUKbCkZqBA",
+    "name": "Willow tree seed",
+    "rowName": "farming_treeseed_willow",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Willow_Seed.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Farming_TreeSeed_Willow.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/TreePlanting/ITEM_Farming_TreeSeed_Willow.uasset"
+  },
+  {
+    "persistenceId": "ztu0Ik00blWibq6-8Y9f2g",
+    "name": "Willow tree seed",
+    "rowName": "farming_treeseed_yew",
+    "category": "Resources",
+    "subcategory": "Seeds",
+    "tags": [
+      "Item.Farming.CanBeSummonedByHarvestSpell",
+      "Item.Farming.ShowProgress",
+      "ItemFilter.Material.Seed"
+    ],
+    "icon": "T_Icon_Yew_Seed.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Farming_TreeSeed_Yew.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Farming/TreePlanting/ITEM_Farming_TreeSeed_Yew.uasset"
+  },
+  {
+    "persistenceId": "fS-ZKE_Ymkc-RL-2ySIl9A",
+    "name": "Withered Heart",
+    "rowName": "res_heart_withered",
+    "category": "Resources",
+    "subcategory": "Animal",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_WitherHeart.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Heart_Withered.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Animal/ITEM_Resources_Heart_Withered.uasset"
+  },
+  {
+    "persistenceId": "Jf2AM4PfnUqwTuW0cPXheA",
+    "name": "Wool Cloth",
+    "rowName": "res_cloth_wool",
+    "category": "Resources",
+    "subcategory": "Textiles",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Resource_Woolen_Cloth.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Cloth_Wool.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Textiles/ITEM_Resources_Cloth_Wool.uasset"
+  },
+  {
+    "persistenceId": "vgsjm0jT19zFn1uH9N2Rbg",
+    "name": "Wool Thread",
+    "rowName": "res_thread_wool",
+    "category": "Resources",
+    "subcategory": "Textiles",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Resource_Ball_Of_Wool.png",
+    "weight": 0.3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Thread_Wool.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Textiles/ITEM_Resources_Thread_Wool.uasset"
+  },
+  {
+    "persistenceId": "Hvo91EBeCWZ23_G6hgvZLA",
+    "name": "Yew Logs",
+    "rowName": "res_wood_yew",
+    "category": "Resources",
+    "subcategory": "Plant",
+    "tags": [
+      "Item.Farming.CompostableUltra",
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_YewTreeLogs.png",
+    "weight": 1.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_Wood_Yew.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Plant/ITEM_Resources_Wood_Yew.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "Arp89Et82NIcX52Sb54tow",
+    "name": "Yew Plank",
+    "rowName": "res_plank_yew",
+    "category": "Resources",
+    "subcategory": "Processed",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Yew_Plank.png",
+    "weight": 0.75,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_Plank_Yew.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Plank_Yew.uasset",
+    "powerLevelInferred": true
+  }
+]

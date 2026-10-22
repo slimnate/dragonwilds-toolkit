@@ -1,0 +1,110 @@
+[
+  {
+    "persistenceId": "6Q2aa09-rSWpFnuKzGU7Ng",
+    "name": "Cursed Essence",
+    "rowName": "res_essence_cursed",
+    "category": "MagicMaterials",
+    "tags": [
+      "Item.Resource.Ore.RuneEssence"
+    ],
+    "icon": "T_Icon_Cursed_Essence.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Essence_Cursed.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Animal/ITEM_Resources_Essence_Cursed.uasset"
+  },
+  {
+    "persistenceId": "D-7T2UaXI__mZMm9gOQ9Sg",
+    "name": "Ground Rune Essence",
+    "rowName": "res_ground_rune",
+    "category": "MagicMaterials",
+    "subcategory": "Processed",
+    "tags": [
+      "ItemFilter.Material.ProcessedMaterial"
+    ],
+    "icon": "T_Icon_Runic_Powder.png",
+    "maxStackSize": 99,
+    "sourceAsset": "ITEM_Resources_Ground_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Resources/Processed/ITEM_Resources_Ground_Rune.uasset"
+  },
+  {
+    "persistenceId": "69HUIUT03moOhPmfOGNctQ",
+    "name": "Rune Crossbow Limbs",
+    "rowName": "res_crossbowlimbs_rune",
+    "category": "MagicMaterials",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_SM_Crossbow_Runite_Arms_1H_01.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_RuneLimbs.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Components/ITEM_Resources_RuneLimbs.uasset"
+  },
+  {
+    "persistenceId": "qOY004ZJaEaR8DmcDqB2KA",
+    "name": "Rune Essence",
+    "rowName": "res_rune_essence",
+    "category": "MagicMaterials",
+    "subcategory": "Magic",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Rune_Essence.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Rune_Essence.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Magic/ITEM_Rune_Essence.uasset"
+  },
+  {
+    "persistenceId": "52QCB0uSNJD0UoC21lRJvA",
+    "name": "Vault Core",
+    "rowName": "res_vaultcore",
+    "category": "MagicMaterials",
+    "subcategory": "Magic",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resource_Vault_Core.png",
+    "weight": 50,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_VaultCore.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Magic/ITEM_Resources_VaultCore.uasset"
+  },
+  {
+    "persistenceId": "T8l7pktHUJoUuxi9mkrT7g",
+    "name": "Vault Shard",
+    "rowName": "res_vaultshard",
+    "category": "MagicMaterials",
+    "subcategory": "Magic",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Resource_Vault_Shard.png",
+    "weight": 5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_VaultShard.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Magic/ITEM_Resources_VaultShard.uasset"
+  },
+  {
+    "persistenceId": "LURhZ0Q6FaLGzh-siBuT7g",
+    "name": "Wild Anima",
+    "rowName": "res_wildanima",
+    "category": "MagicMaterials",
+    "subcategory": "Magic",
+    "tags": [
+      "ItemFilter.Material.BasicMaterial"
+    ],
+    "icon": "T_Icon_Anima_Wild_01.png",
+    "weight": 2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_WildAnima.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Magic/ITEM_Resources_WildAnima.uasset"
+  }
+]

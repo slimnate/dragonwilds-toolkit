@@ -1,0 +1,824 @@
+{
+  "meta": {
+    "source": "C:/Users/Natha/Documents/dev/rsdw-mods/exports/legacy_combat/RSDragonwilds/Content/Gameplay/Character/Player/Equipment/DT_WearableEquipment.json",
+    "usmap": "RSDragonwilds-5.6.1-251392+++dominion+live-0196ef29.usmap",
+    "note": "armourValue scales with tier; melee/ranged/magicResistance are style affinities (positive = preferred style). Sparse rows may only have armourValue."
+  },
+  "rows": {
+    "T01_Armour_Body_Heavy": {
+      "row": "T01_Armour_Body_Heavy",
+      "armourValue": 5,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    },
+    "T01_Armour_Head_Heavy": {
+      "row": "T01_Armour_Head_Heavy",
+      "armourValue": 2,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    },
+    "T01_Armour_Legs_Heavy": {
+      "row": "T01_Armour_Legs_Heavy",
+      "armourValue": 3,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    },
+    "T02_Armour_Body_Heavy": {
+      "row": "T02_Armour_Body_Heavy",
+      "armourValue": 15,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    },
+    "T02_Armour_Head_Heavy": {
+      "row": "T02_Armour_Head_Heavy",
+      "armourValue": 6,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    },
+    "T02_Armour_Legs_Heavy": {
+      "row": "T02_Armour_Legs_Heavy",
+      "armourValue": 9,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    },
+    "T03_Armour_Body_Heavy": {
+      "row": "T03_Armour_Body_Heavy",
+      "armourValue": 25,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    },
+    "T03_Armour_Head_Heavy": {
+      "row": "T03_Armour_Head_Heavy",
+      "armourValue": 10,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    },
+    "T03_Armour_Legs_Heavy": {
+      "row": "T03_Armour_Legs_Heavy",
+      "armourValue": 15,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    },
+    "T04_Armour_Body_Heavy": {
+      "row": "T04_Armour_Body_Heavy",
+      "armourValue": 35,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    },
+    "T04_Armour_Head_Heavy": {
+      "row": "T04_Armour_Head_Heavy",
+      "armourValue": 14,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    },
+    "T04_Armour_Legs_Heavy": {
+      "row": "T04_Armour_Legs_Heavy",
+      "armourValue": 21,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    },
+    "T05_Armour_Body_Heavy": {
+      "row": "T05_Armour_Body_Heavy",
+      "armourValue": 45,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    },
+    "T05_Armour_Head_Heavy": {
+      "row": "T05_Armour_Head_Heavy",
+      "armourValue": 18,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    },
+    "T05_Armour_Legs_Heavy": {
+      "row": "T05_Armour_Legs_Heavy",
+      "armourValue": 27,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    },
+    "T06_Armour_Body_Heavy": {
+      "row": "T06_Armour_Body_Heavy",
+      "armourValue": 55,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    },
+    "T06_Armour_Head_Heavy": {
+      "row": "T06_Armour_Head_Heavy",
+      "armourValue": 22,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    },
+    "T06_Armour_Legs_Heavy": {
+      "row": "T06_Armour_Legs_Heavy",
+      "armourValue": 33,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    },
+    "T07_Armour_Body_Heavy": {
+      "row": "T07_Armour_Body_Heavy",
+      "armourValue": 65,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    },
+    "T07_Armour_Head_Heavy": {
+      "row": "T07_Armour_Head_Heavy",
+      "armourValue": 26,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    },
+    "T07_Armour_Legs_Heavy": {
+      "row": "T07_Armour_Legs_Heavy",
+      "armourValue": 39,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    },
+    "T08_Armour_Body_Heavy": {
+      "row": "T08_Armour_Body_Heavy",
+      "armourValue": 75,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    },
+    "T08_Armour_Head_Heavy": {
+      "row": "T08_Armour_Head_Heavy",
+      "armourValue": 30,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    },
+    "T08_Armour_Legs_Heavy": {
+      "row": "T08_Armour_Legs_Heavy",
+      "armourValue": 45,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    },
+    "T09_Armour_Body_Heavy": {
+      "row": "T09_Armour_Body_Heavy",
+      "armourValue": 85,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    },
+    "T09_Armour_Head_Heavy": {
+      "row": "T09_Armour_Head_Heavy",
+      "armourValue": 34,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    },
+    "T09_Armour_Legs_Heavy": {
+      "row": "T09_Armour_Legs_Heavy",
+      "armourValue": 51,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    },
+    "T02_Armour_Body_Light": {
+      "row": "T02_Armour_Body_Light",
+      "armourValue": 15,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    },
+    "T02_Armour_Head_Light": {
+      "row": "T02_Armour_Head_Light",
+      "armourValue": 6,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    },
+    "T02_Armour_Legs_Light": {
+      "row": "T02_Armour_Legs_Light",
+      "armourValue": 9,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    },
+    "T03_Armour_Body_Light": {
+      "row": "T03_Armour_Body_Light",
+      "armourValue": 25,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    },
+    "T03_Armour_Head_Light": {
+      "row": "T03_Armour_Head_Light",
+      "armourValue": 10,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    },
+    "T03_Armour_Legs_Light": {
+      "row": "T03_Armour_Legs_Light",
+      "armourValue": 15,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    },
+    "T04_Armour_Body_Light": {
+      "row": "T04_Armour_Body_Light",
+      "armourValue": 35,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    },
+    "T04_Armour_Head_Light": {
+      "row": "T04_Armour_Head_Light",
+      "armourValue": 14,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    },
+    "T04_Armour_Legs_Light": {
+      "row": "T04_Armour_Legs_Light",
+      "armourValue": 21,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    },
+    "T05_Armour_Body_Light": {
+      "row": "T05_Armour_Body_Light",
+      "armourValue": 45,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    },
+    "T05_Armour_Head_Light": {
+      "row": "T05_Armour_Head_Light",
+      "armourValue": 18,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    },
+    "T05_Armour_Legs_Light": {
+      "row": "T05_Armour_Legs_Light",
+      "armourValue": 27,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    },
+    "T06_Armour_Body_Light": {
+      "row": "T06_Armour_Body_Light",
+      "armourValue": 55,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    },
+    "T06_Armour_Head_Light": {
+      "row": "T06_Armour_Head_Light",
+      "armourValue": 22,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    },
+    "T06_Armour_Legs_Light": {
+      "row": "T06_Armour_Legs_Light",
+      "armourValue": 33,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    },
+    "T07_Armour_Body_Light": {
+      "row": "T07_Armour_Body_Light",
+      "armourValue": 65,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    },
+    "T07_Armour_Head_Light": {
+      "row": "T07_Armour_Head_Light",
+      "armourValue": 26,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    },
+    "T07_Armour_Legs_Light": {
+      "row": "T07_Armour_Legs_Light",
+      "armourValue": 39,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    },
+    "T08_Armour_Body_Light": {
+      "row": "T08_Armour_Body_Light",
+      "armourValue": 75,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    },
+    "T08_Armour_Head_Light": {
+      "row": "T08_Armour_Head_Light",
+      "armourValue": 30,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    },
+    "T08_Armour_Legs_Light": {
+      "row": "T08_Armour_Legs_Light",
+      "armourValue": 45,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    },
+    "T02_Armour_Body_Medium": {
+      "row": "T02_Armour_Body_Medium",
+      "armourValue": 15,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    },
+    "T02_Armour_Head_Medium": {
+      "row": "T02_Armour_Head_Medium",
+      "armourValue": 6,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    },
+    "T02_Armour_Legs_Medium": {
+      "row": "T02_Armour_Legs_Medium",
+      "armourValue": 9,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    },
+    "T03_Armour_Body_Medium": {
+      "row": "T03_Armour_Body_Medium",
+      "armourValue": 25,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    },
+    "T03_Armour_Head_Medium": {
+      "row": "T03_Armour_Head_Medium",
+      "armourValue": 10,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    },
+    "T03_Armour_Legs_Medium": {
+      "row": "T03_Armour_Legs_Medium",
+      "armourValue": 15,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    },
+    "T04_Armour_Body_Medium": {
+      "row": "T04_Armour_Body_Medium",
+      "armourValue": 35,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    },
+    "T04_Armour_Head_Medium": {
+      "row": "T04_Armour_Head_Medium",
+      "armourValue": 14,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    },
+    "T04_Armour_Legs_Medium": {
+      "row": "T04_Armour_Legs_Medium",
+      "armourValue": 21,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    },
+    "T05_Armour_Body_Medium": {
+      "row": "T05_Armour_Body_Medium",
+      "armourValue": 45,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    },
+    "T05_Armour_Head_Medium": {
+      "row": "T05_Armour_Head_Medium",
+      "armourValue": 18,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    },
+    "T05_Armour_Legs_Medium": {
+      "row": "T05_Armour_Legs_Medium",
+      "armourValue": 27,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    },
+    "T06_Armour_Body_Medium": {
+      "row": "T06_Armour_Body_Medium",
+      "armourValue": 55,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    },
+    "T06_Armour_Head_Medium": {
+      "row": "T06_Armour_Head_Medium",
+      "armourValue": 22,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    },
+    "T06_Armour_Legs_Medium": {
+      "row": "T06_Armour_Legs_Medium",
+      "armourValue": 33,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    },
+    "T07_Armour_Body_Medium": {
+      "row": "T07_Armour_Body_Medium",
+      "armourValue": 65,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    },
+    "T07_Armour_Head_Medium": {
+      "row": "T07_Armour_Head_Medium",
+      "armourValue": 26,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    },
+    "T07_Armour_Legs_Medium": {
+      "row": "T07_Armour_Legs_Medium",
+      "armourValue": 39,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    },
+    "T08_Armour_Body_Medium": {
+      "row": "T08_Armour_Body_Medium",
+      "armourValue": 75,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    },
+    "T08_Armour_Head_Medium": {
+      "row": "T08_Armour_Head_Medium",
+      "armourValue": 30,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    },
+    "T08_Armour_Legs_Medium": {
+      "row": "T08_Armour_Legs_Medium",
+      "armourValue": 45,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    },
+    "Armour_Head_BagOfNoggin": {
+      "row": "Armour_Head_BagOfNoggin",
+      "armourValue": 1
+    },
+    "Armour_Head_ChefsHat": {
+      "row": "Armour_Head_ChefsHat",
+      "armourValue": 1
+    },
+    "Armour_Head_EarlyAdopter": {
+      "row": "Armour_Head_EarlyAdopter"
+    },
+    "Armour_T1_Body_Adventurers": {
+      "row": "Armour_T1_Body_Adventurers",
+      "armourValue": 10
+    },
+    "Armour_T1_Legs_Adventurers": {
+      "row": "Armour_T1_Legs_Adventurers",
+      "armourValue": 7
+    },
+    "Armour_T1_Legs_Lightness": {
+      "row": "Armour_T1_Legs_Lightness"
+    },
+    "T07_Armour_Body_DesertRobes": {
+      "row": "T07_Armour_Body_DesertRobes",
+      "armourValue": 5
+    },
+    "T07_Armour_Head_DesertHood": {
+      "row": "T07_Armour_Head_DesertHood",
+      "armourValue": 10
+    },
+    "T07_Armour_Legs_DesertLegs": {
+      "row": "T07_Armour_Legs_DesertLegs",
+      "armourValue": 7
+    },
+    "Cape_Adventurers_Black": {
+      "row": "Cape_Adventurers_Black",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_Blue": {
+      "row": "Cape_Adventurers_Blue",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_BlueDyad": {
+      "row": "Cape_Adventurers_BlueDyad",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_BlueHex": {
+      "row": "Cape_Adventurers_BlueHex",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_Green": {
+      "row": "Cape_Adventurers_Green",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_GreenDyad": {
+      "row": "Cape_Adventurers_GreenDyad",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_GreenHex": {
+      "row": "Cape_Adventurers_GreenHex",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_Orange": {
+      "row": "Cape_Adventurers_Orange",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_Pink": {
+      "row": "Cape_Adventurers_Pink",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_PinkDyad": {
+      "row": "Cape_Adventurers_PinkDyad",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_PinkHex": {
+      "row": "Cape_Adventurers_PinkHex",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_Purple": {
+      "row": "Cape_Adventurers_Purple",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_Red": {
+      "row": "Cape_Adventurers_Red",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_RedDyad": {
+      "row": "Cape_Adventurers_RedDyad",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_RedHex": {
+      "row": "Cape_Adventurers_RedHex",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_White": {
+      "row": "Cape_Adventurers_White",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_Yellow": {
+      "row": "Cape_Adventurers_Yellow",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_YellowDyad": {
+      "row": "Cape_Adventurers_YellowDyad",
+      "armourValue": 2
+    },
+    "Cape_Adventurers_YellowHex": {
+      "row": "Cape_Adventurers_YellowHex",
+      "armourValue": 2
+    },
+    "Cape_AlphaTest": {
+      "row": "Cape_AlphaTest",
+      "armourValue": 2
+    },
+    "Cape_Artisan": {
+      "row": "Cape_Artisan",
+      "armourValue": 2
+    },
+    "Cape_Attack": {
+      "row": "Cape_Attack",
+      "armourValue": 2
+    },
+    "Cape_AvasAccumulator": {
+      "row": "Cape_AvasAccumulator",
+      "armourValue": 2
+    },
+    "Cape_AvasAttractor": {
+      "row": "Cape_AvasAttractor",
+      "armourValue": 2
+    },
+    "Cape_Bloodblight": {
+      "row": "Cape_Bloodblight",
+      "armourValue": 2
+    },
+    "Cape_Bramblemead": {
+      "row": "Cape_Bramblemead",
+      "armourValue": 2
+    },
+    "Cape_Community_Cape": {
+      "row": "Cape_Community_Cape",
+      "armourValue": 2
+    },
+    "Cape_Construction": {
+      "row": "Cape_Construction",
+      "armourValue": 2
+    },
+    "Cape_Cooking": {
+      "row": "Cape_Cooking",
+      "armourValue": 2
+    },
+    "Cape_DowdunReach": {
+      "row": "Cape_DowdunReach",
+      "armourValue": 2
+    },
+    "Cape_Dragonslayer": {
+      "row": "Cape_Dragonslayer",
+      "armourValue": 2
+    },
+    "Cape_EarlyAdopter": {
+      "row": "Cape_EarlyAdopter",
+      "armourValue": 2
+    },
+    "Cape_Fellhollow": {
+      "row": "Cape_Fellhollow",
+      "armourValue": 2
+    },
+    "Cape_FireCape": {
+      "row": "Cape_FireCape",
+      "armourValue": 5
+    },
+    "Cape_Fractured": {
+      "row": "Cape_Fractured",
+      "armourValue": 2
+    },
+    "Cape_Garou": {
+      "row": "Cape_Garou",
+      "armourValue": 2
+    },
+    "Cape_Goblin": {
+      "row": "Cape_Goblin",
+      "armourValue": 2
+    },
+    "Cape_Gold_Cape": {
+      "row": "Cape_Gold_Cape",
+      "armourValue": 2
+    },
+    "Cape_Linen": {
+      "row": "Cape_Linen",
+      "armourValue": 2
+    },
+    "Cape_MenaphiteCape_Black": {
+      "row": "Cape_MenaphiteCape_Black",
+      "armourValue": 2
+    },
+    "Cape_MenaphiteCape_Blue": {
+      "row": "Cape_MenaphiteCape_Blue",
+      "armourValue": 2
+    },
+    "Cape_MenaphiteCape_Green": {
+      "row": "Cape_MenaphiteCape_Green",
+      "armourValue": 2
+    },
+    "Cape_MenaphiteCape_Orange": {
+      "row": "Cape_MenaphiteCape_Orange",
+      "armourValue": 2
+    },
+    "Cape_MenaphiteCape_Pink": {
+      "row": "Cape_MenaphiteCape_Pink",
+      "armourValue": 2
+    },
+    "Cape_MenaphiteCape_Purple": {
+      "row": "Cape_MenaphiteCape_Purple",
+      "armourValue": 2
+    },
+    "Cape_MenaphiteCape_Red": {
+      "row": "Cape_MenaphiteCape_Red",
+      "armourValue": 2
+    },
+    "Cape_MenaphiteCape_White": {
+      "row": "Cape_MenaphiteCape_White",
+      "armourValue": 2
+    },
+    "Cape_MenaphiteCape_Yellow": {
+      "row": "Cape_MenaphiteCape_Yellow",
+      "armourValue": 2
+    },
+    "Cape_Mining": {
+      "row": "Cape_Mining",
+      "armourValue": 2
+    },
+    "Cape_ObsidianCape": {
+      "row": "Cape_ObsidianCape",
+      "armourValue": 5
+    },
+    "Cape_Runecrafting": {
+      "row": "Cape_Runecrafting",
+      "armourValue": 2
+    },
+    "Cape_Saradominist_Cloak": {
+      "row": "Cape_Saradominist_Cloak",
+      "armourValue": 2
+    },
+    "Cape_Skeleton": {
+      "row": "Cape_Skeleton",
+      "armourValue": 2
+    },
+    "Cape_Stormtouched": {
+      "row": "Cape_Stormtouched",
+      "armourValue": 2
+    },
+    "Cape_Tattered": {
+      "row": "Cape_Tattered",
+      "armourValue": 2
+    },
+    "Cape_UmbralSandsCape": {
+      "row": "Cape_UmbralSandsCape",
+      "armourValue": 2
+    },
+    "Cape_Whispering": {
+      "row": "Cape_Whispering",
+      "armourValue": 2
+    },
+    "Cape_Woodcutting": {
+      "row": "Cape_Woodcutting",
+      "armourValue": 2
+    },
+    "Cape_Zamorak": {
+      "row": "Cape_Zamorak",
+      "armourValue": 2
+    },
+    "ITEM_Armour_Head_AnglersHat": {
+      "row": "ITEM_Armour_Head_AnglersHat",
+      "armourValue": 1
+    },
+    "ITEM_Armour_Head_ChickenHat": {
+      "row": "ITEM_Armour_Head_ChickenHat",
+      "armourValue": 1
+    },
+    "ITEM_Armour_Head_FarmersHat": {
+      "row": "ITEM_Armour_Head_FarmersHat",
+      "armourValue": 1
+    },
+    "Item_Trinket_AmuletofGlory": {
+      "row": "Item_Trinket_AmuletofGlory"
+    },
+    "Item_Trinket_SkillsNecklace": {
+      "row": "Item_Trinket_SkillsNecklace"
+    },
+    "ITEM_Trinket_Unholy_Symbol": {
+      "row": "ITEM_Trinket_Unholy_Symbol"
+    },
+    "Jewellery_Ring_Gourmand": {
+      "row": "Jewellery_Ring_Gourmand"
+    },
+    "Jewellery_Ring_Herd": {
+      "row": "Jewellery_Ring_Herd"
+    },
+    "Jewellery_Ring_Hermit": {
+      "row": "Jewellery_Ring_Hermit"
+    },
+    "Jewellery_Ring_Miner": {
+      "row": "Jewellery_Ring_Miner"
+    },
+    "Jewellery_Ring_Moon": {
+      "row": "Jewellery_Ring_Moon"
+    },
+    "Jewellery_Ring_Mule": {
+      "row": "Jewellery_Ring_Mule"
+    },
+    "Jewellery_Ring_Phoenix": {
+      "row": "Jewellery_Ring_Phoenix"
+    },
+    "Jewellery_Ring_Pursuit": {
+      "row": "Jewellery_Ring_Pursuit"
+    },
+    "Jewellery_Ring_RavanasRing": {
+      "row": "Jewellery_Ring_RavanasRing"
+    },
+    "Jewellery_Ring_Sun": {
+      "row": "Jewellery_Ring_Sun"
+    },
+    "Jewellery_Ring_Woodsman": {
+      "row": "Jewellery_Ring_Woodsman"
+    },
+    "Cape_LumberjackBackpack": {
+      "row": "Cape_LumberjackBackpack",
+      "armourValue": 2
+    },
+    "Cape_GuildedPaladin": {
+      "row": "Cape_GuildedPaladin",
+      "armourValue": 2
+    }
+  }
+}

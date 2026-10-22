@@ -1,0 +1,24 @@
+# Dragonwilds Toolkit
+
+Add transition animations throughout the application.
+
+**Test unused spells (enchant weapon - earth, shadow veil, etc)**
+
+## Settings
+Application settings page. Brainstorm candidates for global user settings for the applications.
+- Map > Default pins shown
+- Edit mode on/off by default
+- Show/hide unavailable/unused items/recipes/building/etc
+
+## Character
+Map > Get item locations for new area
+Journal > Recipes > show the items needed to make the selected item
+Examine all items/recipes/buildings/spells/etc for missing display names, description, icons, etc. Remove any items that are not available in game.
+Journal > Investigate "xx Unknown ids" at bottom of page
+Appearance > Figure out some way to get a live preview of the users avatar.
+Inventory > improve workflow for easily adding bulk resources to inventory.
+
+
+## World
+Large red warning at top of every page that says world save editing is still experimental, not fully implemented, untested, and may corrupt game files. For experimental use only.
+Containers tab should let you edit player chests similar to the RemoteStorage mod

@@ -1,0 +1,19 @@
+# Local / generated
+exports/
+tools/bin/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Large binary dumps
+*.ucas
+*.utoc
+*.pak
+
+node_modules/
+dist/
+src-tauri/target/
+public/catalog/
+
+saves/

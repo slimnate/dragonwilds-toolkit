@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "usmap": "RSDragonwilds-5.6.1-251392+++dominion+live-0196ef29.usmap",
+    "count": 15,
+    "iconsCopied": 15,
+    "iconsMissing": []
+  },
+  "skills": [
+    {
+      "persistenceId": "4pefO9k1lUqfA6mvHNi1SA",
+      "name": "Attack",
+      "rowName": "SKILL_Attack",
+      "sourceAsset": "SKILL_Attack.json",
+      "icon": "T_Icon_Tag_Skill_Attack.png"
+    },
+    {
+      "persistenceId": "heq7u88Q2UuLXFqLGTVwQw",
+      "name": "Ranged",
+      "rowName": "SKILL_Ranged",
+      "sourceAsset": "SKILL_Ranged.json",
+      "icon": "T_Icon_Tag_Skill_Ranged.png"
+    },
+    {
+      "persistenceId": "0hreSMRVXUihq9qjDO2CFA",
+      "name": "Magic",
+      "rowName": "SKILL_Magic",
+      "sourceAsset": "SKILL_Magic.json",
+      "icon": "T_Icon_Tag_Skill_Magic.png"
+    },
+    {
+      "persistenceId": "pJggvotwOkuoc98igUn7xA",
+      "name": "Agility",
+      "rowName": "SKILL_Agility",
+      "sourceAsset": "SKILL_Agility.json",
+      "icon": "T_Icon_Tag_Skill_Agility.png"
+    },
+    {
+      "persistenceId": "jqX0Gh6QI0GFFPCDFK_CJQ",
+      "name": "Mining",
+      "rowName": "SKILL_Mining",
+      "sourceAsset": "SKILL_Mining.json",
+      "icon": "T_Icon_Tag_Skill_Mining.png"
+    },
+    {
+      "persistenceId": "4zYUGF5u_0KbMLkWJmmBbQ",
+      "name": "Woodcutting",
+      "rowName": "SKILL_Woodcutting",
+      "sourceAsset": "SKILL_Woodcutting.json",
+      "icon": "T_Icon_Tag_Skill_Woodcutting.png"
+    },
+    {
+      "persistenceId": "Wf3i7Ha-B06DH719j1vtBw",
+      "name": "Artisan",
+      "rowName": "SKILL_Artisan",
+      "sourceAsset": "SKILL_Artisan.json",
+      "icon": "T_Icon_Tag_Skill_Artisan.png"
+    },
+    {
+      "persistenceId": "waK-8EyQFQ2xEjCGYmuTRQ",
+      "name": "Construction",
+      "rowName": "SKILL_Construction",
+      "sourceAsset": "SKILL_Construction.json",
+      "icon": "T_Icon_Tag_Skill_Construction.png"
+    },
+    {
+      "persistenceId": "Tn7t6DQyX0-Q0cM5K7B90A",
+      "name": "Cooking",
+      "rowName": "SKILL_Cooking",
+      "sourceAsset": "SKILL_Cooking.json",
+      "icon": "T_Icon_Tag_Skill_Cooking.png"
+    },
+    {
+      "persistenceId": "PyUi-0LU_riFY46AnnFiWg",
+      "name": "Farming",
+      "rowName": "SKILL_Farming",
+      "sourceAsset": "SKILL_Farming.json",
+      "icon": "T_Icon_Tag_Skill_Farming.png"
+    },
+    {
+      "persistenceId": "vwY5IkQJJDwb2PKEfoc8MQ",
+      "name": "Fishing",
+      "rowName": "SKILL_Fishing",
+      "sourceAsset": "SKILL_Fishing.json",
+      "icon": "T_Icon_Tag_Skill_Fishing.png"
+    },
+    {
+      "persistenceId": "NOqC-z-2ckqi0El22qMFlw",
+      "name": "Runecrafting",
+      "rowName": "SKILL_Runecrafting",
+      "sourceAsset": "SKILL_Runecrafting.json",
+      "icon": "T_Icon_Tag_Skill_Runecrafting.png"
+    },
+    {
+      "persistenceId": "JOeGVO8aVUaGeZK7DwsDMA",
+      "name": "Defence",
+      "rowName": "SKILL_Defence",
+      "deprecated": true,
+      "sourceAsset": "SKILL_Defence.json",
+      "icon": "T_Icon_Tag_Skill_Defence.png"
+    },
+    {
+      "persistenceId": "Z_h4bom-ME2cScgMMCAJRA",
+      "name": "Herblore",
+      "rowName": "SKILL_Herblore",
+      "deprecated": true,
+      "sourceAsset": "SKILL_Herblore.json",
+      "icon": "T_Icon_Tag_Skill_Herblore.png"
+    },
+    {
+      "persistenceId": "bEYEBHGxEEyt4E_CgLoAVQ",
+      "name": "Thieving",
+      "rowName": "SKILL_Thieving",
+      "deprecated": true,
+      "sourceAsset": "SKILL_Thieving.json",
+      "icon": "T_Icon_Tag_Skill_Thieving.png"
+    }
+  ]
+}

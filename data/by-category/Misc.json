@@ -1,0 +1,1262 @@
+[
+  {
+    "persistenceId": "L6pFM03IkBi2TgWk3V-0PQ",
+    "name": "Adamant Crossbow Limbs",
+    "rowName": "res_crossbowlimbs_adamant",
+    "category": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Crossbow_ARMS_Adamant_1H_01.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Resources_AdamantLimbs.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Components/ITEM_Resources_AdamantLimbs.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "AZfdA0yelBs6PZqj9sRp8Q",
+    "name": "Ash Pile",
+    "rowName": "item_pack_ashes_demonic_lesser",
+    "category": "Misc",
+    "icon": "T_Icon_Lesser_Ashes.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Pack_Ashes_Demonic_Lesser.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_Pack_Ashes_Demonic_Lesser.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "jnxM90O5-e7GHmKF9e0dhA",
+    "name": "Bird Nest",
+    "rowName": "item_birdnest",
+    "category": "Misc",
+    "icon": "T_Icon_Resource_Bird_Nest.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_BirdNest.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_BirdNest.uasset"
+  },
+  {
+    "persistenceId": "herfn0Otdu77KRWx1KdD_Q",
+    "name": "Black Crossbow Limbs",
+    "rowName": "res_crossbowlimbs_black",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Metal.TarnishedBlackMetal"
+    ],
+    "icon": "T_Icon_Black_Crossbow_Limbs.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_BlackLimbs.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Components/ITEM_Resources_BlackLimbs.uasset"
+  },
+  {
+    "persistenceId": "Sy-LHUCi7MgzAKel9DwJiw",
+    "name": "Black Metal Scraps",
+    "rowName": "res_blackmetal_scraps",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Metal.TarnishedBlackMetal"
+    ],
+    "icon": "T_Icon_Black_Metal_Scraps.png",
+    "weight": 0.8,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_BlackMetal_Scraps.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Metal/ITEM_Resources_BlackMetal_Scraps.uasset"
+  },
+  {
+    "persistenceId": "BofyKESeYThx2VqAw416Mw",
+    "name": "Black Salvage Pile",
+    "rowName": "res_salvage_blackmetal",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Metal.TarnishedBlackMetal"
+    ],
+    "icon": "T_Icon_Salvage_Black_Metal.png",
+    "weight": 0.8,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Salvage_BlackMetal.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Metal/ITEM_Resources_Salvage_BlackMetal.uasset"
+  },
+  {
+    "persistenceId": "fb2RhkyQZbMp8siy7s1smA",
+    "name": "Blue Dragon Leather",
+    "rowName": "res_leather_dragon_blue_lesser",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Leather"
+    ],
+    "icon": "T_Icon_Blue_Dragon_Hide_Leather.png",
+    "weight": 0.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Leather_Dragon_Blue_Lesser.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Animal/ITEM_Resources_Leather_Dragon_Blue_Lesser.uasset"
+  },
+  {
+    "persistenceId": "sM8FckDf5OipPo-BPZWpbw",
+    "name": "Blue Dragonhide",
+    "rowName": "res_skin_dragon_blue_lesser",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource"
+    ],
+    "icon": "T_Icon_Blue_Dragon_Hide.png",
+    "weight": 1.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Skin_Dragon_Blue_Lesser.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Animal/ITEM_Resources_Skin_Dragon_Blue_Lesser.uasset"
+  },
+  {
+    "persistenceId": "QT6fSk6ZdpTAdxOHQmBDDA",
+    "name": "Bronze Salvage Pile",
+    "rowName": "res_salvage_bronze",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Metal.TarnishedBlackMetal"
+    ],
+    "icon": "T_Icon_Salvage_Bronze.png",
+    "weight": 0.8,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Salvage_Bronze.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Metal/ITEM_Resources_Salvage_Bronze.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "OQisqk4_V81aRxSm8IjMMg",
+    "name": "Clay Slab",
+    "rowName": "item_clay_slab_deleted",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Ore.Clay"
+    ],
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Clay_Slab.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Resources_Clay_Slab.uasset"
+  },
+  {
+    "persistenceId": "EK3fckHjkrHbATuNLd9Jhg",
+    "name": "Clay Slab (Unfired)",
+    "rowName": "item_clay_slab_unfired_deleted",
+    "category": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Clay_Slab_Unfired.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Resources_Clay_Slab_Unfired.uasset"
+  },
+  {
+    "persistenceId": "MFf5wEQrgk_E0d6hEWWVZw",
+    "name": "Copper Salvage Pile",
+    "rowName": "res_salvage_copper",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Metal.TarnishedBlackMetal"
+    ],
+    "icon": "T_Icon_Salvage_Copper.png",
+    "weight": 0.8,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Salvage_Copper.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Metal/ITEM_Resources_Salvage_Copper.uasset"
+  },
+  {
+    "persistenceId": "OILH0UHn-UXYOyCO-WZpeA",
+    "name": "Corrupted Bonemeal",
+    "rowName": "res_bones_corrupted_bonemeal",
+    "category": "Misc",
+    "tags": [
+      "ItemFilter.Material.Bone"
+    ],
+    "icon": "T_Icon_Bonemeal.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Bones_CorruptedBonemeal.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Animal/ITEM_Resources_Bones_CorruptedBonemeal.uasset"
+  },
+  {
+    "persistenceId": "uwJ2h0D8mYBU6yuUUpM1VA",
+    "name": "Corrupted Bones",
+    "rowName": "res_bones_corrupted_bones",
+    "category": "Misc",
+    "tags": [
+      "ItemFilter.Material.Bone"
+    ],
+    "icon": "T_Resources_Abyssal_Spine.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Bones_CorruptedBones.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Animal/ITEM_Resources_Bones_CorruptedBones.uasset"
+  },
+  {
+    "persistenceId": "-Snbh0BHw6XkZgSMX_PiEQ",
+    "name": "Cursed Leather",
+    "rowName": "res_leather_cursed",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Leather"
+    ],
+    "icon": "T_Icon_Cursed_Leather.png",
+    "weight": 0.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Leather_Cursed.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Animal/ITEM_Resources_Leather_Cursed.uasset"
+  },
+  {
+    "persistenceId": "MQy_2E_pqnq7HbWzzSZKSA",
+    "name": "Demonic Oil",
+    "rowName": "res_demonic_oil",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource"
+    ],
+    "icon": "T_Icon_Demonic_Oil.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_DemonicOil.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Animal/ITEM_Resources_DemonicOil.uasset"
+  },
+  {
+    "persistenceId": "I6vnJEJsqmY_vkCyq2O8ZQ",
+    "name": "Doric's Smithing Supplies",
+    "rowName": "item_pack_collectorscallingstage1",
+    "category": "Misc",
+    "icon": "T_Icon_Resources_Garou_Pack.png",
+    "weight": 1,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_FH_CollectorsCallingStage1_RewardPack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_FH_CollectorsCallingStage1_RewardPack.uasset"
+  },
+  {
+    "persistenceId": "J7PEt0SHxNA7Ymi68Dqmww",
+    "name": "Doric's Superior Smithing Supplies",
+    "rowName": "item_pack_collectorscallingstage2",
+    "category": "Misc",
+    "icon": "T_Icon_Resources_Garou_Pack.png",
+    "weight": 1,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_FH_CollectorsCallingStage2_RewardPack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_FH_CollectorsCallingStage2_RewardPack.uasset"
+  },
+  {
+    "persistenceId": "YKrGVEhV12fODCGWxhK9qg",
+    "name": "Draconic Leather Scraps",
+    "rowName": "res_leather_scraps_draconic",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Leather"
+    ],
+    "icon": "T_Icon_Draconic_Leather_Scraps.png",
+    "weight": 0.15,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Leather_Scraps_Draconic.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Animal/ITEM_Resources_Leather_Scraps_Draconic.uasset"
+  },
+  {
+    "persistenceId": "LafYXkXd1hOEabWeo2sdKw",
+    "name": "Dragon Crossbow Limbs",
+    "rowName": "res_crossbowlimbs_dragon",
+    "category": "Misc",
+    "tags": [
+      "ItemFilter.Material"
+    ],
+    "icon": "T_Icon_SM_Crossbow_Dragon_Arms_1H_01.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_DragonLimbs.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Deleted/ITEM_Resources_DragonLimbs.uasset"
+  },
+  {
+    "persistenceId": "6LQtMkNzIZBdrgyeiP0fqg",
+    "name": "Dragon Slayer Reward Pack",
+    "rowName": "item_pack_dragonslayerrewardbeat2",
+    "category": "Misc",
+    "icon": "T_Icon_Resources_Garou_Pack.png",
+    "weight": 1,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_DragonSlayerRewardPackBeat2.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_DragonSlayerRewardPackBeat2.uasset"
+  },
+  {
+    "persistenceId": "zGz3MkD3vLq_D1uuA2S44g",
+    "name": "Dragon Slayer Reward Pack",
+    "rowName": "item_pack_dragonslayerrewardbeat5",
+    "category": "Misc",
+    "icon": "T_Icon_Resources_Garou_Pack.png",
+    "weight": 1,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_DragonSlayerRewardPackBeat5.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_DragonSlayerRewardPackBeat5.uasset"
+  },
+  {
+    "persistenceId": "0NmV_UHzkAdk2cyGPwiWGA",
+    "name": "Emerald",
+    "rowName": "res_gem_emerald",
+    "category": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Gemstone_Emerald_01.png",
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Emerald.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Resources_Emerald.uasset"
+  },
+  {
+    "persistenceId": "XII5rkqVhw9I3sWWZNKteA",
+    "name": "Garou Pack",
+    "rowName": "item_pack_garou",
+    "category": "Misc",
+    "icon": "T_Icon_Resources_Garou_Pack.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_GarouPack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_GarouPack.uasset"
+  },
+  {
+    "persistenceId": "zm9DtUc8ieNZpWe7ioL_KA",
+    "name": "Goblin Pack",
+    "rowName": "item_pack_goblin",
+    "category": "Misc",
+    "icon": "T_Icon_Resources_Goblin_Pack.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_GoblinPack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_GoblinPack.uasset"
+  },
+  {
+    "persistenceId": "N3j6PU0B10HRf2eg7RKk-g",
+    "name": "Gold Salvage Pile",
+    "rowName": "res_salvage_gold",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Metal.TarnishedBlackMetal"
+    ],
+    "icon": "T_Icon_Salvage_Gold.png",
+    "weight": 0.8,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Salvage_Gold.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Metal/ITEM_Resources_Salvage_Gold.uasset"
+  },
+  {
+    "persistenceId": "c_9pmE2aOHVeZc67chNeNQ",
+    "name": "Ground Limestone",
+    "rowName": "res_ground_limestone",
+    "category": "Misc",
+    "tags": [
+      "Item.BuildingResource"
+    ],
+    "icon": "T_Icon_Ground_Limestone.png",
+    "weight": 1.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Ground_Limestone.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Mineral/ITEM_Resources_Ground_Limestone.uasset"
+  },
+  {
+    "persistenceId": "80wGME-slvLF2weULpj8eQ",
+    "name": "Hard Leather",
+    "rowName": "res_leather_hard_leather",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Leather"
+    ],
+    "icon": "T_Icon_Hard_Leather.png",
+    "weight": 0.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Leather_HardLeather.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Animal/ITEM_Resources_Leather_HardLeather.uasset"
+  },
+  {
+    "persistenceId": "Tj74XUA3OnBMIT6cuvbIiQ",
+    "name": "Iron Salvage Pile",
+    "rowName": "res_salvage_iron",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Metal.TarnishedBlackMetal"
+    ],
+    "icon": "T_Icon_Salvage_Iron.png",
+    "weight": 1.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Resources_Salvage_Iron.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Metal/ITEM_Resources_Salvage_Iron.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "y8YYukfXgKcSGnCdF05m5Q",
+    "name": "Journal Image Brinkofextinction Kothaar",
+    "rowName": "QuestItem_BrinkOfExtinction_KotHaar_Book",
+    "category": "Misc",
+    "tags": [
+      "Item.QuestItem"
+    ],
+    "icon": "T_Icon_Kothaar_Numbering_For_Dummies.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_JOURNAL_Image_BrinkOfExtinction_KotHaar.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Journaltems/ITEM_JOURNAL_Image_BrinkOfExtinction_KotHaar.uasset"
+  },
+  {
+    "persistenceId": "25eaUUDQnFrxuwS67hQ6qA",
+    "name": "Journal Treasuremap Scarecrow 1",
+    "rowName": "Activity_Item_TreasureMap_Scarecrow_1",
+    "category": "Misc",
+    "tags": [
+      "Item.QuestItem"
+    ],
+    "icon": "T_Icon_Treasure_Map.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_JOURNAL_TreasureMap_Scarecrow_1.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Journaltems/ITEM_JOURNAL_TreasureMap_Scarecrow_1.uasset"
+  },
+  {
+    "persistenceId": "dPJ2IksSl_iRERaZ4wDLVA",
+    "name": "Journal Treasuremap Scarecrow 2",
+    "rowName": "Activity_Item_TreasureMap_Scarecrow_2",
+    "category": "Misc",
+    "tags": [
+      "Item.QuestItem"
+    ],
+    "icon": "T_Icon_Treasure_Map.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_JOURNAL_TreasureMap_Scarecrow_2.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Journaltems/ITEM_JOURNAL_TreasureMap_Scarecrow_2.uasset"
+  },
+  {
+    "persistenceId": "hiM__kPLQdZKpoS37hSAQg",
+    "name": "Journal Treasuremap Scarecrow 3",
+    "rowName": "Activity_Item_TreasureMap_Scarecrow_3",
+    "category": "Misc",
+    "tags": [
+      "Item.QuestItem"
+    ],
+    "icon": "T_Icon_Treasure_Map.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_JOURNAL_TreasureMap_Scarecrow_3.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Journaltems/ITEM_JOURNAL_TreasureMap_Scarecrow_3.uasset"
+  },
+  {
+    "persistenceId": "GC6S207zgsmHryqJEdEQaQ",
+    "name": "Large Wardstone",
+    "rowName": "vitality_wardstone_large",
+    "category": "Misc",
+    "icon": "Wardstone_Big.png",
+    "weight": 5,
+    "maxStackSize": 25,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Wardstone_Large.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Consumable_Wardstone_Large.uasset"
+  },
+  {
+    "persistenceId": "n2JS0Ed_QjgNacSAxgPMkw",
+    "name": "Large Wardstone (Inactive)",
+    "rowName": "item_wardstone_refund_large",
+    "category": "Misc",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Wardstone_Large_RefundPack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_Wardstone_Large_RefundPack.uasset"
+  },
+  {
+    "persistenceId": "Bl-NTEpc9Mdkr_-BfBT_jA",
+    "name": "Limestone",
+    "rowName": "res_limestone",
+    "category": "Misc",
+    "tags": [
+      "ItemFilter.Material.Mineral"
+    ],
+    "icon": "T_Icon_Limestone.png",
+    "weight": 1.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Limestone.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Mineral/ITEM_Resources_Limestone.uasset"
+  },
+  {
+    "persistenceId": "gzOyDURSCsyX8-6Q2MSm3A",
+    "name": "Magical Focus",
+    "rowName": "item_magicfocus",
+    "category": "Misc",
+    "tags": [
+      "Item.Whetstone"
+    ],
+    "icon": "T_Icon_Magic_Focus.png",
+    "weight": 5,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_MagicFocus.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_MagicFocus.uasset",
+    "combatSkills": [
+      "SKILL_Magic"
+    ]
+  },
+  {
+    "persistenceId": "u-HYwkRw-MdC8hSQnS84Vw",
+    "name": "Medium Wardstone",
+    "rowName": "vitality_wardstone_medium",
+    "category": "Misc",
+    "icon": "Wardstone_Medium.png",
+    "weight": 5,
+    "maxStackSize": 25,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Wardstone_Medium.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Consumable_Wardstone_Medium.uasset"
+  },
+  {
+    "persistenceId": "CyY-5U0tKXRkHq6FYghI6g",
+    "name": "Medium Wardstone (Inactive)",
+    "rowName": "item_wardstone_refund_medium",
+    "category": "Misc",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Wardstone_Medium_RefundPack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_Wardstone_Medium_RefundPack.uasset"
+  },
+  {
+    "persistenceId": "h32JKEgvPpgESZ6Ls8ct_w",
+    "name": "Mithril Crossbow Limbs",
+    "rowName": "res_crossbowlimbs_mithril",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource"
+    ],
+    "icon": "T_Icon_Mithril_Crossbow_Arms.png",
+    "weight": 4.5,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_Resources_MithrilLimbs.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Components/ITEM_Resources_MithrilLimbs.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "tdu7-kbMc5g0n9-D2ywbSA",
+    "name": "Mithril Salvage Pile",
+    "rowName": "res_salvage_mithril",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Metal.TarnishedBlackMetal"
+    ],
+    "icon": "T_Icon_Salvage_Mithril.png",
+    "weight": 1.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_Resources_Salvage_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Metal/ITEM_Resources_Salvage_Mithril.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "tDzyYkIXSZN8A1m_VsrzWA",
+    "name": "Mystic Cloth",
+    "rowName": "res_cloth_mystic",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource"
+    ],
+    "icon": "T_Icon_Mystic_Cloth.png",
+    "weight": 0.6,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Cloth_Mystic.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Textiles/ITEM_Resources_Cloth_Mystic.uasset"
+  },
+  {
+    "persistenceId": "gckjak_2fGlTn7yr7ofe1Q",
+    "name": "Pack Brynmoor Bronze",
+    "rowName": "item_pack_brynmoor_bronze",
+    "category": "Misc",
+    "icon": "T_Icon_BronzeAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_Brynmoor_Bronze.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_Brynmoor_Bronze.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "bdV4aE-TtcL0_hKsE4J3KA",
+    "name": "Pack Brynmoor Gold",
+    "rowName": "item_pack_brynmoor_gold",
+    "category": "Misc",
+    "icon": "T_Icon_GoldenAgilityCompletionReward.png",
+    "weight": 0.0,
+    "maxStackSize": 20,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_Brynmoor_Gold.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_Brynmoor_Gold.uasset"
+  },
+  {
+    "persistenceId": "6aW6zkqGQV6O-N-xKlDJvA",
+    "name": "Pack Brynmoor Silver",
+    "rowName": "item_pack_brynmoor_silver",
+    "category": "Misc",
+    "icon": "T_Icon_SilverAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_Brynmoor_Silver.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_Brynmoor_Silver.uasset"
+  },
+  {
+    "persistenceId": "scJknEhZNRQKc3unHI2sYw",
+    "name": "Pack Dowdun Reach Bronze",
+    "rowName": "item_pack_dowdun_reach_bronze",
+    "category": "Misc",
+    "icon": "T_Icon_BronzeAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_DowdunReach_Bronze.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_DowdunReach_Bronze.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "KiK0M0sde5xzeJG6w1YP4w",
+    "name": "Pack Dowdun Reach Gold",
+    "rowName": "item_pack_dowdun_reach_gold",
+    "category": "Misc",
+    "icon": "T_Icon_GoldenAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_DowdunReach_Gold.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_DowdunReach_Gold.uasset"
+  },
+  {
+    "persistenceId": "iADeWE_-Kzkk9t2kZk0lRQ",
+    "name": "Pack Dowdun Reach Silver",
+    "rowName": "item_pack_dowdun_reach_silver",
+    "category": "Misc",
+    "icon": "T_Icon_SilverAgilityCompletionReward.png",
+    "weight": 0.0,
+    "maxStackSize": 25,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_DowdunReach_Silver.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_DowdunReach_Silver.uasset"
+  },
+  {
+    "persistenceId": "AEmSM0lTgxA8umyNlfx3EQ",
+    "name": "Pack Fellhollow Bronze",
+    "rowName": "item_pack_fellhollow_bronze",
+    "category": "Misc",
+    "icon": "T_Icon_BronzeAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_Fellhollow_Bronze.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_Fellhollow_Bronze.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "jRH7pU0sT22VwiWgRTk5YA",
+    "name": "Pack Fellhollow Gold",
+    "rowName": "item_pack_fellhollow_gold",
+    "category": "Misc",
+    "icon": "T_Icon_GoldenAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_Fellhollow_Gold.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_Fellhollow_Gold.uasset"
+  },
+  {
+    "persistenceId": "UxksR0L6Kjj4Sna4zpCLAA",
+    "name": "Pack Fellhollow Silver",
+    "rowName": "item_pack_fellhollow_silver",
+    "category": "Misc",
+    "icon": "T_Icon_SilverAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_Fellhollow_Silver.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_Fellhollow_Silver.uasset"
+  },
+  {
+    "persistenceId": "TeA5BUrJOZABJ0mfxbwKcA",
+    "name": "Pack Ghornfell Bronze",
+    "rowName": "item_pack_ghornfell_bronze",
+    "category": "Misc",
+    "icon": "T_Icon_BronzeAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_Ghornfell_Bronze.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_Ghornfell_Bronze.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "yPyQLU0N7NxbkmyH4ZJoKw",
+    "name": "Pack Ghornfell Course1 Bronze",
+    "rowName": "item_pack_ghornfell_course1_bronze",
+    "category": "Misc",
+    "icon": "T_Icon_BronzeAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_Ghornfell_Course1_Bronze.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_Ghornfell_Course1_Bronze.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "qorRfkB0RMdMnkCuyrRv7Q",
+    "name": "Pack Ghornfell Course1 Gold",
+    "rowName": "item_pack_ghornfell_course1_gold",
+    "category": "Misc",
+    "icon": "T_Icon_GoldenAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_Ghornfell_Course1_Gold.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_Ghornfell_Course1_Gold.uasset"
+  },
+  {
+    "persistenceId": "GGK52U43Q6shdjm0FC0zJw",
+    "name": "Pack Ghornfell Course1 Silver",
+    "rowName": "item_pack_ghornfell_course1_silver",
+    "category": "Misc",
+    "icon": "T_Icon_SilverAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_Ghornfell_Course1_Silver.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_Ghornfell_Course1_Silver.uasset"
+  },
+  {
+    "persistenceId": "pszRYEf7qauXLG-OFWjkYg",
+    "name": "Pack Ghornfell Gold",
+    "rowName": "item_pack_ghornfell_gold",
+    "category": "Misc",
+    "icon": "T_Icon_GoldenAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_Ghornfell_Gold.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_Ghornfell_Gold.uasset"
+  },
+  {
+    "persistenceId": "pNLgNED5fkTnlnyAVxThkw",
+    "name": "Pack Ghornfell Silver",
+    "rowName": "item_pack_ghornfell_silver",
+    "category": "Misc",
+    "icon": "T_Icon_SilverAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_Ghornfell_Silver.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_Ghornfell_Silver.uasset"
+  },
+  {
+    "persistenceId": "4xsh5kLLU6o8FtyEqh7yQQ",
+    "name": "Pack Raidpack Bloodblightswamp",
+    "rowName": "item_pack_raidpack_bloodblightswamp",
+    "category": "Misc",
+    "icon": "T_Icon_Human_Napsack_01.png",
+    "weight": 0.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_RaidPack_BloodblightSwamp.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Consumables/ITEM_Consumable_RaidPack_BloodblightSwamp.uasset"
+  },
+  {
+    "persistenceId": "mNJl4Exl19DaK7CViiKtdQ",
+    "name": "Pack Raidpack Bramblemead",
+    "rowName": "item_pack_raidpack_bramblemead",
+    "category": "Misc",
+    "icon": "T_Icon_Human_Napsack_01.png",
+    "weight": 0.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_RaidPack_Bramblemead.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Consumables/ITEM_Consumable_RaidPack_Bramblemead.uasset"
+  },
+  {
+    "persistenceId": "F8HcnE5YSmVQIGa9GTinXg",
+    "name": "Pack Raidpack Dowdunreach",
+    "rowName": "item_pack_raidpack_dowdunreach",
+    "category": "Misc",
+    "icon": "T_Icon_Human_Napsack_01.png",
+    "weight": 0.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_RaidPack_DowdunReach.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Consumables/ITEM_Consumable_RaidPack_DowdunReach.uasset"
+  },
+  {
+    "persistenceId": "p-SYdU2eYkG36uyEQTTFCQ",
+    "name": "Pack Raidpack Fellhollow",
+    "rowName": "item_pack_raidpack_fellhollow",
+    "category": "Misc",
+    "icon": "T_Icon_Human_Napsack_01.png",
+    "weight": 0.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_RaidPack_Fellhollow.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Consumables/ITEM_Consumable_RaidPack_Fellhollow.uasset"
+  },
+  {
+    "persistenceId": "-mww_kfSg-ek4QKRrwmNZQ",
+    "name": "Pack Raidpack Ghornfell",
+    "rowName": "item_pack_raidpack_ghornfell",
+    "category": "Misc",
+    "icon": "T_Icon_Human_Napsack_01.png",
+    "weight": 0.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_RaidPack_Ghornfell.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Consumables/ITEM_Consumable_RaidPack_Ghornfell.uasset"
+  },
+  {
+    "persistenceId": "7fvKmEWVroBeDwWY61X9KQ",
+    "name": "Pack Raidpack Stormtouchedhighlands",
+    "rowName": "item_pack_raidpack_stormtouchedhighlands",
+    "category": "Misc",
+    "icon": "T_Icon_Human_Napsack_01.png",
+    "sourceAsset": "ITEM_Consumable_RaidPack_StormtouchedHighlands.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Consumables/ITEM_Consumable_RaidPack_StormtouchedHighlands.uasset"
+  },
+  {
+    "persistenceId": "S4UXbUcR8cJj12KsLz49og",
+    "name": "Pack Raidpack Umbralsands",
+    "rowName": "item_pack_raidpack_umbralsands",
+    "category": "Misc",
+    "icon": "T_Icon_Human_Napsack_01.png",
+    "weight": 0.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_RaidPack_UmbralSands.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Consumables/ITEM_Consumable_RaidPack_UmbralSands.uasset"
+  },
+  {
+    "persistenceId": "eBbNtkOP-XJvtcSF24kCQQ",
+    "name": "Pack Scarecrowscavenging",
+    "rowName": "item_pack_scarecrowscavenging",
+    "category": "Misc",
+    "icon": "T_Icon_Human_Napsack_01.png",
+    "weight": 1.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Consumable_ScarecrowScavenging.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_ScarecrowScavenging.uasset"
+  },
+  {
+    "persistenceId": "AeAxpELhD4HULACEveX33w",
+    "name": "Pack Umbral Sands Bronze",
+    "rowName": "item_pack_umbral_sands_bronze",
+    "category": "Misc",
+    "icon": "T_Icon_BronzeAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_UmbralSands_Bronze.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_UmbralSands_Bronze.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "m9otvkEed_SW446WWJ2qAg",
+    "name": "Pack Umbral Sands Gold",
+    "rowName": "item_pack_umbral_sands_gold",
+    "category": "Misc",
+    "icon": "T_Icon_GoldenAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_UmbralSands_Gold.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_UmbralSands_Gold.uasset"
+  },
+  {
+    "persistenceId": "7qTJG0iGkQC4MMqhpDK1vQ",
+    "name": "Pack Umbral Sands Silver",
+    "rowName": "item_pack_umbral_sands_silver",
+    "category": "Misc",
+    "icon": "T_Icon_SilverAgilityCompletionReward.png",
+    "weight": 1.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_AgilityPack_UmbralSands_Silver.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Items/Packs/ITEM_Consumable_AgilityPack_UmbralSands_Silver.uasset"
+  },
+  {
+    "persistenceId": "laNSqkNnDER7ezCtp2lG8g",
+    "name": "Plan Bundle: Armadyl Flags",
+    "rowName": "item_pack_plans_flags_armadyl_01",
+    "category": "Misc",
+    "icon": "T_Icon_Pack_Armadyl_01.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_PlanPack_Flags_Armadyl_01.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_PlanPack_Flags_Armadyl_01.uasset"
+  },
+  {
+    "persistenceId": "_r4tv0Or4Z_aYuCIdhISCw",
+    "name": "Plan Bundle: Bandos Flags",
+    "rowName": "item_pack_plans_flags_bandos_01",
+    "category": "Misc",
+    "icon": "T_Icon_Pack_Bandos_01.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_PlanPack_Flags_Bandos_01.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_PlanPack_Flags_Bandos_01.uasset"
+  },
+  {
+    "persistenceId": "HyQ-yU9LWdZBuDK9NWpzxA",
+    "name": "Plan Bundle: Guthix Flags",
+    "rowName": "item_pack_plans_flags_guthix_01",
+    "category": "Misc",
+    "icon": "T_Icon_Pack_Guthix_01.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_PlanPack_Flags_Guthix_01.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_PlanPack_Flags_Guthix_01.uasset"
+  },
+  {
+    "persistenceId": "T1-6GEAixEvLgCyqhPJmIA",
+    "name": "Plan Bundle: Saradomin Flags",
+    "rowName": "item_pack_plans_flags_saradomin_01",
+    "category": "Misc",
+    "icon": "T_Icon_Pack_Saradomin_01.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_PlanPack_Flags_Saradomin_01.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_PlanPack_Flags_Saradomin_01.uasset"
+  },
+  {
+    "persistenceId": "eZGIUkNmYIYoiHeA00tLiQ",
+    "name": "Plan Bundle: Zamorak Flags",
+    "rowName": "item_pack_plans_flags_zamorak_01",
+    "category": "Misc",
+    "icon": "T_Icon_Pack_Zamorak_01.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_PlanPack_Flags_Zamorak_01.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_PlanPack_Flags_Zamorak_01.uasset"
+  },
+  {
+    "persistenceId": "Qu2GYkIkg9iUqTCc2maTyg",
+    "name": "Queenslayer's Reward Pack",
+    "rowName": "item_pack_kuldra",
+    "category": "Misc",
+    "icon": "T_Icon_Dragon_chest.png",
+    "weight": 0.0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_KuldraPack.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Consumables/ITEM_Consumable_KuldraPack.uasset"
+  },
+  {
+    "persistenceId": "H4lLvETZq4UkwJWyYGnZcw",
+    "name": "Refundable Item",
+    "rowName": "item_wardstone_refund_small",
+    "category": "Misc",
+    "weight": 5.0,
+    "maxStackSize": 25,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Wardstone_Small_RefundPack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_Wardstone_Small_RefundPack.uasset"
+  },
+  {
+    "persistenceId": "NfsDG0_3S4YQdcCD8_PjKA",
+    "name": "Regicide Reward Pack",
+    "rowName": "item_pack_kuldra_unique",
+    "category": "Misc",
+    "icon": "T_Icon_Dragon_chest.png",
+    "weight": 0.0,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_KuldraPack_Unique.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Items/Consumables/ITEM_Consumable_KuldraPack_Unique.uasset"
+  },
+  {
+    "persistenceId": "nHQY00bMhzQL3Iare7lYgg",
+    "name": "Resources Emerald Deleted",
+    "rowName": "res_gem_emerald_deleted",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Ore"
+    ],
+    "weight": 3,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Emerald_Deleted.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Resources_Emerald_Deleted.uasset"
+  },
+  {
+    "persistenceId": "R9IjjUjvqfnoc3ml3yyurg",
+    "name": "Restless Ghosts Reward Pack",
+    "rowName": "item_pack_restlessghosts",
+    "category": "Misc",
+    "icon": "T_Icon_Resources_Garou_Pack.png",
+    "weight": 1,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_RestlessGhostsPack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_RestlessGhostsPack.uasset"
+  },
+  {
+    "persistenceId": "63n2EE_I8ZHdhimzuwvIVw",
+    "name": "Silver Salvage Pile",
+    "rowName": "res_salvage_silver",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Metal.TarnishedBlackMetal"
+    ],
+    "icon": "T_Icon_Salvage_Silver.png",
+    "weight": 0.8,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Salvage_Silver.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Metal/ITEM_Resources_Salvage_Silver.uasset"
+  },
+  {
+    "persistenceId": "FpVrUUuv6LynSPqjP9SwUw",
+    "name": "Skeleton Pack",
+    "rowName": "item_pack_skeleton",
+    "category": "Misc",
+    "icon": "T_Icon_Skeleton_lootbag.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_SkeletonPack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_SkeletonPack.uasset"
+  },
+  {
+    "persistenceId": "YczziUGCmgiUTD2RtEWmpQ",
+    "name": "Small Ash Pile",
+    "rowName": "item_pack_ashes_demonic_small",
+    "category": "Misc",
+    "icon": "T_Icon_Small_Ashes.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Consumable_Pack_Ashes_Demonic_Small.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_Pack_Ashes_Demonic_Small.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "xAyLrEN_5B3KGXOjhpGzrg",
+    "name": "Small Wardstone",
+    "rowName": "vitality_wardstone_small",
+    "category": "Misc",
+    "icon": "Wardstone_Small.png",
+    "weight": 5,
+    "maxStackSize": 25,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Wardstone_Small.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Consumable_Wardstone_Small.uasset"
+  },
+  {
+    "persistenceId": "dc0Cf0G0LytXhf6V-KtM2g",
+    "name": "Soda Ash",
+    "rowName": "res_soda_ash",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource"
+    ],
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Resources_Soda_Ash.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Resources_Soda_Ash.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "RcJw8Ede_CIqdmSZCv-D2A",
+    "name": "Spare Farmers Supplies",
+    "rowName": "item_pack_finishedfarmingftuereward",
+    "category": "Misc",
+    "icon": "T_Icon_Resources_Garou_Pack.png",
+    "weight": 1,
+    "maxStackSize": 10,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_FinishedFarmingTutorialPack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_FinishedFarmingTutorialPack.uasset"
+  },
+  {
+    "persistenceId": "iPIO-EarGDwHMbu3ED65iw",
+    "name": "Steel Salvage Pile",
+    "rowName": "res_salvage_steel",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Metal.TarnishedBlackMetal"
+    ],
+    "icon": "T_Icon_Salvage_Steel.png",
+    "weight": 0.8,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "sourceAsset": "ITEM_Resources_Salvage_Steel.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Metal/ITEM_Resources_Salvage_Steel.uasset",
+    "powerLevelInferred": true
+  },
+  {
+    "persistenceId": "ds7-v0heeg1F8sW65bvAzQ",
+    "name": "Tin Salvage Pile",
+    "rowName": "res_salvage_tin",
+    "category": "Misc",
+    "tags": [
+      "Item.Resource.Metal.TarnishedBlackMetal"
+    ],
+    "icon": "T_Icon_Salvage_Tin.png",
+    "weight": 0.8,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Salvage_Tin.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Items/Metal/ITEM_Resources_Salvage_Tin.uasset"
+  },
+  {
+    "persistenceId": "z-xbJy9IS0iWNNx9WciARQ",
+    "name": "Vine Root",
+    "rowName": "res_vine_root",
+    "category": "Misc",
+    "tags": [
+      "Item.Farming.Compostable"
+    ],
+    "icon": "T_Icon_Resources_Vine.png",
+    "weight": 0.2,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Resources_Vine_Root.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Deleted/ITEM_Resources_Vine_Root.uasset"
+  },
+  {
+    "persistenceId": "0h15KUoKwZakrXihaEqoqg",
+    "name": "Weapon Poison",
+    "rowName": "item_weaponpoison",
+    "category": "Misc",
+    "tags": [
+      "Item.Whetstone"
+    ],
+    "icon": "T_Icon_Weapon_Poison.png",
+    "weight": 1,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_WeaponPoison.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_WeaponPoison.uasset",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "3wV1xUv5zBDHRiaAk2qv7w",
+    "name": "Whetstone",
+    "rowName": "item_whetstone",
+    "category": "Misc",
+    "tags": [
+      "Item.Whetstone"
+    ],
+    "icon": "T_Icon_Whetstone.png",
+    "weight": 5,
+    "maxStackSize": 50,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Whetstone.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_Whetstone.uasset",
+    "combatSkills": [
+      "SKILL_Attack"
+    ]
+  },
+  {
+    "persistenceId": "jiVl80bzK87SNYiQaaybXQ",
+    "name": "Zamorakian Mage Pack",
+    "rowName": "item_pack_zamorak_pack_mage",
+    "category": "Misc",
+    "icon": "T_Icon_Zamorak_Mage_Pack.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Pack_Zamorak_Mage.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_Pack_Zamorak_Mage.uasset"
+  },
+  {
+    "persistenceId": "0ZKBCU6_6BuBFhCE66pz0A",
+    "name": "Zamorakian Warrior Pack",
+    "rowName": "item_pack_zamorak_pack_warrior",
+    "category": "Misc",
+    "icon": "T_Icon_Zamorak_Warrior_Pack.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_Pack_Zamorak_Warrior.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_Pack_Zamorak_Warrior.uasset"
+  },
+  {
+    "persistenceId": "Xu0iS035hkxA9PKMNalJdQ",
+    "name": "Zogre Pack",
+    "rowName": "item_pack_zogre",
+    "category": "Misc",
+    "icon": "T_Icon_Zombie_lootbag.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_ZogrePack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_ZogrePack.uasset"
+  },
+  {
+    "persistenceId": "YCNMyE4JSnEKtNmJJL1sMw",
+    "name": "Zombie Pack",
+    "rowName": "item_pack_zombie",
+    "category": "Misc",
+    "icon": "T_Icon_Zombie_lootbag.png",
+    "weight": 1,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Consumable_ZombiePack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Consumables/Misc/ITEM_Consumable_ZombiePack.uasset"
+  }
+]

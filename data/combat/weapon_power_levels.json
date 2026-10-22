@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "source": "C:/Users/Natha/Documents/dev/rsdw-mods/exports/legacy_combat/RSDragonwilds/Content/Gameplay/Character/Player/Equipment/DT_PlayerWeaponPowerLevels.json",
+    "usmap": "RSDragonwilds-5.6.1-251392+++dominion+live-0196ef29.usmap",
+    "note": "Index 0 = PowerLevel 1 … index 8 = PowerLevel 9"
+  },
+  "curves": {
+    "Weapons": [
+      1.0,
+      1.9,
+      2.8,
+      4.1,
+      5.4,
+      6.8,
+      8.3,
+      9.8,
+      11.3
+    ],
+    "Bows": [
+      0.5,
+      0.95,
+      1.4,
+      2.05,
+      2.7,
+      3.4,
+      4.15,
+      4.9,
+      5.65
+    ]
+  }
+}

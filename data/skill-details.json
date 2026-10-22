@@ -1,0 +1,1260 @@
+{
+  "skills": [
+    {
+      "name": "Attack",
+      "description": "Defeat enemies with melee weapons to level this skill.",
+      "buff": {
+        "name": "Reduced Melee Stamina Drain",
+        "summary": "Reduces the cost of stamina using melee weapons by 0.5% per level to 49% total stamina reduction at level 99.",
+        "perLevel": 0.5,
+        "stacksFrom": 2,
+        "reduce": true
+      },
+      "unlocks": [
+        {
+          "level": 5,
+          "name": "Parry",
+          "kind": "passive",
+          "description": "Parry attacks by blocking at the last moment to stagger your enemies and deal increased damage!"
+        },
+        {
+          "level": 8,
+          "name": "Melee Weapon Special Actions",
+          "kind": "passive",
+          "description": "Unlocks unique special actions for melee weapons!"
+        },
+        {
+          "level": 11,
+          "name": "Tempest Shield",
+          "kind": "spell",
+          "description": "Conjure a shield of air magic that prevents all damage for a limited time while blocking, triggering a powerful burst when spell ends. Attack levels increase duration."
+        },
+        {
+          "level": 13,
+          "name": "Sprint Attacks",
+          "kind": "passive",
+          "description": "Unlocks the ability to perform a Unique Sprint Attack action after sprinting for a short distance."
+        },
+        {
+          "level": 16,
+          "name": "Weapon Expertise",
+          "kind": "passive",
+          "description": "Unlocks additional attacks for all melee weapons."
+        },
+        {
+          "level": 20,
+          "name": "Enchant Weapon: Fire",
+          "kind": "spell",
+          "description": "Enchant your current melee weapon with the power of fire! Apply Burning to enemies with critical hits!"
+        },
+        {
+          "level": 23,
+          "name": "Adaptability",
+          "kind": "passive",
+          "description": "Evading or blocking no longer interrupts your combos when using a melee weapon!"
+        },
+        {
+          "level": 27,
+          "name": "Weapon Rack",
+          "kind": "recipe",
+          "description": "Unlocks the ability to build a weapon rack to display your weapons."
+        },
+        {
+          "level": 30,
+          "name": "Enchant Weapon: Air",
+          "kind": "spell",
+          "description": "Enchant your current melee weapon with the power of air! Increases your melee weapon's attack speed."
+        },
+        {
+          "level": 34,
+          "name": "Lesser Attack Potion",
+          "kind": "recipe",
+          "description": "Unlock the recipe for the lesser Attack potion at the brewing cauldron."
+        },
+        {
+          "level": 37,
+          "name": "Training Dummy",
+          "kind": "recipe",
+          "description": "Unlocks the ability to build a training dummy to test your melee weapons on."
+        },
+        {
+          "level": 40,
+          "name": "Whetstone",
+          "kind": "recipe",
+          "description": "Allows crafting of whetstones at the crafting table, which can be used to sharpen melee weapons for increased damage!"
+        },
+        {
+          "level": 50,
+          "name": "Enchant Weapon: Water",
+          "kind": "spell",
+          "description": "Enchant your current Melee weapon with the power of Water! Strike enemies with Water damage and occasionally create healing orbs to restore health."
+        },
+        {
+          "level": 65,
+          "name": "Tempest Shield Upgrade",
+          "kind": "passive",
+          "description": "Your shield now lasts longer."
+        },
+        {
+          "level": 99,
+          "name": "Attack Skillcape",
+          "kind": "recipe",
+          "description": "Unlocks the ability to wear and craft the Attack skillcape and its trimmed variant."
+        }
+      ]
+    },
+    {
+      "name": "Ranged",
+      "description": "Defeat enemies with ranged weapons to level this skill.",
+      "buff": {
+        "name": "Ammo Recovery Chance",
+        "summary": "Increases the chance to recover ammo (bolt/arrow) per level.",
+        "reduce": false
+      },
+      "unlocks": [
+        {
+          "level": 3,
+          "name": "Quick Action",
+          "kind": "passive",
+          "description": "Perform Quick Actions with ranged weapons using the Primary Action button."
+        },
+        {
+          "level": 5,
+          "name": "Archery Target",
+          "kind": "recipe",
+          "description": "Build an archery target to practice your Ranged accuracy against. Shoot the bullseye for a surprise!"
+        },
+        {
+          "level": 8,
+          "name": "Trick Shot",
+          "kind": "passive",
+          "description": "After firing a fully drawn arrow, release follow-up shots at exactly the right time for 15% increased damage!"
+        },
+        {
+          "level": 12,
+          "name": "Snare",
+          "kind": "spell",
+          "description": "Conjure earth magic at your feet and lay a trap for your enemies! Those caught inside become rooted in place for a short time."
+        },
+        {
+          "level": 15,
+          "name": "Toxic Behaviour",
+          "kind": "recipe",
+          "description": "Unlocks the recipe for weapon poison, which can be used to imbue melee weapons with Poison or to craft Poisonous arrows."
+        },
+        {
+          "level": 18,
+          "name": "Hunter's Sense",
+          "kind": "passive",
+          "description": "Crouch for a short time to activate your Hunter's Sense, allowing you to sense nearby creatures and enemies."
+        },
+        {
+          "level": 22,
+          "name": "Make 'Em Bleed",
+          "kind": "recipe",
+          "description": "Unlocks the recipe for weapon barbs, which can be used to imbue melee weapons with Bleed or to craft Barbed arrows."
+        },
+        {
+          "level": 25,
+          "name": "Spectral Arrows",
+          "kind": "spell",
+          "description": "Enchant your equipped bow with astral magic, causing arrows to penetrate multiple targets."
+        },
+        {
+          "level": 30,
+          "name": "Crossbow Trick Shot",
+          "kind": "passive",
+          "description": "Trick Shot now applies to crossbow weapons. Fire at the right time to instantly finish reloading and ready your next shot!"
+        },
+        {
+          "level": 35,
+          "name": "Enchanted Crossbow Bolts",
+          "kind": "recipe",
+          "description": "Unlocks the ability to craft Enchanted Crossbow Bolts. Enchanted bolts have a chance of triggering unique magical effects when fired!"
+        },
+        {
+          "level": 40,
+          "name": "Venomous Trapper",
+          "kind": "passive/spell",
+          "description": "The Snare Trap now triggers a cloud of poison when activated, causing enemies stuck inside it to become poisoned over time."
+        },
+        {
+          "level": 45,
+          "name": "Fire Starter",
+          "kind": "recipe",
+          "description": "Unlocks the fire oil and fire arrows recipes, giving you new ways to burn your enemies to ash!"
+        },
+        {
+          "level": 60,
+          "name": "Lucky Bolts",
+          "kind": "passive",
+          "description": "Increases the chance for enchanted crossbow bolts to trigger their magical effects."
+        },
+        {
+          "level": 99,
+          "name": "Ranged Skillcape",
+          "kind": "recipe",
+          "description": "Unlocks the ability to wear and create the Ranged skillcape and its trimmed variant at the crafting table."
+        }
+      ]
+    },
+    {
+      "name": "Magic",
+      "description": "Defeat enemies with magic to level this skill.",
+      "buff": {
+        "name": "Reduced Magic Stamina",
+        "summary": "Reduces the cost of magical stamina drain by 0.5% per level.",
+        "perLevel": 0.5,
+        "stacksFrom": 1,
+        "reduce": true
+      },
+      "unlocks": [
+        {
+          "level": 1,
+          "name": "Air Magic",
+          "kind": "passive",
+          "description": "Summon the unrelenting force of air! Equip air runes to unleash the power of wind against an enemy, dealing high single target damage and knocking your enemies down!"
+        },
+        {
+          "level": 5,
+          "name": "Secondary Attacks",
+          "kind": "passive",
+          "description": "Charge up and release powerful secondary staff spells."
+        },
+        {
+          "level": 7,
+          "name": "Water Magic",
+          "kind": "passive",
+          "description": "Conjure the supportive power of water! Equip water runes to damage and slow your enemies while also healing yourself and your allies. Kills with water magic have a chance to spawn water orbs."
+        },
+        {
+          "level": 11,
+          "name": "Surge",
+          "kind": "spell",
+          "description": "Channel arcane power into your dodges, travelling further and evading longer as a result."
+        },
+        {
+          "level": 16,
+          "name": "Arcane Expertise",
+          "kind": "passive",
+          "description": "Unlocks an additional powerful magical attack at the end of staff magic combos."
+        },
+        {
+          "level": 20,
+          "name": "Runic Refund",
+          "kind": "passive",
+          "description": "Your greater understanding of magic gives you a 30% chance to preserve runes when attacking with magic."
+        },
+        {
+          "level": 21,
+          "name": "Fire Magic",
+          "kind": "passive",
+          "description": "Wield the destructive forces of fire. Equip fire runes to deal medium damage to enemies in a large area and build up Burning on them to reduce them to ash"
+        },
+        {
+          "level": 25,
+          "name": "Afterimage",
+          "kind": "passive",
+          "description": "Distract your enemies by leaving behind an illusionary image for a short time when you use your first Surge charge."
+        },
+        {
+          "level": 30,
+          "name": "Confuse",
+          "kind": "spell",
+          "description": "Twist the minds of lesser enemies, making them unable to distinguish between friend and foe for a limited time."
+        },
+        {
+          "level": 34,
+          "name": "Magic Potion",
+          "kind": "recipe",
+          "description": "Unlock the recipe for the magic potion at the brewing cauldron."
+        },
+        {
+          "level": 39,
+          "name": "Magic Focus",
+          "kind": "recipe",
+          "description": "Allows crafting of magic focus at the crafting table, which can be used to imbue magic staves to increase their damage!"
+        },
+        {
+          "level": 44,
+          "name": "Greater Confuse",
+          "kind": "passive",
+          "description": "The Confuse spell now works on a wider variety of creatures."
+        },
+        {
+          "level": 61,
+          "name": "Enfeeble",
+          "kind": "spell",
+          "description": "Weakens the attacks of the targeted opponent."
+        },
+        {
+          "level": 80,
+          "name": "Vengeance",
+          "kind": "spell",
+          "description": "A spell that reflects incoming damage back at the enemies."
+        },
+        {
+          "level": 99,
+          "name": "Magic Skillcape",
+          "kind": "unlock",
+          "description": "Unlocks the ability to wear and craft the Magic skillcape and its trimmed variant."
+        }
+      ]
+    },
+    {
+      "name": "Agility",
+      "description": "Run courses and traverse the world.",
+      "buff": {
+        "name": "Sprinting Stamina Reduction",
+        "summary": "Reduces stamina drain of sprinting by 0.085% per level until 8.415% at level 99.",
+        "perLevel": 0.085,
+        "stacksFrom": 1,
+        "reduce": true
+      },
+      "unlocks": [
+        {
+          "level": 1,
+          "name": "Brynmoor Courses",
+          "kind": "unlock",
+          "description": "Unlocks Brynmoor courses."
+        },
+        {
+          "level": 5,
+          "name": "Windstep",
+          "kind": "spell",
+          "description": "Reclassified from Runecrafting to Agility. At higher levels, landing creates an air blast that knocks down nearby enemies."
+        },
+        {
+          "level": 10,
+          "name": "Double Jump",
+          "kind": "ability",
+          "description": "Perform a second jump mid-air. Can be chained directly into an Air Dash."
+        },
+        {
+          "level": 15,
+          "name": "Ghornfell Courses",
+          "kind": "unlock",
+          "description": "Unlocks Ghornfell courses."
+        },
+        {
+          "level": 22,
+          "name": "Hopper",
+          "kind": "passive",
+          "description": "Reduces stamina cost of jumping."
+        },
+        {
+          "level": 27,
+          "name": "Common Burrower",
+          "kind": "shortcut",
+          "description": "Allows the use of Brynmoor and Ghornfell burrow networks."
+        },
+        {
+          "level": 30,
+          "name": "Fellhollow Courses",
+          "kind": "unlock",
+          "description": "Unlocks Fellhollow courses."
+        },
+        {
+          "level": 32,
+          "name": "Air Dash",
+          "kind": "ability",
+          "description": "Execute a short, horizontal aerial dash to cross gaps and evade attacks in combat."
+        },
+        {
+          "level": 35,
+          "name": "Breakfall",
+          "kind": "passive",
+          "description": "Automatically roll out of high falls to reduce landing damage."
+        },
+        {
+          "level": 40,
+          "name": "Wind Stomp",
+          "kind": "ability",
+          "description": "Stagger nearby enemies when landing from Windstep."
+        },
+        {
+          "level": 42,
+          "name": "Wild Burrower",
+          "kind": "shortcut",
+          "description": "Allows the use of Fellhollow burrow network. Additionally, the chance of taking damage and the received amount are reduced."
+        },
+        {
+          "level": 44,
+          "name": "Phase Dash",
+          "kind": "spell",
+          "description": "Allows the use of a second dash while airborne."
+        },
+        {
+          "level": 48,
+          "name": "Nomad",
+          "kind": "passive",
+          "description": "Increases the amount of passive experience gained while exploring from 50 to 200."
+        },
+        {
+          "level": 50,
+          "name": "Backpacker",
+          "kind": "passive",
+          "description": "Maximum carry weight increases by 75."
+        },
+        {
+          "level": 51,
+          "name": "Dowdun Reach Courses",
+          "kind": "unlock",
+          "description": "Unlocks Dowdun Reach courses."
+        },
+        {
+          "level": 53,
+          "name": "Stamina Potion",
+          "kind": "recipe",
+          "description": "Unlocks the recipe to craft stamina potions that can stop stamina drain while running."
+        },
+        {
+          "level": 54,
+          "name": "Greater Breakfall",
+          "kind": "passive",
+          "description": "Further reduces fall damage."
+        },
+        {
+          "level": 55,
+          "name": "Dark Burrower",
+          "kind": "shortcut",
+          "description": "Allows the use of the Dowdun Reach burrow network."
+        },
+        {
+          "level": 57,
+          "name": "Recall",
+          "kind": "spell",
+          "description": "Leaves a runic marker on the ground; recasting teleports you back to it. Taking a fatal fall while tethered teleports you back safely and consumes the tether."
+        },
+        {
+          "level": 65,
+          "name": "Umbral Sands Courses",
+          "kind": "unlock",
+          "description": "Unlocks Umbral Sands courses."
+        },
+        {
+          "level": 67,
+          "name": "Desert Burrower",
+          "kind": "shortcut",
+          "description": "Allows the use of the Umbral Sands burrow network."
+        },
+        {
+          "level": 70,
+          "name": "Reactive Recall",
+          "kind": "spell",
+          "description": "Recall now automatically triggers upon receiving fatal fall damage, protecting the caster."
+        },
+        {
+          "level": 75,
+          "name": "Explorer",
+          "kind": "passive",
+          "description": "Maximum carry weight increases by an additional 75."
+        },
+        {
+          "level": 80,
+          "name": "Razor-backed Burrower",
+          "kind": "shortcut",
+          "description": "Further reduces the chance of taking damage and the amount received while travelling through the kebbit burrow network."
+        },
+        {
+          "level": 85,
+          "name": "Trailblazer",
+          "kind": "passive",
+          "description": "Increases the amount of passive experience gained from exploration from 200 to 400."
+        },
+        {
+          "level": 99,
+          "name": "Agility Skillcape",
+          "kind": "recipe",
+          "description": "Unlocks the ability to craft and wear the Agility skillcape and its trimmed variant."
+        }
+      ]
+    },
+    {
+      "name": "Mining",
+      "description": "Mine ore, clay or stone, or gather stones from the floor to level this skill.",
+      "buff": {
+        "name": "Increased Mining Critical Chance",
+        "summary": "Increase mining Critical Hit Chance by 0.5% per level",
+        "perLevel": 0.5,
+        "stacksFrom": 1,
+        "reduce": false
+      },
+      "unlocks": [
+        {
+          "level": 5,
+          "name": "Lift With Your Hips",
+          "kind": "passive",
+          "description": "The weight of stone, clay and sand raw material is reduced by 25%"
+        },
+        {
+          "level": 11,
+          "name": "Rocksplosion",
+          "kind": "spell",
+          "description": "Conjure a powerful blast to break apart stone boulders and ore."
+        },
+        {
+          "level": 16,
+          "name": "Gem Prospector",
+          "kind": "passive",
+          "description": "Mining ore now sometimes produces previous gemstones."
+        },
+        {
+          "level": 20,
+          "name": "Mine Crumbled Walls",
+          "kind": "passive",
+          "description": "Allows you to knock down crumbled walls with a pickaxe, granting access to hidden or blocked areas."
+        },
+        {
+          "level": 24,
+          "name": "Summon Stone Spirits",
+          "kind": "spell",
+          "description": "Call on stone spirits to guide you to the nearest rocks you can mine!"
+        },
+        {
+          "level": 36,
+          "name": "Not-So-Heavy Metal",
+          "kind": "passive",
+          "description": "The weight of metal ores is reduced by 25%."
+        },
+        {
+          "level": 62,
+          "name": "Ore & Stone Storage",
+          "kind": "recipe",
+          "description": "Unlocks ore & stone storage building piece."
+        },
+        {
+          "level": 69,
+          "name": "Ultimate Burst",
+          "kind": "passive",
+          "description": "Increased Rocksplosion area of effect."
+        },
+        {
+          "level": 71,
+          "name": "Ingot Weight Reduction",
+          "kind": "passive",
+          "description": "Reduces the weight of ingots by 50%"
+        },
+        {
+          "level": 80,
+          "name": "Divine Rock",
+          "kind": "spell",
+          "description": "Turn 5 ores on the ground into a personal mining vein."
+        },
+        {
+          "level": 90,
+          "name": "Accelerated Veins",
+          "kind": "passive",
+          "description": "Chance for Divine Rock to drop gemstones."
+        },
+        {
+          "level": 99,
+          "name": "Mining Cape",
+          "kind": "recipe",
+          "description": "Unlocks the ability to craft and wear the Mining skillcape."
+        }
+      ]
+    },
+    {
+      "name": "Woodcutting",
+      "description": "Chop down trees, tear up saplings or collect logs from the floor to level this skill.",
+      "unlocks": [
+        {
+          "level": 4,
+          "name": "Overhead Chop",
+          "kind": "ability",
+          "description": "You can now perform an overhead chop, which deals greater damage against fallen logs, but very little against trees."
+        },
+        {
+          "level": 11,
+          "name": "Axtral Projection",
+          "kind": "spell",
+          "description": "Conjoures an astral axe and launches it forward, instantly chopping down trees in its path."
+        },
+        {
+          "level": 16,
+          "name": "Bird Nest",
+          "kind": "passive",
+          "description": "It is now possible to find bird nests while felling trees. Bird nests can contain useful items."
+        },
+        {
+          "level": 20,
+          "name": "Chop Thorny Vines",
+          "kind": "passive",
+          "description": "Allows you to cut down thorny vines with a hatchet, granting access to hidden or blocked areas."
+        },
+        {
+          "level": 27,
+          "name": "Splinter",
+          "kind": "spell",
+          "description": "A powerful spell that chops fallen trees into wood logs."
+        },
+        {
+          "level": 40,
+          "name": "Lumber Storage",
+          "kind": "recipe",
+          "description": "You can now build the lumber storage, a very high capacity storage for logs and planks."
+        },
+        {
+          "level": 52,
+          "name": "Trunk Totem",
+          "kind": "spell",
+          "description": "Transmute scattered trees into a single totem."
+        },
+        {
+          "level": 67,
+          "name": "Wood Weight Reduction",
+          "kind": "passive",
+          "description": "Reduces the carry weight of wood by 50%"
+        },
+        {
+          "level": 78,
+          "name": "Lumber Backpack",
+          "kind": "recipe",
+          "description": "Increases Woodcutting XP, increases rare drop chances and reduces wood weight when worn."
+        },
+        {
+          "level": 88,
+          "name": "Axtral Projection Upgrade",
+          "kind": "passive",
+          "description": "Upgrades to 3 spectral axes for bigger area of affect."
+        },
+        {
+          "level": 99,
+          "name": "Woodcutting Cape",
+          "kind": "passive",
+          "description": "Unlocks the ability to craft and wear the Woodcutting skillcape and its trimmed variant."
+        }
+      ]
+    },
+    {
+      "name": "Artisan",
+      "description": "Craft new weapons, armour or tools to level this skill.",
+      "buff": {
+        "name": "Durability Loss on Equipment",
+        "summary": "Reduces the durability loss on equipment by -0.5% per level, up to -49% at level 99.",
+        "perLevel": 0.5,
+        "stacksFrom": 1,
+        "reduce": true
+      },
+      "unlocks": [
+        {
+          "level": 11,
+          "name": "Bark To Bones",
+          "kind": "rowspan=\"2\" |spell",
+          "description": "Use Alchemy to transmute a tree into a stack of bones for all your grisly needs."
+        },
+        {
+          "level": 28,
+          "name": "",
+          "kind": "item",
+          "description": "Unlocks the Storage Ledger building piece."
+        },
+        {
+          "level": 40,
+          "name": "Decorated Adventurer",
+          "kind": "recipe",
+          "description": "Unlocks the armour mannequin and cape rack, allowing you to display all of your armour sets and capes with pride!"
+        },
+        {
+          "level": 48,
+          "name": "",
+          "kind": "rowspan=\"2\" |spell",
+          "description": "Cast on mechanical-based processing stations to empower them and boost their processing speed for a while."
+        },
+        {
+          "level": 66,
+          "name": "",
+          "kind": "rowspan=\"3\" |passive",
+          "description": "rowspan=\"2\" |Speed Boost now lasts even longer."
+        },
+        {
+          "level": 99,
+          "name": "Artisan Skillcape",
+          "kind": "recipe",
+          "description": "A true showcase of skill mastery. Unlocks the ability to craft and wear the Artisan skillcape."
+        }
+      ]
+    },
+    {
+      "name": "Construction",
+      "description": "Build new structures to level this skill.",
+      "unlocks": [
+        {
+          "level": 3,
+          "name": "Middle Ground",
+          "kind": "recipe",
+          "description": "Unlocks medium-sized building pieces."
+        },
+        {
+          "level": 5,
+          "name": "Fine Details",
+          "kind": "recipe",
+          "description": "Unlocks small building pieces."
+        },
+        {
+          "level": 8,
+          "name": "Sacred Geometry",
+          "kind": "recipe",
+          "description": "Unlocks triangular building pieces."
+        },
+        {
+          "level": 11,
+          "name": "Eye of Oculus",
+          "kind": "spell",
+          "description": "Become the mystical Eye of Oculus and build structures easier and with a whole new perspective!"
+        },
+        {
+          "level": 16,
+          "name": "Creature Comforts",
+          "kind": "recipe",
+          "description": "Unlocks an assortment of furniture and decorations."
+        },
+        {
+          "level": 18,
+          "name": "Mighty Oak",
+          "kind": "recipe",
+          "description": "Unlocks the next tier of building pieces."
+        },
+        {
+          "level": 20,
+          "name": "Summon Shelter",
+          "kind": "spell",
+          "description": "Construct a temporary shelter through the power of astral magic. It even has a bed!"
+        },
+        {
+          "level": 22,
+          "name": "Countryside",
+          "kind": "recipe",
+          "description": "Unlocks Thatched Roofs."
+        },
+        {
+          "level": 30,
+          "name": "Bastion",
+          "kind": "recipe",
+          "description": "Unlocks additional stone building pieces."
+        },
+        {
+          "level": 35,
+          "name": "Baroque Stone",
+          "kind": "recipe",
+          "description": "Unlocks additional stone building pieces"
+        },
+        {
+          "level": 40,
+          "name": "Personal Chest",
+          "kind": "spell",
+          "description": "Access your personal storage chest from anywhere."
+        },
+        {
+          "level": 45,
+          "name": "Desert Dweller",
+          "kind": "recipe",
+          "description": "Unlocks additional Kharidian building pieces."
+        },
+        {
+          "level": 99,
+          "name": "Construction cape",
+          "kind": "recipe",
+          "description": "Unlock the ability to craft and wear the Construction cape"
+        }
+      ]
+    },
+    {
+      "name": "Cooking",
+      "description": "Cook meals to level this skill.",
+      "buff": {
+        "name": "Culinary Confidence",
+        "summary": "Reduces the chance to burn ingredients",
+        "reduce": true
+      },
+      "unlocks": [
+        {
+          "level": 1,
+          "name": "Culinary Confidence: Power Level 1",
+          "kind": "passive",
+          "description": "Reduces the chance to burn power level 1 ingredients by -50%"
+        },
+        {
+          "level": 11,
+          "name": "Fancy Cookware",
+          "kind": "recipe",
+          "description": "Unlocks furniture piece pan rack in the building menu."
+        },
+        {
+          "level": 12,
+          "name": "Culinary Confidence: Power Level 2",
+          "kind": "passive",
+          "description": "Reduces the chance to burn power level 2 ingredients by -50%"
+        },
+        {
+          "level": 14,
+          "name": "Teamonger",
+          "kind": "recipe",
+          "description": "Unlocks a collection of perk-granting recipes at the stone range and Range."
+        },
+        {
+          "level": 16,
+          "name": "Amateur Culinaromancer",
+          "kind": "recipe",
+          "description": "Unlocks a collection of perk-granting recipes at the stone range and Range."
+        },
+        {
+          "level": 20,
+          "name": "Internal Alchemy",
+          "kind": "spell",
+          "description": "Refreshes any active food and drink buffs with a spectacular display of culinary appreciation."
+        },
+        {
+          "level": 26,
+          "name": "Grill Master",
+          "kind": "recipe",
+          "description": "Unlocks the grill"
+        },
+        {
+          "level": 27,
+          "name": "Culinary Confidence: Power Level 3",
+          "kind": "passive",
+          "description": "Reduces the chance to burn power level 3 ingredients by -50%"
+        },
+        {
+          "level": 28,
+          "name": "Bones to Peaches",
+          "kind": "spell",
+          "description": "Transmute unwanted bones on the ground into fresh peaches for your consumption. Inhumane? Yes... but delicious!"
+        },
+        {
+          "level": 36,
+          "name": "Adept Culinaromancer",
+          "kind": "recipe",
+          "description": "Unlocks a collection of perk-granting recipes at the stone range and Range."
+        },
+        {
+          "level": 40,
+          "name": "Yes, Chef!",
+          "kind": "recipe",
+          "description": "Unlocks recipe for chef's hat, which can be crafted at the Crafting Station"
+        },
+        {
+          "level": 41,
+          "name": "Culinary Confidence: Power Level 4",
+          "kind": "passive",
+          "description": "Reduced the chance to burn power level 4 ingredients by -50%"
+        },
+        {
+          "level": 50,
+          "name": "Culinary Confidence: Power Level 5",
+          "kind": "passive",
+          "description": "Reduced the chance to burn power level 5 ingredients by -50%"
+        },
+        {
+          "level": 75,
+          "name": "Culinary Confidence: Power Level 6",
+          "kind": "passive",
+          "description": "Reduced the chance to burn power level 6 ingredients by -50%"
+        },
+        {
+          "level": 99,
+          "name": "Cooking Skillcape",
+          "kind": "recipe",
+          "description": "Unlocks the ability to craft and wear the Cooking skillcape. Also prevents any power level ingredient from being burnt."
+        }
+      ]
+    },
+    {
+      "name": "Farming",
+      "description": "Grow crops to level this skill.",
+      "buff": {
+        "name": "Seed Recovery Chance",
+        "summary": "Increases the chance to recover seeds from all plants by 0.3% per level, up to 29.4% at level 99.",
+        "perLevel": 0.3,
+        "stacksFrom": 2,
+        "reduce": false
+      },
+      "unlocks": [
+        {
+          "level": 3,
+          "name": "Plant Cure",
+          "kind": "recipe",
+          "description": "Unlocks the ability to create plant cures at the cooking range! Use plant cures to heal your plants from disease."
+        },
+        {
+          "level": 6,
+          "name": "Rain Catcher",
+          "kind": "recipe",
+          "description": "Collects and filters rain water into usable clean water over time."
+        },
+        {
+          "level": 10,
+          "name": "Compost Bin",
+          "kind": "recipe",
+          "description": "Unlocks the compost bin and compost bucket recipes. These allow for creating and using Normal compost to boost the yield and disease resistance of your plants."
+        },
+        {
+          "level": 15,
+          "name": "Uproot",
+          "kind": "spell",
+          "description": "Channelling the power of the earth, summon a spectral surge that gently coaxes ripe plants from the soil. Within a small radius, all fully grown crops and wild plants are instantly harvested and drawn towards you."
+        },
+        {
+          "level": 20,
+          "name": "Tree Farming",
+          "kind": "passive",
+          "description": "You are skilled enough at farming to now grow trees! Trees can be planted directly into the ground and seeds can be found while chopping down trees and from birds nests."
+        },
+        {
+          "level": 24,
+          "name": "Water Barrel",
+          "kind": "recipe",
+          "description": "Unlocks the water barrel, which stores Clean or dirty water collected from watering cans for later use."
+        },
+        {
+          "level": 28,
+          "name": "Humidify",
+          "kind": "spell",
+          "description": "Conjure water magic to create a rain cloud that travels forward, instantly watering any farming plot that it passes over with clean water."
+        },
+        {
+          "level": 32,
+          "name": "Well",
+          "kind": "recipe",
+          "description": "Unlocks the ability to build a well! A well provides a limited amount of clean water per day. Wells refill in the morning."
+        },
+        {
+          "level": 36,
+          "name": "Harvester",
+          "kind": "passive",
+          "description": "With greater mastery over the land, the caster's reach extends even further. Harvester expands Uproot's range to a wider radius."
+        },
+        {
+          "level": 39,
+          "name": "Speedy Farmer",
+          "kind": "passive",
+          "description": "You've become more adept at watering and composting your plants. You can now do so with less penalty to your movement speed!"
+        },
+        {
+          "level": 42,
+          "name": "Iron Secateurs",
+          "kind": "recipe",
+          "description": "A pair of gardening Secateurs that boost your harvesting yield while equipped."
+        },
+        {
+          "level": 46,
+          "name": "Large Water Barrel",
+          "kind": "recipe",
+          "description": "Unlocks the large water barrel, which stores even more Clean or dirty water collected from watering cans for later use."
+        },
+        {
+          "level": 50,
+          "name": "Cleansing Rain",
+          "kind": "passive",
+          "description": "Upgrades the Humidify spell, causing the conjured rain cloud to cure any diseased plants it passes over while watering them."
+        },
+        {
+          "level": 55,
+          "name": "Scarecrow",
+          "kind": "recipe",
+          "description": "Unlocks the scarecrow for protecting your farm from feathered annoyances."
+        },
+        {
+          "level": 60,
+          "name": "Super Compost Bin",
+          "kind": "recipe",
+          "description": "Unlocks the super compost bin which produces super compost, for an even better yield boost and disease resistance of your plants."
+        },
+        {
+          "level": 74,
+          "name": "Rapid Growth",
+          "kind": "spell",
+          "description": "Advances plant growth by one stage. Cannot be reapplied until the plant grows further."
+        },
+        {
+          "level": 80,
+          "name": "Mucksplosion",
+          "kind": "spell",
+          "description": "Not for the squeamish gardener! This spell harnesses Earth magic to summon a bubbling compost volcano, showering your beloved plots with rich, nourishing fertilizer."
+        },
+        {
+          "level": 90,
+          "name": "Overgrowth Aura",
+          "kind": "passive",
+          "description": "Increases the range of the Rapid Growth spell."
+        },
+        {
+          "level": 99,
+          "name": "Farming Skillcape",
+          "kind": "recipe",
+          "description": "A true showcase of skill mastery. Unlocks the ability to craft and wear the Farming skillcape."
+        }
+      ]
+    },
+    {
+      "name": "Fishing",
+      "description": "Catch fish to level this skill.",
+      "buff": {
+        "name": "Increased Fish Stamina Drain Rate",
+        "summary": "Increases the stamina drain rate of the fish by 1%.",
+        "reduce": false
+      },
+      "unlocks": [
+        {
+          "level": 3,
+          "name": "Fishing Rod",
+          "kind": "passive",
+          "description": "Unlocks the ability to craft fishing rods."
+        },
+        {
+          "level": 10,
+          "name": "Fishing Frenzy",
+          "kind": "spell",
+          "description": "Enchant a fishing node. Each successful catch provide an additional fish of the same type while the effect lasts."
+        },
+        {
+          "level": 17,
+          "name": "Pristine Fish",
+          "kind": "passive",
+          "description": "Unlocks the ability to catch rare pristine fish, which yields more food when cooked, or can be used as a decoration."
+        },
+        {
+          "level": 23,
+          "name": "Fish Weight Reduction",
+          "kind": "passive",
+          "description": "Reduces the carry weight of all fish by 25%."
+        },
+        {
+          "level": 30,
+          "name": "Infernal Rod",
+          "kind": "spell",
+          "description": "Enchant your currently equipped rod with fire for 2 minutes. All fish caught with that rod during the effect are instantly cooked."
+        },
+        {
+          "level": 34,
+          "name": "Fish Barrel Storage",
+          "kind": "passive",
+          "description": "Unlocks the fishing barrel structure. A very high capacity storage for fishes."
+        },
+        {
+          "level": 39,
+          "name": "Tackle box",
+          "kind": "passive",
+          "description": "Unlocks the recipe to build a storage box for your baits."
+        },
+        {
+          "level": 43,
+          "name": "Troubled Waters",
+          "kind": "passive",
+          "description": "Fishing Frenzy now reduces fish's maximum stamina by 15% while spell is active."
+        },
+        {
+          "level": 49,
+          "name": "Increase Net Fishing Catch Chance",
+          "kind": "passive",
+          "description": "Increase the net fishing catch chance to 75%."
+        },
+        {
+          "level": 55,
+          "name": "Fishnado",
+          "kind": "spell",
+          "description": "Conjure a tornado that pulls out up to 5 fish from a fishing node."
+        },
+        {
+          "level": 60,
+          "name": "Greater Fishnado",
+          "kind": "passive",
+          "description": "Reduces the cooldown for the Fishnado spell."
+        },
+        {
+          "level": 70,
+          "name": "Experienced Angler",
+          "kind": "passive",
+          "description": "Unlock the recipe for a fishing hat. While worn, you have a 10% chance per catch to not deplete a fish in the fishing spot."
+        },
+        {
+          "level": 99,
+          "name": "Fishing Skillcape",
+          "kind": "passive",
+          "description": "Unlocks the ability to craft and wear the Fishing skillcape and its trimmed variant."
+        }
+      ]
+    },
+    {
+      "name": "Runecrafting",
+      "description": "Gather Rune Essence and craft Runes to level this skill.",
+      "buff": {
+        "name": "Attunement Phase Duration",
+        "summary": "Increases the attunement phase duration of Runecrafting by 0.6% every level, up to a maximum of 58.8% at level 99.",
+        "reduce": false
+      },
+      "unlocks": [
+        {
+          "level": 1,
+          "name": "Air Rune",
+          "kind": "recipe",
+          "description": "Unlocks recipe for Air Runes, which can be crafted at the rune altar."
+        },
+        {
+          "level": 3,
+          "name": "Astral Rune",
+          "kind": "recipe",
+          "description": "Unlocks recipe for Astral Runes, which can be crafted at the rune altar."
+        },
+        {
+          "level": 11,
+          "name": "Water Rune",
+          "kind": "recipe",
+          "description": "Unlocks recipe for Water Runes, which can be crafted at the rune altar."
+        },
+        {
+          "level": 15,
+          "name": "Earth Rune",
+          "kind": "recipe",
+          "description": "Unlocks recipe for Earth Runes, which can be crafted at the rune altar."
+        },
+        {
+          "level": 17,
+          "name": "Lesser Infusion Duration",
+          "kind": "passive",
+          "description": "Reduces the infusion phase duration of Runecrafting."
+        },
+        {
+          "level": 19,
+          "name": "Summon Elemental Spirits",
+          "kind": "spell",
+          "description": "Call on wisps to guide you to nearby anima vents that you can siphon!"
+        },
+        {
+          "level": 22,
+          "name": "Air Efficiency",
+          "kind": "passive",
+          "description": "Get a better yield when auto-crafting air runes."
+        },
+        {
+          "level": 25,
+          "name": "Fire Rune",
+          "kind": "recipe",
+          "description": "Unlocks recipe for Fire Runes, which can be crafted at the rune altar."
+        },
+        {
+          "level": 27,
+          "name": "Home Teleport",
+          "kind": "spell",
+          "description": "Teleport safely back to your bed and enjoy a peaceful, undisturbed night's sleep."
+        },
+        {
+          "level": 30,
+          "name": "Astral Efficiency",
+          "kind": "passive",
+          "description": "Get a better yield when auto-crafting astral runes."
+        },
+        {
+          "level": 34,
+          "name": "Pure Essence",
+          "kind": "passive",
+          "description": "Unlocks a chance of the Pure Essence Stone eruption while siphoning. It's hard to catch... But the reward is a burst of runes..."
+        },
+        {
+          "level": 38,
+          "name": "Nature Rune",
+          "kind": "recipe",
+          "description": "Unlocks recipe for Nature Runes, which can be crafted at the rune altar."
+        },
+        {
+          "level": 42,
+          "name": "Fire Spirit",
+          "kind": "spell",
+          "description": "Conjure forth a fire spirit to light your way."
+        },
+        {
+          "level": 46,
+          "name": "Lesser Anima Siphoning",
+          "kind": "passive",
+          "description": "Each anima vent siphon consumes 1 rune essence to produce 12 runes."
+        },
+        {
+          "level": 48,
+          "name": "Better Infusion Duration",
+          "kind": "passive",
+          "description": "Reduces the infusion phase duration of runecrafting."
+        },
+        {
+          "level": 50,
+          "name": "Law Rune",
+          "kind": "recipe",
+          "description": "Unlocks recipe for Law Runes, which can be crafted at the rune altar."
+        },
+        {
+          "level": 53,
+          "name": "Essential Strength",
+          "kind": "passive",
+          "description": "The weight of rune essence is reduced by 50%."
+        },
+        {
+          "level": 58,
+          "name": "Water Efficiency",
+          "kind": "passive",
+          "description": "Get a better yield when auto-crafting water runes."
+        },
+        {
+          "level": 61,
+          "name": "",
+          "kind": "spell",
+          "description": "Too many runes of the wrong type and no essence around? Throw your runes on the ground and this spell will draw out their magic, leaving you with 40% of the rune essence."
+        },
+        {
+          "level": 64,
+          "name": "Greater Elemental Spirits",
+          "kind": "spell",
+          "description": "The Summon Elemental Spirits perk now also indicates which anima vents are Concentrated."
+        },
+        {
+          "level": 68,
+          "name": "Earth Efficiency",
+          "kind": "passive",
+          "description": "Get a better yield when auto-crafting earth runes."
+        },
+        {
+          "level": 71,
+          "name": "Greater Anima Siphoning",
+          "kind": "passive",
+          "description": "Each anima vent siphon consumes 1 rune essence to produce 15 runes."
+        },
+        {
+          "level": 75,
+          "name": "Fire Efficiency",
+          "kind": "passive",
+          "description": "Get a better yield when auto-crafting fire runes."
+        },
+        {
+          "level": 78,
+          "name": "Greater Infusion Duration",
+          "kind": "passive",
+          "description": "Reduces the infusion phase duration of runecrafting."
+        },
+        {
+          "level": 81,
+          "name": "Runes To Rune Essence Upgrade",
+          "kind": "spell",
+          "description": "As your mastery grows, so does your yield. You can now extract 60% of the rune essence."
+        },
+        {
+          "level": 87,
+          "name": "Nature Efficiency",
+          "kind": "passive",
+          "description": "Get a better yield when auto-crafting nature runes."
+        },
+        {
+          "level": 94,
+          "name": "Law Efficiency",
+          "kind": "passive",
+          "description": "Get a better yield when auto-crafting law runes."
+        },
+        {
+          "level": 99,
+          "name": "Runecrafting Skillcape",
+          "kind": "recipe",
+          "description": "A true showcase of skill mastery. Unlocks the ability to craft and wear the Runecrafting skillcape."
+        }
+      ]
+    }
+  ]
+}

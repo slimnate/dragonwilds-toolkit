@@ -1,0 +1,5318 @@
+[
+  {
+    "persistenceId": "g5iAg0Pdkhgoqbe7MdrFGQ",
+    "name": "Adamant Helmet",
+    "rowName": "armour_head_adamant",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_HEAD_AdamantArmour_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Head_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T7_Head_Adamant.uasset",
+    "wearableRow": "T07_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 26,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "Geq6ukUtMiHNe8iyDh8yyQ",
+    "name": "Adamant Med Helm",
+    "rowName": "armour_head_adamantMed",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_U_MED_HEAD_MediumHelmet_Adamant_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Head_AdamantMed.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T7_Head_AdamantMed.uasset",
+    "wearableRow": "T07_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 26,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "oAUjCkgTFW7Xx9-8yDqUTw",
+    "name": "Adamant Platebody",
+    "rowName": "armour_body_adamant",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_BODY_AdamantArmour_01.png",
+    "weight": 16,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Body_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T7_Body_Adamant.uasset",
+    "wearableRow": "T07_Armour_Body_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 65,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    }
+  },
+  {
+    "persistenceId": "TcddrEdcc6oBgJOnL5PAsA",
+    "name": "Adamant Platelegs",
+    "rowName": "armour_legs_adamant",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_LEGS_AdamantArmour_01.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Legs_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T7_Legs_Adamant.uasset",
+    "wearableRow": "T07_Armour_Legs_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 39,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    }
+  },
+  {
+    "persistenceId": "ewbJ37oeTkypaVfRgI_GPg",
+    "name": "Adventurer's Leggings",
+    "rowName": "armour_legs_adventurers",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour"
+    ],
+    "icon": "T_Icon_M_MED_Legs_LightArmour_01.png",
+    "weight": 3,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 500,
+    "sourceAsset": "ITEM_Armour_T1_Legs_Adventurers.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T1_Legs_Adventurers.uasset",
+    "wearableRow": "Armour_T1_Legs_Adventurers",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 7
+    }
+  },
+  {
+    "persistenceId": "FOjGigKnBkev9f-VWFFdYA",
+    "name": "Adventurer's Tunic",
+    "rowName": "armour_body_adventurers",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour"
+    ],
+    "icon": "T_Icon_M_MED_Body_LightArmour_01.png",
+    "weight": 4,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 500,
+    "sourceAsset": "ITEM_Armour_T1_Body_Adventurers.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T1_Body_Adventurers.uasset",
+    "wearableRow": "Armour_T1_Body_Adventurers",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 10
+    }
+  },
+  {
+    "persistenceId": "2gcM1EPLyMw2VHCGD1pZHQ",
+    "name": "Agility Cape",
+    "rowName": "armour_t0_cape_skillcape_Agility",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Agility.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Skillcape_Agility.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Skillcape_Agility.uasset",
+    "wearableRow": "Cape_Adventurers_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "ocqDGE89vibNJAe55FOoHA",
+    "name": "Agility Cape (Trimmed)",
+    "rowName": "armour_t0_cape_skillcape_agility_trimmed",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Agility_Master.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Trimmed_Skillcape_Agility.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Trimmed_Skillcape_Agility.uasset",
+    "wearableRow": "Cape_Adventurers_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "pRfnP0RAM_O9OweO7joHnw",
+    "name": "Ancestral Hat",
+    "rowName": "armour_head_ancestral",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_SM_F_MED_HEAD_AncestralRobes_01.png",
+    "weight": 4,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T8_Head_Ancestral.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T8_Head_Ancestral.uasset",
+    "wearableRow": "T08_Armour_Head_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 30,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    }
+  },
+  {
+    "persistenceId": "eLOd5UFvVZAN9O6wcy0ytg",
+    "name": "Ancestral Leggings",
+    "rowName": "armour_legs_ancestral",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_SM_F_MED_LEGS_AncestralRobes_01.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T8_Legs_Ancestral.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T8_Legs_Ancestral.uasset",
+    "wearableRow": "T08_Armour_Legs_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 45,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    }
+  },
+  {
+    "persistenceId": "OGMsvEiMq7IdCsiSWGZjlg",
+    "name": "Ancestral Robes",
+    "rowName": "armour_body_ancestral",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_SM_F_MED_BODY_AncestralRobes_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T8_Body_Ancestral.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T8_Body_Ancestral.uasset",
+    "wearableRow": "T08_Armour_Body_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 75,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    }
+  },
+  {
+    "persistenceId": "clW1z0OG0RwzS7mfCP1p1g",
+    "name": "Angler's Hat",
+    "rowName": "armour_head_anglershat",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Special.Fishing.AnglersHat"
+    ],
+    "icon": "T_Icon_Anglers_Hat.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_Head_AnglersHat.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_Head_AnglersHat.uasset",
+    "wearableRow": "ITEM_Armour_Head_AnglersHat",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 1
+    }
+  },
+  {
+    "persistenceId": "h3G7NqBW-0i6TrNRlBD6Sg",
+    "name": "Apprentice Hat",
+    "rowName": "armour_head_apprentice",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_M_Head_LinenRobe_01.png",
+    "weight": 4,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Armour_T2_Head_Linen.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T2_Head_Linen.uasset",
+    "wearableRow": "T02_Armour_Head_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 6,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    }
+  },
+  {
+    "persistenceId": "AIZLP8mwfEij7hwWUOr-aQ",
+    "name": "Apprentice Leggings",
+    "rowName": "armour_legs_apprentice",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_M_MED_Legs_LinenRobe_01.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Armour_T2_Legs_Linen.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T2_Legs_Linen.uasset",
+    "wearableRow": "T02_Armour_Legs_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 9,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    }
+  },
+  {
+    "persistenceId": "g9vfX7KsMkurrMZa7z1aPg",
+    "name": "Apprentice Robe",
+    "rowName": "armour_body_apprentice",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_M_MED_Body_LinenRobe_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Armour_T2_Body_Linen.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T2_Body_Linen.uasset",
+    "wearableRow": "T02_Armour_Body_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 15,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    }
+  },
+  {
+    "persistenceId": "JceCAk6MoBgJWc209l6akw",
+    "name": "Artisan Cape",
+    "rowName": "armour_t0_cape_skillcape_artisan",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Artisan.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Skillcape_Artisan.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Skillcape_Artisan.uasset",
+    "wearableRow": "Cape_Artisan",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "UhTvLU673YxiQSuGzOGeUA",
+    "name": "Artisan Cape - Trimmed",
+    "rowName": "armour_t0_cape_skillcape_artisan_trimmed",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Artisan_Master.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Trimmed_Skillcape_Artisan.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Trimmed_Skillcape_Artisan.uasset",
+    "wearableRow": "Cape_Artisan",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "yaZr2UqUzLXtDDC6b9lPzA",
+    "name": "Attack Cape",
+    "rowName": "armour_t0_cape_skillcape_attack",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Attack.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Skillcape_Attack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Skillcape_Attack.uasset",
+    "wearableRow": "Cape_Attack",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "UnU39kGv8GrkK6mUAfzXww",
+    "name": "Attack Cape (Trimmed)",
+    "rowName": "armour_t0_cape_skillcape_attack_trimmed",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Attack_Master.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Trimmed_Skillcape_Attack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Trimmed_Skillcape_Attack.uasset",
+    "wearableRow": "Cape_Attack",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "AA0zK0IPgo4C4e6V39Cmjg",
+    "name": "Ava's Accumulator",
+    "rowName": "armour_t0_cape_avas_accumulator",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Avas_Attractor.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Avas_Accumulator.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Avas_Accumulator.uasset",
+    "wearableRow": "Cape_AvasAccumulator",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "JI5A3EN23h-KYFm7hUvaRg",
+    "name": "Ava's Accumulator",
+    "rowName": "armour_t0_cape_avas_attractor",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Avas_Attractor.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Avas_Attractor.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Avas_Attractor.uasset",
+    "wearableRow": "Cape_AvasAttractor",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "U3WG60uJFgZl-BWJIj6_Iw",
+    "name": "Bag Of Noggin",
+    "rowName": "armour_head_bagofnoggin",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour"
+    ],
+    "icon": "T_Icon_Bag_o__Noggin.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 500,
+    "sourceAsset": "ITEM_Armour_Head_BagOfNoggin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_Head_BagOfNoggin.uasset",
+    "wearableRow": "Armour_Head_BagOfNoggin",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 1
+    }
+  },
+  {
+    "persistenceId": "xRSgEk-klTdIZpOgGo5yxw",
+    "name": "Black Adventurer's Cape",
+    "rowName": "armour_t0_cape_adventurers_black",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_icon_Cape_Black.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Adventurers_Black.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Adventurers_Black.uasset",
+    "wearableRow": "Cape_Adventurers_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "FjeKZ0IhIHBqD7GfNw9SIA",
+    "name": "Black Desert Cape",
+    "rowName": "armour_t0_cape_menaphitecape_black",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Menaphite_Cape_07.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_MenaphiteCape_Black.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_MenaphiteCape_Black.uasset",
+    "wearableRow": "Cape_MenaphiteCape_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "H88O1ERs7vdLssGfIIgGwg",
+    "name": "Black Dragonhide Body",
+    "rowName": "armour_body_blackdragon",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_SM_M_MED_BODY_BlackDragonHideArmour_01.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T8_Body_BlackDragon.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T8_Body_BlackDragon.uasset",
+    "wearableRow": "T08_Armour_Body_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 75,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    }
+  },
+  {
+    "persistenceId": "VDV9l0qlQxsR4EGiJZ5KtA",
+    "name": "Black Dragonhide Chaps",
+    "rowName": "armour_legs_blackdragon",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_SM_M_MED_LEGS_BlackDragonHideArmour_01.png",
+    "weight": 9,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T8_Legs_BlackDragon.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T8_Legs_BlackDragon.uasset",
+    "wearableRow": "T08_Armour_Legs_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 45,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    }
+  },
+  {
+    "persistenceId": "9USY3UeQZt22Jyi0js8mAw",
+    "name": "Black Dragonhide Coif",
+    "rowName": "armour_head_blackdragon",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_SM_M_MED_HEAD_BlackDragonHideArmour_01.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T8_Head_BlackDragon.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T8_Head_BlackDragon.uasset",
+    "wearableRow": "T08_Armour_Head_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 30,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    }
+  },
+  {
+    "persistenceId": "JSlAV05XOfg2HBO7L7dkqw",
+    "name": "Black Knight Helmet",
+    "rowName": "armour_head_black",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_Black_Knight_Helm.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Head_Black.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T6_Head_Black.uasset",
+    "wearableRow": "T06_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 22,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "A4rU30W0ig-T37mPaKBsgw",
+    "name": "Black Knight Platebody",
+    "rowName": "armour_body_black",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_Dark_Knight_Platebody.png",
+    "weight": 16,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Body_Black.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T6_Body_Black.uasset",
+    "wearableRow": "T06_Armour_Body_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 55,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    }
+  },
+  {
+    "persistenceId": "dDoydESE59uZ7G-6OGUeQg",
+    "name": "Black Knight Platelegs",
+    "rowName": "armour_legs_black",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_Black_Knight_Legs.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Legs_Black.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T6_Legs_Black.uasset",
+    "wearableRow": "T06_Armour_Legs_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 33,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    }
+  },
+  {
+    "persistenceId": "dnt7OkhuQMGJS8-qFcvboA",
+    "name": "Black Med Helm",
+    "rowName": "armour_head_BlackMed",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_M_Head_BronzeArmour_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T3_Head_BlackMed.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T3_Head_BlackMed.uasset",
+    "wearableRow": "T03_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 10,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "emA_O0RntNNsrNuNVOTmow",
+    "name": "Bloodblight Cape",
+    "rowName": "armour_t0_cape_bloodblight",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Bloodblight.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Bloodblight.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Bloodblight.uasset",
+    "wearableRow": "Cape_Bloodblight",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "Nzf1rECKpuLNgX25lvNy5g",
+    "name": "Blue Adventurer's Cape",
+    "rowName": "armour_t0_cape_adventurers_blue",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_icon_Cape_Blue.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Adventurers_Blue.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Adventurers_Blue.uasset",
+    "wearableRow": "Cape_Adventurers_Blue",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "9dvMDEcOq6Jy42qsGD_BhQ",
+    "name": "Blue Desert Cape",
+    "rowName": "armour_t0_cape_menaphite_blue",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Menaphite_Cape_01.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_MenaphiteCape_Blue.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_MenaphiteCape_Blue.uasset",
+    "wearableRow": "Cape_MenaphiteCape_Blue",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "-cJ4kk5_eZwK-IiOoj8gIQ",
+    "name": "Blue Dragonhide Body",
+    "rowName": "armour_body_bluedragonhide",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_Blue_Dragonhide_Body.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Body_BlueDragonHide.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T6_Body_BlueDragonHide.uasset",
+    "wearableRow": "T06_Armour_Body_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 55,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    }
+  },
+  {
+    "persistenceId": "Bs2XUUW6ayb84R-jPoU-MA",
+    "name": "Blue Dragonhide Chaps",
+    "rowName": "armour_legs_bluedragonhide",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_Blue_Dragonhide_Chaps.png",
+    "weight": 9,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Legs_BlueDragonhide.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T6_Legs_BlueDragonhide.uasset",
+    "wearableRow": "T06_Armour_Legs_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 33,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    }
+  },
+  {
+    "persistenceId": "YkQ4GEx0vEmn8emAt6fB_w",
+    "name": "Blue Dragonhide Coif",
+    "rowName": "armour_head_bluedragonhide",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_Blue_Dragonhide_Cowl.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Head_BlueDragonhide.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T6_Head_BlueDragonhide.uasset",
+    "wearableRow": "T06_Armour_Head_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 22,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    }
+  },
+  {
+    "persistenceId": "MBpKrUpzJFvrLS6J3i29KQ",
+    "name": "Blue Dyad Cape",
+    "rowName": "armour_t0_cape_BlueDyad",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Adventurer_Capes_Pattern_02_Blue.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_BlueDyad.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_BlueDyad.uasset",
+    "wearableRow": "Cape_Adventurers_BlueDyad",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "vYkYBU5IisN6p9Sp_-BDwg",
+    "name": "Blue Hex Cape",
+    "rowName": "armour_t0_cape_BlueHex",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Adventurer_Capes_Pattern_01_Blue.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_BlueHex.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_BlueHex.uasset",
+    "wearableRow": "Cape_Adventurers_BlueHex",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "4hYWzULKMjNsgOuwHL7UAA",
+    "name": "Bramblemead Cape",
+    "rowName": "armour_t0_cape_bramblemead",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Bramblemead.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Bramblemead.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Bramblemead.uasset",
+    "wearableRow": "Cape_Bramblemead",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "lhrErX7MF0q9XlhdPdhCrA",
+    "name": "Bronze Helmet",
+    "rowName": "armour_head_bronze",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_M_Head_BronzeArmour_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T3_Head_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T3_Head_Bronze.uasset",
+    "wearableRow": "T03_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 10,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "mwiaAUMc6BfjiRWau1uONQ",
+    "name": "Bronze Med Helm",
+    "rowName": "armour_head_bronzeMed",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_U_MED_HEAD_MediumHelmet_Bronze_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T3_Head_BronzeMed.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T3_Head_BronzeMed.uasset",
+    "wearableRow": "T03_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 10,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "N2kAI3uQgki-eP0rIoHYhQ",
+    "name": "Bronze Platebody",
+    "rowName": "armour_body_bronze",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_M_MED_UpperHalf_BronzeArmour_01.png",
+    "weight": 16,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T3_Body_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T3_Body_Bronze.uasset",
+    "wearableRow": "T03_Armour_Body_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 25,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    }
+  },
+  {
+    "persistenceId": "wQPcKK1XV0iF1_CADXUwEw",
+    "name": "Bronze Platelegs",
+    "rowName": "armour_legs_bronze",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_M_MED_LowerHalf_BronzeArmour_01.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T3_Legs_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T3_Legs_Bronze.uasset",
+    "wearableRow": "T03_Armour_Legs_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 15,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    }
+  },
+  {
+    "persistenceId": "YE5XYUqrSVkPXp6byr7VMw",
+    "name": "Cape Artisan",
+    "rowName": "armour_t4_cape_artisan",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_RoyalThaneCloak.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Artisan.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Artisan.uasset",
+    "wearableRow": "Cape_Artisan",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "QB-cekR96jMiFVqZ4b-eZQ",
+    "name": "Cape Attack",
+    "rowName": "armour_t4_cape_attack",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_RoyalThaneCloak.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Attack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Attack.uasset",
+    "wearableRow": "Cape_Attack",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "OkGwZ0lbT46ElpuGzzsCCA",
+    "name": "Cape Construction",
+    "rowName": "armour_t4_cape_construction",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_RoyalThaneCloak.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Construction.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Construction.uasset",
+    "wearableRow": "Cape_Construction",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "CV3gFUxualOL_TK-w4iPtw",
+    "name": "Cape Cooking",
+    "rowName": "armour_t4_cape_cooking",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_RoyalThaneCloak.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Cooking.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Cooking.uasset",
+    "wearableRow": "Cape_Cooking",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "vAmVoEtvZ7KlXWqbZuDJsA",
+    "name": "Cape Mining",
+    "rowName": "armour_t4_cape_mining",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_RoyalThaneCloak.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Mining.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Mining.uasset",
+    "wearableRow": "Cape_Mining",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "X4RwpkGAyra6l7Kjfo_GWw",
+    "name": "Cape Runecrafting",
+    "rowName": "armour_t4_cape_runecrafting",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_RoyalThaneCloak.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Runecrafting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Runecrafting.uasset",
+    "wearableRow": "Cape_Runecrafting",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "Gl4nHkekntdefgi0GdbAZw",
+    "name": "Cape Woodcutting",
+    "rowName": "armour_t4_cape_woodcutting",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_RoyalThaneCloak.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Woodcutting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Woodcutting.uasset",
+    "wearableRow": "Cape_Woodcutting",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "SMdFlkruGF9Xveyh1Lz0lw",
+    "name": "Chef's Hat",
+    "rowName": "armour_head_chefshat",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour"
+    ],
+    "icon": "T_Icon_Chef_Hat_01.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_Head_ChefsHat.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_Head_ChefsHat.uasset",
+    "wearableRow": "Armour_Head_ChefsHat",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 1
+    }
+  },
+  {
+    "persistenceId": "Csigt0NuDrTq6CyqPR26jQ",
+    "name": "Chicken Hat",
+    "rowName": "armour_head_chickenhat",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_Chef_Hat_01.png",
+    "weight": 4,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_Head_ChickenHat.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_Head_ChickenHat.uasset",
+    "wearableRow": "ITEM_Armour_Head_ChickenHat",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 1
+    }
+  },
+  {
+    "persistenceId": "g0gdkUGeX4QUkk-_yPJ8zQ",
+    "name": "Community Cape",
+    "rowName": "armour_t0_cape_CommunityCape",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Community_Cape.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Community.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Community.uasset",
+    "wearableRow": "Cape_Community_Cape",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "zjqmfU9J000ZgI2KPmKn1A",
+    "name": "Construction Cape",
+    "rowName": "armour_t0_cape_skillcape_construction",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Construction.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Skillcape_Construction.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Skillcape_Construction.uasset",
+    "wearableRow": "Cape_Construction",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "JA0aYkWSKvomwwyEPugaew",
+    "name": "Construction Cape (Trimmed)",
+    "rowName": "armour_t0_cape_skillcape_construction_trimmed",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Construction_Master.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Trimmed_Skillcape_Construction.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Trimmed_Skillcape_Construction.uasset",
+    "wearableRow": "Cape_Construction",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "_4JQo0OOR41j8Pi0n5zQSg",
+    "name": "Cooking Cape",
+    "rowName": "armour_t0_cape_skillcape_cooking",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Cooking.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Skillcape_Cooking.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Skillcape_Cooking.uasset",
+    "wearableRow": "Cape_Cooking",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "0sNNgEVZ-PmegQSXC8jsVA",
+    "name": "Cooking Cape (Trimmed)",
+    "rowName": "armour_t0_cape_skillcape_cooking_trimmed",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Cooking_Master.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Trimmed_Skillcape_Cooking.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Trimmed_Skillcape_Cooking.uasset",
+    "wearableRow": "Cape_Cooking",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "M3Y6KEIGYrsnS8-j5ewQxw",
+    "name": "Dark Mage Hood",
+    "rowName": "armour_head_darkmage",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_M_MED_Head_DarkMageRobes_01.png",
+    "weight": 4,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T4_Head_DarkMage.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T4_Head_DarkMage.uasset",
+    "wearableRow": "T04_Armour_Head_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 14,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    }
+  },
+  {
+    "persistenceId": "hWGilEcAZgtX2JWejH4ncA",
+    "name": "Dark Mage Robe Legs",
+    "rowName": "armour_legs_darkmage",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_M_MED_Legs_DarkMageRobes_01.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T4_Legs_DarkMage.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T4_Legs_DarkMage.uasset",
+    "wearableRow": "T04_Armour_Legs_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 21,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    }
+  },
+  {
+    "persistenceId": "9QZ0eUU7xVxKhq-_nMoCcQ",
+    "name": "Dark Mage Robes",
+    "rowName": "armour_body_darkmage",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_M_MED_Body_DarkMageRobes_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T4_Body_DarkMage.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T4_Body_DarkMage.uasset",
+    "wearableRow": "T04_Armour_Body_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 35,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    }
+  },
+  {
+    "persistenceId": "ksWBmEqlTnsO6AqbbXqaKA",
+    "name": "Desert Hood",
+    "rowName": "armour_head_desert",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour"
+    ],
+    "icon": "T_Icon_HEAD_DesertRobes_01.png",
+    "weight": 4,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Head_Desert.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T7_Head_Desert.uasset",
+    "wearableRow": "T07_Armour_Head_DesertHood",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 10
+    }
+  },
+  {
+    "persistenceId": "oXh4Fkfe_hIlRkuCtny8eQ",
+    "name": "Desert Robe Legs",
+    "rowName": "armour_legs_desert",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour"
+    ],
+    "icon": "T_Icon_LEGS_DesertRobes_01.png",
+    "weight": 6,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Legs_Desert.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T7_Legs_Desert.uasset",
+    "wearableRow": "T07_Armour_Legs_DesertLegs",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 7
+    }
+  },
+  {
+    "persistenceId": "EBhxNUwE7m5crBup_YZ3GA",
+    "name": "Desert Robes",
+    "rowName": "armour_body_desert",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour"
+    ],
+    "icon": "T_Icon_BODY_DesertRobes_01.png",
+    "weight": 8,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Body_Desert.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T7_Body_Desert.uasset",
+    "wearableRow": "T07_Armour_Body_DesertRobes",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 5
+    }
+  },
+  {
+    "persistenceId": "riwrC0Y5m40rZQmr4XkJoQ",
+    "name": "Dowdun Reach Cape",
+    "rowName": "armour_t0_cape_DowdunReach",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Dowdun_Cape.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_DowdunReach.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_DowdunReach.uasset",
+    "wearableRow": "Cape_DowdunReach",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "K_rPyEaoQwJT3_CsK5YHxw",
+    "name": "Dragon Full Helm",
+    "rowName": "armour_head_dragonarmour",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_F_MED_HEAD_DragonArmour_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 9,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T8_Head_DragonArmour.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T8_Head_DragonArmour.uasset",
+    "wearableRow": "T09_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 34,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "xzZqnE6319SU33urE6sGmA",
+    "name": "Dragon Med Helm",
+    "rowName": "armour_head_dragonMed",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_U_MED_HEAD_MediumHelmet_Dragon_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 9,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T8_Head_DragonMed.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T8_Head_DragonMed.uasset",
+    "wearableRow": "T09_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 34,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "lfbhqEzXJtWz0RmiSkjnNw",
+    "name": "Dragon Platebody",
+    "rowName": "armour_body_dragonarmour",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_M_MED_BODY_DragonArmour_01.png",
+    "weight": 16,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 9,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T8_Body_DragonArmour.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T8_Body_DragonArmour.uasset",
+    "wearableRow": "T09_Armour_Body_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 85,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    }
+  },
+  {
+    "persistenceId": "9yhSqUNFiV8wuNS7DDv5Rw",
+    "name": "Dragon Platelegs",
+    "rowName": "armour_legs_dragonarmour",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_M_MED_LEGS_DragonArmour_01.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 9,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T8_Legs_DragonArmour.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T8_Legs_DragonArmour.uasset",
+    "wearableRow": "T09_Armour_Legs_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 51,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    }
+  },
+  {
+    "persistenceId": "1ReHrk6Keawr5E-eQ8WTCg",
+    "name": "Dragonbane Cape",
+    "rowName": "armour_t0_cape_alphatest",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Alpha_Cape.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_AlphaTest.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_AlphaTest.uasset",
+    "wearableRow": "Cape_AlphaTest",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "GutTdkwskIsX75i6-CilJA",
+    "name": "Dragonkin Mage Hood",
+    "rowName": "armour_head_dragonkinmage",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_Dragonkin_Dark_Mage_Hood.png",
+    "weight": 4,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1400,
+    "sourceAsset": "ITEM_Armour_T4_Head_DragonkinMage.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T4_Head_DragonkinMage.uasset",
+    "wearableRow": "T04_Armour_Head_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 14,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    }
+  },
+  {
+    "persistenceId": "uDBybUNuv5UipiSXb8BG-A",
+    "name": "Dragonkin Mage Robe Legs",
+    "rowName": "armour_legs_dragonkinmage",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_Dragonkin_Dark_Mage_Leggings.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1400,
+    "sourceAsset": "ITEM_Armour_T4_Legs_DragonkinMage.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T4_Legs_DragonkinMage.uasset",
+    "wearableRow": "T04_Armour_Legs_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 21,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    }
+  },
+  {
+    "persistenceId": "rXtN2EZOq9NpnL-WyVpF8Q",
+    "name": "Dragonkin Mage Robes",
+    "rowName": "armour_body_dragonkinmage",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_Dragonkin_Dark_Mage_Robes.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T4_Body_DragonkinMage.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T4_Body_DragonkinMage.uasset",
+    "wearableRow": "T04_Armour_Body_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 35,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    }
+  },
+  {
+    "persistenceId": "LXzUcEgv1Q_k59Chi-ELJA",
+    "name": "Dragonslayer's Cape",
+    "rowName": "armour_t0_cape_Dragonslayer",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_SM_F_MED_CAPE_Cape_Long_Kuldra.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Dragonslayer.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Dragonslayer.uasset",
+    "wearableRow": "Cape_Dragonslayer",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "GWoGx0DvRmSKv-C5qrN4XA",
+    "name": "Fallen Hoplite's Chest",
+    "rowName": "armour_body_Skeleton",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_icon_Hopelite_Body.png",
+    "weight": 16,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Body_Skeleton.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T5_Body_Skeleton.uasset",
+    "wearableRow": "T05_Armour_Body_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 45,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    }
+  },
+  {
+    "persistenceId": "-BgOoUB7RMsOpKWrA-TvlQ",
+    "name": "Fallen Hoplite's Helm",
+    "rowName": "armour_head_Skeleton",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_icon_Hopelite_Helmet.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Head_Skeleton.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T5_Head_Skeleton.uasset",
+    "wearableRow": "T05_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 18,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "GJGz00NubkS7VNGcOcqFdA",
+    "name": "Fallen Hoplite's Tassets",
+    "rowName": "armour_legs_Skeleton",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_icon_Hopelite_Legs.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Legs_Skeleton.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T5_Legs_Skeleton.uasset",
+    "wearableRow": "T05_Armour_Legs_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 27,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    }
+  },
+  {
+    "persistenceId": "f70t6Eql7U0KEGGH7zQ6uA",
+    "name": "Farmer's Hat",
+    "rowName": "armour_head_farmershat",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour"
+    ],
+    "icon": "T_Icon_Farmers_Hat.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T2_Head_FarmersHat.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T2_Head_FarmersHat.uasset",
+    "wearableRow": "ITEM_Armour_Head_FarmersHat",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 1
+    }
+  },
+  {
+    "persistenceId": "8hjk70ccFwmYrzadV3T4MQ",
+    "name": "Farming Cape",
+    "rowName": "armour_t0_cape_skillcape_farming",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Farming.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Skillcape_Farming.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Skillcape_Farming.uasset",
+    "wearableRow": "Cape_Artisan",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "Zy0OukyYj_d3176y0io0zQ",
+    "name": "Farming Cape (Trimmed)",
+    "rowName": "armour_t0_cape_skillcape_farming_trimmed",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Farming_Master.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Trimmed_Skillcape_Farming.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Trimmed_Skillcape_Farming.uasset",
+    "wearableRow": "Cape_Artisan",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "bseydkEw3fTibEODEw9VJw",
+    "name": "Fellhollow Cape",
+    "rowName": "armour_t0_cape_Fellhollow",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_icon_Fellhollow_Cape.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Fellhollow.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Fellhollow.uasset",
+    "wearableRow": "Cape_Fellhollow",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "36kwMUzRF5L6DG-k7YgkSw",
+    "name": "Fire Cape",
+    "rowName": "armour_t0_cape_fire",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Fire_Cape.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Fire.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Fire.uasset",
+    "wearableRow": "Cape_FireCape",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 5
+    }
+  },
+  {
+    "persistenceId": "qC_y-0z0iWaRbKyLtYKkaQ",
+    "name": "Fishing Cape",
+    "rowName": "armour_t0_cape_skillcape_fishing",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Fishing.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Skillcape_Fishing.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Skillcape_Fishing.uasset",
+    "wearableRow": "Cape_Adventurers_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "vngZF0HP2GhrnsOndqaoUQ",
+    "name": "Fishing Cape (Trimmed)",
+    "rowName": "armour_t0_cape_skillcape_fishing_trimmed",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Fishing_Master.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Trimmed_Skillcape_Fishing.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Trimmed_Skillcape_Fishing.uasset",
+    "wearableRow": "Cape_Adventurers_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "71LhGUmAvrlALY6KcS8W3Q",
+    "name": "Fractured Cape",
+    "rowName": "armour_t0_cape_fractured",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Fractured.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Fractured.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Fractured.uasset",
+    "wearableRow": "Cape_Fractured",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "q6popEFaVyrZbq6kc0-Drg",
+    "name": "Garou Highborn's Cloak",
+    "rowName": "armour_t0_cape_garou",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_RoyalThaneCloak.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Cape_Garou.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Garou.uasset",
+    "wearableRow": "Cape_Garou",
+    "equipmentKind": "wearable",
+    "powerLevelInferred": true,
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "7R7vbEvTmOkCuF6f0oqKLQ",
+    "name": "Gilded Paladin Cape",
+    "rowName": "armour_t0_cape_gold",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_SM_F_MED_CAPE_Cape_Long_Gilded_Paladin.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_GildedPaladin.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_GildedPaladin.uasset",
+    "wearableRow": "Cape_Gold_Cape",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "wD26k0TmVIVJWZKbB6F7dQ",
+    "name": "Gilded Paladin Chestpiece",
+    "rowName": "armour_body_gold",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_M_MED_BODY_GoldenArmour_01.png",
+    "weight": 16,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T1_Body_GildedPaladin.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T1_Body_GildedPaladin.uasset",
+    "wearableRow": "T04_Armour_Body_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 35,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    }
+  },
+  {
+    "persistenceId": "1A9eV0PEB8_Z6V-ThXdZzQ",
+    "name": "Gilded Paladin Helmet",
+    "rowName": "armour_head_gold",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_M_MED_HEAD_GoldenArmour_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T1_Head_GildedPaladin.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T1_Head_GildedPaladin.uasset",
+    "wearableRow": "T04_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 14,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "LnLw6UYzpf7L6sWnWFG6Cw",
+    "name": "Gilded Paladin Legs",
+    "rowName": "armour_legs_gold",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_M_MED_LEGS_GoldArmour_01.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T1_Legs_GildedPaladin.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T1_Legs_GildedPaladin.uasset",
+    "wearableRow": "T04_Armour_Legs_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 21,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    }
+  },
+  {
+    "persistenceId": "24_UV0P2zlDAbcy48UOCkA",
+    "name": "Goblin War Banner",
+    "rowName": "armour_t0_cape_goblin",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_HighWarGodBanner.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Goblin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Goblin.uasset",
+    "wearableRow": "Cape_Goblin",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "HuIAAEaKrXsAwCK8H0tWfw",
+    "name": "Golden Bloodblight Cape",
+    "rowName": "armour_t0_cape_bloodblight_golden",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_SM_M_MED_Cape_Bloodblight_Gilded.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Bloodblight_Golden.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Character/Player/Equipment/Cape/RegionCapes/Ghornfell/Bloodblight/ITEM_Cape_Bloodblight_Golden.uasset",
+    "wearableRow": "Cape_Adventurers_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "0NWSREdc38j-yzegadxzCw",
+    "name": "Golden Bramblemead Cape",
+    "rowName": "armour_t0_cape_bramblemead_golden",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_SM_M_MED_Cape_Bramblemead_Gilded.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Bramblemead_Golden.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Character/Player/Equipment/Cape/RegionCapes/Brynmoor/Bramblemead/ITEM_Cape_Bramblemead_Golden.uasset",
+    "wearableRow": "Cape_Adventurers_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "MQinJEhrS3RatBGGcDv87g",
+    "name": "Golden Dowdun Reach Cape",
+    "rowName": "armour_t0_cape_dowdun_reach_golden",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_SM_M_MED_Cape_Dowdun_Gilded.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_DowdunReach_Golden.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Character/Player/Equipment/Cape/RegionCapes/DowdunReach/ITEM_Cape_DowdunReach_Golden.uasset",
+    "wearableRow": "Cape_Adventurers_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "jqArXUWDqzwOKQCcmHhpTg",
+    "name": "Golden Fellhollow Cape",
+    "rowName": "armour_t0_cape_fellhollow_golden",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_SM_M_MED_Cape_Fellhollow_Gilded.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Fellhollow_Golden.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Character/Player/Equipment/Cape/RegionCapes/Fellhollow/ITEM_Cape_Fellhollow_Golden.uasset",
+    "wearableRow": "Cape_Adventurers_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "jJt7jk-NhijjFVuxP2FXfA",
+    "name": "Golden Fractured Cape",
+    "rowName": "armour_t0_cape_fractured_golden",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_SM_M_MED_Cape_Fractured_Gilded.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Fractured_Golden.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Character/Player/Equipment/Cape/RegionCapes/Ghornfell/Fractured/ITEM_Cape_Fractured_Golden.uasset",
+    "wearableRow": "Cape_Adventurers_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "-iZRtEKn4sDgLbu0ikhT2g",
+    "name": "Golden Scorned Wilderness Cape",
+    "rowName": "armour_t0_cape_ScornedWilderness_golden",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Whispering.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_ScornedWilderness_Golden.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Character/Player/Equipment/Deleted/ITEM_Cape_ScornedWilderness_Golden.uasset",
+    "wearableRow": "Cape_Adventurers_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "qrl1V0_2wgflo9Cscl3gBg",
+    "name": "Golden Stormtouched Cape",
+    "rowName": "armour_t0_cape_stormtouched_golden",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_SM_M_MED_Cape_Stormtouched_Gilded.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Stormtouched_Golden.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Character/Player/Equipment/Cape/RegionCapes/Ghornfell/Stormtouched/ITEM_Cape_Stormtouched_Golden.uasset",
+    "wearableRow": "Cape_Adventurers_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "sjIZQ0LSydKUmrqtcnNaVg",
+    "name": "Golden Umbral Sands Cape",
+    "rowName": "armour_t0_cape_UmbralSands_golden",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_SM_M_MED_Cape_Umbral_Sands_Gilded.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_UmbralSands_Golden.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Character/Player/Equipment/Cape/RegionCapes/UmbralSands/ITEM_Cape_UmbralSands_Golden.uasset",
+    "wearableRow": "Cape_Adventurers_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "LZlgSkvDmvAguaSaODXhYw",
+    "name": "Golden Whispering Cape",
+    "rowName": "armour_t0_cape_whispering_golden",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_SM_M_MED_Cape_Whispering_Swamp_Gilded.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Whispering_Golden.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Agility/Content/Gameplay/Character/Player/Equipment/Cape/RegionCapes/Brynmoor/Whispering/ITEM_Cape_Whispering_Golden.uasset",
+    "wearableRow": "Cape_Adventurers_Black",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "CRrbdEE2rAkyseGLyfPykw",
+    "name": "Green Adventurer's Cape",
+    "rowName": "armour_t0_cape_adventurers_green",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_icon_Cape_Green.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Adventurers_Green.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Adventurers_Green.uasset",
+    "wearableRow": "Cape_Adventurers_Green",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "Silg_012x6Dp0MuxieORvQ",
+    "name": "Green Desert Cape",
+    "rowName": "armour_t0_cape_menaphitecape_green",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Menaphite_Cape_05.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_MenaphiteCape_Green.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_MenaphiteCape_Green.uasset",
+    "wearableRow": "Cape_MenaphiteCape_Green",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "Mlkavkm7yQziKpK9IHNYeQ",
+    "name": "Green Dragonhide Body",
+    "rowName": "armour_body_GreenDHide",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_icon_Green_Dragonhide_Body.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T5_Body_GreenDragonHide.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T5_Body_GreenDragonHide.uasset",
+    "wearableRow": "T05_Armour_Body_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 45,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    }
+  },
+  {
+    "persistenceId": "t4RxskBsdSppCcuzclu5dw",
+    "name": "Green Dragonhide Chaps",
+    "rowName": "armour_legs_GreenDHide",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_icon_Green_Dragonhide_Legs.png",
+    "weight": 9,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T5_Legs_GreenDragonHide.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T5_Legs_GreenDragonHide.uasset",
+    "wearableRow": "T05_Armour_Legs_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 27,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    }
+  },
+  {
+    "persistenceId": "tlpgIklcNBMK7I2F3J2yrw",
+    "name": "Green Dragonhide Coif",
+    "rowName": "armour_head_GreenDHide",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_icon_Green_Dragonhide_Helmet.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T5_Head_GreenDragonHide.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T5_Head_GreenDragonHide.uasset",
+    "wearableRow": "T05_Armour_Head_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 18,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    }
+  },
+  {
+    "persistenceId": "cJYRJkMwnjzYn8OanAzqPw",
+    "name": "Green Dyad Cape",
+    "rowName": "armour_t0_cape_GreenDyad",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Adventurer_Capes_Pattern_02_Green.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_GreenDyad.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_GreenDyad.uasset",
+    "wearableRow": "Cape_Adventurers_GreenDyad",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "H6zBeUnAuw2IqmuEx2dwWQ",
+    "name": "Green Hex Cape",
+    "rowName": "armour_t0_cape_GreenHex",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Journal_Capes_Pattern_01_Green.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_GreenHex.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_GreenHex.uasset",
+    "wearableRow": "Cape_Adventurers_GreenHex",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "h7tqvcgrDk2iGdD7TYwiSA",
+    "name": "Hard Leather Body",
+    "rowName": "armour_body_hardleather",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_M_MED_BODY_HardLeather_01.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T3_Body_HardLeather.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T3_Body_HardLeather.uasset",
+    "wearableRow": "T03_Armour_Body_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 25,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    }
+  },
+  {
+    "persistenceId": "7Ajx5nOVUUW6l8nU2YiLOA",
+    "name": "Hard Leather Chaps",
+    "rowName": "armour_legs_hardleather",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_M_MED_LEGS_HardLeather_01.png",
+    "weight": 9,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T3_Legs_HardLeather.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T3_Legs_HardLeather.uasset",
+    "wearableRow": "T03_Armour_Legs_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 15,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    }
+  },
+  {
+    "persistenceId": "wLzThnOQEUaw90mBnn8QTw",
+    "name": "Hard Leather Cowl",
+    "rowName": "armour_head_hardleather",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_M_MED_HEAD_HardLeather_01.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T3_Head_HardLeather.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T3_Head_HardLeather.uasset",
+    "wearableRow": "T03_Armour_Head_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 10,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    }
+  },
+  {
+    "persistenceId": "hHRi10inX3t-lRSeCSps7w",
+    "name": "Infinity Robe Body",
+    "rowName": "armour_body_Infinity",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_BODY_InfinityRobes_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Body_Infinity.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T7_Body_Infinity.uasset",
+    "wearableRow": "T07_Armour_Body_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 65,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    }
+  },
+  {
+    "persistenceId": "VbUPv0R-xj7w9lSsRvajZA",
+    "name": "Infinity Robe Hat",
+    "rowName": "armour_head_Infinity",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_HEAD_InfinityRobes_01.png",
+    "weight": 4,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Head_Infinity.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T7_Head_Infinity.uasset",
+    "wearableRow": "T07_Armour_Head_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 26,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    }
+  },
+  {
+    "persistenceId": "gfUFzUM70smlU9y5wlczTg",
+    "name": "Infinity Robe Legs",
+    "rowName": "armour_legs_Infinity",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_LEGS_InfinityRobes_01.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Legs_Infinity.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T7_Legs_Infinity.uasset",
+    "wearableRow": "T07_Armour_Legs_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 39,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    }
+  },
+  {
+    "persistenceId": "PxHJuE6PgUKY-zugyUXSUQ",
+    "name": "Iron Helmet",
+    "rowName": "armour_head_iron",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_F_MED_HEAD_IronArmour_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T4_Head_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T4_Head_Iron.uasset",
+    "wearableRow": "T04_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 14,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "zM4Q-Eh48JMMPwKZTSHYTQ",
+    "name": "Iron Med Helm",
+    "rowName": "armour_head_ironMed",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_U_MED_HEAD_MediumHelmet_Iron_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T4_Head_IronMed.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T4_Head_IronMed.uasset",
+    "wearableRow": "T04_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 14,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "CAtRgsni70SltXq4uzs6Yg",
+    "name": "Iron Platebody",
+    "rowName": "armour_body_iron",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_F_MED_BODY_IronArmour_01.png",
+    "weight": 16,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T4_Body_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T4_Body_Iron.uasset",
+    "wearableRow": "T04_Armour_Body_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 35,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    }
+  },
+  {
+    "persistenceId": "lWABtugu90SEqpE70Gf8ew",
+    "name": "Iron Platelegs",
+    "rowName": "armour_legs_iron",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_F_MED_LEGS_IronArmour_01.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T4_Legs_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T4_Legs_Iron.uasset",
+    "wearableRow": "T04_Armour_Legs_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 21,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    }
+  },
+  {
+    "persistenceId": "GtlzREOjbFQ2wUGX-1S4tg",
+    "name": "Kalphite Carapace Chest",
+    "rowName": "armour_body_kalphitecarapace",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_BODY_Kal_ceVestigeArmour_01.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T7_Body_KalphiteCarapace.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T7_Body_KalphiteCarapace.uasset",
+    "wearableRow": "T07_Armour_Body_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 65,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    }
+  },
+  {
+    "persistenceId": "4d3_5kyj-59s2fm16I2XhA",
+    "name": "Kalphite Carapace Helmet",
+    "rowName": "armour_head_kalphitecarapace",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_HEAD_Kal_ceVestigeArmour_01.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T7_Head_KalphiteCarapace.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T7_Head_KalphiteCarapace.uasset",
+    "wearableRow": "T07_Armour_Head_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 26,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    }
+  },
+  {
+    "persistenceId": "2Eh2JUUXt1GZVXObOowAdQ",
+    "name": "Kalphite Carapace Legs",
+    "rowName": "armour_legs_kalphitecarapace",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_LEGS_Kal_ceVestigeArmour_01.png",
+    "weight": 9,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T7_Legs_KalphiteCarapace.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T7_Legs_KalphiteCarapace.uasset",
+    "wearableRow": "T07_Armour_Legs_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 39,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    }
+  },
+  {
+    "persistenceId": "XT0Zft6J30iLvjVNxnzw6Q",
+    "name": "Leather Body",
+    "rowName": "armour_body_leather",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_DeerLeather_01_M_TopHalf_DeerLeather_01.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Armour_T2_Body_Leather.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T2_Body_Leather.uasset",
+    "wearableRow": "T02_Armour_Body_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 15,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    }
+  },
+  {
+    "persistenceId": "Q6DUGmTWNkG5S1Ki_5Nz1w",
+    "name": "Leather Chaps",
+    "rowName": "armour_legs_leather",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_F_MED_Lowerhalf_DeerLeather_01.png",
+    "weight": 9,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Armour_T2_Legs_Leather.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T2_Legs_Leather.uasset",
+    "wearableRow": "T02_Armour_Legs_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 9,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    }
+  },
+  {
+    "persistenceId": "-mOez0ZysUa2kkuZQY4s0w",
+    "name": "Leather Cowl",
+    "rowName": "armour_head_leather",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_M_MED_HEAD_MED_DeerLather_01.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Armour_T2_Head_Leather.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T2_Head_Leather.uasset",
+    "wearableRow": "T02_Armour_Head_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 6,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    }
+  },
+  {
+    "persistenceId": "E_DXg0sq6DA6beKuzxv_rA",
+    "name": "Leggings Of Lightness",
+    "rowName": "armour_legs_lightness",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour"
+    ],
+    "icon": "T_Icon_Leggings_of_Lightness.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 500,
+    "sourceAsset": "ITEM_Armour_T1_Legs_Lightness.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T1_Legs_Lightness.uasset",
+    "wearableRow": "Armour_T1_Legs_Lightness",
+    "equipmentKind": "wearable"
+  },
+  {
+    "persistenceId": "y0A46USRM-v66t6TJtGIVg",
+    "name": "Lumber Backpack",
+    "rowName": "armour_t0_cape_lumber_backpack",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Lumberjack_Backpack_final.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Lumber_Backpack.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Lumber_Backpack.uasset",
+    "wearableRow": "Cape_LumberjackBackpack",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "hHn9iEWO2G2vgKGG9zuNDg",
+    "name": "Lunar Garou Hat",
+    "rowName": "armour_head_lunargaroumage",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_HEAD_LunarGarouRobes_01.png",
+    "weight": 4,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Head_LunarGarouMage.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T7_Head_LunarGarouMage.uasset",
+    "wearableRow": "T07_Armour_Head_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 26,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    }
+  },
+  {
+    "persistenceId": "M9ukoEgurOJtJb-ModNBbQ",
+    "name": "Lunar Garou Robe Legs",
+    "rowName": "armour_legs_lunargaroumage",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_LEGS_LunarGarouRobes_01.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Legs_LunarGarouMage.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T7_Legs_LunarGarouMage.uasset",
+    "wearableRow": "T07_Armour_Legs_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 39,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    }
+  },
+  {
+    "persistenceId": "mj5TnkoBMPIei_6NAH8C3Q",
+    "name": "Lunar Garou Robes",
+    "rowName": "armour_body_lunargaroumage",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_BODY_LunarGarouRobes_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Body_LunarGarouMage.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T7_Body_LunarGarouMage.uasset",
+    "wearableRow": "T07_Armour_Body_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 65,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    }
+  },
+  {
+    "persistenceId": "rsh3kEIq_dINpkOrr8Xbhg",
+    "name": "Magic Cape",
+    "rowName": "armour_t0_cape_skillcape_magic",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Magic.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Skillcape_Magic.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Skillcape_Magic.uasset",
+    "wearableRow": "Cape_Artisan",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "Ze5ss0vtvZQvNiOaBhgXlw",
+    "name": "Magic Cape (Trimmed)",
+    "rowName": "armour_t0_cape_skillcape_magic_trimmed",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Magic_Master.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Trimmed_Skillcape_Magic.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Trimmed_Skillcape_Magic.uasset",
+    "wearableRow": "Cape_Artisan",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "ombTOkWnPt1RdyKucOTA3A",
+    "name": "Mining Cape",
+    "rowName": "armour_t0_cape_skillcape_mining",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Mining.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Skillcape_Mining.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Skillcape_Mining.uasset",
+    "wearableRow": "Cape_Mining",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "tPRZTkbhQOmzrMaV2Yk_WA",
+    "name": "Mining Cape (Trimmed)",
+    "rowName": "armour_t0_cape_skillcape_mining_trimmed",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Mining_Master.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Trimmed_Skillcape_Mining.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Trimmed_Skillcape_Mining.uasset",
+    "wearableRow": "Cape_Mining",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "18exoUG2NUZ8mIajJy0eXA",
+    "name": "Mithril Helmet",
+    "rowName": "armour_head_mithril",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_Mithril_Helm.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Head_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T6_Head_Mithril.uasset",
+    "wearableRow": "T06_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 22,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "mZ4iV0NkfqnONcuAli64fw",
+    "name": "Mithril Med Helm",
+    "rowName": "armour_head_mithrilMed",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_U_MED_HEAD_MediumHelmet_Mithril_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Head_MithrilMed.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T6_Head_MithrilMed.uasset",
+    "wearableRow": "T06_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 22,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "ldb1VkxAV5TRQSq26Fm96Q",
+    "name": "Mithril Platebody",
+    "rowName": "armour_body_mithril",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_Mithril_Platebody.png",
+    "weight": 16,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Body_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T6_Body_Mithril.uasset",
+    "wearableRow": "T06_Armour_Body_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 55,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    }
+  },
+  {
+    "persistenceId": "gxWXuEgU-z5m3uavbuBOGA",
+    "name": "Mithril Platelegs",
+    "rowName": "armour_legs_mithril",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_Mithril_Legs.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Legs_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T6_Legs_Mithril.uasset",
+    "wearableRow": "T06_Armour_Legs_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 33,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    }
+  },
+  {
+    "persistenceId": "jkuS_UNrGr0A_D2otKhDaA",
+    "name": "Mystic Hat",
+    "rowName": "armour_head_mystic",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_Mystic_Hood.png",
+    "weight": 4,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Head_Mystic.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T6_Head_Mystic.uasset",
+    "wearableRow": "T06_Armour_Head_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 22,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    }
+  },
+  {
+    "persistenceId": "Qle8dEYIAJhJGzu9dKb2lw",
+    "name": "Mystic Robe Legs",
+    "rowName": "armour_legs_mystic",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_Mystic_Robe_Legs.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Legs_Mystic.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T6_Legs_Mystic.uasset",
+    "wearableRow": "T06_Armour_Legs_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 33,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    }
+  },
+  {
+    "persistenceId": "47JqmU5Nx6atMyiCXiJj9g",
+    "name": "Mystic Robes",
+    "rowName": "armour_body_mystic",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_Mystic_Robe.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Body_Mystic.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T6_Body_Mystic.uasset",
+    "wearableRow": "T06_Armour_Body_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 55,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    }
+  },
+  {
+    "persistenceId": "9lHlikx8lMT7K8eLUajs1A",
+    "name": "Necromancer's Crown",
+    "rowName": "armour_head_Necromancer",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_icon_Necromancer_crown.png",
+    "weight": 4,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Head_Necromancer.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T5_Head_Necromancer.uasset",
+    "wearableRow": "T05_Armour_Head_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 18,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    }
+  },
+  {
+    "persistenceId": "gA4ukk_Adi1spMuag9Tkow",
+    "name": "Necromancer's Robe Bottom",
+    "rowName": "armour_legs_Necromancer",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_icon_Necromancer_Legs.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Legs_Necromancer.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T5_Legs_Necromancer.uasset",
+    "wearableRow": "T05_Armour_Legs_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 27,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    }
+  },
+  {
+    "persistenceId": "VC09I0jpA170BKygkhJ2UQ",
+    "name": "Necromancer's Robe Top",
+    "rowName": "armour_body_Necromancer",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_icon_Necromancer_Body.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Body_Necromancer.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T5_Body_Necromancer.uasset",
+    "wearableRow": "T05_Armour_Body_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 45,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    }
+  },
+  {
+    "persistenceId": "svrOq0Dyt_5RmHezARGkAw",
+    "name": "Obsidian Cape",
+    "rowName": "armour_t0_cape_obsidian",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Obsidian_Cape.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Cape_Obsidian.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Obsidian.uasset",
+    "wearableRow": "Cape_ObsidianCape",
+    "equipmentKind": "wearable",
+    "powerLevelInferred": true,
+    "defense": {
+      "armourValue": 5
+    }
+  },
+  {
+    "persistenceId": "dMu_Ckj0Yc1qX5aSvPR9xQ",
+    "name": "Obsidian Chest",
+    "rowName": "armour_body_obsidianchestarmour",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_BODY_ObsidianArmour_01.png",
+    "weight": 16,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Body_Obsidian.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T7_Body_Obsidian.uasset",
+    "wearableRow": "T07_Armour_Body_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 65,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    }
+  },
+  {
+    "persistenceId": "_RC22U77s72dRjuGLxYfqg",
+    "name": "Obsidian Helmet",
+    "rowName": "armour_head_obsidianhelmet",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_M_MED_HEAD_ObsidianArmour_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Head_ObsidianHelmet.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T7_Head_ObsidianHelmet.uasset",
+    "wearableRow": "T07_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 26,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "OJxpIUQ0gJUfip-6RRXpYw",
+    "name": "Obsidian Legs",
+    "rowName": "armour_legs_obsidianlegarmour",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_LEGS_ObsidianArmour_01.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T7_Legs_Obsidian.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T7_Legs_Obsidian.uasset",
+    "wearableRow": "T07_Armour_Legs_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 39,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    }
+  },
+  {
+    "persistenceId": "541r5U652crDNBS00bHcdA",
+    "name": "Orange Adventurer's Cape",
+    "rowName": "armour_t0_cape_adventurers_orange",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_icon_Cape_Orange.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Adventurers_Orange.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Adventurers_Orange.uasset",
+    "wearableRow": "Cape_Adventurers_Orange",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "Cstrlkj6907S-gKLWYdKnA",
+    "name": "Orange Desert Cape",
+    "rowName": "armour_t0_cape_menaphitecape_orange",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Menaphite_Cape_06.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_MenaphiteCape_Orange.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_MenaphiteCape_Orange.uasset",
+    "wearableRow": "Cape_MenaphiteCape_Orange",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "mkSObERGptKuVly00uIfTQ",
+    "name": "Paladin Platelegs",
+    "rowName": "armour_legs_paladin",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_Paladin_s_Platelegs.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1400,
+    "sourceAsset": "ITEM_Armour_T4_Legs_Paladin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T4_Legs_Paladin.uasset",
+    "wearableRow": "T04_Armour_Legs_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 21,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    }
+  },
+  {
+    "persistenceId": "5PEcXkJHZY9PDqKb9Skqww",
+    "name": "Paladin's Helm",
+    "rowName": "armour_head_paladin",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_Paladin_s_Helmet.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1400,
+    "sourceAsset": "ITEM_Armour_T4_Head_Paladin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T4_Head_Paladin.uasset",
+    "wearableRow": "T04_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 14,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "0LL6JE9-pi2e3VSDOwqqYw",
+    "name": "Paladin's Platebody",
+    "rowName": "armour_body_paladin",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_Paladin_s_Chestplatel.png",
+    "weight": 16,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T4_Body_Paladin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T4_Body_Paladin.uasset",
+    "wearableRow": "T04_Armour_Body_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 35,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    }
+  },
+  {
+    "persistenceId": "LoXsN0jDsW_KeC-xjR4TAg",
+    "name": "Pink Adventurer's Cape",
+    "rowName": "armour_t0_cape_adventurers_pink",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_icon_Cape_Pink.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Adventurers_Pink.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Adventurers_Pink.uasset",
+    "wearableRow": "Cape_Adventurers_Pink",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "BqaEfUsE_zpfkE-nynz0Sw",
+    "name": "Pink Desert Cape",
+    "rowName": "armour_t0_cape_menaphitecape_pink",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Menaphite_Cape_04.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_MenaphiteCape_Pink.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_MenaphiteCape_Pink.uasset",
+    "wearableRow": "Cape_MenaphiteCape_Pink",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "HCdglE6uSn0nY36BNP8tOg",
+    "name": "Pink Dyad Cape",
+    "rowName": "armour_t0_cape_PinkDyad",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Adventurer_Capes_Pattern_02_Pink.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_PinkDyad.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_PinkDyad.uasset",
+    "wearableRow": "Cape_Adventurers_PinkDyad",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "vXzmDEEKYJvFqymlqaOrEg",
+    "name": "Pink Hex Cape",
+    "rowName": "armour_t0_cape_PinkHex",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Adventurer_Capes_Pattern_01_Pink.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_PinkHex.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_PinkHex.uasset",
+    "wearableRow": "Cape_Adventurers_PinkHex",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "BOb1iEzyCdDhlNWQVxo_eA",
+    "name": "Pioneer's Cape",
+    "rowName": "armour_t0_cape_earlyadopter",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Pioneer.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_EarlyAdopter.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_EarlyAdopter.uasset",
+    "wearableRow": "Cape_EarlyAdopter",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "TNwe-UTLT1bxEPKBM9GnAQ",
+    "name": "Pioneer's Scarf",
+    "rowName": "armour_head_earlyadopter",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour"
+    ],
+    "icon": "T_Icon_Pioneer_Scarf.png",
+    "weight": 2,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Armour_Head_EarlyAdopter.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_Head_EarlyAdopter.uasset",
+    "wearableRow": "Armour_Head_EarlyAdopter",
+    "equipmentKind": "wearable"
+  },
+  {
+    "persistenceId": "tjyp-0ILfgtqr1K_O7O6pw",
+    "name": "Purple Adventurer's Cape",
+    "rowName": "armour_t0_cape_adventurers_purple",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_icon_Cape_Purple.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Adventurers_Purple.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Adventurers_Purple.uasset",
+    "wearableRow": "Cape_Adventurers_Purple",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "JIk_PUGFYEz5kTymD_a8JQ",
+    "name": "Purple Desert Cape",
+    "rowName": "armour_t0_cape_menaphitecape_purple",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Menaphite_Cape_03.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_MenaphiteCape_Purple.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_MenaphiteCape_Purple.uasset",
+    "wearableRow": "Cape_MenaphiteCape_Purple",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "iBBfwk2Gnv0b5CqMNA5biw",
+    "name": "Ranged Cape",
+    "rowName": "armour_t0_cape_skillcape_ranged",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Ranged.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Skillcape_Ranged.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Skillcape_Ranged.uasset",
+    "wearableRow": "Cape_Artisan",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "dgUWeUtE1THccFOPOwoilw",
+    "name": "Ranged Cape - Trimmed",
+    "rowName": "armour_t0_cape_skillcape_ranged_trimmed",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Ranged_Master.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Trimmed_Skillcape_Ranged.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Trimmed_Skillcape_Ranged.uasset",
+    "wearableRow": "Cape_Artisan",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "G3PQn0IrK3xN_KiFGiK1XA",
+    "name": "Ranger Hat",
+    "rowName": "armour_head_Ranger",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_icon_Ranger_Hat.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T5_Head_Ranger.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T5_Head_Ranger.uasset",
+    "wearableRow": "T05_Armour_Head_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 18,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    }
+  },
+  {
+    "persistenceId": "uRgtu0xFj-2S1suM_JFJoQ",
+    "name": "Ranger Tights",
+    "rowName": "armour_legs_Ranger",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_icon_Ranger_Legs.png",
+    "weight": 9,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T5_Legs_Ranger.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T5_Legs_Ranger.uasset",
+    "wearableRow": "T05_Armour_Legs_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 27,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    }
+  },
+  {
+    "persistenceId": "IalNEUbWy5_alu6a4ffmUw",
+    "name": "Ranger Tunic",
+    "rowName": "armour_body_Ranger",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_icon_Ranger_Body.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T5_Body_Ranger.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T5_Body_Ranger.uasset",
+    "wearableRow": "T05_Armour_Body_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 45,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    }
+  },
+  {
+    "persistenceId": "-Rg5cUmrkSN3dROPddWxFQ",
+    "name": "Red Adventurer's Cape",
+    "rowName": "armour_t0_cape_adventurers_red",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_icon_Cape_Red.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Adventurers_Red.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Adventurers_Red.uasset",
+    "wearableRow": "Cape_Adventurers_Red",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "lcwgUUCB60nAmauoM_nSzw",
+    "name": "Red Desert Cape",
+    "rowName": "armour_t0_cape_menaphitecape_red",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Menaphite_Cape_08.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_MenaphiteCape_Red.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_MenaphiteCape_Red.uasset",
+    "wearableRow": "Cape_MenaphiteCape_Red",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "8YDF10WKax3H6eqAQbVtQg",
+    "name": "Red Dragonhide Body",
+    "rowName": "armour_body_RedDragon",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_BODY_Red_Dragon_Hide_Armour.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T7_Body_RedDragon.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T7_Body_RedDragon.uasset",
+    "wearableRow": "T07_Armour_Body_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 65,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    }
+  },
+  {
+    "persistenceId": "qxQrVkbq1cxD7KeumKJHVw",
+    "name": "Red Dragonhide Coif",
+    "rowName": "armour_head_RedDragon",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_HEAD_Red_Dragon_Hide_Armour_01.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T7_Head_RedDragon.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T7_Head_RedDragon.uasset",
+    "wearableRow": "T07_Armour_Head_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 26,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    }
+  },
+  {
+    "persistenceId": "iMnzlUiuN9vtotCkMB4-0Q",
+    "name": "Red Dragonhide Legs",
+    "rowName": "armour_legs_RedDragon",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_LEGS_Red_Dragon_Hide_Armour_01.png",
+    "weight": 9,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T7_Legs_RedDragon.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T7_Legs_RedDragon.uasset",
+    "wearableRow": "T07_Armour_Legs_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 39,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    }
+  },
+  {
+    "persistenceId": "QNqJUkJWdSpXTleZ1KTEdQ",
+    "name": "Red Dyad Cape",
+    "rowName": "armour_t0_cape_RedDyad",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Adventurer_Capes_Pattern_02_Red.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_RedDyad.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_RedDyad.uasset",
+    "wearableRow": "Cape_Adventurers_RedDyad",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "ivdulE2nDCtOoLePNKfp0w",
+    "name": "Red Hex Cape",
+    "rowName": "armour_t0_cape_RedHex",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Adventurer_Capes_Pattern_01_Red.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_RedHex.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_RedHex.uasset",
+    "wearableRow": "Cape_Adventurers_RedHex",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "mkaB7UQN1fBbSkGNVTVRZw",
+    "name": "Reinforced Body",
+    "rowName": "armour_body_reinforced",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_M_MED_BODY_ReinforcedArmour_01.png",
+    "weight": 16,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Armour_T2_Body_Reinforced.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T2_Body_Reinforced.uasset",
+    "wearableRow": "T02_Armour_Body_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 15,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    }
+  },
+  {
+    "persistenceId": "YvIen0_ZFiR1Kn-5ucQrDA",
+    "name": "Reinforced Helmet",
+    "rowName": "armour_head_reinforced",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_M_MED_HEAD_ReinforcedArmour_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Armour_T2_Head_Reinforced.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T2_Head_Reinforced.uasset",
+    "wearableRow": "T02_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 6,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "GZuI4kHd7c-hpqWq5Nbdpw",
+    "name": "Reinforced Platelegs",
+    "rowName": "armour_legs_reinforced",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_M_MED_LEGS_ReinforcedArmour_01.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "baseDurability": 1000,
+    "sourceAsset": "ITEM_Armour_T2_Legs_Reinforced.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T2_Legs_Reinforced.uasset",
+    "wearableRow": "T02_Armour_Legs_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 9,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    }
+  },
+  {
+    "persistenceId": "7C6C5kN2_U_J0c-R1pLOmA",
+    "name": "Rune Helm",
+    "rowName": "armour_head_rune",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_M_MED_HEAD_RuneArmour_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T8_Head_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T8_Head_Rune.uasset",
+    "wearableRow": "T08_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 30,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "-j4yrkKKyNAEufKEJ7C35Q",
+    "name": "Rune Med Helm",
+    "rowName": "armour_head_runeMed",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_U_MED_HEAD_MediumHelmet_Rune_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T8_Head_RuneMed.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T8_Head_RuneMed.uasset",
+    "wearableRow": "T08_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 30,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "pr5dIEeoxHe4rfGi9_iz-g",
+    "name": "Rune Platebody",
+    "rowName": "armour_body_rune",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_M_MED_BODY_RuneArmour_01.png",
+    "weight": 16,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T8_Body_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T8_Body_Rune.uasset",
+    "wearableRow": "T08_Armour_Body_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 75,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    }
+  },
+  {
+    "persistenceId": "ISY_y080WUFFE_KJm75w1g",
+    "name": "Rune Platelegs",
+    "rowName": "armour_legs_rune",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_M_MED_LEGS_RuneArmour_01.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T8_Legs_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T8_Legs_Rune.uasset",
+    "wearableRow": "T08_Armour_Legs_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 45,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    }
+  },
+  {
+    "persistenceId": "8IK7e0kOy0gVVDKoVnHucA",
+    "name": "Runecrafting Cape",
+    "rowName": "armour_t0_cape_skillcape_runecrafting",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Runecrafting.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Skillcape_Runecrafting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Skillcape_Runecrafting.uasset",
+    "wearableRow": "Cape_Runecrafting",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "OlEZ-03KPyGi7U-IlAvobg",
+    "name": "Runecrafting Cape (Trimmed)",
+    "rowName": "armour_t0_cape_skillcape_runecrafting_trimmed",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Runecrafting_Master.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Trimmed_Skillcape_Runecrafting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Trimmed_Skillcape_Runecrafting.uasset",
+    "wearableRow": "Cape_Runecrafting",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "wEW2qEiffVgFFlmRJse7yg",
+    "name": "Saradominist Cloak",
+    "rowName": "armour_t0_cape_SaradoministCloak",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Saradomin_Cape.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Cape_Saradominist.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Saradominist.uasset",
+    "wearableRow": "Cape_Saradominist_Cloak",
+    "equipmentKind": "wearable",
+    "powerLevelInferred": true,
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "lbGGMk9q_D8NqFer1Phs6Q",
+    "name": "Shadow Body",
+    "rowName": "armour_body_blackranger",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_Dark_Knight_Body.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Body_BlackRanger.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T6_Body_BlackRanger.uasset",
+    "wearableRow": "T06_Armour_Body_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 55,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    }
+  },
+  {
+    "persistenceId": "_SPkA02pw6hv7kG38Dh4Yw",
+    "name": "Shadow Chaps",
+    "rowName": "armour_legs_blackranger",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_Dark_Knight_Chaps.png",
+    "weight": 9,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Legs_BlackRanger.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T6_Legs_BlackRanger.uasset",
+    "wearableRow": "T06_Armour_Legs_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 33,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    }
+  },
+  {
+    "persistenceId": "biA3GUeX-fn65ZCLmkdsag",
+    "name": "Shadow Cowl",
+    "rowName": "armour_head_blackranger",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_Dark_Knight_Cowl.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Head_BlackRanger.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T6_Head_BlackRanger.uasset",
+    "wearableRow": "T06_Armour_Head_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 22,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    }
+  },
+  {
+    "persistenceId": "NSARJEh5evOUK_Cs17GhLA",
+    "name": "Shadowscale Cape",
+    "rowName": "armour_t0_cape_Skeleton",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_icon_Shadowscale_Cape.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Skeleton.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Skeleton.uasset",
+    "wearableRow": "Cape_Skeleton",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "mOrF6UCuMkbZY0mVJp3wSg",
+    "name": "Shadowscale Hood",
+    "rowName": "armour_head_SkeletonRanger",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_icon_Shadowscale_Hood.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T5_Head_SkeletonRanger.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T5_Head_SkeletonRanger.uasset",
+    "wearableRow": "T05_Armour_Head_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 18,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    }
+  },
+  {
+    "persistenceId": "xuoyTUAlufgRGmy9Kr2hDw",
+    "name": "Shroud Of Noggin",
+    "rowName": "armour_head_spectralbagofnoggin",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour"
+    ],
+    "icon": "T_Icon_Spectral_Noggin.png",
+    "weight": 1,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "baseDurability": 500,
+    "sourceAsset": "ITEM_Armour_Head_SpectralBagOfNoggin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_Head_SpectralBagOfNoggin.uasset",
+    "wearableRow": "Armour_Head_BagOfNoggin",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 1
+    }
+  },
+  {
+    "persistenceId": "uqGAn0tZnBkZEJSwmx70KA",
+    "name": "Spectral Chinchompa Cape",
+    "rowName": "armour_t0_cape_chinchompa",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Spectral_chinchompa_Cape.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Chinchompa.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Chinchompa.uasset",
+    "wearableRow": "Cape_Fellhollow",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "TASgGUjnZPDyV6arZ72Yhg",
+    "name": "Splitbark Body",
+    "rowName": "armour_body_Splitbark",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_icon_Splitbark_Body.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Body_Splitbark.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T5_Body_Splitbark.uasset",
+    "wearableRow": "T05_Armour_Body_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 45,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    }
+  },
+  {
+    "persistenceId": "DIvBq0PMLtU5hRymvVGsqA",
+    "name": "Splitbark Helm",
+    "rowName": "armour_head_Splitbark",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_icon_Splitbark_Helmet.png",
+    "weight": 4,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Head_Splitbark.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T5_Head_Splitbark.uasset",
+    "wearableRow": "T05_Armour_Head_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 18,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    }
+  },
+  {
+    "persistenceId": "kx5mgkBuVkrt5oaFyFIjag",
+    "name": "Splitbark Legs",
+    "rowName": "armour_legs_Splitbark",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_icon_Splitbark_Legs.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Legs_Splitbark.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T5_Legs_Splitbark.uasset",
+    "wearableRow": "T05_Armour_Legs_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 27,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    }
+  },
+  {
+    "persistenceId": "vD5BTU75YhilvnGtFX3L0Q",
+    "name": "Steel Full Helm",
+    "rowName": "armour_head_steel",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_icon_Steel_Helmet.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Head_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T5_Head_Steel.uasset",
+    "wearableRow": "T05_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 18,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "TTFC3k9GVEfgOCeuJKdZqQ",
+    "name": "Steel Med Helm",
+    "rowName": "armour_head_steelMed",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_SM_U_MED_HEAD_MediumHelmet_Steel_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Head_SteelMed.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T5_Head_SteelMed.uasset",
+    "wearableRow": "T05_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 18,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "uRhtpkdkwxqA1tih10PgbQ",
+    "name": "Steel Platebody",
+    "rowName": "armour_body_steel",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_icon_Steel_Body.png",
+    "weight": 16,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Body_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T5_Body_Steel.uasset",
+    "wearableRow": "T05_Armour_Body_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 45,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    }
+  },
+  {
+    "persistenceId": "WpUQ9kNFlOMYxp-YGrfOlQ",
+    "name": "Steel Platelegs",
+    "rowName": "armour_legs_steel",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_icon_Steel_Legs.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Legs_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T5_Legs_Steel.uasset",
+    "wearableRow": "T05_Armour_Legs_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 27,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    }
+  },
+  {
+    "persistenceId": "KMexB0_3MwL8rEC0g0xd5g",
+    "name": "Stormtouched Cape",
+    "rowName": "armour_t0_cape_stormtouched",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Stormtouched.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Stormtouched.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Stormtouched.uasset",
+    "wearableRow": "Cape_Stormtouched",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "eAqy2E05wXWCK4O5s2Dnwg",
+    "name": "Studded Leather Body",
+    "rowName": "armour_body_studdedleather",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_M_MED_BODY_StuddedLeather_01.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T4_Body_StuddedLeather.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T4_Body_StuddedLeather.uasset",
+    "wearableRow": "T04_Armour_Body_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 35,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    }
+  },
+  {
+    "persistenceId": "bZAEoUISHmuQXu6HlIFIyQ",
+    "name": "Studded Leather Chaps",
+    "rowName": "armour_legs_studdedleather",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_M_MED_LEGS_StuddedLeather_01.png",
+    "weight": 9,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T4_Legs_StuddedLeather.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T4_Legs_StuddedLeather.uasset",
+    "wearableRow": "T04_Armour_Legs_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 21,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    }
+  },
+  {
+    "persistenceId": "YVvQRk9Uv1a4PceWi3985w",
+    "name": "Studded Leather Cowl",
+    "rowName": "armour_head_studdedleather",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_M_MED_HEAD_StuddedLeather_01.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T4_Head_StuddedLeather.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T4_Head_StuddedLeather.uasset",
+    "wearableRow": "T04_Armour_Head_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 14,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    }
+  },
+  {
+    "persistenceId": "6L-fvUa58zMKWFabeAk0tg",
+    "name": "Tattered Cape",
+    "rowName": "armour_t2_cape_tattered",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_TatteredCape.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Tattered.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Tattered.uasset",
+    "wearableRow": "Cape_Tattered",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "Zpa3i0jDJOSNw5eyojsvNA",
+    "name": "Umbral Sands Cape",
+    "rowName": "armour_t0_cape_umbralsands",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Umbral_Sands_Cape.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_UmbralSands.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_UmbralSands.uasset",
+    "wearableRow": "Cape_UmbralSandsCape",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "qANQGE8VKB_lSNeI-PHxGQ",
+    "name": "Whispering Cape",
+    "rowName": "armour_t0_cape_whispering",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Whispering.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Whispering.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Whispering.uasset",
+    "wearableRow": "Cape_Whispering",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "HbmyZUThqBt2KcOj76C94w",
+    "name": "White Adventurer's Cape",
+    "rowName": "armour_t0_cape_adventurers_white",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_icon_Cape_White.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Adventurers_White.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Adventurers_White.uasset",
+    "wearableRow": "Cape_Adventurers_White",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "ctNCQ0AjjwjFHVO1Tjye0A",
+    "name": "White Desert Cape",
+    "rowName": "armour_t0_cape_menaphitecape_white",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Menaphite_Cape_09.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_MenaphiteCape_White.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_MenaphiteCape_White.uasset",
+    "wearableRow": "Cape_MenaphiteCape_White",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "xtEdM0Yqszwm-EecebIkmg",
+    "name": "White Full Helm",
+    "rowName": "armour_head_White",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_icon_White_Helmet.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Head_White.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T5_Head_White.uasset",
+    "wearableRow": "T05_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 18,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "JzK_9kPim7eZwVyRSbsGsQ",
+    "name": "White Med Helm",
+    "rowName": "armour_head_whiteMed",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_Icon_M_Head_BronzeArmour_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T3_Head_WhiteMed.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T3_Head_WhiteMed.uasset",
+    "wearableRow": "T03_Armour_Head_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 10,
+      "meleeResistance": 2,
+      "rangedResistance": -1,
+      "magicResistance": -2
+    }
+  },
+  {
+    "persistenceId": "ayHkBEYv_2a4B12L34FYzg",
+    "name": "White Platebody",
+    "rowName": "armour_body_White",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_icon_White_Body.png",
+    "weight": 16,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Body_White.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T5_Body_White.uasset",
+    "wearableRow": "T05_Armour_Body_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 45,
+      "meleeResistance": 5,
+      "rangedResistance": -2.5,
+      "magicResistance": -5
+    }
+  },
+  {
+    "persistenceId": "Mbvs0E3m6SxphTmzqShZxw",
+    "name": "White Platelegs",
+    "rowName": "armour_legs_White",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Heavy"
+    ],
+    "icon": "T_icon_White_Legs.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1500,
+    "sourceAsset": "ITEM_Armour_T5_Legs_White.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T5_Legs_White.uasset",
+    "wearableRow": "T05_Armour_Legs_Heavy",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 27,
+      "meleeResistance": 3,
+      "rangedResistance": -1.5,
+      "magicResistance": -3
+    }
+  },
+  {
+    "persistenceId": "fr5LJkUvJRZ-DbqVbKaB4w",
+    "name": "Wild Archer Body",
+    "rowName": "armour_body_wildarcher",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_Wild_Archer_s_Chest.png",
+    "weight": 12,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1400,
+    "sourceAsset": "ITEM_Armour_T4_Body_WildArcher.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T4_Body_WildArcher.uasset",
+    "wearableRow": "T04_Armour_Body_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 35,
+      "meleeResistance": -2.5,
+      "rangedResistance": 2.5,
+      "magicResistance": -2.5
+    }
+  },
+  {
+    "persistenceId": "l6qWl0-xTPdrhweMah3eTg",
+    "name": "Wild Archer Chaps",
+    "rowName": "armour_legs_wildarcher",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_Wild_Archer_s_Chaps.png",
+    "weight": 9,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1400,
+    "sourceAsset": "ITEM_Armour_T4_Legs_WildArcher.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T4_Legs_WildArcher.uasset",
+    "wearableRow": "T04_Armour_Legs_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 21,
+      "meleeResistance": -1.5,
+      "rangedResistance": 1.5,
+      "magicResistance": -1.5
+    }
+  },
+  {
+    "persistenceId": "gIoZIUIT52OUDkGFuzSBlw",
+    "name": "Wild Archer Cowl",
+    "rowName": "armour_head_wildarcher",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Medium"
+    ],
+    "icon": "T_Icon_Wild_Archer_s_Coif.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1400,
+    "sourceAsset": "ITEM_Armour_T4_Head_WildArcher.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T4_Head_WildArcher.uasset",
+    "wearableRow": "T04_Armour_Head_Medium",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 14,
+      "meleeResistance": -1,
+      "rangedResistance": 1,
+      "magicResistance": -1
+    }
+  },
+  {
+    "persistenceId": "h0jHf-hTx0KeGyukdCnN4Q",
+    "name": "Wizard Hat",
+    "rowName": "armour_head_wizard",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_M_MED_Head_WizardRobe_01.png",
+    "weight": 4,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T3_Head_Wizard.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T3_Head_Wizard.uasset",
+    "wearableRow": "T03_Armour_Head_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 10,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    }
+  },
+  {
+    "persistenceId": "FlnNkilo_EyfB0gbqf32AQ",
+    "name": "Wizard Robe Legs",
+    "rowName": "armour_legs_wizard",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_M_MED_Lowerhalf_WizardRobe_01.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T3_Legs_Wizard.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T3_Legs_Wizard.uasset",
+    "wearableRow": "T03_Armour_Legs_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 15,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    }
+  },
+  {
+    "persistenceId": "2-okKxsy7k-FRgP-vgQEQA",
+    "name": "Wizard Robes",
+    "rowName": "armour_body_wizard",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_M_MED_Upperhalf_WizardRobe_01.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1250,
+    "sourceAsset": "ITEM_Armour_T3_Body_Wizard.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T3_Body_Wizard.uasset",
+    "wearableRow": "T03_Armour_Body_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 25,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    }
+  },
+  {
+    "persistenceId": "tONipUK6uHIncbGoHW67Ww",
+    "name": "Woodcutting Cape",
+    "rowName": "armour_t0_cape_skillcape_woodcutting",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Woodcutting.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Skillcape_Woodcutting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Skillcape_Woodcutting.uasset",
+    "wearableRow": "Cape_Woodcutting",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "bIwxyUxgeaVtw_-2_uCxKw",
+    "name": "Woodcutting Cape (Trimmed)",
+    "rowName": "armour_t0_cape_skillcape_woodcutting_trimmed",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Cape_Skill_Woodcutting_Master.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Trimmed_Skillcape_Woodcutting.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Trimmed_Skillcape_Woodcutting.uasset",
+    "wearableRow": "Cape_Woodcutting",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "KWy6hkjlCUL1a0eynn0ptg",
+    "name": "Yellow Adventurer's Cape",
+    "rowName": "armour_t0_cape_adventurers_yellow",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_icon_Cape_Yellow.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Adventurers_Yellow.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Adventurers_Yellow.uasset",
+    "wearableRow": "Cape_Adventurers_Yellow",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "uWA8yUeWfGm96PeYbWZHsA",
+    "name": "Yellow Desert Cape",
+    "rowName": "armour_t0_cape_menaphitecape_yellow",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Menaphite_Cape_02.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_MenaphiteCape_Yellow.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_MenaphiteCape_Yellow.uasset",
+    "wearableRow": "Cape_MenaphiteCape_Yellow",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "n7f1sU8i2d5NTeqr79Q2jw",
+    "name": "Yellow Dyad Cape",
+    "rowName": "armour_t0_cape_YellowDyad",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Adventurer_Capes_Pattern_02_Yellow.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_YellowDyad.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_YellowDyad.uasset",
+    "wearableRow": "Cape_Adventurers_YellowDyad",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "5ObYyU8L58JkwhCmQRd4ow",
+    "name": "Yellow Hex Cape",
+    "rowName": "armour_t0_cape_YellowHex",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Adventurer_Capes_Pattern_01_Yellow.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_YellowHex.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_YellowHex.uasset",
+    "wearableRow": "Cape_Adventurers_YellowHex",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "8L37OE7i2JOHvnKTu-_-xw",
+    "name": "Zamorak Cape",
+    "rowName": "armour_t0_cape_ZamorakCape",
+    "category": "Armour",
+    "subcategory": "Cape",
+    "tags": [
+      "ItemFilter.Type.Equipment.Cape"
+    ],
+    "icon": "T_Icon_Zamorak_Cape.png",
+    "weight": 0,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Cape_Zamorak.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Cape/ITEM_Cape_Zamorak.uasset",
+    "wearableRow": "Cape_Zamorak",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 2
+    }
+  },
+  {
+    "persistenceId": "Y6JG90UQGtCjaEWeXeohyA",
+    "name": "Zamorak Hood",
+    "rowName": "armour_head_zamorak",
+    "category": "Armour",
+    "subcategory": "Head",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_Zamorak_Hood.png",
+    "weight": 4,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Head_Zamorak.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Head/ITEM_Armour_T6_Head_Zamorak.uasset",
+    "wearableRow": "T06_Armour_Head_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 22,
+      "meleeResistance": -2,
+      "rangedResistance": -1,
+      "magicResistance": 2
+    }
+  },
+  {
+    "persistenceId": "qoTWm0fCuyU02EaXPn_WYw",
+    "name": "Zamorak Robe Legs",
+    "rowName": "armour_legs_zamorak",
+    "category": "Armour",
+    "subcategory": "Legs",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_Zamorak_Robe_Legs.png",
+    "weight": 6,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Legs_Zamorak.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Legs/ITEM_Armour_T6_Legs_Zamorak.uasset",
+    "wearableRow": "T06_Armour_Legs_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 33,
+      "meleeResistance": -3,
+      "rangedResistance": -1.5,
+      "magicResistance": 3
+    }
+  },
+  {
+    "persistenceId": "OezNHEUySdZx5LKVOe5__A",
+    "name": "Zamorak Robes",
+    "rowName": "armour_body_zamorak",
+    "category": "Armour",
+    "subcategory": "Body",
+    "tags": [
+      "ItemFilter.Type.Equipment.Armour.Light"
+    ],
+    "icon": "T_Icon_Zamorak_Robe.png",
+    "weight": 8,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1750,
+    "sourceAsset": "ITEM_Armour_T6_Body_Zamorak.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Body/ITEM_Armour_T6_Body_Zamorak.uasset",
+    "wearableRow": "T06_Armour_Body_Light",
+    "equipmentKind": "wearable",
+    "defense": {
+      "armourValue": 55,
+      "meleeResistance": -5,
+      "rangedResistance": -2.5,
+      "magicResistance": 5
+    }
+  }
+]

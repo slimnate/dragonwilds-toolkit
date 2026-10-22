@@ -1,0 +1,1297 @@
+[
+  {
+    "persistenceId": "ZT1Lf0dvi6G6vbSbllOXtw",
+    "name": "Adamant Arrow",
+    "rowName": "ammo_arrows_adamant",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Arrow.Adamant"
+    ],
+    "icon": "T_Icon_Arrows_Adamant.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Ammo_Arrows_Adamant_Bodkin.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Arrows_Adamant_Bodkin.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Arrows"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "RNurF0W7JRiX6iKByxv1uA",
+    "name": "Adamant Bolt",
+    "rowName": "ammo_bolts_adamant",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Adamant"
+    ],
+    "icon": "T_Icon_Bolts_Adamant.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Ammo_Bolts_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Bolts_Adamant.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Bolts"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "UzeGA06dsEo2Tzq4HxeD6w",
+    "name": "Adamant Crossbow",
+    "rowName": "weap_crossbow_adamant",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Bone",
+      "Item.Equipment.Weapon.Bow.Shortbow",
+      "Item.Equipment.Weapon.Crossbow"
+    ],
+    "icon": "T_Icon_Crossbow_Adamant_1H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Crossbow_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Crossbow/ITEM_Crossbow_Adamant.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_RangedAttack_Crossbow"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "Dvo6TE2d7YNnoni8XbKYzw",
+    "name": "Air Rune",
+    "rowName": "res_rune_air",
+    "category": "Ammo",
+    "tags": [
+      "ItemFilter.Type.Equipment.Ammo.Rune"
+    ],
+    "icon": "T_Icon_Rune_Air.png",
+    "weight": 0,
+    "maxStackSize": 9999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Rune_Air.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Magic/ITEM_Rune_Air.uasset",
+    "damageTypes": [
+      "DamageType.Magical.Air"
+    ]
+  },
+  {
+    "persistenceId": "alCPU0iPc4EXVfu4RNdvVw",
+    "name": "Anchovy Bait",
+    "rowName": "ammo_fishbait_anchovies",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bait.Anchovy"
+    ],
+    "icon": "T_Icon_Anchovy_Bait.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_FishBait_Anchovy.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingRod/Baits/ITEM_FishBait_Anchovy.uasset"
+  },
+  {
+    "persistenceId": "Bq0ZtEpPHxnbS1CU-MYa7A",
+    "name": "Animated Feather",
+    "rowName": "ammo_fishbait_animatedfeather",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bait.AnimatedFeather"
+    ],
+    "icon": "T_Icon_Animated_Feather_Bait.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_FishBait_AnimatedFeather.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingRod/Baits/ITEM_FishBait_AnimatedFeather.uasset"
+  },
+  {
+    "persistenceId": "4wdYZE-FFMhS9Iia0ftWDg",
+    "name": "Astral Rune",
+    "rowName": "res_rune_astral",
+    "category": "Ammo",
+    "tags": [
+      "ItemFilter.Type.Equipment.Ammo.Rune"
+    ],
+    "icon": "T_Icon_Rune_Astral.png",
+    "weight": 0,
+    "maxStackSize": 9999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Rune_Astral.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Magic/ITEM_Rune_Astral.uasset"
+  },
+  {
+    "persistenceId": "HogQf0rvQPyH3MWRnZKfGw",
+    "name": "Blurite Bolt",
+    "rowName": "ammo_bolts_blurite",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Blurite"
+    ],
+    "icon": "T_Icon_CrossbowBolt_Blurite_01.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Ammo_Bolts_Blurite.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Bolts_Blurite.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Bolts"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "FBidmkaAlCyLg6mpOaonMQ",
+    "name": "Blurite Crossbow",
+    "rowName": "weap_crossbow_blurite",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Bone",
+      "Item.Equipment.Weapon.Crossbow"
+    ],
+    "icon": "T_Icon_Crossbow_Blurite_1H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Crossbow_Blurite.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Crossbow/ITEM_Crossbow_Blurite.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "block": "PA_Block_Crossbow",
+      "primary": "PA_RangedAttack_Crossbow"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "DOsOLkIUyXaO8-yRed2iUg",
+    "name": "Bone Bolt",
+    "category": "Ammo",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "icon": "T_Icon_Bone_Bolt.png"
+  },
+  {
+    "persistenceId": "THi5wk7TfEUjXhWEkP6oZQ",
+    "name": "Bow of Elidinis",
+    "rowName": "weap_longbow_BowofElidinis",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Arrow.StatusEffect",
+      "Item.Equipment.Weapon.Bow.Longbow"
+    ],
+    "icon": "T_Icon_Longbow_Elidin.png",
+    "weight": 15,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Longbow_BowofElidinis.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Held/Bow/ITEM_Longbow_BowofElidinis.uasset",
+    "damageTypes": [
+      "DamageType.Magical.Water"
+    ],
+    "abilities": {
+      "primary": "PA_Aim_Bow",
+      "special": "PA_BowOfElidinis_Special"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "XvhWN00lBZJCFb6r0p-tMg",
+    "name": "Bronze Arrow",
+    "rowName": "ammo_arrows_bronze",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Arrow.Bronze"
+    ],
+    "icon": "T_Icon_Arrows_Bronze.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Ammo_Arrows_Bronze_Bodkin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Arrows_Bronze_Bodkin.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Arrows"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "0Tp64UgXjCbF69aH3ZhQQA",
+    "name": "Bronze Barbed Arrow",
+    "category": "Ammo",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "icon": "T_Icon_Arrows_Bronze.png"
+  },
+  {
+    "persistenceId": "jgYiuU8aQY7BNHaUKFjZpQ",
+    "name": "Bronze Bolt",
+    "rowName": "ammo_bolts_bronze",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Bronze"
+    ],
+    "icon": "T_Icon_CrossbowBolt_Bronze_01.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Ammo_Bolts_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Bolts_Bronze.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Bolts"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "CQbLYUZy7Pp_Ts6tlJow3A",
+    "name": "Bronze Crossbow",
+    "rowName": "weap_crossbow_bronze",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Bone",
+      "Item.Equipment.Weapon.Crossbow"
+    ],
+    "icon": "T_Icon_Crossbow_Bronze_1H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "baseDurability": 1050,
+    "sourceAsset": "ITEM_Crossbow_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Crossbow/ITEM_Crossbow_Bronze.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "block": "PA_Block_Crossbow",
+      "primary": "PA_RangedAttack_Crossbow"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "l8ARoEESskYD1mag4nRKlQ",
+    "name": "Bronze Fire Arrow",
+    "category": "Ammo",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "icon": "T_Icon_Arrows_Bronze.png"
+  },
+  {
+    "persistenceId": "eWL0U0dnOlww-eCyIIbDFA",
+    "name": "Dorgeshuun Crossbow",
+    "rowName": "weap_crossbow_dorgeshuun",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Bone",
+      "Item.Equipment.Weapon.Crossbow"
+    ],
+    "icon": "T_icon_Dorgeshuun_Crossbow.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Crossbow_Dorgeshuun.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Crossbow/ITEM_Crossbow_Dorgeshuun.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "block": "PA_Block_Crossbow",
+      "primary": "PA_RangedAttack_Crossbow"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "S9VvekNHj93PnKqGreMZKw",
+    "name": "Dragon Crossbow",
+    "rowName": "weap_crossbow_dragon",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Bone",
+      "Item.Equipment.Weapon.Bow.Shortbow",
+      "Item.Equipment.Weapon.Crossbow"
+    ],
+    "icon": "T_Icon_SM_Crossbow_Dragon_1H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 9,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Crossbow_Dragon.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Crossbow/ITEM_Crossbow_Dragon.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_RangedAttack_Crossbow"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "lCE7i3iXGUuHv7FphIOcXg",
+    "name": "Earth Rune",
+    "rowName": "res_rune_earth",
+    "category": "Ammo",
+    "tags": [
+      "ItemFilter.Type.Equipment.Ammo.Rune"
+    ],
+    "icon": "T_Icon_Rune_Earth_IconRemoved.png",
+    "weight": 0,
+    "maxStackSize": 9999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Rune_Earth.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Magic/ITEM_Rune_Earth.uasset"
+  },
+  {
+    "persistenceId": "TFskAU8Adv9ctHmPnn1VwA",
+    "name": "Enchanted Adamant Bolt",
+    "rowName": "ammo_bolts_enchanted_adamant",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Adamant"
+    ],
+    "icon": "T_Icon_Adamant_Bolt_Enchanted.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_Ammo_Bolts_Enchanted_Adamant.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Bolts_Enchanted_Adamant.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Bolts"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "SrnYYkzaT5NgG0qSqB2wWg",
+    "name": "Enchanted Blurite Bolt",
+    "rowName": "ammo_bolts_enchanted_blurite",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Blurite"
+    ],
+    "icon": "T_Icon_CrossbowBoltGem_Blurite_01.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Ammo_Bolts_Enchanted_Blurite.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Bolts_Enchanted_Blurite.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Bolts"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "lNc-PUngnrFoIP-h6Vlugg",
+    "name": "Enchanted Bronze Bolt",
+    "rowName": "ammo_bolts_enchanted_bronze",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Bronze"
+    ],
+    "icon": "T_Icon_CrossbowBoltGem_Bronze_01.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_Ammo_Bolts_Enchanted_Bronze.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Bolts_Enchanted_Bronze.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Bolts"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "HMZvK0ItELqUlmm4i5HqSQ",
+    "name": "Enchanted Iron Bolt",
+    "rowName": "ammo_bolts_enchanted_iron",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Iron"
+    ],
+    "icon": "T_Icon_CrossbowBoltGem_Iron_01.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Ammo_Bolts_Enchanted_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Bolts_Enchanted_Iron.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Bolts"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "J1kfmEkc5vYMULq4SD95pw",
+    "name": "Enchanted Mithril Bolt",
+    "rowName": "ammo_bolts_enchanted_mithril",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Mithril"
+    ],
+    "icon": "T_Icon_Mithril_Enchanted_Bolts.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_Ammo_Bolts_Enchanted_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Bolts_Enchanted_Mithril.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Bolts"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "8a3KFE2cB7F9zHab3l5qAA",
+    "name": "Enchanted Rune Bolt",
+    "rowName": "ammo_bolts_enchanted_rune",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Mithril"
+    ],
+    "icon": "T_Icon_Rune_Bolt_Enchanted.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "sourceAsset": "ITEM_Ammo_Bolts_Enchanted_rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Bolts_Enchanted_rune.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Bolts"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "sPbq7UpGgQcvbduqbSGJOg",
+    "name": "Enchanted Steel Bolt",
+    "rowName": "ammo_bolts_enchanted_steel",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Iron"
+    ],
+    "icon": "T_Icon_Steel_Enchanted_Bolt.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "sourceAsset": "ITEM_Ammo_Bolts_Enchanted_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Bolts_Enchanted_Steel.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Bolts"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "2vSF4Se4MkWaZG0pHYcb8g",
+    "name": "Fang Arrow",
+    "rowName": "ammo_arrows_fang",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Arrow.Bone"
+    ],
+    "icon": "T_Arrows_Bone.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Ammo_Arrows_Bone_Bodkin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Arrows_Bone_Bodkin.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Arrows"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "eUkqBUfmU0Z7i1eWFoBlhA",
+    "name": "Fang Barbed Arrow",
+    "rowName": "ammo_arrows_fang_barbed",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Arrow.StatusEffect"
+    ],
+    "icon": "T_Arrows_Bone.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Ammo_Arrows_Bone_Bleed.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Arrows_Bone_Bleed.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Arrows"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "dc8yKUHcqpatyH2TAfF_vg",
+    "name": "Fang Fire Arrow",
+    "rowName": "ammo_arrows_fang_fire",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Arrow.StatusEffect"
+    ],
+    "icon": "T_Arrows_Bone.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_Ammo_Arrows_Bone_Fire.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Arrows_Bone_Fire.uasset",
+    "damageTypes": [
+      "DamageType.Magical.Fire",
+      "DamageType.Ranged.Arrows"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "h1pEpUIgboLjOJKsjXXJZw",
+    "name": "Feather Bait",
+    "rowName": "ammo_fishbait_feather",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bait.Feather"
+    ],
+    "icon": "T_Icon_Feather_Bait.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_FishBait_Feather.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingRod/Baits/ITEM_FishBait_Feather.uasset"
+  },
+  {
+    "persistenceId": "TozwoUzW14wCyBGRmz9RcA",
+    "name": "Feathered Lure",
+    "rowName": "ammo_fishbait_featheredlure",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bait.FeatheredLure"
+    ],
+    "icon": "T_Icon_Feathered_Lure_Bait.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "sourceAsset": "ITEM_FishBait_FeatheredLure.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingRod/Baits/ITEM_FishBait_FeatheredLure.uasset"
+  },
+  {
+    "persistenceId": "_QMgbMYhjU-9jAD_euFbyQ",
+    "name": "Fire Rune",
+    "rowName": "res_rune_fire",
+    "category": "Ammo",
+    "tags": [
+      "ItemFilter.Type.Equipment.Ammo.Rune"
+    ],
+    "icon": "T_Icon_Rune_Fire.png",
+    "weight": 0,
+    "maxStackSize": 9999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Rune_Fire.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Magic/ITEM_Rune_Fire.uasset",
+    "damageTypes": [
+      "DamageType.Magical.Fire"
+    ]
+  },
+  {
+    "persistenceId": "MnciDkEfOe31HYy5MT6wbw",
+    "name": "Fishingbait V2",
+    "rowName": "ammo_bait_fishbait",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bait.FishingBait"
+    ],
+    "icon": "T_Icon_Placeholder.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_FishingBait_V2.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingRod/Baits/ITEM_FishingBait_V2.uasset"
+  },
+  {
+    "persistenceId": "PeolT0_ct7QU2umhCvJPSA",
+    "name": "Giant Krill Bait",
+    "rowName": "ammo_fishbait_boilies",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bait.Spooky"
+    ],
+    "icon": "T_Icon_Krill_Bait.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_FishBait_Boilies.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingRod/Baits/ITEM_FishBait_Boilies.uasset"
+  },
+  {
+    "persistenceId": "1-eS15sb9UW_8kRzIMyV6g",
+    "name": "Iron Arrow",
+    "rowName": "ammo_arrows_iron",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Arrow.Iron"
+    ],
+    "icon": "T_Icon_Arrows_Iron_.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Ammo_Arrows_Iron_Bodkin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Arrows_Iron_Bodkin.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Arrows"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "Xde3IkVxOOQUi3KnyJlf4Q",
+    "name": "Iron Barbed Arrow",
+    "category": "Ammo",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "icon": "T_Icon_Arrows_Iron_.png"
+  },
+  {
+    "persistenceId": "zqjy1Eimxm0DyYOgnCMLrQ",
+    "name": "Iron Bolt",
+    "rowName": "ammo_bolts_iron",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Iron"
+    ],
+    "icon": "T_Icon_CrossbowBolt_Iron_01.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "sourceAsset": "ITEM_Ammo_Bolts_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Bolts_Iron.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Bolts"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "igBY5kj2IGsY97C_dPJS2A",
+    "name": "Iron Crossbow",
+    "rowName": "weap_crossbow_iron",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Bone",
+      "Item.Equipment.Weapon.Crossbow"
+    ],
+    "icon": "T_Icon_Crossbow_Iron_1H_01.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Crossbow_Iron.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Crossbow/ITEM_Crossbow_Iron.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "block": "PA_Block_Crossbow",
+      "primary": "PA_RangedAttack_Crossbow"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "WuWEGkTx52fygdqsgCtQlg",
+    "name": "Iron Fire Arrow",
+    "category": "Ammo",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "icon": "T_Icon_Arrows_Iron_.png"
+  },
+  {
+    "persistenceId": "_TYsk0qA_d1z0AefNv9vnQ",
+    "name": "Kalphite Bait",
+    "rowName": "ammo_fishbait_kalphitefly",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bait.FeatheredLure"
+    ],
+    "icon": "T_Icon_Kalphite_Fly_Bait.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_FishBait_KalphiteFly.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Fish/ITEM_FishBait_KalphiteFly.uasset"
+  },
+  {
+    "persistenceId": "_c9JTkwKy8s88GWv586hbQ",
+    "name": "Law Rune",
+    "rowName": "res_rune_law",
+    "category": "Ammo",
+    "tags": [
+      "ItemFilter.Type.Equipment.Ammo.Rune"
+    ],
+    "icon": "T_Icon_Rune_Law.png",
+    "weight": 0,
+    "maxStackSize": 9999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Rune_Law.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Magic/ITEM_Rune_Law.uasset"
+  },
+  {
+    "persistenceId": "y5vf-0d1b6nNctWmDMJuMw",
+    "name": "Lobster Bait",
+    "rowName": "ammo_fishbait_lobster",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bait.Lobster"
+    ],
+    "icon": "T_Icon_Lobster_Bait.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "sourceAsset": "ITEM_FishBait_Lobster.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingRod/Baits/ITEM_FishBait_Lobster.uasset"
+  },
+  {
+    "persistenceId": "Rmi6eEWsjAHV4U-c_KOydQ",
+    "name": "Mithril Arrows",
+    "rowName": "ammo_arrows_mithril",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Arrow.Iron"
+    ],
+    "icon": "T_Icon_Mithril_Arrows.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_Ammo_Arrows_Mithril_Bodkin.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Arrows_Mithril_Bodkin.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Arrows"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "y5-f9kT-GnCQodazYiAcsA",
+    "name": "Mithril Barbed Arrow",
+    "category": "Ammo",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "icon": "T_Icon_Mithril_Arrows.png"
+  },
+  {
+    "persistenceId": "nFcRVkw9jTo4lpC5TG6Fcg",
+    "name": "Mithril Bolts",
+    "rowName": "ammo_bolts_mithril",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Iron"
+    ],
+    "icon": "T_Icon_Mithril_Bolts.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "sourceAsset": "ITEM_Ammo_Bolts_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Bolts_Mithril.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Bolts"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "LTpN7kJQaQKo4IWE_rXaVw",
+    "name": "Mithril Crossbow",
+    "rowName": "weap_crossbow_mithril",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Bone",
+      "Item.Equipment.Weapon.Crossbow"
+    ],
+    "icon": "T_Icon_Mithril_Crossbow.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Crossbow_Mithril.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Crossbow/ITEM_Crossbow_Mithril.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_RangedAttack_Crossbow"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "Dhd-hEsLnKZWq7yFkXChWw",
+    "name": "Mithril Fire Arrow",
+    "category": "Ammo",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "icon": "T_Icon_Mithril_Arrows.png"
+  },
+  {
+    "persistenceId": "fcVSqEfnLtAa8pm3vIpOZg",
+    "name": "Monkfish Bait",
+    "rowName": "ammo_fishbait_monkfish",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bait.Lobster"
+    ],
+    "icon": "T_Icon_Monkfish_Bait.png",
+    "weight": 0,
+    "maxStackSize": 99,
+    "vitalShield": 0,
+    "powerLevel": 7,
+    "sourceAsset": "ITEM_FishBait_Monkfish.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/UmbralSands/Content/Gameplay/Items/Resources/Fish/ITEM_FishBait_Monkfish.uasset"
+  },
+  {
+    "persistenceId": "iKbF7k2XvufGqqyg5rK-vQ",
+    "name": "Nature Rune",
+    "rowName": "res_rune_nature",
+    "category": "Ammo",
+    "tags": [
+      "ItemFilter.Type.Equipment.Ammo.Rune"
+    ],
+    "icon": "T_Icon_Rune_Nature.png",
+    "weight": 0,
+    "maxStackSize": 9999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Rune_Nature.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Magic/ITEM_Rune_Nature.uasset"
+  },
+  {
+    "persistenceId": "Fypi50GPQu-8haahRVUasQ",
+    "name": "Poisoned Bronze Arrow",
+    "category": "Ammo",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 3,
+    "icon": "T_Icon_Arrows_Bronze.png"
+  },
+  {
+    "persistenceId": "NN7EB08_YDtZEeiIzRl1GQ",
+    "name": "Poisoned Fang Arrow",
+    "category": "Ammo",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "icon": "T_Arrows_Bone.png"
+  },
+  {
+    "persistenceId": "cNekSUokIAxgCmaxWWEiHw",
+    "name": "Poisoned Iron Arrow",
+    "category": "Ammo",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 4,
+    "icon": "T_Icon_Arrows_Iron_.png"
+  },
+  {
+    "persistenceId": "sccIUU_309OurvKGEt8e_w",
+    "name": "Poisoned Mithril Arrow",
+    "category": "Ammo",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "icon": "T_Icon_Mithril_Arrows.png"
+  },
+  {
+    "persistenceId": "weTVSE6xbZDSgvqupBR0UQ",
+    "name": "Poisoned Steel Arrow",
+    "category": "Ammo",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "icon": "T_Icon_Arrow_Steel.png"
+  },
+  {
+    "persistenceId": "nreXOkMI96feAxGGwZ4T2w",
+    "name": "Rune Arrow",
+    "rowName": "ammo_arrows_rune",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Arrow.Runite"
+    ],
+    "icon": "T_Icon_Arrow__Rune.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "sourceAsset": "ITEM_Ammo_Arrows_rune_Bodkin.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Arrows_rune_Bodkin.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Arrows"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "JPJv6kZEHD59cpSpXKUh5A",
+    "name": "Rune Bolt",
+    "rowName": "ammo_bolts_rune",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Rune"
+    ],
+    "icon": "T_Icon_CrossbowBolt__Rune.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "sourceAsset": "ITEM_Ammo_Bolts_rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Bolts_rune.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Bolts"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "z-ZwMk9VLVSJIUaJnNE6Ew",
+    "name": "Rune Crossbow",
+    "rowName": "weap_crossbow_rune",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Bone",
+      "Item.Equipment.Weapon.Crossbow"
+    ],
+    "icon": "T_Icon_SM_Crossbow_Runite_1H_01.png",
+    "weight": 10,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 8,
+    "baseDurability": 1900,
+    "sourceAsset": "ITEM_Crossbow_Rune.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/ScornedWilderness/Content/Gameplay/Character/Player/Equipment/Held/Crossbow/ITEM_Crossbow_Rune.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_RangedAttack_Crossbow"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "H95eaEnwm89xf7GyHBhdsQ",
+    "name": "Shadow Crossbow",
+    "rowName": "weap_crossbow_black",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Bone",
+      "Item.Equipment.Weapon.Crossbow"
+    ],
+    "icon": "T_Icon_Black_Sniper_Crossbow.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 6,
+    "baseDurability": 1600,
+    "sourceAsset": "ITEM_Crossbow_Black.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/DowdunReach/Content/Gameplay/Character/Player/Equipment/Held/Crossbow/ITEM_Crossbow_Black.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "primary": "PA_RangedAttack_Crossbow"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "cO_JmkaXV2sn9qyROLNgOA",
+    "name": "Shrimp Bait",
+    "rowName": "ammo_fishbait_shrimp",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bait.Shrimp"
+    ],
+    "icon": "T_Icon_Shrimp_Bait.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 2,
+    "sourceAsset": "ITEM_FishBait_Shrimp.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingRod/Baits/ITEM_FishBait_Shrimp.uasset"
+  },
+  {
+    "persistenceId": "4yqOpU2e7fNNSlaNe0IxqA",
+    "name": "Spooky Bait",
+    "rowName": "ammo_fishbait_spooky",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bait.Spooky"
+    ],
+    "icon": "T_Icon_Spooky_Bait.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "sourceAsset": "ITEM_FishBait_Spooky.json",
+    "assetPath": "RSDragonwilds/Plugins/GameFeatures/Fishing/Content/Gameplay/Character/Player/Equipment/Held/FishingRod/Baits/ITEM_FishBait_Spooky.uasset"
+  },
+  {
+    "persistenceId": "ZBZGmUwRoHleCpi1KISp-g",
+    "name": "Steel Arrow",
+    "rowName": "ammo_arrows_steel",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Arrow.Iron"
+    ],
+    "icon": "T_Icon_Arrow_Steel.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "sourceAsset": "ITEM_Ammo_Arrows_Steel_Bodkin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Arrows_Steel_Bodkin.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Arrows"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "0tQXR0oHEGdg44m6RHe5BA",
+    "name": "Steel Barbed Arrow",
+    "category": "Ammo",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "icon": "T_Icon_Arrow_Steel.png"
+  },
+  {
+    "persistenceId": "_1UJR0bdUz0CNMyyUwbTig",
+    "name": "Steel Bolt",
+    "rowName": "ammo_bolts_steel",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Iron"
+    ],
+    "icon": "T_Icon_Steel_Bolt.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "sourceAsset": "ITEM_Ammo_Bolts_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Bolts_Steel.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Bolts"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "Nro5M0QUOoJMnwyFVlNzuA",
+    "name": "Steel Crossbow",
+    "rowName": "weap_crossbow_steel",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Bolt.Bone",
+      "Item.Equipment.Weapon.Crossbow"
+    ],
+    "icon": "T_icon_Steel_Crossbow.png",
+    "weight": 10,
+    "maxStackSize": 1,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "baseDurability": 1300,
+    "sourceAsset": "ITEM_Crossbow_Steel.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Held/Crossbow/ITEM_Crossbow_Steel.uasset",
+    "damageTypes": [
+      "DamageType.Ranged"
+    ],
+    "abilities": {
+      "block": "PA_Block_Crossbow",
+      "primary": "PA_RangedAttack_Crossbow"
+    },
+    "equipmentKind": "held",
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "l_dStU-tZdJ-0SWqCljYMA",
+    "name": "Steel Fire Arrow",
+    "category": "Ammo",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 5,
+    "icon": "T_Icon_Arrow_Steel.png"
+  },
+  {
+    "persistenceId": "vmEIW09ztuDtLmGpyzQBbQ",
+    "name": "Stone Arrow",
+    "rowName": "ammo_arrows_stone",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Arrow.Wood"
+    ],
+    "icon": "T_Icon_Arrows_Stone.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "powerLevel": 1,
+    "sourceAsset": "ITEM_Ammo_Arrows_Stone_Bodkin.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Arrows_Stone_Bodkin.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Arrows"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  },
+  {
+    "persistenceId": "bbLdJRhwPEWt1ScENYRUCg",
+    "name": "Water Rune",
+    "rowName": "res_rune_water",
+    "category": "Ammo",
+    "tags": [
+      "ItemFilter.Type.Equipment.Ammo.Rune"
+    ],
+    "icon": "T_Icon_Rune_Water.png",
+    "weight": 0,
+    "maxStackSize": 9999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Rune_Water.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Items/Resources/Magic/ITEM_Rune_Water.uasset",
+    "damageTypes": [
+      "DamageType.Magical.Water"
+    ]
+  },
+  {
+    "persistenceId": "v1ZsjAYc-EC084k4NAV-rA",
+    "name": "Wooden Arrow",
+    "rowName": "ammo_arrows_wooden",
+    "category": "Ammo",
+    "tags": [
+      "Item.Equipment.Ammo.Arrow.Wood"
+    ],
+    "icon": "T_Icon_Arrows_Wood.png",
+    "weight": 0,
+    "maxStackSize": 999,
+    "vitalShield": 0,
+    "sourceAsset": "ITEM_Ammo_Arrows_Wood.json",
+    "assetPath": "RSDragonwilds/Content/Gameplay/Character/Player/Equipment/Ammo/ITEM_Ammo_Arrows_Wood.uasset",
+    "damageTypes": [
+      "DamageType.Ranged.Arrows"
+    ],
+    "combatSkills": [
+      "SKILL_Ranged"
+    ]
+  }
+]
