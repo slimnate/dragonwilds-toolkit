@@ -36,6 +36,15 @@ npm run world:roundtrip
 
 Round-trip checks read sample saves from `saves/`. Place those locally before running the scripts. `roundtrip` checks JSON equality and that inventory `ItemData` ids exist in the bundled catalog. `world:roundtrip` checks world `.sav` samples stay byte-identical until a field is edited.
 
+## Release
+
+```powershell
+npm install
+npm run build:release
+```
+
+That packs the catalog, builds the frontend, and produces one Windows executable: `src-tauri/target/release/DragonwildsToolkit-<version>.exe` (for 1.0.0, `DragonwildsToolkit-1.0.0.exe`). Pushing a `v*` tag (for example `v1.0.0`) runs the same build on GitHub and attaches that executable to the release.
+
 ## Jagex notes
 
 Single-player cheats are allowed. Do not use edited characters to gain an unfair advantage in shared worlds.

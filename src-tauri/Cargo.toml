@@ -1,6 +1,6 @@
 [package]
 name = "save-editor"
-version = "0.1.0"
+version = "1.0.0"
 description = "Dragonwilds Toolkit"
 authors = ["rsdw-mods"]
 edition = "2021"
